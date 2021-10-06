@@ -26,9 +26,9 @@ export default function PostsDetails({ data }) {
         </div>
       </div>
       <div>
-        <div>
+        {/* <div>
           <GatsbyImage image={getImage(thumbnail)} alt={permalink} />
-        </div>
+        </div> */}
         {<div dangerouslySetInnerHTML={{ __html: html }} />}
       </div>
     </Layout>
