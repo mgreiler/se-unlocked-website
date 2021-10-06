@@ -2,7 +2,7 @@ import { graphql } from "gatsby";
 import React from "react";
 import Layout from "../components/Layout";
 import { GatsbyImage, getImage } from "gatsby-plugin-image";
-//import styles from "../styles/posts-details.module.css";
+import styles from "../styles/posts-details.module.css";
 
 export default function PostsDetails({ data }) {
   const { html } = data.markdownRemark;
@@ -17,7 +17,6 @@ export default function PostsDetails({ data }) {
             // By using the same grid area for both, they are stacked on top of each other
             gridArea: "1/1",
             position: "relative",
-            // This centers the other elements inside the hero component
             placeItems: "center",
             display: "grid",
           }}
