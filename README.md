@@ -11,15 +11,23 @@
 
 1.  **Replace the slow WP-based website with a fast Gatsby site**
 
-    Right now, se-unlocked.com runs on WordPress. Although, I have been happy with WP for quite some time, I always experienced issues with the performance. So, it's now time to move the webiste to Gatsby. The bare bones of this endeavor is done so far, but the website isn't fully functional. In addition, it's rather ugly.  
+    Right now, se-unlocked.com runs on WordPress. Although, I have been happy with WP for quite some time, I always experienced issues with the performance. So, it's now time to move the webiste to Gatsby. The bare bones of this endeavor is done so far, but the website isn't fully functional. In addition, it's rather ugly. 
 
-2.  **Improve UI**
+
+2. **Plan of attack**
+
+    The current approach to improving this draft website is to compare the old website (https://www.se-unlocked.com) with the current draft version (https://se-unlocked.netlify.app/). All differences can be seen as issues that can be worked on. You are more than welcome to propose your own issues, and work on parts that interest you are that match your skills. 
+
+3.  **Improve UI**
 
     The UI should mainly resemble the old website - unless there are good reasons or better options to make it more accessible, and more visual appealing. 
 
-3.  **Add complete "old" functionality**
+4.  **Add complete "old" functionality**
 
     The old website had a couple of more pages, and functionalities. All of those should be added to this site before the switch can be made. 
+    
+## See the Draft in action
+The main branch of this repository is continuously deployed to Netlify. You can see the current status here: https://se-unlocked.netlify.app/
 
 ## Learn about Gatsby
   - [Documentation](https://www.gatsbyjs.com/docs/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
