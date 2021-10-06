@@ -1,6 +1,6 @@
 ---
 title: 'Episode 10: Done playing Microsoft's corporate game with Suz Hinton'
-date: '2020-01-21T05:16:50+00:00'
+date: "2020-01-21T05:16:50+00:00"
 status: publish
 permalink: /episode-10-no-corporate-games
 author: michaela
