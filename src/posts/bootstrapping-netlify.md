@@ -4,27 +4,16 @@ date: "2021-08-17T05:31:18+00:00"
 status: publish
 permalink: /bootstrapping-netlify
 author: michaela
-excerpt: ""
+excerpt: "Matt Biilmann, CEO and co-founder of Netlify, tells me all about bootstrapping Netlify to a multi-million-dollar company."
 type: post
 id: 121414
 thumbnail: ../uploads/2021/08/matt_2.jpg
-category:
-  - "Company Culture"
-  - DevOps
-  - Entrepreneurship
-  - Productivity
+category: ["Company Culture", "DevOps", "Entrepreneurship", "Productivity"]
 tag: []
 post_format: []
-_yoast_wpseo_primary_category:
-  - "19"
-secondline_themes_header_image_id:
-  - "121415"
 post_header_image: ../uploads/2021/08/SOFTWARE-ENGINEERING.jpg
-_yoast_wpseo_content_score:
-  - "30"
 audio: https://cdn.simplecast.com/audio/aaca909a-e34f-49ae-a86f-f59e4fa807f0/episodes/98eb7d34-f272-496a-bf59-2dea263a5b7f/audio/8be7ac36-cfc3-4a81-bd9e-a383d4e1007b/default_tc.mp3
-secondline_themes_disable_img:
-  - "on"
+
 ---
 
 `audio: https://cdn.simplecast.com/audio/aaca909a-e34f-49ae-a86f-f59e4fa807f0/episodes/98eb7d34-f272-496a-bf59-2dea263a5b7f/audio/8be7ac36-cfc3-4a81-bd9e-a383d4e1007b/default_tc.mp3`
@@ -33,7 +22,7 @@ In this episode, I talk to Matt Biilmann. Matt Matt is the CEO and co-founder of
 
 **We talk about:**
 
-- his journey bootstrapping Netlify to a million-dollar company
+- his journey bootstrapping Netlify to a multi-million-dollar company
 - how he got the vision for the JAM-stack,
 - how it feels to grow a company from a two-person adventure to over 150 employees,
 - how he envisions the collaborative software development of the future,

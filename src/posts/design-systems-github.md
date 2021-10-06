@@ -4,27 +4,15 @@ date: "2020-10-13T20:08:50+00:00"
 status: publish
 permalink: /design-systems-github
 author: michaela
-excerpt: ""
+excerpt: "Diana Mounter, the Director of Design Infrastructure at GitHub, tells me about Design Systems and legacy code at Github."
 type: post
 id: 1316
 thumbnail: ../uploads/2020/10/Diana_Full_Res.jpeg
-category:
-  - "Company Culture"
-  - "Remote Work"
-  - Testing
-  - "Women in Tech"
+category: ["Company Culture", "Remote Work", "Testing", "Women in Tech"]
 tag: []
 post_format: []
-_yoast_wpseo_primary_category:
-  - "15"
-_yoast_wpseo_content_score:
-  - "30"
 audio: http://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/aaca909a-e34f-49ae-a86f-f59e4fa807f0/episodes/ffd16e2f-0b97-478b-9ac0-bac75ae61e82/audio/35bae655-7404-44c5-ac0f-827d54a1bed7/default_tc.mp3
-secondline_themes_header_image_id:
-  - "1324"
 post_header_image: ../uploads/2020/10/diana_bg.jpg
-secondline_themes_disable_img:
-  - "on"
 ---
 
 In this episode, I talk to Diana Mounter, the Director of Design Infrastructure at GitHub. Diana traveled the world and lived in many different countries – even continents. She started as a print designer and spent some time in government before she got into web and design. Now, she leads the design systems at GitHub.

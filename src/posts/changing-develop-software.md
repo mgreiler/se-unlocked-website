@@ -4,27 +4,13 @@ date: "2020-06-09T12:26:26+00:00"
 status: publish
 permalink: /changing-develop-software
 author: michaela
-excerpt: ""
+excerpt: "Tudor Gîrba, CEO and co-founder of Feenk, tells me all about moldable development -- a new way to develop software."
 type: post
 id: 1168
 thumbnail: ../uploads/2020/06/tudor_girba.jpg
-category:
-  - DevOps
-  - Entrepreneurship
-  - Monitoring
-  - "Open Source"
-  - Productivity
-  - Startup
+category: [ "DevOps", "Entrepreneurship", "Monitoring", "Open Source", "Productivity", "Startup"]
 tag: []
 post_format: []
-_yoast_wpseo_primary_category:
-  - "17"
-_yoast_wpseo_content_score:
-  - "60"
-secondline_themes_disable_img:
-  - "on"
-secondline_themes_header_image_id:
-  - "1175"
 post_header_image: ../uploads/2020/06/bg_tudor_girba.jpg
 audio: http://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/aaca90/aaca909a-e34f-49ae-a86f-f59e4fa807f0/bd3cc2cd-8884-4474-8eee-c8e39529cb7d/tudor-girba-recording-ready_tc.mp3
 ---
