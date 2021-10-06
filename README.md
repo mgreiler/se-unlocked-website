@@ -4,51 +4,27 @@
   </a>
 </p>
 <h1 align="center">
-  Gatsby minimal starter
+  Draft of the SE Unlocked Website
 </h1>
 
-## 🚀 Quick start
+## 🚀 The Goal
 
-1.  **Create a Gatsby site.**
+1.  **Replace the slow WP-based website with a fast Gatsby site**
 
-    Use the Gatsby CLI to create a new site, specifying the minimal starter.
+    Right now, se-unlocked.com runs on WordPress. Although, I have been happy with WP for quite some time, I always experienced issues with the performance. So, it's now time to move the webiste to Gatsby. The bare bones of this endeavor is done so far, but the website isn't fully functional. In addition, it's rather ugly.  
 
-    ```shell
-    # create a new Gatsby site using the minimal starter
-    npm init gatsby
-    ```
+2.  **Improve UI**
 
-2.  **Start developing.**
+    The UI should mainly resemble the old website - unless there are good reasons or better options to make it more accessible, and more visual appealing. 
 
-    Navigate into your new site’s directory and start it up.
+3.  **Add complete "old" functionality**
 
-    ```shell
-    cd my-gatsby-site/
-    npm run develop
-    ```
+    The old website had a couple of more pages, and functionalities. All of those should be added to this site before the switch can be made. 
 
-3.  **Open the code and start customizing!**
-
-    Your site is now running at http://localhost:8000!
-
-    Edit `src/pages/index.js` to see your site update in real-time!
-
-4.  **Learn more**
-
+## Learn about Gatsby
     - [Documentation](https://www.gatsbyjs.com/docs/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
-
     - [Tutorials](https://www.gatsbyjs.com/tutorial/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
-
     - [Guides](https://www.gatsbyjs.com/tutorial/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
-
     - [API Reference](https://www.gatsbyjs.com/docs/api-reference/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
-
     - [Plugin Library](https://www.gatsbyjs.com/plugins?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
-
     - [Cheat Sheet](https://www.gatsbyjs.com/docs/cheat-sheet/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
-
-## 🚀 Quick start (Gatsby Cloud)
-
-Deploy this starter with one click on [Gatsby Cloud](https://www.gatsbyjs.com/cloud/):
-
-[<img src="https://www.gatsbyjs.com/deploynow.svg" alt="Deploy to Gatsby Cloud">](https://www.gatsbyjs.com/dashboard/deploynow?url=https://github.com/gatsbyjs/gatsby-starter-minimal)
