@@ -8,7 +8,7 @@ export default function Home({ data }) {
   const posts = data.allMarkdownRemark.nodes;
   return (
     <Layout>
-      <section className={styles.header}>
+      <section className={styles.body}>
         <div>
           {posts.map((posts) => (
             <Link to={"/posts" + posts.frontmatter.permalink} key={posts.id}>
@@ -20,19 +20,20 @@ export default function Home({ data }) {
                   />
                 </div>
                 <div>
-                  {posts.frontmatter.title}
+                  <h2 className={styles.episodeTitle}>{posts.frontmatter.title}</h2>
                   <audio controls>
                     <source src={posts.frontmatter.audio} />
                   </audio>
+                  <p className={styles.episodeExcerpt}>{posts.frontmatter.excerpt}</p>
                 </div>
               </div>
             </Link>
           ))}
         </div>
+        <div>
+          <p>Subscribe To Our Software Engineering Podcast</p>
+        </div>
       </section>
-      <div>
-        <p>Subscribe To Our Software Engineering Podcast</p>
-      </div>
     </Layout>
   );
 }
