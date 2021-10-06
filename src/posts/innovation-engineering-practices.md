@@ -25,7 +25,6 @@ secondline_themes_header_image_id:
 post_header_image: ../uploads/2021/09/Holly-Cummins-background.jpg
 _yoast_wpseo_content_score:
   - "30"
-audio: https://cdn.simplecast.com/audio/aaca909a-e34f-49ae-a86f-f59e4fa807f0/episodes/71917bf7-3777-4dc8-84e3-1f3ea736953b/audio/8670770e-323e-45eb-88df-0080e8965908/default_tc.mp3\n41740038\naudio/mpeg\na:2:{s:8:\"duration\";s:8:\"00:44:19\";s:8:\"explicit\";s:1:\"2\";}"
 secondline_themes_disable_img:
   - "on"
 ---
