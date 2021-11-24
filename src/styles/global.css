@@ -8,10 +8,8 @@
 html,
 body {
   min-height: 100%;
-}
-
-body {
-
+  padding: 0%;
+  margin: 0%;
 }
 
 p {
@@ -51,6 +49,37 @@ nav a:hover {
   border-color: white;
 }
 
+footer .links {
+  display: inline-block;
+  text-align: left;
+  color: white;
+}
+
+footer a {
+  display: inline-block;
+  margin-left: 20px;
+  font-weight: 400;
+  padding-bottom: 8px;
+  border-bottom: 3px solid transparent;
+  color: white;
+}
+
+footer a:hover {
+  border-color: white;
+}
+
+footer {
+  background-color: #222426;
+  padding-left: 2em;
+  padding-right: 2em;
+  padding-top: 3em;
+  padding-bottom: 3em;
+}
+
+footer h2 {
+  color: white;
+}
+
 nav .unlocked {
   color: rgba(251, 255, 0, 0.986);
 }
@@ -63,10 +92,56 @@ footer p {
 
 .content {
   margin: 0px 20px;
-  color: black;
+  color: #263669;
 }
 audio {
   filter: sepia(20%) saturate(70%) grayscale(1) contrast(99%) invert(12%);
   width: 80%;
   height: 20px;
+}
+
+/* Rounded border */
+hr.rounded-short {
+  border-top: 4px solid #bbb;
+  border-radius: 5px;
+  width: 50%;
+  margin-left: 0;
+}
+
+section.about-show {
+  background-color: #edf5f8;
+}
+
+.subscribe {
+  background-color: #eeff62;
+  margin: 0%;
+  padding-top: 15%;
+  padding-bottom: 15%;
+  padding-left: 0%;
+  padding-right: 0%;
+  background-image: url("../uploads/2019/08/bg_subscribe_women.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: bottom center;
+}
+
+.subscribe-text {
+  padding-left: 2em;
+}
+
+.subscribe-text h2 {
+  font-weight: bold;
+}
+
+.flex-container {
+  display: flex;
+  background-image: linear-gradient(180deg, #eeff62 0%, #ffd2af 100%);
+}
+
+.flex-child {
+  flex: 1;
+}
+
+.flex-child:first-child {
+  margin-right: 20px;
 }

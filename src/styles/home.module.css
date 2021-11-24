@@ -37,7 +37,7 @@
   width: 90%;
   height: 210px;
   border: 0.5px solid #dcdcdc;
-  background-color: white;/*royalblue;*/
+  background-color: white; /*royalblue;*/
   padding: 10px;
   margin: 20px;
   display: grid;
@@ -47,14 +47,13 @@
 }
 
 .episodeTitle {
-  margin-bottom:30px;
+  margin-bottom: 30px;
   color: black;
 }
 
 .episodeExcerpt {
   color: black;
 }
-
 
 .episodeExcerpt {
   font-size: 1.2em;

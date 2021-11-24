@@ -20,18 +20,28 @@ export default function Home({ data }) {
                   />
                 </div>
                 <div>
-                  <h2 className={styles.episodeTitle}>{posts.frontmatter.title}</h2>
+                  <h2 className={styles.episodeTitle}>
+                    {posts.frontmatter.title}
+                  </h2>
                   <audio controls>
                     <source src={posts.frontmatter.audio} />
                   </audio>
-                  <p className={styles.episodeExcerpt}>{posts.frontmatter.excerpt}</p>
+                  <p className={styles.episodeExcerpt}>
+                    {posts.frontmatter.excerpt}
+                  </p>
                 </div>
               </div>
             </Link>
           ))}
         </div>
-        <div>
-          <p>Subscribe To Our Software Engineering Podcast</p>
+      </section>
+      <section class="subscribe">
+        <div class="subscribe-text">
+          <h2>Subscribe To Our Podcast</h2>
+          <p>
+            Never miss an episode! Subscribe on iTunes, Google, Deezer, or via
+            RSS
+          </p>
         </div>
       </section>
     </Layout>
