@@ -28,9 +28,14 @@ nav {
   color: white;
   padding-left: 30px;
   padding-right: 30px;
+  align-items: center;
 }
 
-nav .links {
+.headers .gatsby-image-wrapper img {
+  width: 253px !important;
+}
+
+/* nav .links {
   display: inline-block;
   text-align: right;
   color: white;
@@ -47,8 +52,190 @@ nav a {
 
 nav a:hover {
   border-color: white;
+} */
+
+.headers {
+  padding-left: 30px;
+  padding-right: 30px;
 }
 
+.headers ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  text-align: center;
+  overflow: hidden;
+}
+
+.headers li a {
+  display: inline-block;
+  margin: 20px 20px;
+  text-decoration: none;
+  color: white;
+  padding-bottom: 8px;
+  border-bottom: 3px solid transparent;
+}
+
+ul li {
+  font-weight: 600;
+  font-size: 13px;
+  line-height: 140%;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: white;
+  padding-top: 15px;
+}
+
+.headers li a::after {
+  content: "";
+  display: block;
+  width: 0;
+  height: 2px;
+  background: white;
+  transition: width 0.3s;
+}
+
+.headers li a:hover::after {
+  width: 100%;
+}
+ul button {
+  background: white;
+  border-radius: 8px;
+  padding: 14px 24px;
+  border: none;
+  text-transform: uppercase;
+  margin-top: 20px;
+  cursor: pointer;
+  margin-left: 15px;
+  transition: 0.5s;
+  border: 2px solid white;
+
+  font-weight: 600;
+  font-size: 13px;
+  line-height: 140%;
+  text-align: center;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: #ffffff;
+}
+ul button:focus {
+  outline: none;
+}
+ul button:hover {
+  background: white;
+  color: white;
+}
+
+/* menu */
+
+.headers .menu {
+  clear: both;
+  max-height: 0;
+  transition: max-height 0.4s ease-in;
+}
+
+/* menu icon */
+
+.headers .menu-icon {
+  cursor: pointer;
+  display: inline-block;
+  float: right;
+  padding: 28px 20px;
+  position: relative;
+  user-select: none;
+}
+
+.headers .menu-icon .navicon {
+  background: white;
+  display: block;
+  height: 2px;
+  position: relative;
+  transition: background 0.2s ease-out;
+  width: 18px;
+  margin-top: 15px;
+}
+
+.headers .menu-icon .navicon:before,
+.headers .menu-icon .navicon:after {
+  background: white;
+  content: "";
+  display: block;
+  height: 100%;
+  position: absolute;
+  transition: all 0.2s ease-out;
+  width: 100%;
+}
+
+.headers .menu-icon .navicon:before {
+  top: 5px;
+}
+
+.headers .menu-icon .navicon:after {
+  top: -5px;
+}
+
+/* menu btn */
+
+.headers .menu-btn {
+  display: none;
+}
+
+.headers .menu-btn:checked ~ .menu {
+  max-height: 30vh;
+}
+.headers .menu-btn:checked ~ .menu body {
+  background-color: red;
+}
+
+.headers .menu-btn:checked ~ .menu-icon .navicon {
+  background: transparent;
+}
+
+.headers .menu-btn:checked ~ .menu-icon .navicon:before {
+  transform: rotate(-45deg);
+}
+
+.headers .menu-btn:checked ~ .menu-icon .navicon:after {
+  transform: rotate(45deg);
+}
+
+.headers .menu-btn:checked ~ .menu-icon:not(.steps) .navicon:before,
+.headers .menu-btn:checked ~ .menu-icon:not(.steps) .navicon:after {
+  top: 0;
+}
+
+/* 75em = 1210px */
+
+@media (min-width: 55.625em) {
+  .headers li {
+    float: left;
+  }
+  /* .headers li a {
+    padding: 20px 30px;
+  } */
+  .headers .menu {
+    clear: none;
+    float: right;
+    max-height: none;
+  }
+  .headers .menu-icon {
+    display: none;
+  }
+  .headers {
+    padding-bottom: 20px;
+  }
+}
+@media screen and (max-width: 1210px) {
+  ul button {
+    margin-left: 0px;
+    margin-right: 0px !important;
+  }
+}
+@media screen and (max-width: 340px) {
+  .logo img {
+    padding-left: 0px;
+  }
+}
 footer .links {
   display: inline-block;
   text-align: left;

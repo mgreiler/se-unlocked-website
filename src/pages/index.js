@@ -9,7 +9,7 @@ export default function Home({ data }) {
   return (
     <Layout>
       <section className={styles.body}>
-        <div>
+        <div className="content">
           {posts.map((posts) => (
             <Link to={"/posts" + posts.frontmatter.permalink} key={posts.id}>
               <div className={styles.postList}>
