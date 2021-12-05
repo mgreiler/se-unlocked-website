@@ -175,6 +175,18 @@ ul button:hover {
 .headers .menu-btn:checked ~ .menu-icon:not(.steps) .navicon:after {
   top: 0;
 }
+.postList_image {
+  height: 325px;
+}
+.postList_image .gatsby-image-wrapper {
+  width: 100%;
+}
+
+.postList_image .gatsby-image-wrapper img {
+  height: 325px;
+  border-top-left-radius: 4px;
+  border-bottom-left-radius: 4px;
+}
 
 /* 75em = 1210px */
 
@@ -250,7 +262,7 @@ footer p {
 }
 
 .content {
-  margin: 0px 20px;
+  padding: 0px 20px;
   color: #263669;
 }
 audio {
@@ -302,4 +314,15 @@ section.about-show {
 
 .flex-child:first-child {
   margin-right: 20px;
+}
+
+@media screen and (max-width: 768px) {
+  .content {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0 10px;
+  }
+  .content div {
+    flex-basis: 50%;
+  }
 }

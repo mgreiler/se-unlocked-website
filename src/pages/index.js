@@ -13,13 +13,13 @@ export default function Home({ data }) {
           {posts.map((posts) => (
             <Link to={"/posts" + posts.frontmatter.permalink} key={posts.id}>
               <div className={styles.postList}>
-                <div>
+                <div className="postList_image">
                   <GatsbyImage
                     image={getImage(posts.frontmatter.thumbnail)}
                     alt={posts.frontmatter.permalink}
                   />
                 </div>
-                <div>
+                <div className={styles.postList_content}>
                   <h2 className={styles.episodeTitle}>
                     {posts.frontmatter.title}
                   </h2>
