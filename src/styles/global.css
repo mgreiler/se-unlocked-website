@@ -22,37 +22,9 @@ p {
   margin: 0 auto;
 }
 
-nav {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  color: white;
-  padding-left: 30px;
-  padding-right: 30px;
-  align-items: center;
-}
-
 .headers .gatsby-image-wrapper img {
   width: 253px !important;
 }
-
-/* nav .links {
-  display: inline-block;
-  text-align: right;
-  color: white;
-}
-
-nav a {
-  display: inline-block;
-  margin-left: 20px;
-  font-weight: 400;
-  padding-bottom: 8px;
-  border-bottom: 3px solid transparent;
-  color: white;
-}
-
-nav a:hover {
-  border-color: white;
-} */
 
 .headers {
   padding-left: 30px;
@@ -282,9 +254,8 @@ footer p {
   color: #263669;
 }
 audio {
-  filter: sepia(20%) saturate(70%) grayscale(1) contrast(99%) invert(12%);
+  filter: sepia(20%) saturate(70%) grayscale(-4) contrast(99%) invert(12%);
   width: 80%;
-  height: 20px;
 }
 
 /* Rounded border */
