@@ -5,19 +5,35 @@ export default function Footer() {
   return (
     <section>
       <footer>
-        <div>
-          <h2>Pages</h2>
-          <div className="links">
-            <Link to="/">Home</Link>
-            <br />
-            <Link to="/about">About</Link>
-            <br />
-            <Link to="/sponsorship">Sponsor Us</Link>
-            <br />
+        <div className="footer_section">
+          <div>
+            <h2>ABOUT</h2>
+            <p>
+              The Software Engineering Unlocked podcast gives you a sneak peek
+              into how software companies around the world develop software.
+              What challenges do they face? Which best practices do they follow?
+              And what do they do to build reliable, maintainable and scaleable
+              software people love? Hear from developers at companies of all
+              sizes, whether it is a large cooperations or a small startup. Each
+              guest has their unique story to tell.
+            </p>
+          </div>
+          <div>
+            <h2>Pages</h2>
+            <div className="links">
+              <Link to="/">Home</Link>
+              <br />
+              <Link to="/about">About</Link>
+              <br />
+              <Link to="/sponsorship">Sponsor Us</Link>
+              <br />
+            </div>
           </div>
         </div>
-        <p>Copyright 2021 Michaela Greiler</p>
       </footer>
+      <div className="copy-rights">
+        <p className="text-center">Copyright 2021 Michaela Greiler</p>
+      </div>
     </section>
   );
 }

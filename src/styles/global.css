@@ -228,42 +228,81 @@ footer .links {
 
 footer a {
   display: inline-block;
-  margin-left: 20px;
   font-weight: 400;
   padding-bottom: 8px;
   border-bottom: 3px solid transparent;
-  color: white;
+  color: #bbb;
 }
 
 footer a:hover {
-  border-color: white;
+  color: white;
+  transition: 00.5s ease-in-out;
 }
 
 footer {
-  background-color: #222426;
+  background-color: #2b2d30;
   padding-left: 2em;
   padding-right: 2em;
   padding-top: 3em;
   padding-bottom: 3em;
+}
+.footer_section {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.footer_section div:first-child {
+  margin-right: 80px;
+}
+.footer_section p {
+  max-width: 700px;
+  text-align: left;
+  margin-left: 0px;
 }
 
 footer h2 {
   color: white;
 }
 
-nav .unlocked {
-  color: rgba(251, 255, 0, 0.986);
+.text-center {
+  text-align: center;
+}
+.copy-rights {
+  background-color: black;
+  color: white;
+}
+.copy-rights p {
+  margin: 0;
+  padding: 20px;
 }
 
 footer p {
   text-align: center;
   color: #bbb;
-  margin: 40px 20px;
 }
 
 .content {
   padding: 0px 20px;
   color: #263669;
+}
+.content h1 {
+  font-size: 28px;
+  position: relative;
+  margin: 0 auto;
+  padding-top: 50px;
+  padding-bottom: 10px;
+}
+.content h1:before {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: 0px;
+  right: 0;
+  text-align: center;
+  margin: 0 auto;
+  height: 1px;
+  width: 10%; /* or 100px */
+  border-bottom: 5px solid black;
 }
 audio {
   filter: sepia(20%) saturate(70%) grayscale(-4) contrast(99%) invert(12%);
@@ -324,5 +363,8 @@ section.about-show {
   }
   .content div {
     flex-basis: 50%;
+  }
+  .content h1:before {
+    width: 50%;
   }
 }

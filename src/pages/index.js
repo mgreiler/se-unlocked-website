@@ -10,6 +10,7 @@ export default function Home({ data }) {
     <Layout>
       <section className={styles.body}>
         <div className="content">
+          <h1 className="text-center">Latest Episode</h1>
           {posts.map((posts) => (
             <Link to={"/posts" + posts.frontmatter.permalink} key={posts.id}>
               <div className={styles.postList}>
