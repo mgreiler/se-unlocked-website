@@ -3,6 +3,7 @@ import * as React from "react";
 import Layout from "../components/Layout";
 import * as styles from "../styles/home.module.css";
 import { GatsbyImage, getImage } from "gatsby-plugin-image";
+import Newsletter from "../components/Newsletter";
 
 export default function Home({ data }) {
   const posts = data.allMarkdownRemark.nodes;
@@ -44,7 +45,8 @@ export default function Home({ data }) {
             RSS
           </p>
         </div>
-      </section>
+      </section>{" "}
+      <Newsletter />
     </Layout>
   );
 }

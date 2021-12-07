@@ -11,9 +11,7 @@ export default function Layout({ children }) {
         <title>SE Unlocked</title>
         <Navbar />{" "}
       </section>
-      <section className={styles.body}>
-        <div>{children}</div>
-      </section>
+      <div className={styles.body}>{children}</div>
       <Footer />
     </main>
   );
