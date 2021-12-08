@@ -1,5 +1,6 @@
 import { Link } from "gatsby";
 import React from "react";
+import { FaTwitterSquare, FaFacebookSquare } from "react-icons/fa";
 
 export default function Footer() {
   return (
@@ -31,8 +32,24 @@ export default function Footer() {
           </div>
         </div>
       </footer>
-      <div className="copy-rights">
-        <p className="text-center">Copyright 2021 Michaela Greiler</p>
+      <div className="copy-rights flex justify-content-between">
+        <p></p>
+        <p className="text-center">
+          Copyright 2021{" "}
+          <a href="https://www.michaelagreiler.com/" target="_blank">
+            Doctor McKayla
+          </a>
+        </p>
+        <p>
+          <a href="https://www.facebook.com/seunlocked/" target="_blank">
+            {" "}
+            <FaFacebookSquare className="pointer" size={30} />{" "}
+          </a>
+          <a href="https://twitter.com/mgreiler" target="_blank">
+            {" "}
+            <FaTwitterSquare className="pointer" size={30} />
+          </a>
+        </p>
       </div>
     </section>
   );

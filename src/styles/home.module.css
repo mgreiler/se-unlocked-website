@@ -67,6 +67,12 @@
 
     margin: 10px 5px;
   }
+  .episodeTitle {
+    font-size: 32px !important;
+  }
+  .episodeExcerpt {
+    font-size: 20px !important;
+  }
 }
 @media screen and (max-width: 600px) {
   .postList {
