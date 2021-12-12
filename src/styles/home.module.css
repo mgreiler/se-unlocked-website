@@ -68,7 +68,7 @@
     margin: 10px 5px;
   }
   .episodeTitle {
-    font-size: 32px !important;
+    font-size: 28px !important;
   }
   .episodeExcerpt {
     font-size: 20px !important;
@@ -77,5 +77,18 @@
 @media screen and (max-width: 600px) {
   .postList {
     grid-template-columns: 1fr;
+  }
+}
+@media screen and (max-width: 1024px) {
+  .episodeTitle {
+    font-size: 32px;
+    max-width: 100%;
+    word-wrap: normal;
+  }
+  .episodeExcerpt {
+    font-size: 21px !important;
+  }
+  .postList_content {
+    padding: 25px;
   }
 }
