@@ -8,11 +8,7 @@ excerpt: "Cher, a staff engineer at Apple talks about how she got hired despite 
 type: post
 id: 1159
 thumbnail: ../uploads/2020/05/cher.jpg
-category:
-  - "Company Culture"
-  - Hiring
-  - "Remote Work"
-  - "Women in Tech"
+category: ["Company Culture", Hiring, "Remote Work", "Women in Tech"]
 tag: []
 post_format: []
 _yoast_wpseo_content_score:

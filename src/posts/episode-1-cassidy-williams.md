@@ -8,7 +8,7 @@ excerpt: ""
 type: post
 id: 47
 thumbnail: ../uploads/2019/07/face11.jpg
-category:[ "Company Culture","Remote Work", "Women in Tech"]
+category: ["Company Culture", "Remote Work", "Women in Tech"]
 tag: []
 post_format: []
 _yoast_wpseo_content_score:
@@ -30,6 +30,7 @@ In this episode, I talk with Cassidy Williams, a senior software engineer that w
 - and how she interviewed for CodePen
 
 ![](../uploads/2019/07/face11.jpg)
+
 ### Subscribe on
 
 [iTunes](https://podcasts.apple.com/at/podcast/software-engineering-unlocked/id1477527378?l=en), [Spotify](https://open.spotify.com/show/2wz1OneBIDXpbBYeuyIsJL?si=2I0R0HuaTLK6RT0f7lDIFg), [Google](https://www.google.com/podcasts?feed=aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS9LMV9tdjBDSg%3D%3D), [Deezer](https://www.deezer.com/show/465682), or via [RSS](https://www.software-engineering-unlocked.com/subscribe/)
