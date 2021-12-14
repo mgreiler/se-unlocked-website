@@ -1,5 +1,5 @@
 ---
-title: "Episode 39: From designer to web developer"
+title: "From designer to web developer"
 date: "2021-04-13T11:05:22+00:00"
 status: publish
 permalink: /designer-to-web-developer

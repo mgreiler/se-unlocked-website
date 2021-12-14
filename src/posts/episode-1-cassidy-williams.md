@@ -1,5 +1,5 @@
 ---
-title: "Episode 1: Finding fulfillment through humor in tech with Cassidy Williams"
+title: "Finding fulfillment through humor in tech with Cassidy Williams"
 date: "2019-08-28T11:50:36+00:00"
 status: publish
 permalink: /episode-1-cassidy-williams
@@ -8,23 +8,14 @@ excerpt: ""
 type: post
 id: 47
 thumbnail: ../uploads/2019/07/face11.jpg
-category:
-  - "Company Culture"
-  - "Remote Work"
-  - "Women in Tech"
+category:[ "Company Culture","Remote Work", "Women in Tech"]
 tag: []
 post_format: []
-secondline_themes_disable_img:
-  - "on"
-_yoast_wpseo_primary_category:
-  - "10"
 _yoast_wpseo_content_score:
   - "30"
 audio: http://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/aaca90/aaca909a-e34f-49ae-a86f-f59e4fa807f0/1328f160-34a7-4302-98bf-0e22d0996bfb/episode1_software_engineering_unlocked_cassidy_ready_tc.mp3
 secondline_themes_gallery:
   - 'a:1:{i:601;s:83:"https://www.software-engineering-unlocked.com/wp-content/uploads/2019/08/bg_ep1.jpg";}'
-secondline_themes_header_image_id:
-  - "601"
 post_header_image: ../uploads/2019/08/bg_ep1.jpg
 ---
 
@@ -39,7 +30,6 @@ In this episode, I talk with Cassidy Williams, a senior software engineer that w
 - and how she interviewed for CodePen
 
 ![](../uploads/2019/07/face11.jpg)
-
 ### Subscribe on
 
 [iTunes](https://podcasts.apple.com/at/podcast/software-engineering-unlocked/id1477527378?l=en), [Spotify](https://open.spotify.com/show/2wz1OneBIDXpbBYeuyIsJL?si=2I0R0HuaTLK6RT0f7lDIFg), [Google](https://www.google.com/podcasts?feed=aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS9LMV9tdjBDSg%3D%3D), [Deezer](https://www.deezer.com/show/465682), or via [RSS](https://www.software-engineering-unlocked.com/subscribe/)

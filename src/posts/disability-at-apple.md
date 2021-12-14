@@ -1,10 +1,10 @@
 ---
-title: "Episode 19: Checking the Disability Box at Apple Changed My Life"
+title: "Checking the Disability Box at Apple Changed My Life"
 date: "2020-05-26T09:26:24+00:00"
 status: publish
 permalink: /disability-at-apple
 author: michaela
-excerpt: ""
+excerpt: "Cher, a staff engineer at Apple talks about how she got hired despite her disability and mental health issues."
 type: post
 id: 1159
 thumbnail: ../uploads/2020/05/cher.jpg
@@ -15,16 +15,10 @@ category:
   - "Women in Tech"
 tag: []
 post_format: []
-_yoast_wpseo_primary_category:
-  - "15"
 _yoast_wpseo_content_score:
   - "90"
 audio: http://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/aaca90/aaca909a-e34f-49ae-a86f-f59e4fa807f0/3560504a-0f4b-4628-8933-1f4ed66c891b/cher-part-2-ready_tc.mp3
-secondline_themes_header_image_id:
-  - "1156"
 post_header_image: ../uploads/2020/05/cher_bg.jpg
-secondline_themes_disable_img:
-  - "on"
 ---
 
 This episode is part 2 of my interview with Cher. In this part, we deep-dive into her interview experience at Apple and how she worked her way up to a Staff engineering position.

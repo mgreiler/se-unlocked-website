@@ -1,30 +1,20 @@
 ---
-title: "Episode 17: Why we hate to read code"
+title: "Why it is hard to read code"
 date: "2020-04-28T14:40:10+00:00"
 status: publish
 permalink: /episode-17-why-we-hate-to-read-code-trisha-gee
 author: michaela
-excerpt: ""
+excerpt: "Trisha Gee, the Lead of the Java Developer Advocacy Team at JetBrain, tells us why it is hard to read the code of other."
 type: post
 id: 1132
 thumbnail: ../uploads/2020/04/Trisha.jpg
-category:
-  - "Company Culture"
-  - Hiring
-  - "Remote Work"
-  - "Women in Tech"
+category:[ "Company Culture", Hiring, "Remote Work", "Women in Tech"]
 tag: []
 post_format: []
-_yoast_wpseo_primary_category:
-  - "14"
 _yoast_wpseo_content_score:
   - "90"
 audio: http://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/aaca90/aaca909a-e34f-49ae-a86f-f59e4fa807f0/b3702e2b-afde-4332-946d-d4d08dfb3d44/trisha-gee-audio-ready_tc.mp3
-secondline_themes_header_image_id:
-  - "1146"
 post_header_image: ../uploads/2020/04/trisha_bg.jpg
-secondline_themes_disable_img:
-  - "on"
 ---
 
 In this episode, I talk to Trisha Gee, who is the Lead of the Java Developer Advocacy Team at JetBrain. She is an expert for Java high-performance systems, and developed software for a variety of industries, such as finance or manufacturing.

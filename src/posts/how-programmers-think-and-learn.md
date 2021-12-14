@@ -1,29 +1,19 @@
 ---
-title: "Episode 35: How Programmers Think and Learn"
+title: "How Programmers Think and Learn"
 date: "2021-02-02T09:53:42+00:00"
 status: publish
 permalink: /how-programmers-think-and-learn
 author: michaela
-excerpt: ""
+excerpt: "Felienne Hermans, an associate professor at the University of Leiden, tells us how developers think and learn."
 type: post
 id: 116155
 thumbnail: ../uploads/2021/02/Felienne-Hermans.jpg
-category:
-  - Productivity
-  - Science
-  - Tech
-  - "Women in Tech"
+category:[Productivity,Science,Tech, "Women in Tech"]
 tag: []
 post_format: []
-_yoast_wpseo_primary_category:
-  - "12"
 _yoast_wpseo_content_score:
   - "30"
 audio: https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/aaca909a-e34f-49ae-a86f-f59e4fa807f0/episodes/54d1f660-9f8b-4015-8d25-e96c326010ff/audio/65e5e5c2-1e23-4c97-a9c0-81c85115073b/default_tc.mp3
-secondline_themes_disable_img:
-  - "on"
-secondline_themes_header_image_id:
-  - "116181"
 post_header_image: ../uploads/2021/02/Felienne_Hermans_BG.jpg
 ---
 

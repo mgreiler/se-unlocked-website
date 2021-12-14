@@ -1,25 +1,15 @@
 ---
-title: "Episode 14: What developers should know about security with Troy Hunt"
+title: "What developers should know about security with Troy Hunt"
 date: "2020-03-17T17:18:35+00:00"
 status: publish
 permalink: /developer-security-troy-hunt
 author: michaela
-excerpt: ""
+excerpt: "Troy Hunt, a leading security expert and successful Pluralsight author tells us all about data breaches and how to tale your career in your own hands."
 type: post
 id: 1051
 thumbnail: ../uploads/2020/03/troy-hunt.jpg
-category:
-  - DevOps
-  - Entrepreneurship
-  - Startup
+category: [DevOps, Entrepreneurship,Startup]
 tag: []
-post_format: []
-_yoast_wpseo_primary_category:
-  - "17"
-secondline_themes_disable_img:
-  - "on"
-secondline_themes_header_image_id:
-  - "1073"
 post_header_image: ../uploads/2020/03/Troy_Hunt_bg.jpg
 _yoast_wpseo_content_score:
   - "30"

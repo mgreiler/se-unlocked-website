@@ -4,26 +4,19 @@ date: "2020-08-18T13:18:52+00:00"
 status: publish
 permalink: /double-down-integration-tests-kent-dodds
 author: michaela
-excerpt: ""
+excerpt: "Kent C. Dodds, who is famous for the widely used open-source testing-library, tells us how to test KavaScript."
 type: post
 id: 1231
 thumbnail: ../uploads/2020/08/Kent.jpg
-category:
-  - DevOps
-  - "Open Source"
-  - Testing
+category:[ DevOps, "Open Source", Testing]
 tag: []
 post_format: []
-_yoast_wpseo_primary_category:
-  - "20"
 _yoast_wpseo_content_score:
   - "30"
 audio: http://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/aaca90/aaca909a-e34f-49ae-a86f-f59e4fa807f0/4eafdc01-56ad-4284-bf8f-3bb6a307a936/kent-c-dodds-ready_tc.mp3
 secondline_themes_header_image_id:
   - "1234"
 post_header_image: ../uploads/2020/08/Kent-Doods-Bg.jpg
-secondline_themes_disable_img:
-  - "on"
 ---
 
 In this episode, I talk to Kent C. Dodds, a software engineer, and teacher. Before starting his entrepreneurial journey, Kent has been working for PayPal. He is a major open source contributor and also the creator and maintainer of the widely used open-source testing-library.

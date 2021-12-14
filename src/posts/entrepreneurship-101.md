@@ -4,27 +4,17 @@ date: "2021-07-20T10:41:10+00:00"
 status: publish
 permalink: /entrepreneurship-101
 author: michaela
-excerpt: ""
+excerpt: "Karls Hughes is a software engineer who turned into an entrepreneur and tells us all about how he started his successful business."
 type: post
 id: 121352
 thumbnail: ../uploads/2021/07/karl-2021.jpg
-category:
-  - Entrepreneurship
-  - Hiring
-  - Startup
-  - Tech
+category: [Entrepreneurship, Hiring, Startup,Tech]
 tag: []
 post_format: []
-_yoast_wpseo_primary_category:
-  - "14"
-secondline_themes_header_image_id:
-  - "121353"
 post_header_image: ../uploads/2021/07/Karl-Huges-BG.jpg
 _yoast_wpseo_content_score:
   - "90"
 audio: https://cdn.simplecast.com/audio/aaca909a-e34f-49ae-a86f-f59e4fa807f0/episodes/aeb45b70-2198-4f9a-ba14-ca9eded05e19/audio/ba023e2c-ff2f-4a15-8bb9-6b073ace9b20/default_tc.mp3
-secondline_themes_disable_img:
-  - "on"
 ---
 
 In this episode, I talk to Karls Hughes. Karl is a software engineer who turned into an entrepreneur in the midst of the pandemic last year. His start-up draft.dev creates content that reaches software engineers – which means he combined his two passions, development and content creation.

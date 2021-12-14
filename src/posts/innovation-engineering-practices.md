@@ -4,29 +4,17 @@ date: "2021-09-28T08:10:10+00:00"
 status: publish
 permalink: /innovation-engineering-practices
 author: michaela
-excerpt: ""
+excerpt: "Dr. Holly Cummins, an innovation leader in IBM’s corporate strategy team, tells us how emgimeerimg practices enable innovation."
 type: post
 id: 121492
 thumbnail: ../uploads/2021/09/Dr-Holly-Cummins.jpg
 audio: https://cdn.simplecast.com/audio/aaca909a-e34f-49ae-a86f-f59e4fa807f0/episodes/71917bf7-3777-4dc8-84e3-1f3ea736953b/audio/8670770e-323e-45eb-88df-0080e8965908/default_tc.mp3
-category:
-  - "Company Culture"
-  - DevOps
-  - Productivity
-  - Startup
-  - Testing
-  - "Women in Tech"
+category:[ "Company Culture",DevOps,Productivity,Startup,Testing, "Women in Tech"]
 tag: []
 post_format: []
-_yoast_wpseo_primary_category:
-  - "15"
-secondline_themes_header_image_id:
-  - "121504"
 post_header_image: ../uploads/2021/09/Holly-Cummins-background.jpg
 _yoast_wpseo_content_score:
   - "30"
-secondline_themes_disable_img:
-  - "on"
 ---
 
 `audio: https://cdn.simplecast.com/audio/aaca909a-e34f-49ae-a86f-f59e4fa807f0/episodes/71917bf7-3777-4dc8-84e3-1f3ea736953b/audio/8670770e-323e-45eb-88df-0080e8965908/default_tc.mp3`

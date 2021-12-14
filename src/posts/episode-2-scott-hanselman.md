@@ -4,7 +4,7 @@ date: "2019-09-10T07:36:44+00:00"
 status: publish
 permalink: /episode-2-scott-hanselman
 author: michaela
-excerpt: ""
+excerpt: "Scott Hanselman tells us how to get a remote job at Microsoft"
 type: post
 id: 43
 thumbnail: ../uploads/2019/09/scott.jpg
@@ -16,14 +16,8 @@ category:
 tag: []
 post_format: []
 audio: http://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/aaca90/aaca909a-e34f-49ae-a86f-f59e4fa807f0/b94c57a5-9afe-4853-be2f-b4d147fb62bf/scott_episode2_ready_tc.mp3
-_yoast_wpseo_primary_category:
-  - "5"
 _yoast_wpseo_content_score:
   - "60"
-secondline_themes_disable_img:
-  - "on"
-secondline_themes_header_image_id:
-  - "389"
 post_header_image: ../uploads/2019/07/bg_1.jpg
 ---
 

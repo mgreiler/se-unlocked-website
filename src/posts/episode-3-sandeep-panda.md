@@ -1,27 +1,18 @@
 ---
-title: "Episode 3: Building a developer community with Sandeep Panda"
+title: "Building a developer community with Sandeep Panda"
 date: "2019-09-23T08:02:32+00:00"
 status: publish
 permalink: /episode-3-sandeep-panda
 author: michaela
-excerpt: ""
+excerpt: "Sandeep Panda, CEO and Founder of Hashnode, tells us how to build a developer community."
 type: post
 id: 51
 thumbnail: ../uploads/2019/07/sandeep_panda_small_square.jpg
-category:
-  - "Company Culture"
-  - "Remote Work"
-  - Startup
+category:[ "Company Culture", "Remote Work", Startup]
 tag: []
 post_format: []
 audio: http://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/aaca90/aaca909a-e34f-49ae-a86f-f59e4fa807f0/5aa645ad-9395-42df-a1bb-3640f6080820/sandeep_panda_ready_tc.mp3
-secondline_themes_header_image_id:
-  - "207"
 post_header_image: ../uploads/2017/09/donate-bg.jpg
-secondline_themes_disable_img:
-  - "on"
-_yoast_wpseo_primary_category:
-  - "5"
 _yoast_wpseo_content_score:
   - "30"
 ---
