@@ -4,7 +4,7 @@ import addToMailchimp from "gatsby-plugin-mailchimp";
 export default function Newsletter() {
   const handleSubmit = async (e) => {
     e.preventDefault();
-    const result = await addToMailchimp(email);
+    const result = await addToMailchimp(email, { FNAME: firstname });
     console.log(result);
     setMessage(result.msg);
     // I recommend setting `result` to React state
@@ -12,6 +12,7 @@ export default function Newsletter() {
   };
 
   const [email, setEmail] = useState("");
+  const [firstname, setFirstName] = useState("");
   const [message, setMessage] = useState("");
   return (
     <>
@@ -34,9 +35,19 @@ export default function Newsletter() {
               setEmail(e.currentTarget.value);
             }}
           />{" "}
-          <input type="text" placeholder="First Name" required />
+          <input
+            type="text"
+            placeholder="First Name"
+            required
+            onChange={(e) => {
+              setFirstName(e.currentTarget.value);
+            }}
+          />
           {message ? (
-            <p style={{ color: "white", fontSize: "16px" }}>{message}</p>
+            <p
+              style={{ color: "white", fontSize: "16px" }}
+              dangerouslySetInnerHTML={{ __html: message }}
+            ></p>
           ) : (
             ""
           )}
