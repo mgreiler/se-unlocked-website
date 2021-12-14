@@ -8,7 +8,7 @@ excerpt: "Troy Hunt, a leading security expert and successful Pluralsight author
 type: post
 id: 1051
 thumbnail: ../uploads/2020/03/troy-hunt.jpg
-category: [DevOps, Entrepreneurship,Startup]
+category: [DevOps, Entrepreneurship, Startup]
 tag: []
 post_header_image: ../uploads/2020/03/Troy_Hunt_bg.jpg
 _yoast_wpseo_content_score:

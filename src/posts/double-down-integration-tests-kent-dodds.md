@@ -8,7 +8,7 @@ excerpt: "Kent C. Dodds, who is famous for the widely used open-source testing-l
 type: post
 id: 1231
 thumbnail: ../uploads/2020/08/Kent.jpg
-category:[ DevOps, "Open Source", Testing]
+category: [DevOps, "Open Source", Testing]
 tag: []
 post_format: []
 _yoast_wpseo_content_score:

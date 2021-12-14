@@ -8,7 +8,7 @@ excerpt: "Sandeep Panda, CEO and Founder of Hashnode, tells us how to build a de
 type: post
 id: 51
 thumbnail: ../uploads/2019/07/sandeep_panda_small_square.jpg
-category:[ "Company Culture", "Remote Work", Startup]
+category: ["Company Culture", "Remote Work", Startup]
 tag: []
 post_format: []
 audio: http://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/aaca90/aaca909a-e34f-49ae-a86f-f59e4fa807f0/5aa645ad-9395-42df-a1bb-3640f6080820/sandeep_panda_ready_tc.mp3

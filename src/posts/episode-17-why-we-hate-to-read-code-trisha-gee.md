@@ -8,7 +8,7 @@ excerpt: "Trisha Gee, the Lead of the Java Developer Advocacy Team at JetBrain, 
 type: post
 id: 1132
 thumbnail: ../uploads/2020/04/Trisha.jpg
-category:[ "Company Culture", Hiring, "Remote Work", "Women in Tech"]
+category: ["Company Culture", Hiring, "Remote Work", "Women in Tech"]
 tag: []
 post_format: []
 _yoast_wpseo_content_score:

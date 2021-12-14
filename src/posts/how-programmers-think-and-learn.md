@@ -8,7 +8,7 @@ excerpt: "Felienne Hermans, an associate professor at the University of Leiden, 
 type: post
 id: 116155
 thumbnail: ../uploads/2021/02/Felienne-Hermans.jpg
-category:[Productivity,Science,Tech, "Women in Tech"]
+category: [Productivity, Science, Tech, "Women in Tech"]
 tag: []
 post_format: []
 _yoast_wpseo_content_score:
