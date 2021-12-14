@@ -4,7 +4,7 @@ date: "2021-04-13T11:05:22+00:00"
 status: publish
 permalink: /designer-to-web-developer
 author: michaela
-excerpt: "In this episode, I talk to Annie Liew, who works as a web developer at a startup called Pastel. "
+excerpt: "Annie Liew, a web developer at Pastel, tells us about her career transition from designer to developer. "
 type: post
 id: 121272
 thumbnail: ../uploads/2021/04/profile-annie.jpg

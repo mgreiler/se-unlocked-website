@@ -4,7 +4,7 @@ date: "2021-07-20T10:41:10+00:00"
 status: publish
 permalink: /entrepreneurship-101
 author: michaela
-excerpt: "Karls Hughes is a software engineer who turned into an entrepreneur and tells us all about how he started his successful business."
+excerpt: "Karls Hughes, a software engineer who turned into an entrepreneur, tells us all about how to start a successful business."
 type: post
 id: 121352
 thumbnail: ../uploads/2021/07/karl-2021.jpg

@@ -1,28 +1,19 @@
 ---
-title: "Episode 5: Being the first engineer at a startup with Alper Kemal Koç"
+title: "Being the first engineer at a startup with Alper Kemal Koç"
 date: "2019-10-22T05:00:16+00:00"
 status: publish
 permalink: /episode-5-alper-koc
 author: michaela
-excerpt: ""
+excerpt: "Alper Kemal Koç tells us what it is like to be the first engineer in a startup."
 type: post
 id: 59
 thumbnail: ../uploads/2017/07/Alper.jpg
-category:
-  - "Company Culture"
-  - Hiring
-  - Startup
+category: ["Company Culture", Hiring, Startup]
 tag: []
 post_format: []
-secondline_themes_disable_img:
-  - "on"
-_yoast_wpseo_primary_category:
-  - "13"
 _yoast_wpseo_content_score:
   - "60"
 audio: http://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/aaca90/aaca909a-e34f-49ae-a86f-f59e4fa807f0/ed21c78c-d730-4143-9d78-ec4679786d9c/alper-koc-ready_tc.mp3
-secondline_themes_header_image_id:
-  - "790"
 post_header_image: ../uploads/2019/10/Alper_BG_Blog_SOFTWARE-ENGINEERING-Unlocked.jpg
 ---
 

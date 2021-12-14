@@ -4,7 +4,7 @@ date: "2021-08-17T05:31:18+00:00"
 status: publish
 permalink: /bootstrapping-netlify
 author: michaela
-excerpt: "Matt Biilmann, CEO and co-founder of Netlify, tells me all about bootstrapping Netlify to a multi-million-dollar company."
+excerpt: "Matt Biilmann, CEO and co-founder of Netlify, tells us all about bootstrapping Netlify to a multi-million-dollar company."
 type: post
 id: 121414
 thumbnail: ../uploads/2021/08/matt_2.jpg
@@ -13,7 +13,6 @@ tag: []
 post_format: []
 post_header_image: ../uploads/2021/08/SOFTWARE-ENGINEERING.jpg
 audio: https://cdn.simplecast.com/audio/aaca909a-e34f-49ae-a86f-f59e4fa807f0/episodes/98eb7d34-f272-496a-bf59-2dea263a5b7f/audio/8be7ac36-cfc3-4a81-bd9e-a383d4e1007b/default_tc.mp3
-
 ---
 
 `audio: https://cdn.simplecast.com/audio/aaca909a-e34f-49ae-a86f-f59e4fa807f0/episodes/98eb7d34-f272-496a-bf59-2dea263a5b7f/audio/8be7ac36-cfc3-4a81-bd9e-a383d4e1007b/default_tc.mp3`

@@ -1,14 +1,22 @@
 ---
-title: "Episode 20: Fundamentally Changing How We Develop Software"
+title: "Fundamentally Changing How We Develop Software"
 date: "2020-06-09T12:26:26+00:00"
 status: publish
 permalink: /changing-develop-software
 author: michaela
-excerpt: "Tudor Gîrba, CEO and co-founder of Feenk, tells me all about moldable development -- a new way to develop software."
+excerpt: "Tudor Gîrba, CEO and co-founder of Feenk, tells us all about moldable development -- a new way to develop software."
 type: post
 id: 1168
 thumbnail: ../uploads/2020/06/tudor_girba.jpg
-category: [ "DevOps", "Entrepreneurship", "Monitoring", "Open Source", "Productivity", "Startup"]
+category:
+  [
+    "DevOps",
+    "Entrepreneurship",
+    "Monitoring",
+    "Open Source",
+    "Productivity",
+    "Startup",
+  ]
 tag: []
 post_format: []
 post_header_image: ../uploads/2020/06/bg_tudor_girba.jpg

@@ -1,10 +1,10 @@
 ---
-title: "Episode 28: How design systems help create an inclusive user experience at Github"
+title: "How design systems help create an inclusive user experience at Github"
 date: "2020-10-13T20:08:50+00:00"
 status: publish
 permalink: /design-systems-github
 author: michaela
-excerpt: "Diana Mounter, the Director of Design Infrastructure at GitHub, tells me about Design Systems and legacy code at Github."
+excerpt: "Diana Mounter, the Director of Design Infrastructure at GitHub, tells us about Design Systems and legacy code at Github."
 type: post
 id: 1316
 thumbnail: ../uploads/2020/10/Diana_Full_Res.jpeg

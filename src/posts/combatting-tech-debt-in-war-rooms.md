@@ -1,10 +1,10 @@
 ---
-title: "Episode 31: Combatting tech debt in war rooms"
+title: "Combatting tech debt in war rooms"
 date: "2020-11-24T09:52:31+00:00"
 status: publish
 permalink: /combatting-tech-debt-in-war-rooms
 author: michaela
-excerpt: "Tomasz Łakomy, a senior frontend engineer at OLX Group, tells me everything about how to use war rooms to combat technical debt."
+excerpt: "Tomasz Łakomy, a senior frontend engineer at OLX Group, tells us everything about how to use war rooms to combat technical debt."
 type: post
 id: 1453
 thumbnail: ../uploads/2020/11/tomasz_lakomi.jpg

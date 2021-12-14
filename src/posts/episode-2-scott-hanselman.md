@@ -4,7 +4,7 @@ date: "2019-09-10T07:36:44+00:00"
 status: publish
 permalink: /episode-2-scott-hanselman
 author: michaela
-excerpt: "Scott Hanselman tells us how to get a remote job at Microsoft"
+excerpt: "Scott Hanselman, a partner product manager at Microsoft, tells us how to get a remote job at Microsoft"
 type: post
 id: 43
 thumbnail: ../uploads/2019/09/scott.jpg

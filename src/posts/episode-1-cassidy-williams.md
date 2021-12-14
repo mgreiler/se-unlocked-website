@@ -4,7 +4,7 @@ date: "2019-08-28T11:50:36+00:00"
 status: publish
 permalink: /episode-1-cassidy-williams
 author: michaela
-excerpt: ""
+excerpt: "Cassidy Williams, who is widely known on Twitter for her tech humor, tells us about her career and hiring experiences."
 type: post
 id: 47
 thumbnail: ../uploads/2019/07/face11.jpg

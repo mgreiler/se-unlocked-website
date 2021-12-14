@@ -4,7 +4,7 @@ date: "2020-03-17T17:18:35+00:00"
 status: publish
 permalink: /developer-security-troy-hunt
 author: michaela
-excerpt: "Troy Hunt, a leading security expert and successful Pluralsight author tells us all about data breaches and how to tale your career in your own hands."
+excerpt: "Troy Hunt, a leading security expert and Pluralsight author, tells us all about data breaches and how to tale your career in your own hands."
 type: post
 id: 1051
 thumbnail: ../uploads/2020/03/troy-hunt.jpg

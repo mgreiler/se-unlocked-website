@@ -4,7 +4,7 @@ date: "2020-05-26T09:26:24+00:00"
 status: publish
 permalink: /disability-at-apple
 author: michaela
-excerpt: "Cher, a staff engineer at Apple talks about how she got hired despite her disability and mental health issues."
+excerpt: "Cher, a staff engineer at Apple, talks about how she got hired despite her disability and mental health issues."
 type: post
 id: 1159
 thumbnail: ../uploads/2020/05/cher.jpg

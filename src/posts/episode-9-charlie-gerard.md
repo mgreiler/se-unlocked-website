@@ -1,5 +1,5 @@
 ---
-title: "Episode 9: From Consultancy To Product Company Charlie Gerard"
+title: "From Consultancy To Product Company Charlie Gerard"
 date: "2020-01-07T06:00:15+00:00"
 status: publish
 permalink: /episode-9-charlie-gerard

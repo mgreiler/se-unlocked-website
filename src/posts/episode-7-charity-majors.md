@@ -1,30 +1,19 @@
 ---
-title: "Episode 7: Troubleshooting systems through Observability with Charity Majors"
+title: "Troubleshooting systems through Observability with Charity Majors"
 date: "2019-11-19T08:06:42+00:00"
 status: publish
 permalink: /episode-7-charity-majors
 author: michaela
-excerpt: ""
+excerpt: "Charity Majors, founder, and CTO of honeycomb, tells us about the new generation of DevOps and observability."
 type: post
 id: 67
 thumbnail: ../uploads/2019/11/Charity-Headshot-Square.jpg
-category:
-  - DevOps
-  - Hiring
-  - Monitoring
-  - Startup
-  - "Women in Tech"
+category: [DevOps, Hiring, Monitoring, Startup, "Women in Tech"]
 tag: []
 post_format: []
 audio: http://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/aaca90/aaca909a-e34f-49ae-a86f-f59e4fa807f0/1d63a2c8-dfd9-464d-893b-8baf182cbe3b/charity-majors-episode-7-ready_tc.mp3
-secondline_themes_disable_img:
-  - "on"
-_yoast_wpseo_primary_category:
-  - "17"
 _yoast_wpseo_content_score:
   - "30"
-secondline_themes_header_image_id:
-  - "860"
 post_header_image: ../uploads/2019/11/Charity_Majors_Background.jpg
 ---
 

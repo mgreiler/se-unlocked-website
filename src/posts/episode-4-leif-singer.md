@@ -1,29 +1,19 @@
 ---
-title: "Episode 4: Getting a remote job at Auttomatic with Leif Singer"
+title: "Getting a remote job at Auttomatic with Leif Singer"
 date: "2019-10-08T05:01:55+00:00"
 status: publish
 permalink: /episode-4-leif-singer
 author: michaela
-excerpt: ""
+excerpt: "Leif Singer, an engineer at Automattic, tells us all about the hiring process of Automattic."
 type: post
 id: 55
 thumbnail: ../uploads/2019/07/Leif_2.jpg
-category:
-  - "Company Culture"
-  - Hiring
-  - "Open Source"
-  - "Remote Work"
+category: ["Company Culture", Hiring, "Open Source", "Remote Work"]
 tag: []
 post_format: []
-secondline_themes_disable_img:
-  - "on"
-_yoast_wpseo_primary_category:
-  - "15"
 _yoast_wpseo_content_score:
   - "60"
 audio: http://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/aaca90/aaca909a-e34f-49ae-a86f-f59e4fa807f0/383c4463-3674-4c2d-998a-f92f5dc43c24/leif-singer-ready_tc.mp3
-secondline_themes_header_image_id:
-  - "764"
 post_header_image: ../uploads/2019/10/Leif-Background.jpg
 ---
 

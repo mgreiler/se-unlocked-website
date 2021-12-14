@@ -4,11 +4,11 @@ date: "2021-09-14T11:52:00+00:00"
 status: publish
 permalink: /diversity-and-inclusion
 author: michaela
-excerpt: "Trier Bryant and Kim Scott, the fpunders of Just Work, tell us how we can create more equitable workplaces."
+excerpt: "Trier Bryant and Kim Scott, the founders of Just Work, tell us how we can create more equitable workplaces."
 type: post
 id: 121474
 thumbnail: ../uploads/2021/09/Just-Work-Co-Founders.jpeg
-category: [ "Company Culture", Productivity, "Women in Tech"]
+category: ["Company Culture", Productivity, "Women in Tech"]
 tag: []
 post_format: []
 _yoast_wpseo_content_score:

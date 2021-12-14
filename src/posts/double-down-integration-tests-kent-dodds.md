@@ -1,10 +1,10 @@
 ---
-title: "Episode 24: Why you should double down on integration tests with Kent C. Dodds"
+title: "Why you should double down on integration tests with Kent C. Dodds"
 date: "2020-08-18T13:18:52+00:00"
 status: publish
 permalink: /double-down-integration-tests-kent-dodds
 author: michaela
-excerpt: "Kent C. Dodds, who is famous for the widely used open-source testing-library, tells us how to test KavaScript."
+excerpt: "Kent C. Dodds, famous for the widely used open-source testing-library, tells us how to best test software systems."
 type: post
 id: 1231
 thumbnail: ../uploads/2020/08/Kent.jpg
