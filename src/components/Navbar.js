@@ -28,7 +28,7 @@ export default function Navbar() {
             <Link to="/about">About</Link>
           </li>
           <li>
-            <Link to="/how-we-do-it">Sponsor Us</Link>
+            <Link to="/sponsorship">Sponsor Us</Link>
           </li>
         </ul>
       </div>
