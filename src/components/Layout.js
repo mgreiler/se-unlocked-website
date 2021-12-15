@@ -9,11 +9,9 @@ export default function Layout({ children }) {
     <main>
       <section className={styles.header}>
         <title>SE Unlocked</title>
-        <Navbar />
+        <Navbar />{" "}
       </section>
-      <section className={styles.body}>
-        <div className="content">{children}</div>
-      </section>
+      <div className={styles.body}>{children}</div>
       <Footer />
     </main>
   );
