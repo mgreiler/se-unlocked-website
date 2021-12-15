@@ -22,7 +22,7 @@ export default function Navbar() {
         </label>
         <ul className="menu">
           <li>
-            <Link to="/about">Home</Link>
+            <Link to="/">Home</Link>
           </li>
           <li>
             <Link to="/about">About</Link>
