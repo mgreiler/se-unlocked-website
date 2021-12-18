@@ -1,0 +1,15 @@
+.sponsorship {
+  font-size: 1.5em;
+  color: #4054b2;
+  line-height: 1.2em;
+  border-top-color: black;
+  border-style: solid;
+  border-bottom-color: black;
+  border-left-color: white;
+  border-right-color: white;
+  border-width: 1px;
+  padding-top: 1em;
+  padding-bottom: 1em;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}

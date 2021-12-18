@@ -1,0 +1,21 @@
+.podcast_details {
+  margin-top: 0.5em;
+  padding-top: 0.5em;
+  padding-bottom: 0.4em;
+}
+
+h2 {
+  font-size: 2em;
+  font-weight: 400;
+  margin-top: 40px;
+  padding: auto;
+}
+
+.podcast_guest_picture {
+  float: right;
+  padding: 0.4em;
+}
+
+.episode_details {
+  padding-top: 1em;
+}

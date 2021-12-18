@@ -27,9 +27,7 @@ In this episode, I talk to Annie Liew, who works as a web developer at a startup
 - her drive to learn and level up in public,
 - and how she managed to build a large Twitter following.
 
-![](../uploads/2021/04/profile-annie.jpg)
-
-Today’s episode is sponsored by [Botany.io](https://www.botany.io/) – Botany is a virtual coach for software engineers that unblocks essential teamwork and levels up careers!
+<div class="sponsorship"> Today’s episode is sponsored by <a href="https://www.botany.io/">Botany.io</a> – Botany is a virtual coach for software engineers that unblocks essential teamwork and levels up careers!</div>
 
 Links:
 
