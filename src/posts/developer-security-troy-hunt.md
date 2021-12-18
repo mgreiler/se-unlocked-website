@@ -7,6 +7,7 @@ author: michaela
 excerpt: "Troy Hunt, a leading security expert and Pluralsight author, tells us all about data breaches and how to tale your career in your own hands."
 type: post
 id: 1051
+thumbnail_alt: "Picture of podcast guest"
 thumbnail: ../uploads/2020/03/troy-hunt.jpg
 category: [DevOps, Entrepreneurship, Startup]
 tag: []

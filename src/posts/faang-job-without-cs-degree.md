@@ -7,6 +7,7 @@ author: michaela
 excerpt: ""
 type: post
 id: 1415
+thumbnail_alt: "Picture of podcast guest"
 thumbnail: ../uploads/2020/11/ben.jpg_small.jpg
 category:
   - "Company Culture"

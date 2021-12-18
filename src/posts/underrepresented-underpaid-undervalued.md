@@ -7,6 +7,7 @@ author: michaela
 excerpt: ""
 type: post
 id: 121125
+thumbnail_alt: "Picture of podcast guest"
 thumbnail: ../uploads/2021/03/Jenn_Creigthon.jpg
 category:
   - "Company Culture"

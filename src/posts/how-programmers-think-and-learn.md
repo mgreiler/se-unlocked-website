@@ -7,6 +7,7 @@ author: michaela
 excerpt: "Felienne Hermans, an associate professor at the University of Leiden, tells us how developers think and learn."
 type: post
 id: 116155
+thumbnail_alt: "Picture of podcast guest"
 thumbnail: ../uploads/2021/02/Felienne-Hermans.jpg
 category: [Productivity, Science, Tech, "Women in Tech"]
 tag: []

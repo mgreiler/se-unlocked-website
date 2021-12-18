@@ -7,6 +7,7 @@ author: michaela
 excerpt: "Cher, a staff engineer at Apple, talks about how she got hired despite her disability and mental health issues."
 type: post
 id: 1159
+thumbnail_alt: "Picture of podcast guest"
 thumbnail: ../uploads/2020/05/cher.jpg
 category: ["Company Culture", Hiring, "Remote Work", "Women in Tech"]
 tag: []

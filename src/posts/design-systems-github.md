@@ -7,6 +7,7 @@ author: michaela
 excerpt: "Diana Mounter, the Director of Design Infrastructure at GitHub, tells us about Design Systems and legacy code at Github."
 type: post
 id: 1316
+thumbnail_alt: "Picture of podcast guest"
 thumbnail: ../uploads/2020/10/Diana_Full_Res.jpeg
 category: ["Company Culture", "Remote Work", "Testing", "Women in Tech"]
 tag: []

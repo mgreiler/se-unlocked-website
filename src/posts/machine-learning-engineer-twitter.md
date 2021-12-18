@@ -7,6 +7,7 @@ author: michaela
 excerpt: ""
 type: post
 id: 1202
+thumbnail_alt: "Picture of podcast guest"
 thumbnail: ../uploads/2020/07/jigyasa.jpg
 category:
   - "Company Culture"

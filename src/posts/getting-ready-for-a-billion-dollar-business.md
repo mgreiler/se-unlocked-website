@@ -7,6 +7,7 @@ author: michaela
 excerpt: ""
 type: post
 id: 121308
+thumbnail_alt: "Picture of podcast guest"
 thumbnail: ../uploads/2021/05/Max-Stoiber.jpg
 category:
   - Entrepreneurship

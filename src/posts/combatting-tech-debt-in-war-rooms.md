@@ -7,6 +7,7 @@ author: michaela
 excerpt: "Tomasz Łakomy, a senior frontend engineer at OLX Group, tells us everything about how to use war rooms to combat technical debt."
 type: post
 id: 1453
+thumbnail_alt: "Picture of podcast guest"
 thumbnail: ../uploads/2020/11/tomasz_lakomi.jpg
 category: ["Company Culture", "Hiring", "Productivity", "Testing"]
 tag: []

@@ -7,6 +7,7 @@ author: michaela
 excerpt: ""
 type: post
 id: 939
+thumbnail_alt: "Picture of podcast guest"
 thumbnail: ../uploads/2020/02/Laurie-Barth.jpg
 category:
   - "Company Culture"

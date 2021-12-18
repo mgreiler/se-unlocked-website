@@ -7,6 +7,7 @@ author: michaela
 excerpt: "Kent C. Dodds, famous for the widely used open-source testing-library, tells us how to best test software systems."
 type: post
 id: 1231
+thumbnail_alt: "Picture of podcast guest"
 thumbnail: ../uploads/2020/08/Kent.jpg
 category: [DevOps, "Open Source", Testing]
 tag: []

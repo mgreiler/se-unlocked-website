@@ -7,6 +7,7 @@ author: michaela
 excerpt: "Alper Kemal Koç tells us what it is like to be the first engineer in a startup."
 type: post
 id: 59
+thumbnail_alt: "Picture of podcast guest"
 thumbnail: ../uploads/2017/07/Alper.jpg
 category: ["Company Culture", Hiring, Startup]
 tag: []

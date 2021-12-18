@@ -7,14 +7,15 @@ author: michaela
 excerpt: ''
 type: page
 id: 121302
+thumbnail_alt: "Picture of podcast guest"
 thumbnail: ../uploads/2020/09/SE_Unlocked_CoverArt_small.jpg
 secondline_themes_page_sidebar:
     - hidden-sidebar
 _yoast_wpseo_content_score:
     - '30'
 ---
-Internship/Working student – Growing a Tech Podcast (Social Media, Content Creation, and Business Administration)
------------------------------------------------------------------------------------------------------------------
+
+## Internship/Working student – Growing a Tech Podcast (Social Media, Content Creation, and Business Administration)
 
 **Description**
 
@@ -27,36 +28,29 @@ The podcast grew substantially over the last 1,5 years, so we are now looking fo
 Lead the social media presence and growth of the SE Unlocked podcast:
 
 - Release new episodes on the website
+
   - Promote podcast on social media and the web
-  
-  
+
   - Help with and evolve the marketing strategy
-  
-  
+
   - Find and book excellent podcast guests
-  
-  
+
   - Help build a community around the podcast
-  
-  
+
   - Take over communication with podcast sponsors
-  
-  
+
   - Release YouTube videos
-  
-  
+
   - Help with editing the podcast
-  
-  
+
   - Help with editing videos
-  
-  
+
   - Help with business administrative tasks
 
 **Who we are looking for:**
 
-You are studying media and communications or specialize in marketing during your business administration studies and are interested in building a community around developers and software engineers, then you are well equipped to apply your gained knowledge and expertise in this role.   
-  
+You are studying media and communications or specialize in marketing during your business administration studies and are interested in building a community around developers and software engineers, then you are well equipped to apply your gained knowledge and expertise in this role.
+
 If you study management information systems, or applied informatics and are interested in gaining experience and knowledge in marketing, social media and content creation to engage a group of tech leaders and skilled developers, you are also more than welcome to apply! We can also enhance your responsibilities to building and enhancing the websites that power our business.
 
 **Practicalities**:
@@ -83,36 +77,29 @@ The podcast grew substantially over the last 1,5 years, so we are now looking fo
 Lead the social media presence and growth of the SE Unlocked podcast:
 
 - Release new episodes on the website
+
   - Promote podcast on social media and the web
-  
-  
+
   - Help with and evolve the marketing strategy
-  
-  
+
   - Find and book excellent podcast guests
-  
-  
+
   - Help build a community around the podcast
-  
-  
+
   - Take over communication with podcast sponsors
-  
-  
+
   - Release YouTube videos
-  
-  
+
   - Help with editing the podcast
-  
-  
+
   - Help with editing videos
-  
-  
+
   - Help with business administrative tasks
 
 **Who we are looking for:**
 
-You are studying media and communications or specialize in marketing during your business administration studies and are interested in building a community around developers and software engineers, then you are well equipped to apply your gained knowledge and expertise in this role.   
-  
+You are studying media and communications or specialize in marketing during your business administration studies and are interested in building a community around developers and software engineers, then you are well equipped to apply your gained knowledge and expertise in this role.
+
 If you study management information systems, or applied informatics and are interested in gaining experience and knowledge in marketing, social media and content creation to engage a group of tech leaders and skilled developers, you are also more than welcome to apply! We can also enhance your responsibilities to building and enhancing the websites that power our business, or creating educational content for developers.
 
 **Practicalities**:

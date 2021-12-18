@@ -7,6 +7,7 @@ author: michaela
 excerpt: "Trisha Gee, the Lead of the Java Developer Advocacy Team at JetBrain, tells us why it is hard to read the code of other."
 type: post
 id: 1132
+thumbnail_alt: "Picture of podcast guest"
 thumbnail: ../uploads/2020/04/Trisha.jpg
 category: ["Company Culture", Hiring, "Remote Work", "Women in Tech"]
 tag: []

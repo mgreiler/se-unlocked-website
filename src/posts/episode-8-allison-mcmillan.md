@@ -7,6 +7,7 @@ author: michaela
 excerpt: "Allison McMillan, a software engineering manager at Github, tells us broke into tech and overcame problems as a working mother."
 type: post
 id: 70
+thumbnail_alt: "Picture of podcast guest"
 thumbnail: ../uploads/2019/12/Alison_Sq.jpg
 category: ["Company Culture", Hiring, "Remote Work", "Women in Tech"]
 tag: []

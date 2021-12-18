@@ -7,6 +7,7 @@ author: michaela
 excerpt: ""
 type: post
 id: 1088
+thumbnail_alt: "Picture of podcast guest"
 thumbnail: ../uploads/2020/03/peter.jpg
 category:
   - "Company Culture"

@@ -7,6 +7,7 @@ author: michaela
 excerpt: "Tudor Gîrba, CEO and co-founder of Feenk, tells us all about moldable development -- a new way to develop software."
 type: post
 id: 1168
+thumbnail_alt: "Picture of podcast guest"
 thumbnail: ../uploads/2020/06/tudor_girba.jpg
 category:
   [

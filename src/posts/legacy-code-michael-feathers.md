@@ -7,6 +7,7 @@ author: michaela
 excerpt: ""
 type: post
 id: 121209
+thumbnail_alt: "Picture of podcast guest"
 thumbnail: ../uploads/2021/03/Michael-Feathers.jpg
 category:
   - "Company Culture"

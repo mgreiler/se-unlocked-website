@@ -7,6 +7,7 @@ author: michaela
 excerpt: "Charity Majors, founder, and CTO of honeycomb, tells us about the new generation of DevOps and observability."
 type: post
 id: 67
+thumbnail_alt: "Picture of podcast guest"
 thumbnail: ../uploads/2019/11/Charity-Headshot-Square.jpg
 category: [DevOps, Hiring, Monitoring, Startup, "Women in Tech"]
 tag: []

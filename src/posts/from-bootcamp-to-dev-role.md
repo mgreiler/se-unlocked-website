@@ -7,6 +7,7 @@ author: michaela
 excerpt: ""
 type: post
 id: 120811
+thumbnail_alt: "Picture of podcast guest"
 thumbnail: ../uploads/2021/02/natalie_davis.jpg
 category:
   - "Company Culture"

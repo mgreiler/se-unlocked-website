@@ -7,6 +7,7 @@ author: michaela
 excerpt: ""
 type: post
 id: 1112
+thumbnail_alt: "Picture of podcast guest"
 thumbnail: ../uploads/2020/04/Gratzer-Martin.jpg
 category:
   - "Company Culture"

@@ -7,6 +7,7 @@ author: michaela
 excerpt: "Derrick Stolee, a principal software engineer at Microsoft, tells us how to make the Git version control system lightning fast."
 type: post
 id: 62
+thumbnail_alt: "Picture of podcast guest"
 thumbnail: ../uploads/2019/11/Derrick.jpg
 category: ["Company Culture", "Open Source"]
 tag: []

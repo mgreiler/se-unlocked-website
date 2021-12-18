@@ -7,6 +7,7 @@ author: michaela
 excerpt: "Trier Bryant and Kim Scott, the founders of Just Work, tell us how we can create more equitable workplaces."
 type: post
 id: 121474
+thumbnail_alt: "Picture of podcast guest"
 thumbnail: ../uploads/2021/09/Just-Work-Co-Founders.jpeg
 category: ["Company Culture", Productivity, "Women in Tech"]
 tag: []

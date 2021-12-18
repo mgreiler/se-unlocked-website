@@ -7,6 +7,7 @@ author: michaela
 excerpt: "Cassidy Williams, who is widely known on Twitter for her tech humor, tells us about her career and hiring experiences."
 type: post
 id: 47
+thumbnail_alt: "Picture of podcast guest"
 thumbnail: ../uploads/2019/07/face11.jpg
 category: ["Company Culture", "Remote Work", "Women in Tech"]
 tag: []

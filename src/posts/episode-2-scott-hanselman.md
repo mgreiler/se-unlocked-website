@@ -7,6 +7,7 @@ author: michaela
 excerpt: "Scott Hanselman, a partner product manager at Microsoft, tells us how to get a remote job at Microsoft"
 type: post
 id: 43
+thumbnail_alt: "Picture of podcast guest"
 thumbnail: ../uploads/2019/09/scott.jpg
 category: ["Company Culture", Hiring, Productivity, "Remote Work"]
 tag: []

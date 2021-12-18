@@ -7,6 +7,7 @@ author: michaela
 excerpt: ""
 type: post
 id: 1242
+thumbnail_alt: "Picture of podcast guest"
 thumbnail: ../uploads/2020/09/Michaela-Greiler.jpg
 category:
   - "Company Culture"

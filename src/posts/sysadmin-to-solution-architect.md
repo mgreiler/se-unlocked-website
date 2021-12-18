@@ -7,6 +7,7 @@ author: michaela
 excerpt: ""
 type: post
 id: 1217
+thumbnail_alt: "Picture of podcast guest"
 thumbnail: ../uploads/2020/08/Angela_Scooter.jpg
 category:
   - "Company Culture"

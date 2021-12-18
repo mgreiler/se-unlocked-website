@@ -7,6 +7,7 @@ author: michaela
 excerpt: ""
 type: post
 id: 369
+thumbnail_alt: "Picture of podcast guest"
 thumbnail: ../uploads/2020/09/SE_Unlocked_CoverArt_small.jpg
 category:
   - "Company Culture"

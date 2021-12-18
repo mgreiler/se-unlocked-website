@@ -7,6 +7,7 @@ author: michaela
 excerpt: ''
 type: page
 id: 13
+thumbnail_alt: "Picture of podcast guest"
 thumbnail: ../uploads/2020/09/SE_Unlocked_CoverArt_small.jpg
 secondline_themes_page_sidebar:
     - hidden-sidebar

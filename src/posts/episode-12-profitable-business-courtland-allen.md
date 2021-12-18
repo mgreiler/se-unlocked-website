@@ -7,6 +7,7 @@ author: michaela
 excerpt: ""
 type: post
 id: 964
+thumbnail_alt: "Picture of podcast guest"
 thumbnail: ../uploads/2020/02/courtland.jpg
 category:
   - Startup

@@ -7,8 +7,9 @@ author: michaela
 excerpt: "Karls Hughes, a software engineer who turned into an entrepreneur, tells us all about how to start a successful business."
 type: post
 id: 121352
+thumbnail_alt: "Picture of podcast guest"
 thumbnail: ../uploads/2021/07/karl-2021.jpg
-category: [Entrepreneurship, Hiring, Startup,Tech]
+category: [Entrepreneurship, Hiring, Startup, Tech]
 tag: []
 post_format: []
 post_header_image: ../uploads/2021/07/Karl-Huges-BG.jpg

@@ -7,24 +7,25 @@ author: michaela
 excerpt: ""
 type: post
 id: 82
+thumbnail_alt: "Picture of podcast guest"
 thumbnail: ../uploads/2020/01/Suz-Hinton.jpg
 category:
-    - 'Company Culture'
-    - Hiring
-    - 'Open Source'
-    - 'Women in Tech'
+  - "Company Culture"
+  - Hiring
+  - "Open Source"
+  - "Women in Tech"
 tag: []
 post_format: []
 audio: http://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/aaca90/aaca909a-e34f-49ae-a86f-f59e4fa807f0/1d6ddbfd-1a55-4b28-af1f-0db0c92f164c/suz-complete_tc.mp3
 secondline_themes_header_image_id:
-    - "926"
+  - "926"
 post_header_image: ../uploads/2020/01/bg_suz.jpg
 secondline_themes_disable_img:
-    - "on"
+  - "on"
 _yoast_wpseo_primary_category:
-    - "15"
+  - "15"
 _yoast_wpseo_content_score:
-    - "90"
+  - "90"
 ---
 
 In this episode, I talk to Suz Hinton, about her transition from Microsoft to Stripe, mentoring and advancing one’s career and live coding.

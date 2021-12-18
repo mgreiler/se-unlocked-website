@@ -7,6 +7,7 @@ author: michaela
 excerpt: ""
 type: post
 id: 121334
+thumbnail_alt: "Picture of podcast guest"
 thumbnail: ../uploads/2021/05/Liran-Haimovitch.jpg
 category:
   - "Company Culture"

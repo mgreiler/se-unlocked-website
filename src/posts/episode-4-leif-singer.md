@@ -7,6 +7,7 @@ author: michaela
 excerpt: "Leif Singer, an engineer at Automattic, tells us all about the hiring process of Automattic."
 type: post
 id: 55
+thumbnail_alt: "Picture of podcast guest"
 thumbnail: ../uploads/2019/07/Leif_2.jpg
 category: ["Company Culture", Hiring, "Open Source", "Remote Work"]
 tag: []

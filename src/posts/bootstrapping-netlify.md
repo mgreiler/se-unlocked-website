@@ -8,6 +8,7 @@ excerpt: "Matt Biilmann, CEO and co-founder of Netlify, tells us all about boots
 type: post
 id: 121414
 thumbnail: ../uploads/2021/08/matt_2.jpg
+thumbnail_alt: "Picture of Matt Biilmann"
 category: ["Company Culture", "DevOps", "Entrepreneurship", "Productivity"]
 tag: []
 post_format: []

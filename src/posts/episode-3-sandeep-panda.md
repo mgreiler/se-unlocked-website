@@ -7,6 +7,7 @@ author: michaela
 excerpt: "Sandeep Panda, CEO and Founder of Hashnode, tells us how to build a developer community."
 type: post
 id: 51
+thumbnail_alt: "Picture of podcast guest"
 thumbnail: ../uploads/2019/07/sandeep_panda_small_square.jpg
 category: ["Company Culture", "Remote Work", Startup]
 tag: []

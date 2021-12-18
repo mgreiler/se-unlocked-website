@@ -7,6 +7,7 @@ author: michaela
 excerpt: "Charlie Gerard is a career changer, that recently started working at Atlassian after working at ThoughWorks as a software consultant. In this episode, she talks with me about her hiring experience, the software engineering practices at this large tech company, and brain-controlled interfaces."
 type: post
 id: 79
+thumbnail_alt: "Picture of podcast guest"
 thumbnail: ../uploads/2020/01/charlie-gerard.jpeg
 category:
   - "Company Culture"

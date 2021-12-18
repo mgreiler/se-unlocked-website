@@ -7,6 +7,7 @@ author: michaela
 excerpt: ""
 type: post
 id: 1474
+thumbnail_alt: "Picture of podcast guest"
 thumbnail: ../uploads/2020/12/Nader_Dabit_Serverless.jpg
 category:
   - DevOps
