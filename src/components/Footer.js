@@ -36,16 +36,28 @@ export default function Footer() {
         <p></p>
         <p className="text-center">
           Copyright 2021{" "}
-          <a href="https://www.michaelagreiler.com/" target="_blank">
+          <a
+            href="https://www.michaelagreiler.com/"
+            target="_blank"
+            rel="noreferrer"
+          >
             Doctor McKayla
           </a>
         </p>
         <p>
-          <a href="https://www.facebook.com/seunlocked/" target="_blank">
+          <a
+            href="https://www.facebook.com/seunlocked/"
+            target="_blank"
+            rel="noreferrer"
+          >
             {" "}
             <FaFacebookSquare className="pointer" size={30} />{" "}
           </a>
-          <a href="https://twitter.com/mgreiler" target="_blank">
+          <a
+            href="https://twitter.com/mgreiler"
+            target="_blank"
+            rel="noreferrer"
+          >
             {" "}
             <FaTwitterSquare className="pointer" size={30} />
           </a>
