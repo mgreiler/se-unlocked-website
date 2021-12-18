@@ -2,6 +2,7 @@ import { Link } from "gatsby";
 import { StaticImage } from "gatsby-plugin-image";
 import logo from "../images/logo.png";
 import React from "react";
+import "bootstrap/dist/css/bootstrap.min.css";
 
 export default function Navbar() {
   return (
