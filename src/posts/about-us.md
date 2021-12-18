@@ -185,7 +185,7 @@ Want to connect on a deeper level? Make sure to hop on the mailing list and get 
 	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
 </style>
 
-<form action="https://se-unlocked.us3.list-manage.com/subscribe/post?u=74b1790e5710618801de6d4a7&id=a1f53b7c4f" id="mc-embedded-subscribe-form" method="post" name="mc-embedded-subscribe-form" novalidate="" target="_blank">\* indicates required  
+<form action="https://se-unlocked.us3.list-manage.com/subscribe/post?u=74b1790e5710618801de6d4a7&id=a1f53b7c4f" id="mc-embedded-subscribe-form" method="post" name="mc-embedded-subscribe-form" novalidate="" target="_blank" rel="noreferrer">\* indicates required  
 <label for="mce-EMAIL" style="visibility: hidden;">Email Address \*  
 </label>  
 <input id="mce-EMAIL" name="EMAIL" type="email" value="E-mail"></input>  
