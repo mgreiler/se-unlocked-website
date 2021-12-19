@@ -179,9 +179,9 @@ ul button:hover {
 .headers .menu-btn:checked ~ .menu {
   max-height: 30vh;
 }
-.headers .menu-btn:checked ~ .menu body {
+/* .headers .menu-btn:checked ~ .menu body {
   background-color: red;
-}
+} */
 
 .headers .menu-btn:checked ~ .menu-icon .navicon {
   background: transparent;
@@ -199,20 +199,33 @@ ul button:hover {
 .headers .menu-btn:checked ~ .menu-icon:not(.steps) .navicon:after {
   top: 0;
 }
+
 .postList_image {
-  height: 325px;
+  height: 275px;
 }
+
 .postList_image .gatsby-image-wrapper {
   width: 100%;
+  min-width: 225px;
 }
 
 .postList_image .gatsby-image-wrapper img {
-  height: 325px;
+  height: 275px;
   border-top-left-radius: 4px;
   border-bottom-left-radius: 4px;
 }
 
-/* 75em = 1210px */
+@media screen and (max-width: 780px) {
+  .postList_image {
+    height: 225px;
+  }
+
+  .postList_image .gatsby-image-wrapper img {
+    height: 225px;
+    border-top-left-radius: 4px;
+    border-bottom-left-radius: 4px;
+  }
+}
 
 @media (min-width: 55.625em) {
   .headers li {
@@ -313,18 +326,15 @@ footer p {
   color: #bbb;
 }
 
-.content {
-  padding: 0px 20px;
-  color: #263669;
-}
-.content h1 {
-  font-size: 28px;
+.grid-title h1 {
   position: relative;
   margin: 0 auto;
   padding-top: 50px;
   padding-bottom: 10px;
+  color: #263669;
 }
-.content h1:before {
+
+.grid-title h1:before {
   content: "";
   position: absolute;
   left: 0;
@@ -334,11 +344,16 @@ footer p {
   margin: 0 auto;
   height: 1px;
   width: 10%; /* or 100px */
-  border-bottom: 5px solid black;
+  border-bottom: 5px solid #263669;
 }
+
+.episodes-grid a {
+  text-decoration: none;
+}
+
 audio {
   filter: sepia(20%) saturate(70%) grayscale(-4) contrast(99%) invert(12%);
-  width: 80%;
+  width: 90%;
 }
 
 /* Rounded border */
@@ -475,17 +490,6 @@ input:active {
   cursor: pointer;
 }
 @media screen and (max-width: 768px) {
-  .content {
-    display: flex;
-    flex-wrap: wrap;
-    padding: 0 10px;
-  }
-  .content div {
-    flex-basis: 50%;
-  }
-  .content h1:before {
-    width: 50%;
-  }
   .newsletter {
     padding: 30px 5px;
   }
@@ -498,9 +502,6 @@ input:active {
   }
   ul li {
     font-size: 16px;
-  }
-  .content h1 {
-    font-size: 32px;
   }
 }
 @media screen and (max-width: 600px) {

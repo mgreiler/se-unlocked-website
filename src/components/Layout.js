@@ -8,10 +8,10 @@ export default function Layout({ children }) {
   return (
     <main>
       <section className={styles.header}>
-        <title>SE Unlocked</title>
+        <title>SE Unlocked Podcast</title>
         <Navbar />{" "}
       </section>
-      <div className={styles.body}>{children}</div>
+      <div>{children}</div>
       <Footer />
     </main>
   );
