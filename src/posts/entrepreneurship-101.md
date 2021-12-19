@@ -27,9 +27,9 @@ In this episode, I talk to Karls Hughes. Karl is a software engineer who turned 
 - how to scale as a bootstrapped business,
 - why blogging is such a career changer for developers.
 
-![](../uploads/2021/07/karl-2021.jpg)
-
-Book your [awesomecodereview.com](https://www.michaelagreiler.com/workshops) workshop!
+<div class="sponsorship">
+Book your <a href="https://www.michaelagreiler.com/workshops">awesomecodereview.com</a> workshop!
+</div>
 
 Links:
 
