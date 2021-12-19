@@ -16,8 +16,6 @@ post_header_image: ../uploads/2021/08/SOFTWARE-ENGINEERING.jpg
 audio: https://cdn.simplecast.com/audio/aaca909a-e34f-49ae-a86f-f59e4fa807f0/episodes/98eb7d34-f272-496a-bf59-2dea263a5b7f/audio/8be7ac36-cfc3-4a81-bd9e-a383d4e1007b/default_tc.mp3
 ---
 
-`audio: https://cdn.simplecast.com/audio/aaca909a-e34f-49ae-a86f-f59e4fa807f0/episodes/98eb7d34-f272-496a-bf59-2dea263a5b7f/audio/8be7ac36-cfc3-4a81-bd9e-a383d4e1007b/default_tc.mp3`
-
 In this episode, I talk to Matt Biilmann. Matt Matt is the CEO and co-founder of Netlify – the modern platform for high-performance websites and apps. Netlify has around 150 employees and an estimate of over 20 million dollar of annual revenue. Matt also coined the term Jamstack, which stands for JavaScript, APIs, and Markup.
 
 **We talk about:**

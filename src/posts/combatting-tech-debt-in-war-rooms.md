@@ -28,7 +28,7 @@ In this episode, I talk to Tomasz Łakomy, a senior frontend engineer at OLX Gro
 
 ![](../uploads/2020/11/tomasz_lakomi.jpg)
 
-Today’s episode is sponsored by [CodeSubmit](https://codesubmit.io/) – the best take-home assignments for your tech hiring!
+<div class="sponsorship"> Today’s episode is sponsored by <a href="https://codesubmit.io/" target="_blank" rel="noreferrer" >CodeSubmit</a> – the best take-home assignments for your tech hiring! </div>
 
 Links:
 
