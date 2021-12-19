@@ -2,7 +2,7 @@
 title: "From designer to web developer"
 date: "2021-04-13T11:05:22+00:00"
 status: publish
-permalink: /designer-to-web-developer
+permalink: /designer-to-web-developer/
 author: michaela
 excerpt: "Annie Liew, a web developer at Pastel, tells us about her career transition from designer to developer."
 type: post
