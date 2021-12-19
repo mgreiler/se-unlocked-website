@@ -21,7 +21,7 @@ export default function PostsDetails({ data }) {
       <Container>
         {/* <GatsbyImage image={getImage(post_header_image)} alt={permalink} /> */}
         <h1 className={styles.podcast_details}>{title}</h1>
-        <audio controls>
+        <audio controls preload="none">
           <source src={audio} />
         </audio>
         <div>
