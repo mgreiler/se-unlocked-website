@@ -35,7 +35,7 @@ export default function PostsDetails({ data }) {
               alt={thumbnail_alt}
             />
             {/* {<div dangerouslySetInnerHTML={{ __html: html }} />} */}
-            {<p dangerouslySetInnerHTML={{ __html: html }} />}
+            {<div dangerouslySetInnerHTML={{ __html: html }} />}
           </div>
         </div>
       </Container>
