@@ -15,7 +15,7 @@ exports.createPages = async ({ graphql, actions }) => {
 
   data.allMarkdownRemark.nodes.forEach((node) => {
     actions.createPage({
-      path: "/posts" + node.frontmatter.permalink,
+      path: node.frontmatter.permalink,
       component: path.resolve("./src/templates/posts-detail.js"),
       context: { permalink: node.frontmatter.permalink },
     });
