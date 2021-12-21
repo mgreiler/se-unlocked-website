@@ -9,6 +9,7 @@
 }
 a {
   color: #6d8ae4;
+  text-decoration: none;
 }
 a:hover {
   color: white;
