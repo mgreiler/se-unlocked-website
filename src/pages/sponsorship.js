@@ -4,6 +4,11 @@ import * as styles from "../styles/sponsor.module.css";
 import { StaticImage } from "gatsby-plugin-image";
 import Row from "react-bootstrap/Row";
 import Col from "react-bootstrap/Col";
+import rss from "../images/RSS-Feed-blue-sm.png";
+import pod from "../images/google-podcast-blue-sm.png";
+import deezer from "../images/deezer-blue-sm.png";
+import itunes from "../images/itunes-blue-sm.png";
+import twitter from "../images/twitter-logo-sm-blue.png";
 
 export default function Sponsorship() {
   return (
@@ -234,6 +239,64 @@ export default function Sponsorship() {
               />
             </Col>
           </Row>
+        </div>
+      </div>
+      <div className={styles.gradient_section}>
+        <div className={styles.sponsor_container}>
+          <h1 className={styles.text_left}>Ready to increase your reach?</h1>
+          <p className="mt-4">Interested in sponsoring? Send us an email at</p>
+          <p>
+            <a href="mailto:michaela@michaelagreiler.com">
+              michaela@michaelagreiler.com
+            </a>
+          </p>
+        </div>
+      </div>
+      <div className={styles.section_1}>
+        <div className={styles.sponsor_container}>
+          <h1 className={styles.text_left}>Follow Us</h1>{" "}
+          <div className="icons mt-5">
+            <a
+              href="https://feeds.simplecast.com/K1_mv0CJ"
+              target="_blank"
+              rel="noreferrer"
+              className={styles.mr_5}
+            >
+              <img src={rss} />
+            </a>
+            <a
+              href="https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS9LMV9tdjBDSg=="
+              target="_blank"
+              rel="noreferrer"
+              className={styles.mr_5}
+            >
+              <img src={pod} />
+            </a>
+            <a
+              href="https://podcasts.apple.com/at/podcast/software-engineering-unlocked/id1477527378?l=en"
+              target="_blank"
+              rel="noreferrer"
+              className={styles.mr_5}
+            >
+              <img src={itunes} />
+            </a>
+            <a
+              href="https://twitter.com/se_unlocked"
+              target="_blank"
+              rel="noreferrer"
+              className={styles.mr_5}
+            >
+              <img src={twitter} />
+            </a>
+            <a
+              href="https://www.deezer.com/us/show/465682"
+              target="_blank"
+              rel="noreferrer"
+              className={styles.mr_5}
+            >
+              <img src={deezer} />
+            </a>
+          </div>
         </div>
       </div>
     </Layout>
