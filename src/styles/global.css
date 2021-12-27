@@ -178,7 +178,7 @@ ul button:hover {
 }
 
 .headers .menu-btn:checked ~ .menu {
-  max-height: 30vh;
+  max-height: 35vh;
 }
 /* .headers .menu-btn:checked ~ .menu body {
   background-color: red;
@@ -253,9 +253,21 @@ ul button:hover {
     margin-right: 0px !important;
   }
 }
-@media screen and (max-width: 340px) {
+@media screen and (max-width: 400px) {
   .logo img {
     padding-left: 0px;
+  }
+  .headers {
+    padding-left: 0px;
+  }
+  .headers .gatsby-image-wrapper img {
+    width: 173px !important;
+  }
+  .headers .menu-icon {
+    padding-top: 14px;
+  }
+  .headers .menu-btn:checked ~ .menu {
+    max-height: 60vh;
   }
 }
 footer .links {

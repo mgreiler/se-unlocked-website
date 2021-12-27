@@ -83,7 +83,9 @@ export default function Sponsorship() {
       <div className={styles.section_2}>
         <div className={styles.sponsor_container}>
           <div className="d-flex justify-content-center">
-            <button className={styles.button}>I want to sponsor!</button>
+            <a href="mailto:michaela@michaelagreiler.com">
+              <button className={styles.button}>I want to sponsor!</button>{" "}
+            </a>
           </div>
         </div>
       </div>
@@ -133,7 +135,9 @@ export default function Sponsorship() {
       <div className={styles.section_2}>
         <div className={styles.sponsor_container}>
           <div className="d-flex justify-content-center">
-            <button className={styles.button}>Let me sponsor!</button>
+            <a href="mailto:michaela@michaelagreiler.com">
+              <button className={styles.button}>Let me sponsor!</button>
+            </a>
           </div>
         </div>
       </div>
@@ -192,7 +196,9 @@ export default function Sponsorship() {
       <div className={styles.section_2}>
         <div className={styles.sponsor_container}>
           <div className="d-flex justify-content-center">
-            <button className={styles.button}>I'm ready to get in!</button>
+            <a href="mailto:michaela@michaelagreiler.com">
+              <button className={styles.button}>I'm ready to get in!</button>{" "}
+            </a>
           </div>
         </div>
       </div>
