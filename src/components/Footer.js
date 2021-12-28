@@ -1,12 +1,13 @@
 import { Link } from "gatsby";
 import React from "react";
 import { FaTwitterSquare, FaFacebookSquare } from "react-icons/fa";
+import { Container } from "react-bootstrap";
 
 export default function Footer() {
   return (
-    <section>
+    <div>
       <footer>
-        <div className="footer_section">
+        <Container className="footer_section">
           <div>
             <h2>ABOUT</h2>
             <p>
@@ -30,10 +31,11 @@ export default function Footer() {
               <br />
             </div>
           </div>
-        </div>
+        </Container>
       </footer>
       <div className="copy-rights flex justify-content-between">
         <p></p>
+
         <p className="text-center">
           Copyright 2021{" "}
           <a
@@ -63,6 +65,6 @@ export default function Footer() {
           </a>
         </p>
       </div>
-    </section>
+    </div>
   );
 }
