@@ -19,3 +19,10 @@ h2 {
 .episode_details {
   padding-top: 1em;
 }
+
+@media screen and (max-width: 600px) {
+  .podcast_guest_picture {
+    float: none;
+    padding: 0.4em;
+  }
+}
