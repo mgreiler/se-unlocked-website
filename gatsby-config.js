@@ -51,6 +51,12 @@ module.exports = {
               autoplay: false,
             },
           },
+          {
+            resolve: `gatsby-remark-images`,
+            options: {
+              maxWidth: 800,
+            },
+          },
         ],
       },
     },

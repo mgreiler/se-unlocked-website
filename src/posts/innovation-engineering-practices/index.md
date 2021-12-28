@@ -1,5 +1,5 @@
 ---
-title: "Driving innovation and engineering practices  with Dr. Holly Cummins"
+title: "Driving innovation through engineering practices with Dr. Holly Cummins"
 date: "2021-09-28T08:10:10+00:00"
 status: publish
 permalink: /innovation-engineering-practices
@@ -7,19 +7,27 @@ author: michaela
 excerpt: "Dr. Holly Cummins, an innovation leader in IBM’s corporate strategy team, tells us how engineering practices enable innovation."
 type: post
 id: 121492
-thumbnail_alt: "Picture of podcast guest"
-thumbnail: ../uploads/2021/09/Dr-Holly-Cummins.jpg
+thumbnail_alt: "Picture of Dr. Holly Cummins"
+thumbnail: ../../uploads/2021/09/Dr-Holly-Cummins.jpg
 audio: https://cdn.simplecast.com/audio/aaca909a-e34f-49ae-a86f-f59e4fa807f0/episodes/71917bf7-3777-4dc8-84e3-1f3ea736953b/audio/8670770e-323e-45eb-88df-0080e8965908/default_tc.mp3
 category:
   ["Company Culture", DevOps, Productivity, Startup, Testing, "Women in Tech"]
 tag: []
 post_format: []
-post_header_image: ../uploads/2021/09/Holly-Cummins-background.jpg
+post_header_image: ../../uploads/2021/09/Holly-Cummins-background.jpg
 _yoast_wpseo_content_score:
   - "30"
 ---
 
-In this episode, I talk to Dr. Holly Cummins. Holly was the development practice lead for IBM Garage for Cloud, before becoming an innovation leader in IBM’s corporate strategy team. She drives innovation for companies in various industries, such as banking, catering, retail, or even nonprofit organization. She is also a Java Champion, a JavaOne Rockstar, a published author, and a regular and vivid speaker.
+<div class="container">
+<div class="row">
+<div class="col-lg-8 order-sm-last order-md-first">
+Dr. Holly Cummins was the development practice lead for IBM Garage for Cloud, before becoming an innovation leader in IBM’s corporate strategy team. She drives innovation for companies in various industries, such as banking, catering, retail, or even nonprofit organization. She is also a Java Champion, a JavaOne Rockstar, a published author, and a regular and vivid speaker.
+</div><div class="col-sm-12 col-lg-4"><img src="../../uploads/2021/09/Dr-Holly-Cummins.jpg" alt="Picture of Dr. Cummins"/></div>
+</div>
+</div>
+
+[Dr Holly](./Dr-Holly-Cummins.jpg)
 
 **We talk about:**
 
@@ -28,7 +36,7 @@ In this episode, I talk to Dr. Holly Cummins. Holly was the development practice
 - Ensuring a healthy and welcoming company culture
 - The benefits of Pair programming
 
-This episode is [sponsored by IBM](https://www.ibm.com) – where innovation and transformation come together.
+<div class="sponsorship">This episode is <a href="https://www.ibm.com" target="_blank" rel="noopener noreferrer">sponsored by IBM</a> – where innovation and transformation come together.</div>
 
 Links:
 

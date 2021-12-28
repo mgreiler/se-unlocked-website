@@ -29,6 +29,7 @@
     "gatsby-plugin-sharp": "^3.14.0",
     "gatsby-plugin-sitemap": "^4.10.0",
     "gatsby-remark-audio": "^1.0.2",
+    "gatsby-remark-images": "^6.4.0",
     "gatsby-source-filesystem": "^3.14.0",
     "gatsby-transformer-remark": "^4.11.0",
     "gatsby-transformer-sharp": "^3.14.0",
