@@ -4,7 +4,7 @@ date: "2021-08-31T11:37:03+00:00"
 status: publish
 permalink: /javascript-community
 author: michaela
-excerpt: ""
+excerpt: "Tracy Lee, the CEO and co-founder of This Dot Labs, talks about starting and running a widely successful dev shop."
 type: post
 id: 121439
 thumbnail_alt: "Picture of podcast guest"
@@ -28,7 +28,7 @@ secondline_themes_header_image_id:
 post_header_image: ../uploads/2021/08/Tracy-Lee-Bg.jpg
 ---
 
-In this episode, I talk to Tracy Lee. Tracy is the CEO and co-founder of This Dot Labs, a widely successful dev shop. She is also a speaker, conference organizer, and blogger.
+Tracy Lee, the CEO and co-founder of This Dot Labs, talks about starting and running a widely successful dev shop. She is also a speaker, conference organizer, and blogger.
 
 **We talk about:**
 

@@ -1,10 +1,10 @@
 ---
-title: "Episode 37: Underrepresented, Underpaid, Undervalued: When only job-hopping advances your career"
+title: "Underrepresented, Underpaid, Undervalued: When only job-hopping advances your career"
 date: "2021-03-16T12:58:33+00:00"
 status: publish
 permalink: /underrepresented-underpaid-undervalued
 author: michaela
-excerpt: ""
+excerpt: "Jenn Creighton talks about her hurdles advancing her career as a woman in tech."
 type: post
 id: 121125
 thumbnail_alt: "Picture of podcast guest"
@@ -29,7 +29,7 @@ secondline_themes_disable_img:
   - "on"
 ---
 
-In this episode, I talk to Jenn Creighton. Jenn is a Senior Staff Engineer at Apollo. Jenn specialized in frontend-end development is currently working on the open-source work for Apollo GraphQL.  
+Jenn Creighton is a Senior Staff Engineer at Apollo. Jenn specialized in frontend-end development is currently working on the open-source work for Apollo GraphQL.  
 She also is a frequent conference speaker, an authoritative voice in tech, and recently started her own podcast called single-threaded
 
 **We talk about:**
@@ -41,20 +41,16 @@ She also is a frequent conference speaker, an authoritative voice in tech, and r
 
 ![](../uploads/2021/03/Jenn_Creigthon.jpg)
 
-### Today’s episode is sponsored by [Botany.io](https://www.botany.io) – Botany is a virtual coach for software engineers that unblocks essential teamwork and levels up careers!
+<div class="sponsorship">Today’s episode is sponsored by <a href="https://www.botany.io" rel="noopener noreferrer" target="_blank">Botany.io</a> – Botany is a virtual coach for software engineers that unblocks essential teamwork and levels up careers!</div>
 
 Links:
-
 - [Jenn’s Twitter](https://twitter.com/gurlcode)
 - [Jenn’s Podcast](https://anchor.fm/single-threaded)
 
 ### Subscribe on [iTunes](https://podcasts.apple.com/at/podcast/software-engineering-unlocked/id1477527378?l=en), [Spotify](https://open.spotify.com/show/2wz1OneBIDXpbBYeuyIsJL?si=2I0R0HuaTLK6RT0f7lDIFg), [Google](https://www.google.com/podcasts?feed=aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS9LMV9tdjBDSg%3D%3D), [Deezer](https://www.deezer.com/show/465682), or via [RSS](https://www.software-engineering-unlocked.com/subscribe/).
 
 ## Transcript
-
 _\[If you want, you can help make the transcript better, and improve the podcast’s accessibility via_ [Github](https://github.com/mgreiler/se-unlocked/tree/master/Transcripts)_[.](https://github.com/mgreiler/se-unlocked/tree/master/Transcripts) I’m happy to lend a hand to help you get started with pull requests, and open source work.\]_
-
-# Episode 37: Jenn Creighton
 
 **Michaela:** \[00:00:00\] Hello, and welcome to the software engineering unlocked podcast. I’m your host, Dr. McKayla, and today I have the pleasure to talk to Jenn Creighton, a staff engineer at Apollo.
 

@@ -4,7 +4,7 @@ date: "2021-05-04T08:27:45+00:00"
 status: publish
 permalink: /getting-ready-for-a-billion-dollar-business
 author: michaela
-excerpt: ""
+excerpt: "Max Stoiber explains how his work at GitHub prepared him to start his own billon-dollar business."
 type: post
 id: 121308
 thumbnail_alt: "Picture of podcast guest"
@@ -29,7 +29,7 @@ secondline_themes_disable_img:
   - "on"
 ---
 
-In this episode, I talk to Max Stoiber. Max is a JavaScript Engineer that is in love with React and Node, and also a fellow Austrian. He has a track record in the open-source world, worked for Gatsby, and Github, and also is a successful entrepreneur.
+Max Stoiber is a JavaScript Engineer that is in love with React and Node, and also a fellow Austrian. He has a track record in the open-source world, worked for Gatsby, and Github, and also is a successful entrepreneur.
 
 **We talk about:**
 
@@ -50,6 +50,8 @@ Links:
 - [Book: The Mum Test](https://www.amazon.com/Mom-Test-customers-business-everyone-ebook/dp/B01H4G2J1U/)
 
 ### Subscribe on [iTunes](https://podcasts.apple.com/at/podcast/software-engineering-unlocked/id1477527378?l=en), [Spotify](https://open.spotify.com/show/2wz1OneBIDXpbBYeuyIsJL?si=2I0R0HuaTLK6RT0f7lDIFg), [Google](https://www.google.com/podcasts?feed=aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS9LMV9tdjBDSg%3D%3D), [Deezer](https://www.deezer.com/show/465682), or via [RSS](https://www.software-engineering-unlocked.com/subscribe/).
+
+
 
 ## Transcript: Getting ready for a billion-dollar business
 
