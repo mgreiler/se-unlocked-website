@@ -8,12 +8,13 @@
   box-sizing: border-box;
 }
 a {
-  color: #6d8ae4;
+  color: #4054b2;
   text-decoration: none;
 }
 a:hover {
-  color: white;
+  text-decoration: underline;
   transition: 0.4s ease-in;
+  color: #263669;
 }
 .flex {
   display: flex;
@@ -320,11 +321,21 @@ footer h2 {
 .text-right {
   text-align: right;
 }
+
 .copy-rights {
   background-color: black;
   color: white;
   padding: 20px;
 }
+
+.copy-rights a:hover {
+  color: white;
+}
+
+.copy-rights a {
+  color: #bbb;
+}
+
 .pointer {
   cursor: pointer;
 }
