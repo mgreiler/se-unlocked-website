@@ -59,7 +59,7 @@ export default function Sponsorship() {
             <Col sm={12} md={6} lg={6}>
               <StaticImage
                 src="../images/tracy-2020.jpg"
-                alt="Michaela Greiler recording a show"
+                alt="Tracy Phillips sponsoring the podcast"
               />
             </Col>
             <Col sm={12} md={6} lg={6}>
@@ -268,7 +268,7 @@ export default function Sponsorship() {
               rel="noreferrer"
               className={styles.mr_5}
             >
-              <img src={rss} />
+              <img src={rss} alt="subscribe via RSS feed" />
             </a>
             <a
               href="https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS9LMV9tdjBDSg=="
@@ -276,7 +276,7 @@ export default function Sponsorship() {
               rel="noreferrer"
               className={styles.mr_5}
             >
-              <img src={pod} />
+              <img src={pod} alt="subscribe via Google podcasts" />
             </a>
             <a
               href="https://podcasts.apple.com/at/podcast/software-engineering-unlocked/id1477527378?l=en"
@@ -284,7 +284,7 @@ export default function Sponsorship() {
               rel="noreferrer"
               className={styles.mr_5}
             >
-              <img src={itunes} />
+              <img src={itunes} alt="subscribe via iTunes" />
             </a>
             <a
               href="https://twitter.com/se_unlocked"
@@ -292,7 +292,7 @@ export default function Sponsorship() {
               rel="noreferrer"
               className={styles.mr_5}
             >
-              <img src={twitter} />
+              <img src={twitter} alt="subscribe via Twitter" />
             </a>
             <a
               href="https://www.deezer.com/us/show/465682"
@@ -300,7 +300,7 @@ export default function Sponsorship() {
               rel="noreferrer"
               className={styles.mr_5}
             >
-              <img src={deezer} />
+              <img src={deezer} alt="subscribe via Deezer" />
             </a>
           </div>
         </div>

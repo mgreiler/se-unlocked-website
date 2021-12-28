@@ -87,35 +87,35 @@ export default function Home({ data }) {
               target="_blank"
               rel="noreferrer"
             >
-              <img src={rss} />
+              <img src={rss} alt="subscribe via RSS feed" />
             </a>
             <a
               href="https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS9LMV9tdjBDSg=="
               target="_blank"
               rel="noreferrer"
             >
-              <img src={pod} />
+              <img src={pod} alt="subscribe via Google podcast" />
             </a>
             <a
               href="https://podcasts.apple.com/at/podcast/software-engineering-unlocked/id1477527378?l=en"
               target="_blank"
               rel="noreferrer"
             >
-              <img src={itunes} />
+              <img src={itunes} alt="subscribe via iTunes" />
             </a>
             <a
               href="https://twitter.com/se_unlocked"
               target="_blank"
               rel="noreferrer"
             >
-              <img src={twitter} />
+              <img src={twitter} alt="subscribe via Twitter" />
             </a>
             <a
               href="https://www.deezer.com/us/show/465682"
               target="_blank"
               rel="noreferrer"
             >
-              <img src={deezer} />
+              <img src={deezer} alt="subscribe via Deezer" />
             </a>
           </div>
         </div>
