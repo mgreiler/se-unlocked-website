@@ -35,7 +35,15 @@ export default function Home({ data }) {
           </Row>
           <Row className="text-center">
             {posts.map((posts) => (
-              <Col sm={12} md={6} lg={4} xl={4} xxl={3} key={posts.id}>
+              <Col
+                sm={12}
+                md={6}
+                lg={6}
+                xl={4}
+                xxl={3}
+                key={posts.id}
+                className="post_list"
+              >
                 <Link to={posts.frontmatter.permalink} key={posts.id}>
                   <div className={styles.postList}>
                     <div className="postList_image">
@@ -45,7 +53,11 @@ export default function Home({ data }) {
                       />
                     </div>
                     <div className={styles.postList_content}>
-                      <audio controls preload="none">
+                      <audio
+                        controls
+                        preload="none"
+                        className={styles.postList_audio}
+                      >
                         <source src={posts.frontmatter.audio} />
                       </audio>
                       <h2 className={styles.episodeTitle}>
