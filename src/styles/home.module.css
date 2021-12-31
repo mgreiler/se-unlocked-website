@@ -149,7 +149,7 @@
   }
 
   .episodeExcerpt {
-    line-clamp: 4;
-    -webkit-line-clamp: 4;
+    line-clamp: 2;
+    -webkit-line-clamp: 2;
   }
 }
