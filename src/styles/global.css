@@ -1,4 +1,27 @@
 @import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;700&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400&display=swap');
+
+:root {
+  --primary-100: #d8dcf1;
+  --primary-200: #b0b9e3;
+  --primary-300: #8996d4;
+  --primary-400: #6173c6;
+  --primary-500: #4054B2;
+  --primary-600: #33438e;
+  --primary-700: #26326b;
+  --primary-800: #1a2247;
+  --primary-900: #0d1124;
+
+  --grey-100: #f7f9fc;
+  --grey-200: #e6eaf0;
+  --grey-300: #d0d7e2;
+  --grey-400: #a7afbc;
+  --grey-500: #7b8698;
+  --grey-600: #596579;
+  --grey-700: #374253;
+  --grey-800: #192638;
+  --grey-900: #0f1825;
+}
 
 * {
   text-decoration: none;
