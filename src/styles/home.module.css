@@ -19,76 +19,137 @@
   margin-bottom: 20px;
 }
 
-.btn {
-  display: inline-block;
-  background: blue;
-  padding: 10px 16px;
-  border-radius: 10px;
-  margin-top: 20px;
-  font-weight: 500;
+.episodes {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 24px 0;
+  background: var(--grey-100);
 }
 
-.postList {
-  border-radius: 4px;
-  border: 0.5px solid #dcdcdc;
-  background-color: white; /*royalblue;*/
-  margin: 40px 0px;
-  display: grid;
-  grid-template-columns: 1fr;
-  grid-gap: 0px;
-  box-shadow: 0px 3px 15px 0px rgb(0 0 0 / 15%);
+.episodes a:hover {
+  text-decoration: none;
 }
 
-.postList_content {
-  padding: 0.6em;
+.episodes h1 {
+  position: relative;
+  margin: 16px 0 8px;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 600;
+  letter-spacing: -0.5px;
+  line-height: 1.2;
+  text-transform: uppercase;
+  color: var(--primary-700);
 }
 
-.postList_audio {
-  padding-top: 0.4em;
+.episodes h1::after {
+  content: '';
+  position: absolute;
+  left: 40%;
+  bottom: -12px;
+  height: 4px;
+  width: 20%;
+  background: var(--primary-700);
+}
+
+.episodes ul {
+  margin: 0;
+  max-width: 960px;
+  padding: 0;
+}
+
+.episodeCard {
+  margin: 24px 16px;
+  display: flex;
+  flex-direction: column;
+  border-radius: 8px;
+  overflow: hidden;
+  list-style: none;
+  background: #fff;
+  box-shadow: 0 3px 5px -2px var(--grey-200), 0 7px 14px -5px var(--grey-200);
+  transition: transform ease-out .1s;
+}
+
+.episodeCard:hover {
+  box-shadow: 0 -1px 3px 0 var(--grey-200), 0 1px 2px -5px var(--grey-200), 0 2px 5px -5px var(--grey-200), 0 4px 12px -5px var(--grey-200), 0 12px 15px -5px var(--grey-200);
+  transform: scale(1.02);
+  transition: all ease-out .3s;
+}
+
+.episodeCard audio {
+  width: 100%;
+  margin-top: 24px;
+  border-radius: 64px;
+}
+
+.cardPicture > :global(.gatsby-image-wrapper) {
+  width: 100%;
+  aspect-ratio: 4/3;
+}
+
+.cardContent {
+  width: 100%;
+  box-sizing: border-box;
+  padding: 16px;
 }
 
 .episodeTitle {
-  margin-bottom: 30px;
-  color: #263669;
-  font-size: 24px;
-  font-weight: 500 !important;
+  margin: 8px 0 4px;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 600;
+  letter-spacing: -0.020em;
+  line-height: 1.67;
+  color: var(--primary-700);
 }
 
 .episodeExcerpt {
-  color: #263669;
-  font-size: 1.1em;
-  font-weight: 500 !important;
+  margin: 0;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  display: -webkit-box;
+  line-clamp: 4;
+  -webkit-line-clamp: 4;
+  -webkit-box-orient: vertical;
+  white-space: normal;
+  font-family: Lato, sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.875;
+  color: var(--grey-600);
 }
-@media screen and (max-width: 768px) {
-  .postList {
-    grid-template-columns: 1fr;
-    margin: 10px 5px;
+
+@media (min-width: 500px), screen and (orientation: landscape) {
+  .cardPicture > :global(.gatsby-image-wrapper) {
+    aspect-ratio: 21/9;
   }
-  .episodeTitle {
-    font-size: 1.5em !important;
+}
+
+@media all and (min-width: 768px) {
+  .episodeCard {
+    flex-direction: row;
+    min-height: 200px;
   }
+
+  .cardPicture > :global(.gatsby-image-wrapper) {
+    height: 100%;
+    width: 200px;
+  }
+
+  .cardContent {
+    padding: 16px 24px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+
+  .cardContent audio {
+    margin: auto 0 0;
+  }
+
   .episodeExcerpt {
-    font-size: 1.2em !important;
-  }
-  .postList_content {
-    padding: 0.6em !important;
-  }
-}
-@media screen and (max-width: 600px) {
-  .postList {
-    grid-template-columns: 1fr;
-  }
-}
-@media screen and (max-width: 1024px) {
-  .episodeTitle {
-    font-size: 1.7em;
-    max-width: 100%;
-    word-wrap: normal;
-  }
-  .episodeExcerpt {
-    font-size: 1.3em !important;
-  }
-  .postList_content {
-    padding: 0.6em;
+    line-clamp: 4;
+    -webkit-line-clamp: 4;
   }
 }

@@ -224,33 +224,6 @@ ul button:hover {
   top: 0;
 }
 
-.postList_image {
-  height: 275px;
-}
-
-.postList_image .gatsby-image-wrapper {
-  width: 100%;
-  min-width: 225px;
-}
-
-.postList_image .gatsby-image-wrapper img {
-  height: 275px;
-  border-top-left-radius: 4px;
-  border-bottom-left-radius: 4px;
-}
-
-@media screen and (max-width: 780px) {
-  .postList_image {
-    height: 225px;
-  }
-
-  .postList_image .gatsby-image-wrapper img {
-    height: 225px;
-    border-top-left-radius: 4px;
-    border-bottom-left-radius: 4px;
-  }
-}
-
 @media (min-width: 55.625em) {
   .headers li {
     float: left;
