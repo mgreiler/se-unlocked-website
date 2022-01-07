@@ -14,11 +14,13 @@ import "bootstrap/dist/css/bootstrap.min.css";
 import Col from "react-bootstrap/Col";
 import Row from "react-bootstrap/Row";
 import { Container } from "react-bootstrap";
+import Seo from "../components/seo";
 
 export default function Home({ data }) {
   const posts = data.allMarkdownRemark.nodes;
   return (
     <Layout>
+      <Seo title="Software Engineering Unlocked" />
       <section>
         <Container className="text-center fluid episodes-grid">
           <Row>
