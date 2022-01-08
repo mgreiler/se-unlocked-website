@@ -10,71 +10,40 @@ import deezer from "../images/deezer-blue-sm.png";
 import itunes from "../images/itunes-blue-sm.png";
 import twitter from "../images/twitter-logo-sm-blue.png";
 import "bootstrap/dist/css/bootstrap.min.css";
-
-import Col from "react-bootstrap/Col";
-import Row from "react-bootstrap/Row";
-import { Container } from "react-bootstrap";
 import Seo from "../components/seo";
 
 export default function Home({ data }) {
   const posts = data.allMarkdownRemark.nodes;
   return (
     <Layout>
-      <Seo title="Software Engineering Unlocked" />
-      <section>
-        <Container className="text-center fluid episodes-grid">
-          <Row>
-            <Col
-              sm={12}
-              md={12}
-              lg={12}
-              xl={12}
-              xxl={12}
-              className="grid-title"
-            >
-              <h1 className="text-center">Latest Episode</h1>
-            </Col>
-          </Row>
-          <Row className="text-center">
-            {posts.map((posts) => (
-              <Col
-                sm={12}
-                md={6}
-                lg={6}
-                xl={4}
-                xxl={3}
-                key={posts.id}
-                className="post_list"
-              >
-                <Link to={posts.frontmatter.permalink} key={posts.id}>
-                  <div className={styles.postList}>
-                    <div className="postList_image">
-                      <GatsbyImage
-                        image={getImage(posts.frontmatter.thumbnail)}
-                        alt={posts.frontmatter.permalink}
-                      />
-                    </div>
-                    <div className={styles.postList_content}>
-                      <audio
-                        controls
-                        preload="none"
-                        className={styles.postList_audio}
-                      >
-                        <source src={posts.frontmatter.audio} />
-                      </audio>
-                      <h2 className={styles.episodeTitle}>
-                        {posts.frontmatter.title}
-                      </h2>
-                      <p className={styles.episodeExcerpt}>
-                        {posts.frontmatter.excerpt}
-                      </p>
-                    </div>
-                  </div>
-                </Link>{" "}
-              </Col>
-            ))}
-          </Row>
-        </Container>
+    <Seo title="Software Engineering Unlocked" />
+      <section className={styles.episodes}>
+        <h1>Latest Episodes</h1>
+        <ul>
+          {posts.map((posts) => (
+            <li key={posts.id}>
+              <Link className={styles.episodeCard} to={posts.frontmatter.permalink} key={posts.id}>
+                <div className={styles.cardPicture}>
+                  <GatsbyImage
+                    image={getImage(posts.frontmatter.thumbnail)}
+                    alt={posts.frontmatter.permalink}
+                  />
+                </div>
+                <div className={styles.cardContent}>
+                  <h2 className={styles.episodeTitle}>
+                    {posts.frontmatter.title}
+                  </h2>
+                  <p className={styles.episodeExcerpt}>
+                    {posts.frontmatter.excerpt}
+                  </p>
+                  <audio controls preload="none">
+                    <source src={posts.frontmatter.audio} />
+                  </audio>
+                </div>
+              </Link>
+            </li>
+          ))}
+        </ul>
       </section>
       <section className="subscribe">
         <div className="subscribe-text">
