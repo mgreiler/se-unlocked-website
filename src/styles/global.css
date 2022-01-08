@@ -200,12 +200,13 @@ ul button:hover {
   display: none;
 }
 
+.headers .menu-btn:not(:checked) ~ .menu {
+  display: none;
+}
+
 .headers .menu-btn:checked ~ .menu {
   max-height: 35vh;
 }
-/* .headers .menu-btn:checked ~ .menu body {
-  background-color: red;
-} */
 
 .headers .menu-btn:checked ~ .menu-icon .navicon {
   background: transparent;
@@ -228,9 +229,9 @@ ul button:hover {
   .headers li {
     float: left;
   }
-  /* .headers li a {
-    padding: 20px 30px;
-  } */
+  .headers .menu-btn:not(:checked) ~ .menu {
+    display: initial;
+  }
   .headers .menu {
     clear: none;
     float: right;
