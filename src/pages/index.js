@@ -10,11 +10,13 @@ import deezer from "../images/deezer-blue-sm.png";
 import itunes from "../images/itunes-blue-sm.png";
 import twitter from "../images/twitter-logo-sm-blue.png";
 import "bootstrap/dist/css/bootstrap.min.css";
+import Seo from "../components/seo";
 
 export default function Home({ data }) {
   const posts = data.allMarkdownRemark.nodes;
   return (
     <Layout>
+    <Seo title="Software Engineering Unlocked" />
       <section className={styles.episodes}>
         <h1>Latest Episodes</h1>
         <ul>

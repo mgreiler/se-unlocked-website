@@ -2,6 +2,16 @@ module.exports = {
   siteMetadata: {
     siteUrl: "https://www.se-unlocked.com",
     title: "Software Engineering Unlocked",
+    author: {
+      name: `Dr. Michaela Greiler`,
+      summary: `who is obsessed with making code reviews your superpower.`,
+    },
+    description: `Everything you need to know about code reviews.`,
+    siteUrl: `https://awesomecodereviews.com/`,
+    social: {
+      twitter: `mgreiler`,
+    },
+    keywords: `code reviews, software quality, pull requests, peer reviews`,
   },
   plugins: [
     // {
@@ -29,7 +39,69 @@ module.exports = {
         trackingId: "UA-143793976-1",
       },
     },
+    {
+      resolve: `gatsby-plugin-feed`,
+      options: {
+        query: `
+          {
+            site {
+              siteMetadata {
+                title
+                description
+                siteUrl
+                site_url: siteUrl
+              }
+            }
+          }
+        `,
+        feeds: [
+          {
+            serialize: ({ query: { site, allMarkdownRemark } }) => {
+              return allMarkdownRemark.nodes.map((node) => {
+                return Object.assign({}, node.frontmatter, {
+                  description: node.excerpt,
+                  date: node.frontmatter.date,
+                  url: site.siteMetadata.siteUrl + node.frontmatter.permalink,
+                  guid: site.siteMetadata.siteUrl + node.frontmatter.permalink,
+                  custom_elements: [
+                    { "content:encoded": node.html },
+                    { audio: node.frontmatter.audio },
+                  ],
+                });
+              });
+            },
+            query: `
+              {
+                allMarkdownRemark(
+                  sort: { order: DESC, fields: [frontmatter___date] },
+                ) {
+                  nodes {
+                    excerpt
+                    html
+                    frontmatter {
+                      permalink
+                      date
+                      title
+                      excerpt
+                      audio
+                    }
+                  }
+                }
+              }
+            `,
+            output: "/rss.xml",
+            title: "SE Unlocked RSS Feed",
+          },
+        ],
+      },
+    },
     "gatsby-plugin-react-helmet",
+    {
+      resolve: `gatsby-plugin-react-helmet-canonical-urls`,
+      options: {
+        siteUrl: `https://www.software-engineering-unlocked.com`,
+      },
+    },
     "gatsby-plugin-sitemap",
     {
       resolve: "gatsby-plugin-manifest",
