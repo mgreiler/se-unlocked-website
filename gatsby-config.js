@@ -6,12 +6,12 @@ module.exports = {
       name: `Dr. Michaela Greiler`,
       summary: `who is obsessed with making code reviews your superpower.`,
     },
-    description: `Everything you need to know about code reviews.`,
-    siteUrl: `https://awesomecodereviews.com/`,
+    description: `Your Software Engineering Podcast.`,
+    siteUrl: `https://www.software-engineering-unlocked.com`,
     social: {
       twitter: `mgreiler`,
     },
-    keywords: `code reviews, software quality, pull requests, peer reviews`,
+    keywords: `tech podcast, software quality, code reviews, technology podcast, software engineering podcast, programming podcast`,
   },
   plugins: [
     // {
@@ -106,7 +106,7 @@ module.exports = {
     {
       resolve: "gatsby-plugin-manifest",
       options: {
-        icon: "src/images/icon.png",
+        icon: "src/images/Software_Engineering_Unlocked_FavIcon.png",
       },
     },
     {
