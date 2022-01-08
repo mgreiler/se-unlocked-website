@@ -51,6 +51,7 @@ export default function Footer() {
             href="https://www.facebook.com/seunlocked/"
             target="_blank"
             rel="noreferrer"
+            aria-label="Facebook link"
           >
             {" "}
             <FaFacebookSquare className="pointer" size={30} />{" "}
@@ -59,6 +60,7 @@ export default function Footer() {
             href="https://twitter.com/mgreiler"
             target="_blank"
             rel="noreferrer"
+            aria-label="Twitter link"
           >
             {" "}
             <FaTwitterSquare className="pointer" size={30} />
