@@ -19,8 +19,8 @@ export default function Home({ data }) {
         <h1>Latest Episodes</h1>
         <ul>
           {posts.map((posts) => (
-            <Link to={posts.frontmatter.permalink} key={posts.id}>
-              <li className={styles.episodeCard} key={posts.id}>
+            <li key={posts.id}>
+              <Link className={styles.episodeCard} to={posts.frontmatter.permalink} key={posts.id}>
                 <div className={styles.cardPicture}>
                   <GatsbyImage
                     image={getImage(posts.frontmatter.thumbnail)}
@@ -38,8 +38,8 @@ export default function Home({ data }) {
                     <source src={posts.frontmatter.audio} />
                   </audio>
                 </div>
-              </li>
-            </Link>
+              </Link>
+            </li>
           ))}
         </ul>
       </section>

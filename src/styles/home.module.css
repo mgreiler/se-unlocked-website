@@ -59,13 +59,18 @@
   padding: 0;
 }
 
+.episodes li {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
 .episodeCard {
   margin: 24px 16px;
   display: flex;
   flex-direction: column;
   border-radius: 8px;
   overflow: hidden;
-  list-style: none;
   background: #fff;
   box-shadow: 0 3px 5px -2px var(--grey-200), 0 7px 14px -5px var(--grey-200);
   transition: transform ease-out .1s;
