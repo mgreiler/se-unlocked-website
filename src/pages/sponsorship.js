@@ -121,8 +121,8 @@ export default function Sponsorship() {
             to book a package and profit from the discounted rates.
           </p>
           <ul>
-            <li>Multi-show 3+ appearances — €300 Euro per show</li>
-            <li>Multi-show 10+ appearances — €285 Euro per show</li>
+            <li>Multi-show 3+ appearances — €440 Euro per show</li>
+            <li>Multi-show 6+ appearances — €299 Euro per show</li>
             <li>Single show appearance — €650 Euro per show</li>
           </ul>
           <p>
@@ -165,8 +165,8 @@ export default function Sponsorship() {
               follow-up mentions as long as you are an active sponsor.
             </li>
             <li>
-              We currently only accept <span>one sponsor</span> per episode,
-              making sure you get all the spotlight.
+              We currently only accept <span>one external sponsor</span> per
+              episode, making sure you get all the spotlight.
             </li>
           </ul>
         </div>
