@@ -63,7 +63,7 @@ export default function GuestGuide() {
           keep us on track, and watch the time.
         </p>
 
-        <h2>Step 5: Promoting the episode 😎</h2>
+        <h2>Step 5: Promote the episode 😎</h2>
         <p>
           After the recording, my team will edit the episode and write the show
           notes. Depending on the podcast schedule, the show goes live either a
