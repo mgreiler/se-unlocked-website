@@ -1,13 +1,13 @@
 ---
-title: "Episode 32: Serverless is your competitive advantage"
+title: "Serverless is your competitive advantage"
 date: "2020-12-08T08:25:31+00:00"
 status: publish
 permalink: /serverless-competitive-advantage
 author: michaela
-excerpt: ""
+excerpt: "Nader Dabit explains how to use serverless technologies to have a competitive advantage and build MVPs faster."
 type: post
 id: 1474
-thumbnail_alt: "Picture of podcast guest"
+thumbnail_alt: "Picture of podcast guest Nader Dabit"
 thumbnail: ../uploads/2020/12/Nader_Dabit_Serverless.jpg
 category:
   - DevOps
@@ -27,7 +27,7 @@ _yoast_wpseo_content_score:
 audio: http://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/aaca909a-e34f-49ae-a86f-f59e4fa807f0/episodes/201c3afb-fea2-4662-bca0-88141aa91ab3/audio/1124f7e0-e429-41ab-9b49-f6be277973cc/default_tc.mp3
 ---
 
-In this episode, I talk to Nader Dabit. Nader is a web and mobile developer, who specializes in building cross-platform and cloud-enabled applications. Right now, he works at Amazon Web Services, where he develops features in the client team and improves developer experience. Before, he founded his own training company, specializing in React Native, and trained engineers from organizations such as Microsoft, Amazon, the US Army, and many more.
+Nader Dabit is a web and mobile developer, who specializes in building cross-platform and cloud-enabled applications. Right now, he works at Amazon Web Services, where he develops features in the client team and improves developer experience. Before, he founded his own training company, specializing in React Native, and trained engineers from organizations such as Microsoft, Amazon, the US Army, and many more.
 
 **We talk about:**
 
@@ -37,9 +37,7 @@ In this episode, I talk to Nader Dabit. Nader is a web and mobile developer, who
 - how to build an MVP using a serverless-first mindset,
 - and how frontend developers can leverage serverless technologies to become a full-stack developer.
 
-![](../uploads/2020/12/Nader_Dabit_Serverless.jpg)
-
-Today’s episode is sponsored by [CodeSubmit](https://codesubmit.io/) – the best take-home assignments for your tech hiring!
+<div class="sponsorship">Today’s episode is sponsored by <a href="https://codesubmit.io/" target="_blank" rel="noreferrer">CodeSubmit</a> – the best take-home assignments for your tech hiring!</div>
 
 Links:
 

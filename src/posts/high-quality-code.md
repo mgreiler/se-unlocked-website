@@ -4,7 +4,7 @@ date: "2021-05-19T08:13:52+00:00"
 status: publish
 permalink: /high-quality-code
 author: michaela
-excerpt: ""
+excerpt: "Liran Haimovitch and I talk about how to ensure high-quality code through effective debugging and code reviews."
 type: post
 id: 121334
 thumbnail_alt: "Picture of podcast guest"
@@ -30,7 +30,7 @@ secondline_themes_disable_img:
   - "on"
 ---
 
-In this episode, I talk to Liran Haimovitch, CTO of Rookout – an effortless debugging tool, about how to get to high-quality code.
+Liran Haimovitch, CTO of Rookout – an effortless debugging tool, and I talk about how to get to high-quality code.
 
 **We talk about:**
 
@@ -39,9 +39,9 @@ In this episode, I talk to Liran Haimovitch, CTO of Rookout – an effortless de
 - a lot about code reviews
 - and I also give you a glimpse of the research I’m currently doing.
 
-![](../uploads/2021/05/Liran-Haimovitch.jpg)
-
-Book your [awesomecodereview.com](https://www.michaelagreiler.com/workshops) workshop!
+<div class="sponsorship">
+Book your <a href="https://www.michaelagreiler.com/workshops">awesomecodereview.com</a> workshop!
+</div>
 
 Links:
 
@@ -58,9 +58,9 @@ _\[If you want, you can help make the transcript better, and improve the podcast
 
 **Michaela:** Hello and welcome to the software engineering unlocked podcast. I’m your host dr. Michaela and today I have a special episode for you. Two weeks ago I talked with Liran haimovitch,the CTO of Rookout – an effortless debugging tool. Our conversation was so much fun and somebody on Twitter asked me if I could make it an episode on, and i thought, that’s a brilliant idea. So, today I’m sharing my talk with Liran on the challenges and strategies for getting to high-quality software. Enjoy.
 
-<main data-pjax-container="" id="js-repo-pjax-container"></main>
+**maror:** \[00:00:00\] Um, hi everyone. And welcome to our webinar today on the secret to high quality code. We’re really excited to have you all here with us. Uh, so let me introduce you to Dr. McKayla and the stars of today’s webinar. Dr. McKayla has been helping software teams build high quality software in an efficient and effective way for 10 years. And her mission is to lead teams. So I’m up there full potential through company workshops and team coaching sessions. Leanne is the co-founder and CTO of workout, which is a live data collection and debugging platform. He’s an advocate of modern software methodologies like agile lean and DevOps, and his passion is to understand how software actually works. So when he’s not thinking of code, which is rarely usually diving, hiking, or writing a new workout blog. Um, and so before we get started, I just want to remind you all that we do have time for questions at the end of the webinar. So please don’t hesitate to leave questions in the question box and this will be recorded and we will be sending you the recording at the end. So. You’re on and McKayla, please take it away.
 
-<article>**maror:**\[00:00:00\] Um, hi everyone. And welcome to our webinar today on the secret to high quality code. We’re really excited to have you all here with us. Uh, so let me introduce you to Dr. McKayla and the stars of today’s webinar. Dr. McKayla has been helping software teams build high quality software in an efficient and effective way for 10 years. And her mission is to lead teams. So I’m up there full potential through company workshops and team coaching sessions. Leanne is the co-founder and CTO of workout, which is a live data collection and debugging platform. He’s an advocate of modern software methodologies like agile lean and DevOps, and his passion is to understand how software actually works. So when he’s not thinking of code, which is rarely usually diving, hiking, or writing a new workout blog. Um, and so before we get started, I just want to remind you all that we do have time for questions at the end of the webinar. So please don’t hesitate to leave questions in the question box and this will be recorded and we will be sending you the recording at the end. So. You’re on and McKayla, please take it away. **michaela:** \[00:01:02\] Thank you so much for your really nice and kind introduction. I’m really excited to talk with Liren today about, um, high quality code and get his whole perspective on this topic and pick his brain. So yeah, I’m really thrilled to be here. It’s
+**michaela:** \[00:01:02\] Thank you so much for your really nice and kind introduction. I’m really excited to talk with Liren today about, um, high quality code and get his whole perspective on this topic and pick his brain. So yeah, I’m really thrilled to be here. It’s
 
 **liran:**\[00:01:19\] great to be here with you discuss so many interesting topics.
 
@@ -154,5 +154,3 @@ other school last, and I’ll be happy to chat with you and share more about wha
 **michaela:**\[00:54:38\] Yeah. Thank you so much. Let’s refund.
 
 **liran:**\[00:54:41\] Thank you. Thank you.
-
-</article>Book your [awesomecodereview.com](https://www.michaelagreiler.com/workshops) workshop! Secure Code Review Workshops are coming soon too!

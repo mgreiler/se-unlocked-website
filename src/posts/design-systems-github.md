@@ -26,12 +26,12 @@ In this episode, I talk to Diana Mounter, the Director of Design Infrastructure 
 - how and why designers do code reviews,
 - and how GitHub strives for inclusive designs that make everyone feel like an expert.
 
-![](../uploads/2020/10/Diana_Full_Res.jpeg)
 
-Book your [awesomecodereview.com](https://www.michaelagreiler.com/workshops) workshop!
+<div class="sponsorship">
+Book your <a href="https://www.michaelagreiler.com/workshops">awesomecodereview.com</a> workshop!
+</div>
 
 Links:
-
 - [Diana’s website](https://broccolini.net/)
 - [Diana’s Twitter](https://twitter.com/broccolini)
 - [Design Systems at GitHub](https://medium.com/@broccolini/design-systems-at-github-c8e5378d2542)

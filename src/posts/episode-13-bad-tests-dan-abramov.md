@@ -1,13 +1,13 @@
 ---
-title: "Episode 13: Bad Tests Are Worse Than Product Issues with Dan Abramov"
+title: "Inside Facebook: Bad Tests Are Worse Than Product Issues with Dan Abramov"
 date: "2020-03-03T07:41:27+00:00"
 status: publish
 permalink: /episode-13-bad-tests-dan-abramov
 author: michaela
-excerpt: ""
+excerpt: "Dan Abramov talks about how he got into Facebook, and Facebook's development practices."
 type: post
 id: 983
-thumbnail_alt: "Picture of podcast guest"
+thumbnail_alt: "Picture of podcast guest Dan Abramov"
 thumbnail: ../uploads/2020/03/Dan.jpg
 category:
   - "Company Culture"
@@ -29,7 +29,7 @@ secondline_themes_disable_img:
   - "on"
 ---
 
-In this episode, I talk to Dan Abramov. Dan is a developer at Facebook, working on the popular JavaScript framework React. Dan is also one of the most well-known person in the whole front-end developer scene and recently started working on his new side-project JustJavaScript.
+Dan Abramov is a developer at Facebook and works on the popular JavaScript framework React. Dan is also one of the most well-known person in the whole front-end developer scene and recently started working on his new side-project JustJavaScript.
 
 **We talk about:**
 
@@ -38,7 +38,11 @@ In this episode, I talk to Dan Abramov. Dan is a developer at Facebook, working 
 - the development mentality and the development practices at Facebook,
 - and his new project JustJavaScript that helps intermediate developers to become JavaScript experts.
 
-![](../uploads/2020/03/Dan.jpg)### Subscribe on [iTunes](https://podcasts.apple.com/at/podcast/software-engineering-unlocked/id1477527378?l=en), [Spotify](https://open.spotify.com/show/2wz1OneBIDXpbBYeuyIsJL?si=2I0R0HuaTLK6RT0f7lDIFg), [Google](https://www.google.com/podcasts?feed=aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS9LMV9tdjBDSg%3D%3D), [Deezer](https://www.deezer.com/show/465682), or via [RSS](https://www.software-engineering-unlocked.com/subscribe/).
+<div class="sponsorship">
+Book your <a href="https://www.michaelagreiler.com/workshops">awesomecodereview.com</a> workshop!
+</div>
+
+### Subscribe on [iTunes](https://podcasts.apple.com/at/podcast/software-engineering-unlocked/id1477527378?l=en), [Spotify](https://open.spotify.com/show/2wz1OneBIDXpbBYeuyIsJL?si=2I0R0HuaTLK6RT0f7lDIFg), [Google](https://www.google.com/podcasts?feed=aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS9LMV9tdjBDSg%3D%3D), [Deezer](https://www.deezer.com/show/465682), or via [RSS](https://www.software-engineering-unlocked.com/subscribe/).
 
 **Links:**
 

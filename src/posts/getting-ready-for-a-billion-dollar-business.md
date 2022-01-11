@@ -38,9 +38,9 @@ Max Stoiber is a JavaScript Engineer that is in love with React and Node, and al
 - why building an indie or small lifestyle businesses is not his thing anymore,
 - and how he prepares to build a billion-dollar business.
 
-![](../uploads/2021/05/Max-Stoiber.jpg)
-
-Book your [awesomecodereview.com](https://www.michaelagreiler.com/workshops) workshop! Secure Code Review Workshops are coming soon too!
+<div class="sponsorship">
+Book your <a href="https://www.michaelagreiler.com/workshops">awesomecodereview.com</a> workshop!
+</div>
 
 Links:
 
@@ -50,8 +50,6 @@ Links:
 - [Book: The Mum Test](https://www.amazon.com/Mom-Test-customers-business-everyone-ebook/dp/B01H4G2J1U/)
 
 ### Subscribe on [iTunes](https://podcasts.apple.com/at/podcast/software-engineering-unlocked/id1477527378?l=en), [Spotify](https://open.spotify.com/show/2wz1OneBIDXpbBYeuyIsJL?si=2I0R0HuaTLK6RT0f7lDIFg), [Google](https://www.google.com/podcasts?feed=aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS9LMV9tdjBDSg%3D%3D), [Deezer](https://www.deezer.com/show/465682), or via [RSS](https://www.software-engineering-unlocked.com/subscribe/).
-
-
 
 ## Transcript: Getting ready for a billion-dollar business
 

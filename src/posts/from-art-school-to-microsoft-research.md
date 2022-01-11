@@ -1,13 +1,13 @@
 ---
-title: "Special Episode 25: From art school to Microsoft Research"
+title: "From art school to Microsoft Research"
 date: "2020-09-01T10:22:13+00:00"
 status: publish
 permalink: /from-art-school-to-microsoft-research
 author: michaela
-excerpt: ""
+excerpt: "Michaela Greiler shares her journey from finishing an art shool to work at Microsoft Research as software engineer."
 type: post
 id: 1242
-thumbnail_alt: "Picture of podcast guest"
+thumbnail_alt: "Picture of podcast guest Michaela Greiler"
 thumbnail: ../uploads/2020/09/Michaela-Greiler.jpg
 category:
   - "Company Culture"
@@ -29,7 +29,7 @@ _yoast_wpseo_content_score:
   - "60"
 ---
 
-In this episode, I talk to myself. Yeah, to celebrate the one year anniversary of the podcast, I tell you about my own journey into tech, and my experiences working at Microsoft and Microsoft Research. I share with you the turning points in my career and also how and why I started my own business.
+To celebrate the one year anniversary of the podcast, I tell you about my own journey into tech, and my experiences working at Microsoft and Microsoft Research. I share with you the turning points in my career and also how and why I started my own business.
 
 **I talk about:**
 
@@ -38,9 +38,9 @@ In this episode, I talk to myself. Yeah, to celebrate the one year anniversary o
 - and why I transitioned to remote work.
 - Finally, I talk about starting my own business because of the need for more flexibility to combine family and work.
 
-![](../uploads/2020/09/Michaela-Greiler.jpg)
-
-### Subscribe on [iTunes](https://podcasts.apple.com/at/podcast/software-engineering-unlocked/id1477527378?l=en), [Spotify](https://open.spotify.com/show/2wz1OneBIDXpbBYeuyIsJL?si=2I0R0HuaTLK6RT0f7lDIFg), [Google](https://www.google.com/podcasts?feed=aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS9LMV9tdjBDSg%3D%3D), [Deezer](https://www.deezer.com/show/465682), or via [RSS](https://www.software-engineering-unlocked.com/subscribe/).
+<div class="sponsorship">
+Book your <a href="https://www.michaelagreiler.com/workshops">awesomecodereview.com</a> workshop!
+</div>
 
 Links:
 
@@ -48,7 +48,11 @@ Links:
 - My upcoming code review book: [codereviewbook.io](http://codereviewbook.io/)
 - [My Twitter Profile](https://twitter.com/mgreiler)
 
-Transcript:
+
+### Subscribe on [iTunes](https://podcasts.apple.com/at/podcast/software-engineering-unlocked/id1477527378?l=en), [Spotify](https://open.spotify.com/show/2wz1OneBIDXpbBYeuyIsJL?si=2I0R0HuaTLK6RT0f7lDIFg), [Google](https://www.google.com/podcasts?feed=aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS9LMV9tdjBDSg%3D%3D), [Deezer](https://www.deezer.com/show/465682), or via [RSS](https://www.software-engineering-unlocked.com/subscribe/).
+
+
+## Transcript:
 
 Hello, and welcome to the software engineering unlocked podcast. I’m your host, Dr. McKayla. And today is a special episode. Yeah, the software engineering unlocked podcast turned one. And to celebrate the one year anniversary – and can you imagine it’s already one year – I thought I will tell you a little bit about myself.
 

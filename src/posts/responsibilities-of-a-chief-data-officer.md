@@ -38,7 +38,6 @@ Patrick Wagstrom is the Chief Data Officer at Brightcove. Before that Patrick wa
 - data governance and GDPR,
 - and how to make sure your AI model is unbiased.
 
-![](../uploads/2021/08/Patrick.jpg)
 
 <div class="sponsorship">Book your <a href="https://www.michaelagreiler.com/workshops">awesomecodereview.com</a> workshop!</a>
 

@@ -1,13 +1,13 @@
 ---
-title: "Episode 30: How I got into FAANG companies without a CS degree"
+title: "How I got into FAANG companies without a CS degree"
 date: "2020-11-10T07:27:28+00:00"
 status: publish
 permalink: /faang-job-without-cs-degree
 author: michaela
-excerpt: ""
+excerpt: "Ben Lesh, a senior software engineer, explains how he got into Google and Netflix without a CS degree."
 type: post
 id: 1415
-thumbnail_alt: "Picture of podcast guest"
+thumbnail_alt: "Picture of podcast guest Ben Lesh"
 thumbnail: ../uploads/2020/11/ben.jpg_small.jpg
 category:
   - "Company Culture"
@@ -27,7 +27,7 @@ secondline_themes_header_image_id:
 post_header_image: ../uploads/2020/11/BenLeshBg.jpg
 ---
 
-In this episode, I talk to Ben Lesh. Ben is a Senior Software engineer at Citadel Securities. Before that, Ben worked amongst other companies, at Google and Netflix. Ben is also the Project Lead for RxJS. RxJS is a library for composing asynchronous and event-based programs by using observable sequences.
+Ben Lesh, a Senior Software engineer at Citadel Securities explains how he got into Google and Netflix without a CS degree. Ben is also the Project Lead for RxJS. RxJS is a library for composing asynchronous and event-based programs by using observable sequences.
 
 **We talk about:**
 
@@ -37,9 +37,9 @@ In this episode, I talk to Ben Lesh. Ben is a Senior Software engineer at Citade
 - the differences in engineering practices at Google, Netflix, and Citadel Securities, and
 - what RX.js is and why you might need it.
 
-![](../uploads/2020/11/ben.jpg_small.jpg)
-
-Book your [awesomecodereview.com](https://www.michaelagreiler.com/workshops) workshop!
+<div class="sponsorship">
+Book your <a href="https://www.michaelagreiler.com/workshops">awesomecodereview.com</a> workshop!
+</div>
 
  <iframe frameborder="no" height="200px" scrolling="no" seamless="" src="https://player.simplecast.com/2ec3af9e-9a17-4ccd-95df-0e9b1a03ecc6?dark=false" width="100%"></iframe>
 

@@ -4,7 +4,7 @@ date: "2019-07-13T10:35:30+00:00"
 status: publish
 permalink: /teaser-software-engineering-unlocked
 author: michaela
-excerpt: ""
+excerpt: "Dr. McKayla opens you the doors to software companies such as Microsoft, Google or Facebook, and interviews her guests about how to build high-quality software."
 type: post
 id: 369
 thumbnail_alt: "Picture of podcast guest"

@@ -1,13 +1,13 @@
 ---
-title: "Episode 27: How I got a job at Spotify during a pandemic - Emma Bostian"
+title: "How I got a job at Spotify during a pandemic - Emma Bostian"
 date: "2020-09-29T09:23:55+00:00"
 status: publish
 permalink: /job-at-spotify
 author: michaela
-excerpt: ""
+excerpt: "Emma Bostian shares how she got a job at Spotify and what it means to move countries during a pandemic."
 type: post
 id: 1292
-thumbnail_alt: "Picture of podcast guest"
+thumbnail_alt: "Picture of podcast guest Emma Bostian"
 thumbnail: ../uploads/2020/09/emma_s.jpg
 category:
   - "Company Culture"
@@ -27,7 +27,7 @@ _yoast_wpseo_content_score:
   - "30"
 ---
 
-In this episode, I talk to Emma Bostian, who recently started as a software engineer at Spotify. And Emma is the kind of person, that not only applies and interviews for jobs, but at the same time writes a complete book about her interviewing experience hunting for this dream job. This book sold so well, that she could pay back all her medical debt. Before joining Spotify, she worked for LogMeIn, and IBM. She won competitions and moved countries several times.
+Emma Bostian shares how she got a job at Spotify and what it means to move countries during a pandemic. Emma is the kind of person, that not only applies and interviews for jobs, but at the same time writes a complete book about her interviewing experience hunting for this dream job. This book sold so well, that she could pay back all her medical debt. Before joining Spotify, she worked for LogMeIn, and IBM. She won competitions and moved countries several times.
 
 **We talk about:**
 
@@ -35,8 +35,6 @@ In this episode, I talk to Emma Bostian, who recently started as a software engi
 - her experience moving countries during a global pandemic,
 - what makes for a great onboarding experience and
 - how we can take action to make sure workplaces are friendly and welcoming.
-
-![](../uploads/2020/09/emma_s.jpg)
 
 ### Subscribe on [iTunes](https://podcasts.apple.com/at/podcast/software-engineering-unlocked/id1477527378?l=en), [Spotify](https://open.spotify.com/show/2wz1OneBIDXpbBYeuyIsJL?si=2I0R0HuaTLK6RT0f7lDIFg), [Google](https://www.google.com/podcasts?feed=aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS9LMV9tdjBDSg%3D%3D), [Deezer](https://www.deezer.com/show/465682), or via [RSS](https://www.software-engineering-unlocked.com/subscribe/).
 
@@ -49,7 +47,11 @@ Links:
   - [Blog post](https://news.ncsu.edu/2020/07/tech-job-interviews-anxiety/)
   - [Research Paper](http://chrisparnin.me/pdf/stress_FSE_20.pdf)
 
-Book your [awesomecodereview.com](https://www.michaelagreiler.com/workshops) workshop!
+
+<div class="sponsorship">
+Book your <a href="https://www.michaelagreiler.com/workshops">awesomecodereview.com</a> workshop!
+</div>
+
 
  <iframe frameborder="no" height="200px" scrolling="no" seamless="" src="https://player.simplecast.com/cb179ff0-0388-478d-a570-8d7d28f6f23c?dark=false" width="100%"></iframe>
 

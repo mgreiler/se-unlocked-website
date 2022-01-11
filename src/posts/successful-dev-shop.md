@@ -1,10 +1,10 @@
 ---
-title: "Episode 16: Running A Successful Dev Shop with Martin Gratzer"
+title: "Running A Successful Dev Shop with Martin Gratzer"
 date: "2020-04-14T05:57:03+00:00"
 status: publish
 permalink: /successful-dev-shop
 author: michaela
-excerpt: ""
+excerpt: "Martin Gratzer shares how he managed to build a striving development agency far way from Silicon Valey."
 type: post
 id: 1112
 thumbnail_alt: "Picture of podcast guest"
@@ -28,7 +28,7 @@ secondline_themes_disable_img:
   - "on"
 ---
 
-In this episode, I talk to Martin Gratzer, CEO, and founder of Topmind. Topmind is a successful boutique dev shop in the heart of Carinthia in Austria. Martin shares with me, how he managed to build a striving development agency far way from Silicon Valey and other tech hot spots.
+Martin Gratzer, CEO and founder of Topmind, shares how he managed to build a striving development agency far way from Silicon Valey and other tech hot spots. Topmind is a successful boutique dev shop in the heart of Carinthia in Austria. 
 
 **We talk about:**
 
@@ -38,7 +38,10 @@ In this episode, I talk to Martin Gratzer, CEO, and founder of Topmind. Topmind 
 - what he advises others that want to freelance or build up the dev shop,
 - and behind the scenes info on what it means to develop software as an agency.
 
-![](../uploads/2020/04/Gratzer-Martin.jpg)
+<div class="sponsorship">
+Book your <a href="https://www.michaelagreiler.com/workshops">awesomecodereview.com</a> workshop!
+</div>
+
 
 ### Subscribe on [iTunes](https://podcasts.apple.com/at/podcast/software-engineering-unlocked/id1477527378?l=en), [Spotify](https://open.spotify.com/show/2wz1OneBIDXpbBYeuyIsJL?si=2I0R0HuaTLK6RT0f7lDIFg), [Google](https://www.google.com/podcasts?feed=aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS9LMV9tdjBDSg%3D%3D), [Deezer](https://www.deezer.com/show/465682), or via [RSS](https://www.software-engineering-unlocked.com/subscribe/).
 

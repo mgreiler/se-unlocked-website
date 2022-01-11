@@ -1,13 +1,13 @@
 ---
-title: "Episode 36: From Bootcamp straight into a full-time dev role"
+title: "Getting a full-time dev role straight out of Bootcamp"
 date: "2021-02-16T13:37:17+00:00"
 status: publish
 permalink: /from-bootcamp-to-dev-role
 author: michaela
-excerpt: ""
+excerpt: "Natalie Davis shares how she got hired as a full time developer right after graduating from a Bootcamp."
 type: post
 id: 120811
-thumbnail_alt: "Picture of podcast guest"
+thumbnail_alt: "Picture of Natalie Davis"
 thumbnail: ../uploads/2021/02/natalie_davis.jpg
 category:
   - "Company Culture"
@@ -28,7 +28,7 @@ _yoast_wpseo_content_score:
   - "30"
 ---
 
-In this episode, I talk to Natalie Davis. Natalie is a recent Bootcamp graduate that managed to get hired quickly after graduating. She is vividly sharing her knowledge on Twitter and started to make real waves in the dev community within just one and a half years in tech.
+Natalie Davis, a recent Bootcamp graduate, shares how she managed to get hired right after graduating from a Bootcamp. She is vividly sharing her knowledge on Twitter and started to make real waves in the dev community within just one and a half years in tech.
 
 **We talk about:**
 
@@ -38,9 +38,8 @@ In this episode, I talk to Natalie Davis. Natalie is a recent Bootcamp graduate 
 - how she decides to adopt best practices,
 - and how to overcome rejections by staying positive and focusing on growth.
 
-![](../uploads/2021/02/natalie_davis.jpg)
 
-### Today’s episode is sponsored by [ConfigCat](https://configcat.com/) – your favorite feature flag management tool to release more frequently with fewer risks!
+<div class="sponsorship">Today’s episode is sponsored by <a href="https://configcat.com/" target="_blank" rel="noreferrer">ConfigCat</a> – your favorite feature flag management tool to release more frequently with less risks!</div>
 
 <iframe frameborder="no" height="200px" scrolling="no" seamless="" src="https://player.simplecast.com/c6efc56d-1f37-4764-8b82-50b4e91ce8fc?dark=false" width="100%"></iframe>
 

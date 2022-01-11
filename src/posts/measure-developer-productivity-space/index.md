@@ -24,7 +24,9 @@ We talk about:
 - Developer experience as a different mindset to improve developer performance
 - The SPACE framework, which focuses on giving a well-rounded understanding of developer productivity. of
 
-<div class="sponsorship">Book your awesomecodereview.com workshop!</div>
+<div class="sponsorship">
+Book your <a href="https://www.michaelagreiler.com/workshops">awesomecodereview.com</a> workshop!
+</div>
 
 Links:
 

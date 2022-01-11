@@ -1,13 +1,13 @@
 ---
-title: "Episode 10: Done playing Microsoft's corporate game with Suz Hinton"
+title: "Done playing Microsoft's corporate game with Suz Hinton"
 date: "2020-01-21T05:16:50+00:00"
 status: publish
 permalink: /episode-10-no-corporate-games
 author: michaela
-excerpt: ""
+excerpt: "Suz Hinton talks about her transition from Microsoft to Stripe, mentoring and advancing one’s career and live coding."
 type: post
 id: 82
-thumbnail_alt: "Picture of podcast guest"
+thumbnail_alt: "Picture of podcast guest Suz Hinton"
 thumbnail: ../uploads/2020/01/Suz-Hinton.jpg
 category:
   - "Company Culture"
@@ -28,7 +28,7 @@ _yoast_wpseo_content_score:
   - "90"
 ---
 
-In this episode, I talk to Suz Hinton, about her transition from Microsoft to Stripe, mentoring and advancing one’s career and live coding.
+Suz Hinton talks about her transition from Microsoft to Stripe, mentoring and advancing one’s career and live coding.
 
 **We talk about:**
 
@@ -39,7 +39,9 @@ In this episode, I talk to Suz Hinton, about her transition from Microsoft to St
 - and about her style of mentoring junior developers.
 - Finally, Suz tells me all there is to know about live coding.
 
-![](../uploads/2020/01/Suz-Hinton.jpg)
+<div class="sponsorship">
+Book your <a href="https://www.michaelagreiler.com/workshops">awesomecodereview.com</a> workshop!
+</div>
 
 ### Subscribe on [iTunes](https://podcasts.apple.com/at/podcast/software-engineering-unlocked/id1477527378?l=en), [Spotify](https://open.spotify.com/show/2wz1OneBIDXpbBYeuyIsJL?si=2I0R0HuaTLK6RT0f7lDIFg), [Google](https://www.google.com/podcasts?feed=aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS9LMV9tdjBDSg%3D%3D), [Deezer](https://www.deezer.com/show/465682), or via [RSS](https://www.software-engineering-unlocked.com/subscribe/).
 

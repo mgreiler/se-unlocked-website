@@ -1,13 +1,13 @@
 ---
-title: "Episode 15: How to Succeed in Building Developer Tooling with Peter Pezaris"
+title: "How to succeed building developer tooling with Peter Pezaris"
 date: "2020-03-31T08:58:46+00:00"
 status: publish
 permalink: /episode-15-successful-dev-tooling-peter-pezaris
 author: michaela
-excerpt: ""
+excerpt: "Peter Pezaris shares his 25 years-long journey building tech startups and developer tools."
 type: post
 id: 1088
-thumbnail_alt: "Picture of podcast guest"
+thumbnail_alt: "Picture of podcast guest Peter Pezaris"
 thumbnail: ../uploads/2020/03/peter.jpg
 category:
   - "Company Culture"
@@ -29,7 +29,7 @@ secondline_themes_header_image_id:
 post_header_image: ../uploads/2020/03/peter_bg.jpg
 ---
 
-In this episode, I talk to Peter Pezaris. Peter is the CEO and co-founder of a start-up called [CodeStream](https://www.codestream.com). What’s interesting about Peter’s story is that CodeStream isn’t his first startup. CodeStream is one of the many companies Peter built. So, in this interview, we talk about his 25 years-long journey building tech startups and what he has learned along the way.
+Peter Pezaris, the CEO and co-founder of a start-up called [CodeStream](https://www.codestream.com), talks about his 25 years-long journey building tech startups and developer tools. What’s interesting about Peter’s story is that CodeStream isn’t his first startup. CodeStream is one of the many companies Peter built. 
 
 **We talk about:**
 
@@ -39,7 +39,11 @@ In this episode, I talk to Peter Pezaris. Peter is the CEO and co-founder of a s
 - how he was able to build a team that stuck with him through four different startups,
 - and his advice for first-time founders.
 
-![](../uploads/2020/03/peter.jpg)### Subscribe on [iTunes](https://podcasts.apple.com/at/podcast/software-engineering-unlocked/id1477527378?l=en), [Spotify](https://open.spotify.com/show/2wz1OneBIDXpbBYeuyIsJL?si=2I0R0HuaTLK6RT0f7lDIFg), [Google](https://www.google.com/podcasts?feed=aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS9LMV9tdjBDSg%3D%3D), [Deezer](https://www.deezer.com/show/465682), or via [RSS](https://www.software-engineering-unlocked.com/subscribe/).
+<div class="sponsorship">
+Book your <a href="https://www.michaelagreiler.com/workshops">awesomecodereview.com</a> workshop!
+</div>
+
+### Subscribe on [iTunes](https://podcasts.apple.com/at/podcast/software-engineering-unlocked/id1477527378?l=en), [Spotify](https://open.spotify.com/show/2wz1OneBIDXpbBYeuyIsJL?si=2I0R0HuaTLK6RT0f7lDIFg), [Google](https://www.google.com/podcasts?feed=aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS9LMV9tdjBDSg%3D%3D), [Deezer](https://www.deezer.com/show/465682), or via [RSS](https://www.software-engineering-unlocked.com/subscribe/).
 
 **Links:**
 

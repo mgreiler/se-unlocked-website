@@ -7,7 +7,7 @@ author: michaela
 excerpt: "Tomasz Łakomy, a senior frontend engineer at OLX Group, tells us everything about how to use war rooms to combat technical debt."
 type: post
 id: 1453
-thumbnail_alt: "Picture of podcast guest"
+thumbnail_alt: "Picture of podcast guest Tomasz Łakomy"
 thumbnail: ../uploads/2020/11/tomasz_lakomi.jpg
 category: ["Company Culture", "Hiring", "Productivity", "Testing"]
 tag: []
@@ -25,8 +25,6 @@ In this episode, I talk to Tomasz Łakomy, a senior frontend engineer at OLX Gro
 - how he managed to create over 170 video tutorials about software engineering,
 - why he is AWS certified as a front-end engineer, and
 - how skydiving helped him to be a better software developer.
-
-![](../uploads/2020/11/tomasz_lakomi.jpg)
 
 <div class="sponsorship"> Today’s episode is sponsored by <a href="https://codesubmit.io/" target="_blank" rel="noreferrer" >CodeSubmit</a> – the best take-home assignments for your tech hiring! </div>
 

@@ -1,13 +1,13 @@
 ---
-title: "Episode 11: Making Gatsby easy to understand with Laurie Barth"
+title: "Making Gatsby easy to understand with Laurie Barth"
 date: "2020-02-04T10:05:36+00:00"
 status: publish
 permalink: /episode-11-staff-engineer-gatsby
 author: michaela
-excerpt: ""
+excerpt: "Laurie Barth shares how she got a staff software engineer at Gatsby and her work as an open-source maintainer."
 type: post
 id: 939
-thumbnail_alt: "Picture of podcast guest"
+thumbnail_alt: "Picture of podcast guest Laurie Barth"
 thumbnail: ../uploads/2020/02/Laurie-Barth.jpg
 category:
   - "Company Culture"
@@ -30,7 +30,7 @@ _yoast_wpseo_content_score:
   - "30"
 ---
 
-In this episode, I talk to Laurie Barth, a staff software engineer at Gatsby. Laurie is also a vivid conference speaker, tech blogger, and egghead instructor.
+Laurie Barth, a staff software engineer at Gatsby shares how she got a position at Gatsby. Laurie is also a vivid conference speaker, tech blogger, and egghead instructor.
 
 **We talk about:**
 
@@ -39,7 +39,9 @@ In this episode, I talk to Laurie Barth, a staff software engineer at Gatsby. La
 - code reviews and making sure to give valuable feedback
 - and growing a Twitter following.
 
-![](../uploads/2020/02/Laurie-Barth.jpg)
+<div class="sponsorship">
+Book your <a href="https://www.michaelagreiler.com/workshops">awesomecodereview.com</a> workshop!
+</div>
 
 ### Subscribe on [iTunes](https://podcasts.apple.com/at/podcast/software-engineering-unlocked/id1477527378?l=en), [Spotify](https://open.spotify.com/show/2wz1OneBIDXpbBYeuyIsJL?si=2I0R0HuaTLK6RT0f7lDIFg), [Google](https://www.google.com/podcasts?feed=aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS9LMV9tdjBDSg%3D%3D), [Deezer](https://www.deezer.com/show/465682), or via [RSS](https://www.software-engineering-unlocked.com/subscribe/).
 

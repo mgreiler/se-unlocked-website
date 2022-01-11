@@ -30,7 +30,10 @@ In this episode, I talk with Cassidy Williams, a senior software engineer that w
 - how humor can make tech a more welcoming place
 - and how she interviewed for CodePen
 
-![](../uploads/2019/07/face11.jpg)
+<div class="sponsorship">
+Book your <a href="https://www.michaelagreiler.com/workshops">awesomecodereview.com</a> workshop!
+</div>
+
 
 ### Subscribe on
 

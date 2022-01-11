@@ -1,13 +1,13 @@
 ---
-title: "Episode 33: From intern to CEO with agile testing expert Alex Schladebeck"
+title: "From intern to CEO with agile testing expert Alex Schladebeck"
 date: "2020-12-22T06:35:35+00:00"
 status: publish
 permalink: /intern-ceo-agile-testing
 author: michaela
-excerpt: ""
+excerpt: "Alex Schladebeck shared how she transitioned from an intern position to become the CEO of a large dev shop."
 type: post
 id: 1513
-thumbnail_alt: "Picture of podcast guest"
+thumbnail_alt: "Picture of Alex Schladebeck"
 thumbnail: ../uploads/2020/12/alex_bearbeitet.jpg
 category:
   - "Company Culture"
@@ -27,7 +27,7 @@ secondline_themes_disable_img:
 audio: http://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/aaca909a-e34f-49ae-a86f-f59e4fa807f0/episodes/79768797-91b9-4d4b-8088-35b4c3f705a5/audio/1f5fb905-dcfb-45cc-a057-d9635532cbee/default_tc.mp3
 ---
 
-In this episode, I talk to Alex Schladebeck, a testing expert, and a powerful voice in the tech community. Alex is the CEO of Bredex, a dev shop that offers tailor-made IT solutions but also specializes in quality assurance and testing.
+Alex Schladebeck, a testing expert and powerful voice in the tech community, shared how she transitioned from intern to CEO of a dev shop. Alex is the CEO of Bredex, a dev shop that offers tailor-made IT solutions but also specializes in quality assurance and testing.
 
 A decade ago, Alex graduated in linguistic and came into tech by accident. So, I obviously have to ask her about her career transition, and testing.
 
@@ -39,9 +39,8 @@ A decade ago, Alex graduated in linguistic and came into tech by accident. So, I
 - how mob or ensemble programming is used to facilitate learning
 - how to lead remote software teams
 
-![](../uploads/2020/12/alex_bearbeitet.jpg)
 
-Today’s episode is sponsored by [CodeSubmit](https://codesubmit.io/) – the best take-home assignments for your tech hiring!
+<div class="sponsorship">Today’s episode is sponsored by <a href="https://codesubmit.io/" target="_blank" rel="noreferrer">CodeSubmit</a> – the best take-home assignments for your tech hiring!</div>
 
 Links:
 

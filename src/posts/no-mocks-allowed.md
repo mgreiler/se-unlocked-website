@@ -1,13 +1,13 @@
 ---
-title: "Episode 29: No mocks allowed: A testing discussion with Kent C. Dodds"
+title: "No mocks allowed: A testing discussion with Kent C. Dodds"
 date: "2020-10-27T09:34:21+00:00"
 status: publish
 permalink: /no-mocks-allowed
 author: michaela
-excerpt: ""
+excerpt: "Kent C. Dodds, creator of the widely used open-source testing-library, explains why using mocks during testing is dangerous. "
 type: post
 id: 1395
-thumbnail_alt: "Picture of podcast guest"
+thumbnail_alt: "Picture of podcast guest Kent C. Dodds"
 thumbnail: ../uploads/2020/08/Kent.jpg
 category:
   - "Open Source"
@@ -24,7 +24,7 @@ secondline_themes_header_image_id:
 post_header_image: ../uploads/2020/08/Kent-Doods-Bg.jpg
 ---
 
-In this episode, I talk to Kent C. Dodds, a software engineer, and teacher. Before starting his entrepreneurial journey, Kent has been working for PayPal. He is a major open source contributor and also the creator and maintainer of the widely used open-source testing-library.
+Kent C. Dodds, creator of the widely used open-source testing-library, explains why using mocks during testing is dangerous. Before starting his entrepreneurial journey, Kent has been working for PayPal. He is a major open source contributor and also the creator and maintainer of the widely used open-source testing-library.
 
 Code that he writes is used by millions of people around the world, and he also teaches thousands of engineers how to test their JavaScript systems, and how to work with React.
 
@@ -34,9 +34,7 @@ We talk about:
 - how “testing library” helps create more meaningful and maintainable tests,
 - if and how manual testing is still needed to increase your confidence in the software system.
 
-![](../uploads/2020/08/Kent.jpg)
-
-Become a sponsor of the show: [Sponsor Us](https://www.software-engineering-unlocked.com/sponsor-us/) ❤
+<div class="sponsorship">Become <a href="https://www.software-engineering-unlocked.com/sponsor-us/">a sponsor of the show</a> and reach thousands of quality driven software Engineers ❤.</div>
 
 **Links:**
 

@@ -1,13 +1,13 @@
 ---
-title: "Episode 12: Starting a Profitable Business in Six Weeks with Courtland Allen"
+title: "Start a Profitable Business in Six Weeks with Courtland Allen"
 date: "2020-02-18T08:48:10+00:00"
 status: publish
 permalink: /episode-12-profitable-business-courtland-allen
 author: michaela
-excerpt: ""
+excerpt: "Courtland Allen shares how he started a profitable business in six weeks."
 type: post
 id: 964
-thumbnail_alt: "Picture of podcast guest"
+thumbnail_alt: "Picture of podcast guest Courtland Allen"
 thumbnail: ../uploads/2020/02/courtland.jpg
 category:
   - Startup
@@ -25,7 +25,7 @@ secondline_themes_header_image_id:
 post_header_image: ../uploads/2020/02/Courtland-bg..png
 ---
 
-In this episode, I talk to [Courtland Allen](https://twitter.com/csallen), the founder, and chief-indie hacker of the Indie Hacker community. After many years of trial and error, Courtland launched the widely successful [indie hacker community](https://www.indiehackers.com/) and the [indie hacker podcast](https://www.indiehackers.com/podcast).
+[Courtland Allen](https://twitter.com/csallen), the founder and chief-indie hacker of the Indie Hacker community, shares how he started a profitable business in six weeks. After many years of trial and error, Courtland launched the widely successful [indie hacker community](https://www.indiehackers.com/) and the [indie hacker podcast](https://www.indiehackers.com/podcast).
 
 **We talk about:**
 
@@ -34,7 +34,11 @@ In this episode, I talk to [Courtland Allen](https://twitter.com/csallen), the f
 - why he wanted to code as little as possible, and still coded as much as possible
 - his four-phase success plan for kick-starting a profitable community-based business.
 
-![](../uploads/2020/02/courtland.jpg)
+<div class="sponsorship">
+Book your <a href="https://www.michaelagreiler.com/workshops">awesomecodereview.com</a> workshop!
+</div>
+
+
 
 ### Subscribe on [iTunes](https://podcasts.apple.com/at/podcast/software-engineering-unlocked/id1477527378?l=en), [Spotify](https://open.spotify.com/show/2wz1OneBIDXpbBYeuyIsJL?si=2I0R0HuaTLK6RT0f7lDIFg), [Google](https://www.google.com/podcasts?feed=aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS9LMV9tdjBDSg%3D%3D), [Deezer](https://www.deezer.com/show/465682), or via [RSS](https://www.software-engineering-unlocked.com/subscribe/).
 

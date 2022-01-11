@@ -1,13 +1,13 @@
 ---
-title: "Episode 23: Wearing many hats &#8211; From Sysadmin to Developer to Solution Architect at Red Hat"
+title: "From Sysadmin to Developer to Solution Architect at Red Hat"
 date: "2020-08-04T06:17:12+00:00"
 status: publish
 permalink: /sysadmin-to-solution-architect
 author: michaela
-excerpt: ""
+excerpt: "Angela Andrews shares how she transitioned into the role of a solution architect at Red Hat. "
 type: post
 id: 1217
-thumbnail_alt: "Picture of podcast guest"
+thumbnail_alt: "Picture of podcast guest Angela Andrews"
 thumbnail: ../uploads/2020/08/Angela_Scooter.jpg
 category:
   - "Company Culture"
@@ -29,7 +29,7 @@ post_header_image: ../uploads/2020/08/Angela-Andrews-Bg.jpg
 audio: http://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/aaca90/aaca909a-e34f-49ae-a86f-f59e4fa807f0/f3b7dbb9-70fc-458f-9af8-1a58c3d240a4/angela-andrews-readyy_tc.mp3
 ---
 
-In this episode, I talk to Angela Andrews, a solution architect at Red Hat. Angela is a curious learner who has worn many hats over the last +20 years in the tech industry.
+Angela Andrews shares how she transitioned into the role of a solution architect at Red Hat. Angela is a curious learner who has worn many hats over the last +20 years in the tech industry.
 
 **We talk about:**
 
@@ -39,7 +39,6 @@ In this episode, I talk to Angela Andrews, a solution architect at Red Hat. Ange
 - She also shares why she has a wall of different certifications,
 - and started a bunch of different learning circles and communities that help people learn to program and reach their goals.
 
-![](../uploads/2020/08/Angela_Scooter.jpg)
 
 ### Subscribe on [iTunes](https://podcasts.apple.com/at/podcast/software-engineering-unlocked/id1477527378?l=en), [Spotify](https://open.spotify.com/show/2wz1OneBIDXpbBYeuyIsJL?si=2I0R0HuaTLK6RT0f7lDIFg), [Google](https://www.google.com/podcasts?feed=aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS9LMV9tdjBDSg%3D%3D), [Deezer](https://www.deezer.com/show/465682), or via [RSS](https://www.software-engineering-unlocked.com/subscribe/).
 
