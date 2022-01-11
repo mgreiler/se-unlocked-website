@@ -26,9 +26,7 @@ In this episode, I talk to Matt Biilmann. Matt Matt is the CEO and co-founder of
 - how he envisions the collaborative software development of the future,
 - and the acquisition of FeaturePeek.
 
-![](../uploads/2021/08/matt_2.jpg)
-
-Today’s episode is sponsored by [CodeSubmit](https://codesubmit.io/) – the best take-home assignments for your tech hiring!
+<div class="sponsorship"> Today’s episode is sponsored by <a href="https://codesubmit.io/" target="_blank" rel="noreferrer" >CodeSubmit</a> – the best take-home assignments for your tech hiring! </div>
 
 Links:
 

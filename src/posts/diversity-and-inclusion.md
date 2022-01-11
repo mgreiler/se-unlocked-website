@@ -7,7 +7,7 @@ author: michaela
 excerpt: "Trier Bryant and Kim Scott, the founders of Just Work, tell us how we can create more equitable workplaces."
 type: post
 id: 121474
-thumbnail_alt: "Picture of podcast guest"
+thumbnail_alt: "Picture of podcast guests Trier Bryant and Kim Scott"
 thumbnail: ../uploads/2021/09/Just-Work-Co-Founders.jpeg
 category: ["Company Culture", Productivity, "Women in Tech"]
 tag: []
@@ -32,9 +32,7 @@ Kim Scott is the author of both successful books: Just Work and Radical Candor. 
 - the framework for diversity and inclusion they developed
 - and how engineering teams can be more inclusive.
 
-![](../uploads/2021/09/Just-Work-Co-Founder-Logo.jpg)
-
-Today’s episode is sponsored by [CodeSubmit](https://codesubmit.io/) – the best take-home assignments for your tech hiring!
+<div class="sponsorship"> Today’s episode is sponsored by <a href="https://codesubmit.io/" target="_blank" rel="noreferrer" >CodeSubmit</a> – the best take-home assignments for your tech hiring! </div>
 
 Links:
 

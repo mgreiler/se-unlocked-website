@@ -37,9 +37,7 @@ Tracy Lee, the CEO and co-founder of This Dot Labs, talks about starting and run
 - how she founded a successful development shop,
 - her advice in terms of a marketing-driven versus product-driven startup launch.
 
-![](../uploads/2021/08/Tracy-Lee.jpg)
-
-Today’s episode is sponsored by [CodeSubmit](https://codesubmit.io/) – the best take-home assignments for your tech hiring!
+<div class="sponsorship"> Today’s episode is sponsored by <a href="https://codesubmit.io/" target="_blank" rel="noreferrer" >CodeSubmit</a> – the best take-home assignments for your tech hiring! </div>
 
 Links:
 
