@@ -162,6 +162,14 @@ module.exports = {
     {
       resolve: "gatsby-source-filesystem",
       options: {
+        name: "transcripts",
+        path: "./src/transcripts/",
+      },
+      __key: "transcripts",
+    },
+    {
+      resolve: "gatsby-source-filesystem",
+      options: {
         name: "pages",
         path: "./src/pages/",
       },

@@ -18,14 +18,24 @@ export default function PostsDetails({ data }) {
     sc_audio,
   } = data.markdownRemark.frontmatter;
 
+  const { transcript } = data
+
   let audio_player
   if (sc_audio) {
-    audio_player = (<iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless src={sc_audio}></iframe>)
+    audio_player = (<iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless src={sc_audio} title={title}></iframe>)
   } else {
     audio_player = <audio controls preload="none">
           <source src={audio} />
         </audio>
   }
+
+  let transcript_html
+  if (transcript) {
+    transcript_html = (<div dangerouslySetInnerHTML={{ __html: transcript.html }} />)
+  } else {
+    transcript_html = (<p>Transcript coming soon...</p>)
+  }
+
   return (
     <Layout>
       <Container>
@@ -35,6 +45,7 @@ export default function PostsDetails({ data }) {
         </audio> */}
         {audio_player}
         <h1 className={styles.podcast_details}>{title}</h1>
+       
         <div>
           {/* <div>
           <GatsbyImage image={getImage(thumbnail)} alt={permalink} />
@@ -47,6 +58,7 @@ export default function PostsDetails({ data }) {
             /> */}
             {/* {<div dangerouslySetInnerHTML={{ __html: html }} />} */}
             {<div dangerouslySetInnerHTML={{ __html: html }} />}
+                    {transcript_html}
           </div>
         </div>
       </Container>
@@ -82,6 +94,11 @@ export const query = graphql`
         audio
         sc_audio
       }
+    }
+
+    transcript: markdownRemark(
+    frontmatter: {type: {eq: "transcript"}, permalink: {eq: $permalink}}) {
+    html
     }
   }
 `;
