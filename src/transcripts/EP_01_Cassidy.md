@@ -1,13 +1,9 @@
 ---
-title: "Driving innovation through engineering practices with Dr. Holly Cummins"
-date: "2021-09-28T08:10:10+00:00"
+episode: "Transcript Episode 1 Cassidy Williams"
+permalink: /episode-1-cassidy-williams
 status: publish
-permalink: /javascript-community
 type: transcript
 ---
-
-
-# Transcript Episode 1 Cassidy Williams
 
 **Michaela:** [00:00:00] Hello, and welcome to the Software Engineering Unlocked 
 podcast. I'm your host, Dr. McKayla and I open the doors to software companies 

@@ -95,3 +95,5 @@ How can Scott be so productive? What is his secret sauce to productivity, and wh
 Has Scott had a master plan to be as successful as he is today? (30:25)
 
 Scott answers a question from a listener on the importance of DevOps as a engineering practices and wether companies should invest in this practice or not? (32:20)
+
+## Read the whole episode "" (Transcript):

@@ -90,3 +90,5 @@ In this episode, I talk to Leif Singer, an engineer at the fully remote company 
   - Leif describes that at Automattic, they actually have no titles and that switching from an engineering role to a manager role isn’t considered a promotion. Somehow promotions and pay raise work quite different here. I like it.
 - How diverse is the technical workforce at Automattic? (44:56)
   - Leif says also Automattic isn’t as diverse as they want to be. They struggle with similar problems other tech companies struggle with. But they do actively work towards getting more diverse. How? Well, they are present at events with diverse set of participants, they hire without requiring you to show your face, and by having a very hiring committee that consists of at least 50% women.
+
+## Transcript:

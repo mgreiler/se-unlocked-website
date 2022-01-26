@@ -123,3 +123,5 @@ In this episode, I talk to Sandeep Panda, CEO and Founder of Hashnode, a friendl
 - Is there some budget that people can spend like on books or conferences to learn? (48:34)
 - What are the books you are looking forward to reading? (49:18)
 - Do you have some ideas on how AI can bring your developer community to the next level? (49:42)
+
+## Transcript: 

@@ -83,3 +83,5 @@ So, how did Alper get the first customer? From their personal network, he explai
 Alper also talks about their investors and their relationships. In fact, they are very involved in the company. (38:23)
 
 Did they have troubles hiring for their startup and how did they overcome those challenges? (41:45)
+
+## Transcript:

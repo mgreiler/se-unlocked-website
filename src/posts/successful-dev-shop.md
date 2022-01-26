@@ -28,7 +28,7 @@ secondline_themes_disable_img:
   - "on"
 ---
 
-Martin Gratzer, CEO and founder of Topmind, shares how he managed to build a striving development agency far way from Silicon Valey and other tech hot spots. Topmind is a successful boutique dev shop in the heart of Carinthia in Austria. 
+Martin Gratzer, CEO and founder of Topmind, shares how he managed to build a striving development agency far way from Silicon Valey and other tech hot spots. Topmind is a successful boutique dev shop in the heart of Carinthia in Austria.
 
 **We talk about:**
 
@@ -41,7 +41,6 @@ Martin Gratzer, CEO and founder of Topmind, shares how he managed to build a str
 <div class="sponsorship">
 Book your <a href="https://www.michaelagreiler.com/workshops">awesomecodereview.com</a> workshop!
 </div>
-
 
 ### Subscribe on [iTunes](https://podcasts.apple.com/at/podcast/software-engineering-unlocked/id1477527378?l=en), [Spotify](https://open.spotify.com/show/2wz1OneBIDXpbBYeuyIsJL?si=2I0R0HuaTLK6RT0f7lDIFg), [Google](https://www.google.com/podcasts?feed=aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS9LMV9tdjBDSg%3D%3D), [Deezer](https://www.deezer.com/show/465682), or via [RSS](https://www.software-engineering-unlocked.com/subscribe/).
 
@@ -67,3 +66,5 @@ I hope you enjoy this interview as much as I did.
 Best,
 
 McKayla
+
+## Transcript:
