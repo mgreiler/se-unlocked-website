@@ -15,14 +15,25 @@ export default function PostsDetails({ data }) {
     permalink,
     post_header_image,
     audio,
+    sc_audio,
   } = data.markdownRemark.frontmatter;
+
+  let audio_player
+  if (sc_audio) {
+    audio_player = (<iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless src={sc_audio}></iframe>)
+  } else {
+    audio_player = <audio controls preload="none">
+          <source src={audio} />
+        </audio>
+  }
   return (
     <Layout>
       <Container>
         {/* <GatsbyImage image={getImage(post_header_image)} alt={permalink} /> */}
-        <audio controls preload="none">
+        {/* <audio controls preload="none">
           <source src={audio} />
-        </audio>
+        </audio> */}
+        {audio_player}
         <h1 className={styles.podcast_details}>{title}</h1>
         <div>
           {/* <div>
@@ -69,6 +80,7 @@ export const query = graphql`
         }
         thumbnail_alt
         audio
+        sc_audio
       }
     }
   }
