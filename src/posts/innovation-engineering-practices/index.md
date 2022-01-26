@@ -19,40 +19,47 @@ _yoast_wpseo_content_score:
   - "30"
 ---
 
-<div class="container">
-<div class="row">
-<div class="col-lg-8 order-sm-last order-md-first">
-Dr. Holly Cummins was the development practice lead for IBM Garage for Cloud, before becoming an innovation leader in IBM’s corporate strategy team. She drives innovation for companies in various industries, such as banking, catering, retail, or even nonprofit organization. She is also a Java Champion, a JavaOne Rockstar, a published author, and a regular and vivid speaker.
-</div><div class="col-sm-12 col-lg-4"><img src="../../uploads/2021/09/Dr-Holly-Cummins.jpg" alt="Picture of Dr. Cummins"/></div>
+<div class="episode-about">
+    In this episode, Dr. Holly Cummins explains how to create an environment where innovations can thrive.
+    <br/> <br/>We also talk about:
+    <ul>
+        <li>  What it takes to drive innovation in an organization</li>
+        <li>  Test-driven development (TDD)</li>
+        <li>  Ensuring a healthy and welcoming company culture</li>
+        <li> The benefits of pair programming</li>
+    </ul>
 </div>
+<div class=" episode-links">
+<b>Episode Resources:</b><br/>
+    <a href="https://hollycummins.com/">Website of Dr. Holly Cummins</a><br/>
+    <a href="https://twitter.com/holly_cummins">Twitter profile of Dr. Holly Cummins</a><br/>
+    <a href="https://medium.com/ibm-garage/when-tdd-gets-hard-fc14136c3f44">Dr. Holly Cummins talking about TDD</a><br/>
 </div>
 
-[Dr Holly](./Dr-Holly-Cummins.jpg)
 
-**We talk about:**
+<div class="row pt-2 align-items-center">
+    <div class="col-4 guest-picture">
+    <img src="Dr-Holly-Cummins.jpg" alt="Dr. Holly Cummins"/>
+    </div>
+    <div class="col-8 guest-about">
+    <b>About Dr. Holly Cummins</b><br/>
+      Dr. Holly Cummins was the development practice lead for IBM Garage for Cloud, before becoming an innovation leader in IBM’s corporate strategy team. She drives innovation for companies in various industries, such as banking, catering, retail, or even nonprofit organization. She is also a Java Champion, a JavaOne Rockstar, a published author, and a regular and vivid speaker.
+    </div>
+</div>
 
-- What it takes to drive innovation in an organization
-- Test-driven development (TDD)
-- Ensuring a healthy and welcoming company culture
-- The benefits of Pair programming
+
+
 
 <div class="sponsorship">This episode is <a href="https://www.ibm.com" target="_blank" rel="noopener noreferrer">sponsored by IBM</a> – where innovation and transformation come together.</div>
 
-Links:
 
-- [Website of Dr. Holly Cummins](https://hollycummins.com/)
-- [Twitter profile of Dr. Holly Cummins](https://twitter.com/holly_cummins)
-- [Dr. Holly Cummins talking about TDD](https://medium.com/ibm-garage/when-tdd-gets-hard-fc14136c3f44)
+## Read the whole episode "Driving innovation through engineering practices" (Transcript):
 
-### Subscribe on [iTunes](https://podcasts.apple.com/at/podcast/software-engineering-unlocked/id1477527378?l=en), [Spotify](https://open.spotify.com/show/2wz1OneBIDXpbBYeuyIsJL?si=2I0R0HuaTLK6RT0f7lDIFg), [Google](https://www.google.com/podcasts?feed=aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS9LMV9tdjBDSg%3D%3D), [Deezer](https://www.deezer.com/show/465682), or via [RSS](https://www.software-engineering-unlocked.com/subscribe/).
-
-## Transcript:
-
-_\[If you want, you can help make the transcript better, and improve the podcast’s accessibility via_ [Github](https://github.com/mgreiler/se-unlocked/tree/master/Transcripts)_[.](https://github.com/mgreiler/se-unlocked/tree/master/Transcripts) I’m happy to lend a hand to help you get started with pull requests, and open source work.\]_
+_\[Improve this transcript on [Github](https://github.com/mgreiler/se-unlocked/tree/master/Transcripts)_[.](https://github.com/mgreiler/se-unlocked/tree/master/Transcripts)\]
 
 <main data-pjax-container="" id="js-repo-pjax-container"></main>
 
-<article>**Michaela:** Hello and welcome to the software engineering unlocked podcast. I’m your host, Dr. Mckayla and today I have the pleasure to talk to Dr. Holly Cummins. This episode is sponsored by IBM. IBM not only produces and sells hardware, middleware and software, but also offers hosting and consulting services. The part that is the most interesting to me, is that IBM is also an active research organization, and an enabler for innovation and transformation. One interesting business area is called the IBM garage – which focuses on accelerating digital transformation, by helping people generate innovative ideas while it also equips them with the practices, technologies and expertise needed to rapidly turn those ideas into business value. Dr. Cummins was the development practice lead for IBM Garage for Cloud, before becoming an innovation leader in IBM’s corporate strategy team. She drives innovation for companies in various industries, such as banking, catering, retail or even nonprofit organization. She is also a Java Champion, a JavaOne Rockstar, a published author and a regular and vivid speaker. So what should I say? I’m super thrilled to have Dr. Holly Collins here with me today. Holly, welcome to the show.
+**Michaela:** Hello and welcome to the software engineering unlocked podcast. I’m your host, Dr. Mckayla and today I have the pleasure to talk to Dr. Holly Cummins. This episode is sponsored by IBM. IBM not only produces and sells hardware, middleware and software, but also offers hosting and consulting services. The part that is the most interesting to me, is that IBM is also an active research organization, and an enabler for innovation and transformation. One interesting business area is called the IBM garage – which focuses on accelerating digital transformation, by helping people generate innovative ideas while it also equips them with the practices, technologies and expertise needed to rapidly turn those ideas into business value. Dr. Cummins was the development practice lead for IBM Garage for Cloud, before becoming an innovation leader in IBM’s corporate strategy team. She drives innovation for companies in various industries, such as banking, catering, retail or even nonprofit organization. She is also a Java Champion, a JavaOne Rockstar, a published author and a regular and vivid speaker. So what should I say? I’m super thrilled to have Dr. Holly Collins here with me today. Holly, welcome to the show.
 
 \[00:00:56\] **Holly:** Thank you so much. It’s yeah, I’m really looking forward to our chat.
 
@@ -163,4 +170,3 @@ _\[If you want, you can help make the transcript better, and improve the podcast
 
 \[00:43:32\] **Michaela:** Yeah. It was really fun.
 
-</article>

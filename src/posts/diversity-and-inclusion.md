@@ -18,31 +18,40 @@ audio: https://cdn.simplecast.com/audio/aaca909a-e34f-49ae-a86f-f59e4fa807f0/epi
 post_header_image: ../uploads/2021/09/Just-Work-Kim-Scott-Trier-Bryant-Bg-2.jpg
 ---
 
-In this episode, I talk to Trier Bryant and Kim Scott who co-founded the company Just Work which helps organizations and individuals create more equitable workplaces.
+<div class="episode-about">
+      In this episode, I talk to Trier Bryant and Kim Scott who co-founded the company Just Work which helps organizations and individuals create more equitable workplaces.
+    <br/> <br/>We also talk about:
+    <ul>
+      <li>how they both landed in tech</li>
+      <li>their diverse and exciting background</li>
+      <li>how to counter bias, prejudice and bullying in the workplace</li>
+      <li>the framework for diversity and inclusion they developed</li>
+      <li>and how engineering teams can be more inclusive.</li>
+    </ul>
+</div>
+<div class=" episode-links">
+<b>Episode Resources:</b><br/>
+    <a href="https://www.amazon.com/gp/product/1250203481/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1250203481&linkCode=as2&tag=mgreiler-20&linkId=de1fb52b5f8f81f04603aa0196d15ec4">The book: Just Work: How to Root Out Bias, Prejudice, and Bullying to Build a Kick-Ass Culture of Inclusivity</a><br/>
+    <a href="https://twitter.com/kimballscott">Kim Scott’s Twitter</a><br/>
+    <a href="https://twitter.com/trier?lang=en">Brian Trier’s Twitter</a><br/>
+    <a href="https://www.justworktogether.com/">Company Website Just Work</a><br/>
+</div>
 
-Trier Bryant is a strategic executive leader with distinctive Tech, Wall Street, and military experience spanning over 15 years and the CEO of Just Work. She’s previously worked at Astra, Twitter, Goldman Sachs, and led engineering teams in the United States Air Force, where she already also drove diversity, equity, and inclusion (DEI) initiatives.
 
-Kim Scott is the author of both successful books: Just Work and Radical Candor. Kim was a CEO coach at Dropbox, Qualtrics, Twitter, and other tech companies. She was a member of the faculty at Apple University and before that led AdSense, YouTube, and DoubleClick teams at Google.
-
-**We talk about:**
-
-- how they both landed in tech
-- their diverse and exciting background
-- how to counter bias, prejudice and bullying in the workplace
-- the framework for diversity and inclusion they developed
-- and how engineering teams can be more inclusive.
+<div class="row pt-2 align-items-center">
+    <div class="col-4 guest-picture">
+    <img src="../uploads/2021/09/Just-Work-Co-Founders.jpeg" alt="Kim Scott and Brient Trier from Just Work"/>
+    </div>
+    <div class="col-8 guest-about">
+    <b>About Trier Bryant and Kim Scott</b><br/>
+        Trier Bryant is a strategic executive leader with distinctive Tech, Wall Street, and military experience spanning over 15 years and the CEO of Just Work. 
+        Kim Scott is the author of both successful books: Just Work and Radical Candor. Kim was a CEO coach at Dropbox, Qualtrics, Twitter, and other tech companies. 
+      </div>
+</div>
 
 <div class="sponsorship"> Today’s episode is sponsored by <a href="https://codesubmit.io/" target="_blank" rel="noreferrer" >CodeSubmit</a> – the best take-home assignments for your tech hiring! </div>
 
-Links:
+## Read the complete episode "Better collaboration & performance through diversity and inclusion" (Transcript):
 
-- The book:[Just Work: How to Root Out Bias, Prejudice, and Bullying to Build a Kick-Ass Culture of Inclusivity](https://www.amazon.com/gp/product/1250203481/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1250203481&linkCode=as2&tag=mgreiler-20&linkId=de1fb52b5f8f81f04603aa0196d15ec4)
-- [Kim Scott’s Twitter](https://twitter.com/kimballscott)
-- [Brian Trier’s Twitter](https://twitter.com/trier?lang=en)
-- [Company Website Just Work](https://www.justworktogether.com/)
+_\[Improve this transcript on [Github](https://github.com/mgreiler/se-unlocked/tree/master/Transcripts)_[.](https://github.com/mgreiler/se-unlocked/tree/master/Transcripts)\]
 
-### Subscribe on [iTunes](https://podcasts.apple.com/at/podcast/software-engineering-unlocked/id1477527378?l=en), [Spotify](https://open.spotify.com/show/2wz1OneBIDXpbBYeuyIsJL?si=2I0R0HuaTLK6RT0f7lDIFg), [Google](https://www.google.com/podcasts?feed=aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS9LMV9tdjBDSg%3D%3D), [Deezer](https://www.deezer.com/show/465682), or via [RSS](https://www.software-engineering-unlocked.com/subscribe/).
-
-## Transcript:
-
-_\[If you want, you can help make the transcript better, and improve the podcast’s accessibility via_ [Github](https://github.com/mgreiler/se-unlocked/tree/master/Transcripts)_[.](https://github.com/mgreiler/se-unlocked/tree/master/Transcripts) I’m happy to lend a hand to help you get started with pull requests, and open source work.\]_

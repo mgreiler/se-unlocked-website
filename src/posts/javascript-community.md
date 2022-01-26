@@ -1,5 +1,5 @@
 ---
-title: "Falling in love with the JavaScript community"
+title: "Running a widely successful dev shop without a CS degree"
 date: "2021-08-31T11:37:03+00:00"
 status: publish
 permalink: /javascript-community
@@ -28,26 +28,40 @@ secondline_themes_header_image_id:
 post_header_image: ../uploads/2021/08/Tracy-Lee-Bg.jpg
 ---
 
-Tracy Lee, the CEO and co-founder of This Dot Labs, talks about starting and running a widely successful dev shop. She is also a speaker, conference organizer, and blogger.
+<div class="episode-about">
+Tracy Lee talks about starting and running a widely successful dev shop. 
+    <br/> <br/>We also talk about:
+    <ul>
+        <li>how she dared to start her first start-up as soon as right out of college,</li>
+        <li>how she learned to program and fall in love with JavaScript and the community,</li>
+        <li>how she founded a successful development shop,</li>
+        <li>her advice in terms of a marketing-driven versus product-driven startup launch.</li>
+    </ul>
+</div>
+<div class=" episode-links">
+<b>Episode Resources:</b><br/>
+<a href="https://twitter.com/ladyleet)"> Tracy's Twitter</a><br/>
+<a href="https://www.](https://www.linkedin.com/in/tracyslee/">Tracy's Linkedin</a><br/>
+<a href="https://www.ladyleet.com/">Tracy's personal Website</a><br/>
+<a href="https://www.ladyleet.com/">This Dot Labs Website</a><br/>
+</div>
 
-**We talk about:**
 
-- how she dared to start her first start-up as soon as right out of college,
-- how she learned to program and fall in love with JavaScript and the community,
-- how she founded a successful development shop,
-- her advice in terms of a marketing-driven versus product-driven startup launch.
+<div class="row pt-2 align-items-center">
+    <div class="col-4 guest-picture">
+    <img src="../uploads/2021/08/Tracy-Lee.jpg" alt="Tracy Lee Founder of This Dot Labs"/>
+    </div>
+    <div class="col-8 guest-about">
+    <b>About Dr. Holly Cummins</b><br/>
+      Tracy Lee is the CEO and co-founder of This Dot Labs. She is also a speaker, conference organizer, blogger, and widely known in the JavaScript community.
+    </div>
+</div>
+
 
 <div class="sponsorship"> Today’s episode is sponsored by <a href="https://codesubmit.io/" target="_blank" rel="noreferrer" >CodeSubmit</a> – the best take-home assignments for your tech hiring! </div>
 
-Links:
 
-- Twitter: [https://twitter.com/<wbr>ladyleet</wbr>](https://twitter.com/ladyleet)
-- Linkedin: [https://www.](https://www.linkedin.com/in/tracyslee/)[linkedin.com/in/tracyslee/](https://www.linkedin.com/in/tracyslee/)
-- Personal Website: [https://www.ladyleet.<wbr>com/</wbr>](https://www.ladyleet.com/)
-- [This Dot Labs Website: ](https://www.ladyleet.com/)[https://www.thisdot.<wbr>co/</wbr>](https://www.thisdot.co/)[ ](https://www.ladyleet.com/)
 
-### Subscribe on [iTunes](https://podcasts.apple.com/at/podcast/software-engineering-unlocked/id1477527378?l=en), [Spotify](https://open.spotify.com/show/2wz1OneBIDXpbBYeuyIsJL?si=2I0R0HuaTLK6RT0f7lDIFg), [Google](https://www.google.com/podcasts?feed=aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS9LMV9tdjBDSg%3D%3D), [Deezer](https://www.deezer.com/show/465682), or via [RSS](https://www.software-engineering-unlocked.com/subscribe/).
+## Read the complete episode "Running a widely successful dev shop without a CS degree" (Transcript):
 
-## Transcript: Running a widely successful dev shop without a CS degree.
-
-_\[If you want, you can help make the transcript better, and improve the podcast’s accessibility via_ [Github](https://github.com/mgreiler/se-unlocked/tree/master/Transcripts)_[.](https://github.com/mgreiler/se-unlocked/tree/master/Transcripts) I’m happy to lend a hand to help you get started with pull requests, and open source work.\]_
+_\[Improve this transcript on [Github](https://github.com/mgreiler/se-unlocked/tree/master/Transcripts)_[.](https://github.com/mgreiler/se-unlocked/tree/master/Transcripts)\]

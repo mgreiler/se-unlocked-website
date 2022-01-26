@@ -5,8 +5,8 @@
 }
 
 h2 {
-  font-size: 2em;
-  font-weight: 400;
+  font-size: 1.5em;
+  font-weight: 600;
   margin-top: 40px;
   padding: auto;
 }
@@ -18,6 +18,10 @@ h2 {
 
 .episode_details {
   padding-top: 1em;
+}
+
+audio {
+margin-top: 2em;
 }
 
 @media screen and (max-width: 600px) {

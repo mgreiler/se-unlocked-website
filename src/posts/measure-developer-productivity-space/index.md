@@ -16,26 +16,43 @@ post_header_image: /Margaret-Anne-Storey-background.jpg
 audio: https://cdn.simplecast.com/audio/aaca909a-e34f-49ae-a86f-f59e4fa807f0/episodes/5f2f49ae-1df9-4c13-9a52-670548e10892/audio/f557f044-ac96-40a4-b6b4-f8f215a1a81b/default_tc.mp3
 ---
 
-Dr. Storey explains how to best use the SPACE framework to measure the productivity of software engineering teams. Dr. Storey is a Professor of Computer Science at the University of Victoria and a distinguished expert in empirical software engineering.
 
-We talk about:
 
-- Productivity metrics for software developer
-- Developer experience as a different mindset to improve developer performance
-- The SPACE framework, which focuses on giving a well-rounded understanding of developer productivity. of
+
+<div class="episode-about">
+    In this episode, Dr. Margaret-Anne Storey explains how to use the SPACE framework to reason about developer productivity.
+    <br/> <br/>We also talk about:
+    <ul>
+        <li> The SPACE framework, which focuses on giving a well-rounded understanding of developer productivity</li>
+        <li> How to use and not use productivity metrics for software developer</li>
+        <li> Developer experience as a different mindset to improve developer performance</li>
+    </ul>
+</div>
+<div class=" episode-links">
+<b>Episode Resources:</b><br/>
+    Dr. Storey's website <br/>
+    The SPACE framework developed at GitHub<br/>
+    Paper on improving developer experience<br/>
+    Please give me feedback here or write me on Twitter<br/>
+</div>
+
+
+<div class="row pt-2 align-items-center">
+    <div class="col-4 guest-picture">
+    <img src="Margaret-Anne-Storey.jpg" alt="Dr. Margaret-Anne Storey"/>
+    </div>
+    <div class="col-8 guest-about">
+    <b>About Dr. Maragaret-Anne Storey</b><br/>
+    Dr. Storey is a Professor of Computer Science at the University of Victoria and a distinguished expert in empirical software engineering. She is also the co-author of the SPACE productivity framework.
+    </div>
+</div>
+
 
 <div class="sponsorship">
 Book your <a href="https://www.michaelagreiler.com/workshops">awesomecodereview.com</a> workshop!
 </div>
 
-Links:
-
-- Dr. Storey's website
-- The SPACE framework developed at GitHub
-- Paper on improving developer experience
-- Please give me feedback here or write me on Twitter
-
-## Transcript: Measuring Developer Productivity with Dr. Margaret-Anne Storey
+## Read the whole episode "Measuring Developer Productivity" (Transcript)
 
 [00:00:00] **Dr. Michaela Greiler:** Hello and welcome to the software
 engineering unlocked podcast. I'm your host, Dr. McKayla. And today I have the
@@ -540,3 +557,110 @@ the room quite a bit.
 powerful. So thank you, Peggy. Thank you so much for joining my show.
 
 [00:29:09] **Dr. Margaret-Anne Storey:** Thank you so much. It's been great.
+
+
+
+
+
+
+
+<div class="row">
+    <div class="col-8 episode-about">
+        In this episode, Dr. Margaret-Anne Storey explains how to use the SPACE framework to reason about developer productivity. <br/> <br/>We also talk about:
+        <ul>
+        <li> The SPACE framework, which focuses on giving a well-rounded understanding of developer productivity</li>
+        <li> How to use and not use productivity metrics for software developer</li>
+        <li> Developer experience as a different mindset to improve developer performance</li>
+    </div>
+    <div class="col-4 episode-links">
+    <b>Resources:</b>
+    <ul>
+        <li> Dr. Storey's website
+        <li> The SPACE framework developed at GitHub</li>
+        <li> Paper on improving developer experience</li>
+        <li> Please give me feedback here or write me on Twitter</li>
+    </div>
+</div>
+
+
+
+<div class="row pt-2">
+    <div class="col-4 guest-picture">
+    <img src="Margaret-Anne-Storey.jpg" alt="Dr. Margaret-Anne Storey"/>
+    </div>
+    <div class="col-8 guest-about">
+    <b>About Dr. Maragaret-Anne Storey</b><br/>
+    Dr. Storey is a Professor of Computer Science at the University of Victoria and a distinguished expert in empirical software engineering. She is also the co-author of the SPACE productivity framework.
+    </div>
+</div>
+
+
+
+<div class="row">
+    <div class="col episode-about">
+        <b>This episode is about:</b>
+        <ul>
+        <li> The SPACE framework, which focuses on giving a well-rounded understanding of developer productivity</li>
+        <li> How to use and not use productivity metrics for software developer</li>
+        <li> Developer experience as a different mindset to improve developer performance</li>
+    </div>
+</div>
+
+
+
+
+
+
+
+<div class="row pt-2">
+    <div class="col-3 guest-picture">
+    <img src="Margaret-Anne-Storey.jpg" alt="Dr. Margaret-Anne Storey"/>
+    </div>
+    <div class="col-6 guest-about">
+    <b>About Dr. Maragaret-Anne Storey</b>
+    Dr. Storey is a Professor of Computer Science at the University of Victoria and a distinguished expert in empirical software engineering. She is also the co-author of the SPACE productivity framework.
+    </div>
+    <div class="col-3 episode-links">
+    <b>Links:</b>
+    <ul>
+        <li> Dr. Storey's website
+        <li> The SPACE framework developed at GitHub</li>
+        <li> Paper on improving developer experience</li>
+        <li> Please give me feedback here or write me on Twitter</li>
+    </div>
+</div>
+
+
+
+
+
+<div class="row pt-2">
+    <div class="col-4 guest-picture">
+    <img src="Margaret-Anne-Storey.jpg" alt="Dr. Margaret-Anne Storey"/>
+    </div>
+    <div class="col-8 guest-about">
+        <div>
+            <b>About Dr. Maragaret-Anne Storey</b>
+            Dr. Storey is a Professor of Computer Science at the University of Victoria and a distinguished expert in empirical software engineering. She is also the co-author of the SPACE productivity framework.
+        </div>
+        <div class="episode-links">
+            <b>Links:</b>
+            <ul>
+                <li> Dr. Storey's website
+                <li> The SPACE framework developed at GitHub</li>
+                <li> Paper on improving developer experience</li>
+                <li> Please give me feedback here or write me on Twitter</li>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+
+<div class="sponsorship">
+Book your <a href="https://www.michaelagreiler.com/workshops">awesomecodereview.com</a> workshop!
+</div>
+
+

@@ -20,20 +20,20 @@ export default function PostsDetails({ data }) {
     <Layout>
       <Container>
         {/* <GatsbyImage image={getImage(post_header_image)} alt={permalink} /> */}
-        <h1 className={styles.podcast_details}>{title}</h1>
         <audio controls preload="none">
           <source src={audio} />
         </audio>
+        <h1 className={styles.podcast_details}>{title}</h1>
         <div>
           {/* <div>
           <GatsbyImage image={getImage(thumbnail)} alt={permalink} />
         </div> */}
           <div className={styles.episode_details}>
-            <GatsbyImage
+            {/* <GatsbyImage
               className={styles.podcast_guest_picture}
               image={getImage(thumbnail)}
               alt={thumbnail_alt}
-            />
+            /> */}
             {/* {<div dangerouslySetInnerHTML={{ __html: html }} />} */}
             {<div dangerouslySetInnerHTML={{ __html: html }} />}
           </div>

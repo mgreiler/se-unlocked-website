@@ -1,6 +1,6 @@
 .sponsorship {
-  font-size: 1.5em;
-  color: #4054b2;
+  font-size: 1.6em;
+  color: #263669;
   line-height: 1.2em;
   border-top-color: black;
   border-style: solid;
@@ -12,4 +12,39 @@
   padding-bottom: 1em;
   margin-top: 1em;
   margin-bottom: 1em;
+  text-align: center;
+  /* background-color: #263669; */
+  /* color: #eeff62; */
+}
+
+.sponsorship a {
+  /* color: #eeff62; */
+  text-decoration: underline;
+}
+
+.episode-links{
+  font-size: 1.3em;
+  color: #263669;
+  border-left: solid 2px #263669;
+  padding-left: 2em;
+  margin-top: 2em;
+  margin-bottom: 2em;
+}
+
+.episode-about{
+  font-size: 1.5em;
+}
+
+.guest-about {
+  font-size: 1.3em;
+  color: #263669;
+}
+
+
+.guest-picture {
+  max-width: 250px;
+}
+
+.guest-picture img {
+  border-radius: 50%;
 }
