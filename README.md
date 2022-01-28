@@ -25,6 +25,10 @@
 4.  **Add complete "old" functionality**
 
     The old website had a couple of more pages, and functionalities. All of those should be added to this site before the switch can be made. 
+5. **Improve markdown files**
+
+    The markdown files have been automatically extracted from Word press. This means the content and markdown structure is not reflecting what we need right now.
+    All old markdown files need to be transformed to a new structure. For more information on the structure look at the issues that mention transforming markdown file to new strutcure. 
     
 ## See the Draft in action
 The main branch of this repository is continuously deployed to Netlify. You can see the current status here: https://se-unlocked.netlify.app/
