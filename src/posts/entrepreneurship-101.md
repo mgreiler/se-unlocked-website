@@ -17,27 +17,36 @@ _yoast_wpseo_content_score:
   - "90"
 audio: https://cdn.simplecast.com/audio/aaca909a-e34f-49ae-a86f-f59e4fa807f0/episodes/aeb45b70-2198-4f9a-ba14-ca9eded05e19/audio/ba023e2c-ff2f-4a15-8bb9-6b073ace9b20/default_tc.mp3
 ---
+<div class="episode-about">
+    Karls Hughes tells us how he build his start-up draft.dev that creates content that reaches software engineers – which means he combined his two passions, development and content creation.
+    <br/> <br/>We also talk about:
+    <ul>
+      <li>  his transition from developer to CTO, and then to the business owner</li>
+      <li>  value-based pricing and how to focus on the customer segment that gets the most value out of your product</li>
+      <li>  how to scale as a bootstrapped business</li>
+      <li>  why blogging is such a career changer for developers</li>
+    </ul>
+</div>
+<div class=" episode-links">
+<b>Episode Resources:</b><br/>
+  <a href="https://twitter.com/KarlLHughes">Karl’s Twitter</a><br/>
+  <a href="https://draft.dev/">Draft.dev</a><br/>
+  <a href="https://www.cfpland.com/">Call for Paper Land</a><br/>
+</div>
 
-In this episode, I talk to Karls Hughes. Karl is a software engineer who turned into an entrepreneur in the midst of the pandemic last year. His start-up draft.dev creates content that reaches software engineers – which means he combined his two passions, development and content creation.
-
-**We talk about:**
-
-- his transition from developer to CTO, and then to the business owner,
-- value-based pricing and how to focus on the customer segment that gets the most value out of your product,
-- how to scale as a bootstrapped business,
-- why blogging is such a career changer for developers.
+<div class="row pt-2 align-items-center">
+    <div class="col-4 guest-picture">
+    <img src="../uploads/2021/07/karl-2021.jpg" alt="Karl Hughes"/>
+    </div>
+    <div class="col-8 guest-about">
+    <b>About Karl Hughes</b><br/>
+    Karls Hughes is a software engineer who turned into an entrepreneur in the midst of the pandemic last year. 
+    </div>
+</div>
 
 <div class="sponsorship">
 Book your <a href="https://www.michaelagreiler.com/workshops">awesomecodereview.com</a> workshop!
 </div>
-
-Links:
-
-- [Karl’s Twitter](https://twitter.com/KarlLHughes)
-- [Draft.dev](https://draft.dev/)
-- [Call for Paper Land](https://www.cfpland.com/)
-
-### Subscribe on [iTunes](https://podcasts.apple.com/at/podcast/software-engineering-unlocked/id1477527378?l=en), [Spotify](https://open.spotify.com/show/2wz1OneBIDXpbBYeuyIsJL?si=2I0R0HuaTLK6RT0f7lDIFg), [Google](https://www.google.com/podcasts?feed=aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS9LMV9tdjBDSg%3D%3D), [Deezer](https://www.deezer.com/show/465682), or via [RSS](https://www.software-engineering-unlocked.com/subscribe/).
 
 ## Transcript: How to build a profitable content business as a developer
 
