@@ -18,6 +18,7 @@ exports.createPages = async ({ graphql, actions }) => {
       path: node.frontmatter.permalink,
       component: path.resolve("./src/templates/posts-detail.js"),
       context: { permalink: node.frontmatter.permalink },
+      defer: true
     });
   });
 };
