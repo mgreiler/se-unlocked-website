@@ -1,3 +1,4 @@
+
 .podcast_details {
   margin-top: 0.5em;
   padding-top: 0.5em;
@@ -11,11 +12,6 @@ h2 {
   padding: auto;
 }
 
-.podcast_guest_picture {
-  float: right;
-  padding: 0.4em;
-}
-
 .episode_details {
   padding-top: 1em;
 }
@@ -24,9 +20,3 @@ audio {
 margin-top: 2em;
 }
 
-@media screen and (max-width: 600px) {
-  .podcast_guest_picture {
-    float: none;
-    padding: 0.4em;
-  }
-}

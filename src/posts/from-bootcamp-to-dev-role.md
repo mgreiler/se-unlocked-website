@@ -28,29 +28,33 @@ _yoast_wpseo_content_score:
   - "30"
 ---
 
-Natalie Davis, a recent Bootcamp graduate, shares how she managed to get hired right after graduating from a Bootcamp. She is vividly sharing her knowledge on Twitter and started to make real waves in the dev community within just one and a half years in tech.
-
-**We talk about:**
-
-- her experience at a developer Bootcamp,
-- how she managed to quickly get hired after graduating,
-- how she keeps up with all the stuff she has to learn,
-- how she decides to adopt best practices,
-- and how to overcome rejections by staying positive and focusing on growth.
-
+<div class="episode-about">
+Natalie Davis, a recent Bootcamp graduate, shares how she managed to get hired right after graduating from a Bootcamp. 
+<br/> <br/>We also talk about:
+<ul>
+<li> her experience at a developer Bootcamp,</li>
+<li> how she managed to quickly get hired after graduating,</li>
+<li> how she keeps up with all the stuff she has to learn,</li>
+<li> how she decides to adopt best practices,</li>
+<li> and how to overcome rejections by staying positive and focusing on growth.</li>
+</ul>
+</div>
+<div class=" episode-links">
+<b>Episode Resources:</b><br/>
+<a href="https://twitter.com/codeFreedomRitr">Natalie’s Twitter</a></br>
+<a href="https://twitter.com/cjtantay">Her awesome team lead @cjtantay</a><br/>
+<a href="https://twitter.com/marktechson">Mark: @marktechson</a><br/>
+<a href="https://www.awesomecodereviews.com">Michaela’s code review workshops</a><br/>
+</div>
+<div class="row pt-2 align-items-center"> 
+<div class="col-4 guest-picture">
+<img src="../uploads/2021/02/natalie_davis.jpg" alt="Picture of Natalie Davis"/>
+</div>
+<div class="col-8 guest-about">
+<b>About Natalie Davis</b><br/>
+Natalie Davis is a recent Bootcamp graduate, who managed to get a job right after finishing her Bootcamp. She is vividly sharing her knowledge on Twitter and started to make real waves in the dev community within just one and a half years in tech.</div></div>
 <div class="sponsorship">Today’s episode is sponsored by <a href="https://configcat.com/" target="_blank" rel="noreferrer">ConfigCat</a> – your favorite feature flag management tool to release more frequently with less risks!</div>
 
-<iframe frameborder="no" height="200px" scrolling="no" seamless="" src="https://player.simplecast.com/c6efc56d-1f37-4764-8b82-50b4e91ce8fc?dark=false" width="100%"></iframe>
+## Read the whole episode "Getting a full-time dev role straight out of Bootcamp" (Transcript)
 
-Links:
-
-- Natalie’s Twitter
-- Her awesome team lead [@cjtantay](https://twitter.com/cjtantay)
-- Mark: [@marktechson](https://twitter.com/marktechson)
-- Michaela’s [code review workshops](https://www.awesomecodereviews.com)
-
-### Subscribe on [iTunes](https://podcasts.apple.com/at/podcast/software-engineering-unlocked/id1477527378?l=en), [Spotify](https://open.spotify.com/show/2wz1OneBIDXpbBYeuyIsJL?si=2I0R0HuaTLK6RT0f7lDIFg), [Google](https://www.google.com/podcasts?feed=aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS9LMV9tdjBDSg%3D%3D), [Deezer](https://www.deezer.com/show/465682), or via [RSS](https://www.software-engineering-unlocked.com/subscribe/).
-
-## Transcript: How I got into FAANG companies without CS degree.
-
-_\[If you want, you can help make the transcript better, and improve the podcast’s accessibility via_ [Github](https://github.com/mgreiler/se-unlocked/tree/master/Transcripts)_[.](https://github.com/mgreiler/se-unlocked/tree/master/Transcripts) I’m happy to lend a hand to help you get started with pull requests, and open source work.\]_
+_\[Improve this transcript on [Github](https://github.com/mgreiler/se-unlocked/tree/master/Transcripts)_[.](https://github.com/mgreiler/se-unlocked/tree/master/Transcripts)\]
