@@ -1,7 +1,14 @@
 .header {
+  --outer-padding: 30px;
+  --inner-padding: 0.75rem;
   background: radial-gradient(at top left, #4054b2, rgb(3, 15, 128) 100%);
   background-repeat: no-repeat;
-  padding: 30px 30px 30px 0;
+  padding: var(--outer-padding);
+  position: relative;
+}
+
+.header > div {
+  padding: 0 var(--inner-padding);
 }
 
 .logo :global(img) {
@@ -24,10 +31,10 @@
   background: white;
   display: block;
   height: 2px;
+  margin-top: 15px;
   position: relative;
   transition: background 0.2s ease-out;
   width: 18px;
-  margin-top: 15px;
 }
 
 .menuIcon .navicon:before,
@@ -74,43 +81,85 @@
 }
 
 .menuToggle:checked ~ .menu {
-  max-height: 60vh;
+  max-height: 70vh;
 }
 
 .nav ul {
-  margin: 0;
-  padding: 0;
   list-style: none;
-  text-align: center;
+  margin: 0;
   overflow: hidden;
+  padding: 0;
+  text-align: center;
 }
 
 .nav li {
-  font-weight: 600;
-  font-size: 13px;
-  line-height: 140%;
-  letter-spacing: 0.04em;
-  text-transform: uppercase;
   color: white;
+  font-size: 13px;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  line-height: 140%;
   padding-top: 15px;
+  text-transform: uppercase;
 }
 
 .nav li a {
+  border-bottom: 3px solid transparent;
+  color: white;
   display: inline-block;
   margin: 20px 20px;
-  text-decoration: none;
-  color: white;
   padding-bottom: 8px;
-  border-bottom: 3px solid transparent;
+  text-decoration: none;
 }
 
 .nav li a::after {
+  background: white;
   content: "";
   display: block;
-  width: 0;
   height: 2px;
-  background: white;
   transition: width 0.3s;
+  width: 0;
+}
+
+.subscribe {
+  background: linear-gradient(
+    270deg,
+    #eeff61 24.65%,
+    #eeff618c 100%,
+    #eeff6100 100%
+  );
+  margin: 0 calc(0px - var(--inner-padding) - var(--outer-padding))
+    calc(-1 * var(--outer-padding));
+  max-width: unset;
+}
+
+.subscribe div {
+  align-items: center;
+  color: var(--primary-700);
+  display: flex;
+  flex-direction: column;
+  gap: 19px;
+  justify-content: center;
+  padding: var(--inner-padding) var(--outer-padding) var(--outer-padding);
+}
+
+.subscribe span {
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 1.2;
+}
+
+.subscribe ul {
+  display: flex;
+  gap: 36px;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.subscribe :global(svg) {
+  fill: var(--primary-700);
+  height: 24px;
+  width: 24px;
 }
 
 .nav li a:hover::after {
@@ -118,20 +167,12 @@
 }
 
 @media (min-width: 401px) {
-  .header {
-    padding-left: 30px;
-  }
-
   .logo :global(img) {
     width: 253px !important;
   }
 
   .menuIcon {
     padding-top: 28px;
-  }
-
-  .menuToggle:checked ~ .menu {
-    max-height: 35vh;
   }
 }
 
@@ -154,7 +195,41 @@
     display: initial;
   }
 
+  .nav {
+    margin-top: -25px;
+  }
+
   .nav li {
     float: left;
+  }
+
+  .subscribe {
+    background: linear-gradient(270deg, #eeff61 25%, #eeff6100 100%);
+    inset: 0;
+    margin: 0;
+    position: absolute;
+    top: auto;
+  }
+
+  .subscribe span {
+    margin-bottom: -2px;
+  }
+
+  .subscribe > div {
+    flex-direction: row;
+    gap: 24px;
+    height: 57px;
+    justify-content: flex-end;
+    padding: 0 calc(4px + var(--outer-padding));
+  }
+
+  .subscribe ul {
+    gap: 20px;
+  }
+}
+
+@media (min-width: 1600px) {
+  .subscribe {
+    background: linear-gradient(270deg, #eeff61 25%, #eeff6100 75%);
   }
 }

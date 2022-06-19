@@ -2,8 +2,37 @@ import { Link } from "gatsby";
 import { StaticImage } from "gatsby-plugin-image";
 import React from "react";
 import * as styles from "../styles/header.module.css";
+import SimpleIcon from "./SimpleIcon";
 
 export default function Header() {
+  const subscriptionOptions = [
+    {
+      name: "rss",
+      title: "RSS",
+      href: "https://feeds.simplecast.com/K1_mv0CJ",
+    },
+    {
+      name: "google-podcasts",
+      title: "Google Podcasts",
+      href: "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS9LMV9tdjBDSg==",
+    },
+    {
+      name: "apple-podcasts",
+      title: "Apple Podcasts",
+      href: "https://podcasts.apple.com/at/podcast/software-engineering-unlocked/id1477527378?l=en",
+    },
+    {
+      name: "twitter",
+      title: "Twitter",
+      href: "https://twitter.com/se_unlocked",
+    },
+    {
+      name: "deezer",
+      title: "Deezer",
+      href: "https://www.deezer.com/us/show/465682",
+    },
+  ];
+
   return (
     <header className={styles.header}>
       <div className="container nav_container">
@@ -28,32 +57,21 @@ export default function Header() {
               </li>
             </ul>
           </nav>
-        </div>
-        {/* <div className="container nav_container">
-        <div className="row seven-cols">
-          <div className="col-xl-3 col-lg-3">
-            <button type="button" class="btn btn-primary">iTunes</button>
-          </div>
-          <div className="col-xl-3 col-lg-3">
-            <button type="button" class="btn btn-secondary">Spotify</button>
-          </div>
-          <div className="col-xl-3 col-lg-3">
-            <button type="button" class="btn btn-success">Overcast</button>
-          </div>
-          <div className="col-xl-3 col-lg-3">
-            <button type="button" class="btn btn-danger">Google Podcast</button>
-          </div>
-          <div className="col-xl-3 col-lg-3">
-            <button type="button" class="btn btn-warning">Sticher</button>
-          </div>
-          <div className="col-xl-3 col-lg-3">
-            <button type="button" class="btn btn-info">PocketCasts</button>
-          </div>
-          <div className="col-xl-3 col-lg-3">
-            <button type="button" class="btn btn-light">RSS</button>
+          <div className={styles.subscribe}>
+            <div className="container nav_container">
+              <span>Click to subscribe!</span>
+              <ul>
+                {subscriptionOptions.map((option) => (
+                  <li key={option.name}>
+                    <a href={option.href} aria-label={option.title}>
+                      <SimpleIcon {...option} />
+                    </a>
+                  </li>
+                ))}
+              </ul>
+            </div>
           </div>
         </div>
-      </div> */}
       </div>
     </header>
   );
