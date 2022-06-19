@@ -2,37 +2,32 @@ import { Link } from "gatsby";
 import { StaticImage } from "gatsby-plugin-image";
 import React from "react";
 import * as styles from "../styles/header.module.css";
-import "bootstrap/dist/css/bootstrap.min.css";
 
 export default function Header() {
   return (
-    <section className={styles.header}>
-      <header className={styles.headers}>
-        <div className="container nav_container">
-          <Link to="/">
-            <StaticImage src="../images/logo.png" alt="logo" />
-          </Link>
-          <input
-            className={styles.menuBtn}
-            type="checkbox"
-            id="menu-btn"
-            //onClick={onClick}
-          />
-          <label htmlFor="menu-btn" className={styles.menuIcon} id="menu">
-            <input style={{ display: "none" }} />
-            <span className={styles.navicon}></span>
-          </label>
-          <ul className={styles.menu}>
-            <li>
-              <Link to="/">Home</Link>
-            </li>
-            <li>
-              <Link to="/sponsorship">Be A Sponsor</Link>
-            </li>
-            <li>
-              <Link to="/guestguide">Be A Guest</Link>
-            </li>
-          </ul>
+    <header className={styles.header}>
+      <div className="container nav_container">
+        <Link to="/" className={styles.logo}>
+          <StaticImage src="../images/logo.png" alt="logo" />
+        </Link>
+        <input className={styles.menuToggle} type="checkbox" id="menu-btn" />
+        <label htmlFor="menu-btn" className={styles.menuIcon} id="menu">
+          <span className={styles.navicon}></span>
+        </label>
+        <div className={styles.menu}>
+          <nav className={styles.nav}>
+            <ul>
+              <li>
+                <Link to="/">Home</Link>
+              </li>
+              <li>
+                <Link to="/sponsorship">Be A Sponsor</Link>
+              </li>
+              <li>
+                <Link to="/guestguide">Be A Guest</Link>
+              </li>
+            </ul>
+          </nav>
         </div>
         {/* <div className="container nav_container">
         <div className="row seven-cols">
@@ -59,7 +54,7 @@ export default function Header() {
           </div>
         </div>
       </div> */}
-      </header>
-    </section>
+      </div>
+    </header>
   );
 }
