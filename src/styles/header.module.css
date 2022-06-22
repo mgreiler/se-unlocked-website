@@ -3,6 +3,7 @@
   --inner-padding: 0.75rem;
   background: radial-gradient(at top left, #4054b2, rgb(3, 15, 128) 100%);
   background-repeat: no-repeat;
+  overflow: hidden;
   padding: var(--outer-padding);
   position: relative;
 }
@@ -73,15 +74,21 @@
 .menu {
   clear: both;
   max-height: 0;
-  transition: max-height 0.4s ease-in;
-}
-
-.menuToggle:not(:checked) ~ .menu {
-  display: none;
+  pointer-events: none;
+  transition: max-height 0.3s ease-in, visibility 0.3s ease-in;
+  user-select: none;
+  visibility: hidden;
 }
 
 .menuToggle:checked ~ .menu {
   max-height: 70vh;
+  pointer-events: initial;
+  user-select: initial;
+  visibility: visible;
+}
+
+.nav {
+  padding-bottom: 5rem;
 }
 
 .nav ul {
@@ -127,9 +134,17 @@
     #eeff618c 100%,
     #eeff6100 100%
   );
-  margin: 0 calc(0px - var(--inner-padding) - var(--outer-padding))
-    calc(-1 * var(--outer-padding));
-  max-width: unset;
+  bottom: 0;
+  left: 0;
+  margin: 0;
+  opacity: 0;
+  position: absolute;
+  transition: opacity 0.1s ease-in 0.1s;
+  width: 100%;
+}
+
+.menuToggle:checked ~ .menu .subscribe {
+  opacity: 1;
 }
 
 .subscribe div {
@@ -139,7 +154,7 @@
   flex-direction: column;
   gap: 19px;
   justify-content: center;
-  padding: var(--inner-padding) var(--outer-padding) var(--outer-padding);
+  padding: 19px var(--outer-padding) var(--outer-padding);
 }
 
 .subscribe span {
@@ -189,14 +204,14 @@
     clear: none;
     float: right;
     max-height: none;
-  }
-
-  .menuToggle:not(:checked) ~ .menu {
-    display: initial;
+    pointer-events: initial;
+    user-select: initial;
+    visibility: visible;
   }
 
   .nav {
-    margin-top: -25px;
+    margin-top: -23px;
+    padding-bottom: 0;
   }
 
   .nav li {
@@ -206,8 +221,7 @@
   .subscribe {
     background: linear-gradient(270deg, #eeff61 25%, #eeff6100 100%);
     inset: 0;
-    margin: 0;
-    position: absolute;
+    opacity: 1;
     top: auto;
   }
 
@@ -218,7 +232,7 @@
   .subscribe > div {
     flex-direction: row;
     gap: 24px;
-    height: 57px;
+    height: 54px;
     justify-content: flex-end;
     padding: 0 calc(4px + var(--outer-padding));
   }
