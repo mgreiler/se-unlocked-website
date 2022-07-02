@@ -1,0 +1,249 @@
+.header {
+  --outer-padding: 30px;
+  --inner-padding: 0.75rem;
+  background: radial-gradient(at top left, #4054b2, rgb(3, 15, 128) 100%);
+  background-repeat: no-repeat;
+  overflow: hidden;
+  padding: var(--outer-padding);
+  position: relative;
+}
+
+.header > div {
+  padding: 0 var(--inner-padding);
+}
+
+.logo :global(img) {
+  width: 173px !important;
+}
+
+.menuToggle {
+  display: none;
+}
+
+.menuIcon {
+  cursor: pointer;
+  display: inline-block;
+  padding: 14px 20px 28px;
+  position: relative;
+  user-select: none;
+}
+
+.menuIcon .navicon {
+  background: white;
+  display: block;
+  height: 2px;
+  margin-top: 15px;
+  position: relative;
+  transition: background 0.2s ease-out;
+  width: 18px;
+}
+
+.menuIcon .navicon:before,
+.menuIcon .navicon:after {
+  background: white;
+  content: "";
+  display: block;
+  height: 100%;
+  position: absolute;
+  transition: all 0.2s ease-out;
+  width: 100%;
+}
+
+.menuIcon .navicon:before {
+  top: 5px;
+}
+
+.menuIcon .navicon:after {
+  top: -5px;
+}
+
+.menuToggle:checked ~ .menuIcon .navicon {
+  background: transparent;
+}
+
+.menuToggle:checked ~ .menuIcon .navicon:before {
+  top: 0;
+  transform: rotate(-45deg);
+}
+
+.menuToggle:checked ~ .menuIcon .navicon:after {
+  top: 0;
+  transform: rotate(45deg);
+}
+
+.menu {
+  clear: both;
+  max-height: 0;
+  pointer-events: none;
+  transition: max-height 0.3s ease-in, visibility 0.3s ease-in;
+  user-select: none;
+  visibility: hidden;
+}
+
+.menuToggle:checked ~ .menu {
+  max-height: 70vh;
+  pointer-events: initial;
+  user-select: initial;
+  visibility: visible;
+}
+
+.nav {
+  padding-bottom: 5rem;
+}
+
+.nav ul {
+  list-style: none;
+  margin: 0;
+  overflow: hidden;
+  padding: 0;
+  text-align: center;
+}
+
+.nav li {
+  color: white;
+  font-size: 13px;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  line-height: 140%;
+  padding-top: 15px;
+  text-transform: uppercase;
+}
+
+.nav li a {
+  border-bottom: 3px solid transparent;
+  color: white;
+  display: inline-block;
+  margin: 20px 20px;
+  padding-bottom: 8px;
+  text-decoration: none;
+}
+
+.nav li a::after {
+  background: white;
+  content: "";
+  display: block;
+  height: 2px;
+  transition: width 0.3s;
+  width: 0;
+}
+
+.subscribe {
+  background: linear-gradient(
+    270deg,
+    #eeff61 24.65%,
+    #eeff618c 100%,
+    #eeff6100 100%
+  );
+  bottom: 0;
+  left: 0;
+  margin: 0;
+  opacity: 0;
+  position: absolute;
+  transition: opacity 0.1s ease-in 0.1s;
+  width: 100%;
+}
+
+.menuToggle:checked ~ .menu .subscribe {
+  opacity: 1;
+}
+
+.subscribe div {
+  align-items: center;
+  color: var(--primary-700);
+  display: flex;
+  flex-direction: column;
+  gap: 19px;
+  justify-content: center;
+  padding: 19px var(--outer-padding) var(--outer-padding);
+}
+
+.subscribe span {
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 1.2;
+}
+
+.subscribe ul {
+  display: flex;
+  gap: 36px;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.subscribe :global(svg) {
+  fill: var(--primary-700);
+  height: 24px;
+  width: 24px;
+}
+
+.nav li a:hover::after {
+  width: 100%;
+}
+
+@media (min-width: 401px) {
+  .logo :global(img) {
+    width: 253px !important;
+  }
+
+  .menuIcon {
+    padding-top: 28px;
+  }
+}
+
+@media (min-width: 55.625em) {
+  .header {
+    padding-bottom: 50px;
+  }
+
+  .menuIcon {
+    display: none;
+  }
+
+  .menu {
+    clear: none;
+    float: right;
+    max-height: none;
+    pointer-events: initial;
+    user-select: initial;
+    visibility: visible;
+  }
+
+  .nav {
+    margin-top: -23px;
+    padding-bottom: 0;
+  }
+
+  .nav li {
+    float: left;
+  }
+
+  .subscribe {
+    background: linear-gradient(270deg, #eeff61 25%, #eeff6100 100%);
+    inset: 0;
+    opacity: 1;
+    top: auto;
+  }
+
+  .subscribe span {
+    margin-bottom: -2px;
+  }
+
+  .subscribe > div {
+    flex-direction: row;
+    gap: 24px;
+    height: 54px;
+    justify-content: flex-end;
+    padding: 0 calc(4px + var(--outer-padding));
+  }
+
+  .subscribe ul {
+    gap: 20px;
+  }
+}
+
+@media (min-width: 1600px) {
+  .subscribe {
+    background: linear-gradient(270deg, #eeff61 25%, #eeff6100 75%);
+  }
+}
