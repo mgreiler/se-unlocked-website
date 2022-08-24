@@ -18,28 +18,44 @@ audio: http://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/aaca90/aaca9
 post_header_image: ../uploads/2020/05/cher_bg.jpg
 ---
 
+<div class="episode-about">
 Cher Scarlett talks about how she was open about her bipolar disorder when interviewing at Apple. In this part, we deep-dive into her interview experience at Apple and how she worked her way up to a Staff engineering position.
+This episode is part 2 of my interview with Cher Scarlett, where we cover more of her early life and how she worked hard to make it to a staff engineering position at Apple. 
+Also, check-out <a href="https://www.software-engineering-unlocked.com/from-hardship-to-apple/">part 1 of this interview</a>, in which Cher talks about how she overcame poverty and hardship.  
 
-This episode is part 2 of my interview with Cher Scarlett, where we cover more of her early life and how she worked hard to make it to a staff engineering position at Apple.
+<br/>We talk about:
+<ul>
+<li>the hiring process at Apple</li>
+<li>the tasks and responsibilities of a Staff engineer</li>
+<li>how to handle mental health, and bipolar disorder during job interviews</li>
+<li>and how the “disability” box can be a life-changer for getting accommodations for your special needs.</li>
+</ul>
+  </div>
 
-**We talk about:**
+  <div class="sponsorship">
+Book your <a href="https://www.michaelagreiler.com/workshops">awesomecodereview.com</a> workshop!
+</div>
 
-- the hiring process at Apple
-- the tasks and responsibilities of a Staff engineer
-- how to handle mental health, and bipolar disorder during job interviews
-- and how the “disability” box can be a life-changer for getting accommodations for your special needs.
+<div class=" episode-links">
+<b>Episode Resources:</b><br/>
+  <a href="https://www.michaelagreiler.com/workshops/">McKayla’s Code Review Workshops</a><br/>
+  <a href="https://twitter.com/CHERdotdev">Cher’s Twitter</a><br/>
+ <a href="https://cher.dev/">Website of Cher</a><br/>
+</div>
 
-Check-out also [part 1 of this interview](https://www.software-engineering-unlocked.com/from-hardship-to-apple/), in which Cher talks about how she overcame poverty and hardship.  
-![](../uploads/2020/05/cher.jpg)
+<div class="row pt-2 align-items-center">
+<div class="col-4 guest-picture">
+<img src="../uploads/2020/05/cher.jpg" alt="Podcast Guest Cher Scarlett"/>
+</div>
+<div class="col-8 guest-about">
+<b>Cher Scarlett</b><br/>
+Cher is a staff engineer at Apple who fights for diversity and inclusion.
+</div>
+</div>
 
 ### Subscribe on [iTunes](https://podcasts.apple.com/at/podcast/software-engineering-unlocked/id1477527378?l=en), [Spotify](https://open.spotify.com/show/2wz1OneBIDXpbBYeuyIsJL?si=2I0R0HuaTLK6RT0f7lDIFg), [Google](https://www.google.com/podcasts?feed=aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS9LMV9tdjBDSg%3D%3D), [Deezer](https://www.deezer.com/show/465682), or via [RSS](https://www.software-engineering-unlocked.com/subscribe/).
-
-**Links:**
-
-- [McKayla’s Code Review Workshops](https://www.michaelagreiler.com/workshops/)
-- [Cher’s Twitter](https://twitter.com/CHERdotdev)
-- [Website of Cher](https://cher.dev/)
 
 
 
 ## Transcript: Getting hired at Apple Despite a Bipolar Disorder with Cher Scarlett
+
