@@ -55,6 +55,11 @@ export default function Header() {
                 <Link to="/">Home</Link>
               </li>
               <li>
+                <Link to="https://www.michaelagreiler.com/workshops/">
+                  Workshops
+                </Link>
+              </li>
+              <li>
                 <Link to="/sponsorship">Be A Sponsor</Link>
               </li>
               <li>
