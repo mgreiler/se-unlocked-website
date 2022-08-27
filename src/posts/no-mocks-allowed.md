@@ -24,31 +24,41 @@ secondline_themes_header_image_id:
 post_header_image: ../uploads/2020/08/Kent-Doods-Bg.jpg
 ---
 
+<div class="episode-about">
+Kent C. Dodds, creator of the widely used open-source testing-library, explains why using mocks during testing is dangerous.
+<br/> <br/>We also talk about:
+<ul>
+<li> Why you should not mock your software system during testing,</li>
+<li> how “testing library” helps create more meaningful and maintainable tests,</li>
+<li> if and how manual testing is still needed to increase your confidence in the software system.</li>
+</ul>
+</div>
+<div class=" episode-links">
+<b>Episode Resources:</b><br/>
+<a href="https://www.software-engineering-unlocked.com/double-down-integration-tests-kent-dodds/">The previous episode with Kent</a><br/>
+<a href="https://twitter.com/kentcdodds">Kent C. Dodds’ Twitter</a><br/>
+<a href="https://testingjavascript.com/">Testing Javascript</a><br/>
+<a href="https://testing-library.com/">Testing Library</a><br/>
+<a href="https://www.deque.com/axe/">Accessibility Tool: Axe</a><br/>
+<a href="https://applitools.com/">Applitools: Functional and Visual Testing</a><br/>
+<a href="https://www.cypress.io/">Cypress testing tool</a><br/>
+</div>
+
+<div class="row pt-2 align-items-center">
+<div class="col-4 guest-picture">
+<img src="../uploads/2020/08/Kent.jpg" alt="Picture of Kent C. Dodds"/>
+</div>
+<div class="col-8 guest-about">
+<b>About Kent C. Dodds</b><br/>
 Kent C. Dodds, creator of the widely used open-source testing-library, explains why using mocks during testing is dangerous. Before starting his entrepreneurial journey, Kent has been working for PayPal. He is a major open source contributor and also the creator and maintainer of the widely used open-source testing-library.
-
 Code that he writes is used by millions of people around the world, and he also teaches thousands of engineers how to test their JavaScript systems, and how to work with React.
+</div>
+</div>
 
-We talk about:
-
-- Why you should not mock your software system during testing,
-- how “testing library” helps create more meaningful and maintainable tests,
-- if and how manual testing is still needed to increase your confidence in the software system.
 
 <div class="sponsorship">Become <a href="https://www.software-engineering-unlocked.com/sponsor-us/">a sponsor of the show</a> and reach thousands of quality driven software Engineers ❤.</div>
 
-**Links:**
-
-- [The previous episode with Kent](https://www.software-engineering-unlocked.com/double-down-integration-tests-kent-dodds/)
-- [Kent C. Dodds’ Twitter](https://twitter.com/kentcdodds)
-- [Testing Javascript](https://testingjavascript.com/)
-- [Testing Library](https://testing-library.com/)
-- [Accessibility Tool: Axe](https://www.deque.com/axe/)
-- [Applitools: Functional and Visual Testing](https://applitools.com/)
-- [Cypress testing tool](https://www.cypress.io/)
-
-### Subscribe on [iTunes](https://podcasts.apple.com/at/podcast/software-engineering-unlocked/id1477527378?l=en), [Spotify](https://open.spotify.com/show/2wz1OneBIDXpbBYeuyIsJL?si=2I0R0HuaTLK6RT0f7lDIFg), [Google](https://www.google.com/podcasts?feed=aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS9LMV9tdjBDSg%3D%3D), [Deezer](https://www.deezer.com/show/465682), or via [RSS](https://www.software-engineering-unlocked.com/subscribe/).
-
-## Transcript
+## Read the whole episode "No mocks allowed: A testing discussion with Kent C. Dodds" (Transcript)
 
 _\[This transcripts is the result of a community effort. You can help make it better, and improve the podcast’s accessibility via_ [Github*.*](https://github.com/mgreiler/se-unlocked/tree/master/Transcripts) _I’m happy to lend a hand to help you get started with pull requests, and open source work._  
 _Special thanks to_ [_Tia Nadya_](https://github.com/tiana30) _for helping improve this transcript.\]_

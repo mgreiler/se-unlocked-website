@@ -17,26 +17,36 @@ audio: https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/aaca909a-e3
 sponsorship: "Today’s episode is sponsored by [Botany.io](https://www.botany.io/) – Botany is a virtual coach for software engineers that unblocks essential teamwork and levels up careers!"
 ---
 
+<div class="episode-about">
+In this episode, I talk to Annie Liew, who works as a web developer at a startup called Pastel.
+<br/> <br/>We also talk about:
+<ul>
+<li> about her experience transitioning from Designer to Engineer,</li>
+<li> the role her Juno Web Development Bootcamp (formerly HackerYou),</li>
+<li> her new role as the first engineering hire at a startup,</li>
+<li> her drive to learn and level up in public,</li>
+<li> and how she managed to build a large Twitter following.</li>
+</ul>
+</div>
+<div class=" episode-links">
+<b>Episode Resources:</b><br/>
+<a href="https://twitter.com/anniebombanie_">Annie’s Twitter</a><br/>
+<a href="https://junocollege.com/bootcamp/web-development">Juno Bootcamp</a><br/>
+<a href="https://usepastel.com/">Pastel</a><br/>
+</div>
+
+<div class="row pt-2 align-items-center">
+<div class="col-4 guest-picture">
+<img src="../uploads/2021/04/profile-annie.jpg" alt="Picture of Annie Liew"/>
+</div>
+<div class="col-8 guest-about">
+<b>About Annie Liew</b><br/>
 In this episode, I talk to Annie Liew, who works as a web developer at a startup called Pastel. She transitioned from Design to Engineering, and I want to know how she experienced this.
-
-**We talk about:**
-
-- about her experience transitioning from Designer to Engineer,
-- the role her Juno Web Development Bootcamp (formerly HackerYou),
-- her new role as the first engineering hire at a startup,
-- her drive to learn and level up in public,
-- and how she managed to build a large Twitter following.
+</div>
+</div>
 
 <div class="sponsorship"> Today’s episode is sponsored by <a href="https://www.botany.io/">Botany.io</a> – Botany is a virtual coach for software engineers that unblocks essential teamwork and levels up careers!</div>
 
-Links:
 
-- [Annie’s Twitter](https://twitter.com/anniebombanie_)
-- [Juno Bootcamp](https://junocollege.com/bootcamp/web-development)
-- [Pastel](https://usepastel.com/)
-
-### Subscribe on [iTunes](https://podcasts.apple.com/at/podcast/software-engineering-unlocked/id1477527378?l=en), [Spotify](https://open.spotify.com/show/2wz1OneBIDXpbBYeuyIsJL?si=2I0R0HuaTLK6RT0f7lDIFg), [Google](https://www.google.com/podcasts?feed=aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS9LMV9tdjBDSg%3D%3D), [Deezer](https://www.deezer.com/show/465682), or via [RSS](https://www.software-engineering-unlocked.com/subscribe/).
-
-<iframe frameborder="no" height="200px" scrolling="no" seamless="" src="https://player.simplecast.com/2befd088-cbb3-431f-8caa-a86d8ca7b582?dark=false" width="100%"></iframe>
-
-## Transcript: From designer to web developer
+## Read the whole episode "From designer to web developer" (Transcript)
+_\[Improve this transcript on [Github](https://github.com/mgreiler/se-unlocked/tree/master/Transcripts)_[.](https://github.com/mgreiler/se-unlocked/tree/master/Transcripts)\]

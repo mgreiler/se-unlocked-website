@@ -28,25 +28,39 @@ _yoast_wpseo_content_score:
   - "60"
 ---
 
+<div class="episode-about">
+Patrick Wagstrom is the Chief Data Officer at Brightcove.
+<br/> <br/>We also talk about:
+<ul>
+<li> his role and responsibilities as a chief data officer,</li>
+<li> the difference between building systems that support machine learning and systems that don’t,</li>
+<li> distributed software engineering,</li>
+<li> data governance and GDPR,</li>
+<li> and how to make sure your AI model is unbiased.</li>
+</ul>
+</div>
+<div class=" episode-links">
+<b>Episode Resources:</b><br/>
+Learn more about Patrick <a href="https://www.linkedin.com/in/pwagstrom/">here</a><br/>
+and <a href="https://patrick.wagstrom.net/">here</a><br/>
+More about <a href="https://www.abrigo.com/blog/what-is-effective-challenge/">Effective Challenge</a><br/>
+More about <a href="https://www.kdnuggets.com/2021/01/mlops-model-monitoring-101.html">Model Monitoring</a><br/>
+<a href="https://www.linkedin.com/in/highrobert/">Rob High, IBM fellow</a><br/>
+</div>
+
+<div class="row pt-2 align-items-center">
+<div class="col-4 guest-picture">
+<img src="../uploads/2021/08/Patrick.jpg" alt="Picture of Patrick Wagstrom"/>
+</div>
+<div class="col-8 guest-about">
+<b>About Patrick Wagstrom</b><br/>
 Patrick Wagstrom is the Chief Data Officer at Brightcove. Before that Patrick was the director of emerging technology at Verizon, meaning that he leveraged AI/ML, augmented reality, blockchain, IoT, quantum computing, and even 5G. Before that, he was a senior director of data science at Capital One. Even before that, he was a “research nerd” (his own term) at IBM working on the Watson project.
-
-**We talk about:**
-
-- his role and responsibilities as a chief data officer,
-- the difference between building systems that support machine learning and systems that don’t,
-- distributed software engineering,
-- data governance and GDPR,
-- and how to make sure your AI model is unbiased.
+</div>
+</div>
 
 <div class="sponsorship">Book your <a href="https://www.michaelagreiler.com/workshops">awesomecodereview.com</a> workshop!</a></div>
 
-Links:
 
-- Learn more about Patrick [here](https://www.linkedin.com/in/pwagstrom/) and [here](https://patrick.wagstrom.net/)
-- More about [Effective Challenge](https://www.abrigo.com/blog/what-is-effective-challenge/)
-- More about [Model Monitoring](https://www.kdnuggets.com/2021/01/mlops-model-monitoring-101.html)
-- [Rob High, IBM fellow](https://www.linkedin.com/in/highrobert/)
-
-## Transcript: What are the responsibilities of a chief data officer
+## Read the whole episode "Responsibilities of a Chief Data Officer" (Transcript)
 
 _\[If you want, you can help make the transcript better, and improve the podcast’s accessibility via_ [Github](https://github.com/mgreiler/se-unlocked/tree/master/Transcripts)_[.](https://github.com/mgreiler/se-unlocked/tree/master/Transcripts) I’m happy to lend a hand to help you get started with pull requests, and open source work.\]_

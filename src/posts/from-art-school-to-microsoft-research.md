@@ -29,28 +29,37 @@ _yoast_wpseo_content_score:
   - "60"
 ---
 
+<div class="episode-about">
+To celebrate the one year anniversary of the podcast, I tell you about my own journey into tech, and my experiences working at Microsoft and Microsoft Research.
+<br/> <br/>We also talk about:
+<ul>
+<li> how I got into tech without any previous computer knowledge,</li>
+<li> how my dream of becoming a researcher in the industry became true,</li>
+<li> and why I transitioned to remote work.</li>
+<li> Finally, I talk about starting my own business because of the need for more flexibility to combine family and work.
+</ul>
+</div>
+<div class=" episode-links">
+<b>Episode Resources:</b><br/>
+My current code review business <a href="http://awesomecodereviews.com/">awesomecodereviews.com</a><br/>
+My upcoming code review book <a href="http://codereviewbook.io/">codereviewbook.io</a><br/>
+<a href="https://twitter.com/mgreiler">My Twitter Profile</a><br/>
+</div>
+
+<div class="row pt-2 align-items-center">
+<div class="col-4 guest-picture">
+<img src="../uploads/2020/09/Michaela-Greiler.jpg" alt="Picture of Michaela Greiler"/>
+</div>
+<div class="col-8 guest-about">
+<b>About Michaela Greiler</b><br/>
 To celebrate the one year anniversary of the podcast, I tell you about my own journey into tech, and my experiences working at Microsoft and Microsoft Research. I share with you the turning points in my career and also how and why I started my own business.
-
-**I talk about:**
-
-- how I got into tech without any previous computer knowledge,
-- how my dream of becoming a researcher in the industry became true,
-- and why I transitioned to remote work.
-- Finally, I talk about starting my own business because of the need for more flexibility to combine family and work.
+</div>
+</div>
 
 <div class="sponsorship">
 Book your <a href="https://www.michaelagreiler.com/workshops">awesomecodereview.com</a> workshop!
-</div>
+</div> 
 
-Links:
+## Read the whole episode "From art school to Microsoft Research" (Transcript)
 
-- My current code review business: [awesomecodereviews.com](http://awesomecodereviews.com/)
-- My upcoming code review book: [codereviewbook.io](http://codereviewbook.io/)
-- [My Twitter Profile](https://twitter.com/mgreiler)
-
-
-### Subscribe on [iTunes](https://podcasts.apple.com/at/podcast/software-engineering-unlocked/id1477527378?l=en), [Spotify](https://open.spotify.com/show/2wz1OneBIDXpbBYeuyIsJL?si=2I0R0HuaTLK6RT0f7lDIFg), [Google](https://www.google.com/podcasts?feed=aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS9LMV9tdjBDSg%3D%3D), [Deezer](https://www.deezer.com/show/465682), or via [RSS](https://www.software-engineering-unlocked.com/subscribe/).
-
-
-## Transcript:
-
+_\[Improve this transcript on [Github](https://github.com/mgreiler/se-unlocked/tree/master/Transcripts)_[.](https://github.com/mgreiler/se-unlocked/tree/master/Transcripts)\]

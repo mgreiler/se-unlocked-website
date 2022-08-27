@@ -29,25 +29,36 @@ secondline_themes_disable_img:
   - "on"
 ---
 
+<div class="episode-about">
+Jenn Creighton is a Senior Staff Engineer at Apollo. Jenn specialized in frontend-end development is currently working on the open-source work for Apollo GraphQL.
+<br/> <br/>We also talk about:
+<ul>
+<li> what a senior staff engineer does, and which responsibilities this title entail,</li>
+<li> why she needed to frequently change her job in order to advance her career,</li>
+<li> how gaslighting, bias, and being underrepresented, underpaid, undervalued is part of her decades long experience as a developer</li>
+<li> and how she makes sure she is helping others to enter tech and have a better experience.</li>
+</ul>
+</div>
+<div class=" episode-links">
+<b>Episode Resources:</b><br/>
+<a href="https://twitter.com/gurlcode">Jenn’s Twitter</a><br/>
+<a href="https://anchor.fm/single-threaded">Jenn’s Podcast</a><br/>
+<!--<a href="">THIRD LINK</a><br/>-->
+</div>
+
+<div class="row pt-2 align-items-center">
+<div class="col-4 guest-picture">
+<img src="../uploads/2021/03/Jenn_Creigthon.jpg" alt="Picture of Jenn Creighton"/>
+</div>
+<div class="col-8 guest-about">
+<b>About Jenn Creighton</b><br/>
 Jenn Creighton is a Senior Staff Engineer at Apollo. Jenn specialized in frontend-end development is currently working on the open-source work for Apollo GraphQL.  
 She also is a frequent conference speaker, an authoritative voice in tech, and recently started her own podcast called single-threaded
-
-**We talk about:**
-
-- what a senior staff engineer does, and which responsibilities this title entail,
-- why she needed to frequently change her job in order to advance her career,
-- how gaslighting, bias, and being underrepresented, underpaid, undervalued is part of her decades long experience as a developer
-- and how she makes sure she is helping others to enter tech and have a better experience.
-
-![](../uploads/2021/03/Jenn_Creigthon.jpg)
+</div>
+</div>
 
 <div class="sponsorship">Today’s episode is sponsored by <a href="https://www.botany.io" rel="noopener noreferrer" target="_blank">Botany.io</a> – Botany is a virtual coach for software engineers that unblocks essential teamwork and levels up careers!</div>
 
-Links:
-
-- [Jenn’s Twitter](https://twitter.com/gurlcode)
-- [Jenn’s Podcast](https://anchor.fm/single-threaded)
-
-## Transcript
+## Read the whole episode "Underrepresented, Underpaid, Undervalued: When only job-hopping advances your career" (Transcript)
 
 _\[If you want, you can help make the transcript better, and improve the podcast’s accessibility via_ [Github](https://github.com/mgreiler/se-unlocked/tree/master/Transcripts)_[.](https://github.com/mgreiler/se-unlocked/tree/master/Transcripts) I’m happy to lend a hand to help you get started with pull requests, and open source work.\]_

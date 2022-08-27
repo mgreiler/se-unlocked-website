@@ -18,24 +18,41 @@ _yoast_wpseo_content_score:
   - "30"
 ---
 
+<div class="episode-about">
+In this episode, Allison McMillan, a software engineering manager at Github joins me to talk about.
+<br/> <br/>We also talk about:
+<ul>
+<li> how she broke into tech from a non-traditional background,</li>
+<li> how she overcame obstacles and problems as a new mother in tech</li>
+<li> how she builds herself a striving career.</li>
+<li> we also talk about software development methodologies such as code reviews and testing at Github.</li>
+</ul>
+</div>
+<div class=" episode-links">
+<b>Episode Resources:</b><br/>
+<a href="http://daydreamsinruby.com/">Allison’s Website</a><br/>
+Allison’s  <a href="https://www.parentdrivendevelopment.com/">Parent Driven Development Podcast</a><br/>
+<a href="https://github.com/">Github’s website</a><br/>
+</div>
+
+<div class="row pt-2 align-items-center">
+<div class="col-4 guest-picture">
+<img src="../uploads/2019/12/Alison_Sq.jpg" alt="Picture of Allison McMillan"/>
+</div>
+<div class="col-8 guest-about">
+<b>About Allison McMillan</b><br/>
 In this episode, Allison McMillan, a software engineering manager at Github joins me to talk about
-
-- how she broke into tech from a non-traditional background,
-- how she overcame obstacles and problems as a new mother in tech and
-- how she builds herself a striving career.
-
+how she broke into tech from a non-traditional background,
+how she overcame obstacles and problems as a new mother in tech and
+how she builds herself a striving career.
 As always, we also talk about software development methodologies such as code reviews and testing at Github. And surely, I pick her brain about remote work and her strategies to stay focused and happy in a remote setting.
+</div>
+</div>
 
-![](../uploads/2019/12/Alison_Sq.jpg)
+<div class="sponsorship">
+Book your <a href="https://www.michaelagreiler.com/workshops">awesomecodereview.com</a> workshop!
+</div>
 
-### Subscribe on [iTunes](https://podcasts.apple.com/at/podcast/software-engineering-unlocked/id1477527378?l=en), [Spotify](https://open.spotify.com/show/2wz1OneBIDXpbBYeuyIsJL?si=2I0R0HuaTLK6RT0f7lDIFg), [Google](https://www.google.com/podcasts?feed=aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS9LMV9tdjBDSg%3D%3D), [Deezer](https://www.deezer.com/show/465682), or via [RSS](https://www.software-engineering-unlocked.com/subscribe/).
+## Read the whole episode "Parent Driven Development at Github with Allison McMillan" (Transcript)
 
-**Links:**
-
-- [Allison’s Website](http://daydreamsinruby.com/)
-- Allison’s [Parent Driven Development Podcast](https://www.parentdrivendevelopment.com/)
-- [Github’s website](https://github.com/)
-
-**Show notes:**
-
-The show notes will follow shortly.
+_\[Improve this transcript on [Github](https://github.com/mgreiler/se-unlocked/tree/master/Transcripts)_[.](https://github.com/mgreiler/se-unlocked/tree/master/Transcripts)\]
