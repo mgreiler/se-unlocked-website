@@ -59,6 +59,6 @@ In this episode, I talk to Tudor Gîrba, CEO and co-founder of Feenk, a software
 Book your <a href="https://www.michaelagreiler.com/workshops">awesomecodereview.com</a> workshop!
 </div>
 
-## Read the whole episode "EPISODE TITLE" (Transcript)
+## Read the whole episode "Fundamentally Changing How We Develop Software" (Transcript)
 
 _\[Improve this transcript on [Github](https://github.com/mgreiler/se-unlocked/tree/master/Transcripts)_[.](https://github.com/mgreiler/se-unlocked/tree/master/Transcripts)\]
