@@ -19,34 +19,44 @@ secondline_themes_header_image_id:
   - "1234"
 post_header_image: ../uploads/2020/08/Kent-Doods-Bg.jpg
 ---
+<div class="episode-about">
+In this episode, I talk to Kent C. Dodds, a software engineer, and teacher. Before starting his entrepreneurial journey, Kent has been working for PayPal.
 
+
+<br/> <br/>We also talk about:
+<ul>
+ <li> best practices in testing modern software systems,</li>
+  <li> the testing pyramid and it’s “successor” the testing trophy,</li>
+  <li> why integration tests might be more beneficial than unit tests,</li>
+  <li> how you should avoid testing implementation details,</li>
+  <li> and how testing sentiments have changed over the last 10 years.</li>
+</ul>
+</div>
+<div class=" episode-links">
+<b>Episode Resources:</b><br/>
+<a href="https://testingjavascript.com/"> Kent C. Dodd’s testingjavascript.com</a><br/>
+<a href="https://kentcdodds.com/blog/?q=testing"> All Testing Blog Posts of Kent</a><br/>
+<a href="https://martinfowler.com/bliki/TestPyramid.html"> Testing Pyramid</a><br/>
+<a href="https://kentcdodds.com/blog/write-tests"> Write Tests. Not too many. Mostly integration.</a><br/>
+<a href="https://www.michaelagreiler.com/wp-content/uploads/2020/03/TUD-SERG-2011-010-Test-Confessions.pdf"> Test Confessions: How Plug-in Systems are tested – Study</a><br/>
+<a href="https://kentcdodds.com/blog/testing-implementation-details"> Testing Implementation Details</a><br/>
+<a href="https://kentcdodds.com/blog/write-fewer-longer-tests"> Write fewer, longer tests</a><br/>
+<a href="https://youtu.be/DjIz7dJGHSI"> Webinar: Michaela’s secret sauce for fast and effective code reviews</a><br/>
+</div>
+
+<div class="row pt-2 align-items-center">
+<div class="col-4 guest-picture">
+<img src="../uploads/2020/08/Kent.jpg" alt="Picture of Kent C. Dodds"/>
+</div>
+<div class="col-8 guest-about">
+<b>About Kent C. Dodds</b><br/>
 In this episode, I talk to Kent C. Dodds, a software engineer, and teacher. Before starting his entrepreneurial journey, Kent has been working for PayPal. He is a major open source contributor and also the creator and maintainer of the widely used open-source testing-library.
-
 Code that he writes is used by millions of people around the world, and he also teaches thousands of engineers how to test their JavaScript systems, and how to work with React.
-
-**We talk about:**
-
-- best practices in testing modern software systems,
-- the testing pyramid and it’s “successor” the testing trophy,
-- why integration tests might be more beneficial than unit tests,
-- how you should avoid testing implementation details,
-- and how testing sentiments have changed over the last 10 years.
-
-![](../uploads/2020/08/Kent.jpg)
-
-### Subscribe on [iTunes](https://podcasts.apple.com/at/podcast/software-engineering-unlocked/id1477527378?l=en), [Spotify](https://open.spotify.com/show/2wz1OneBIDXpbBYeuyIsJL?si=2I0R0HuaTLK6RT0f7lDIFg), [Google](https://www.google.com/podcasts?feed=aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS9LMV9tdjBDSg%3D%3D), [Deezer](https://www.deezer.com/show/465682), or via [RSS](https://www.software-engineering-unlocked.com/subscribe/).
+</div>
+</div>
 
 <div class="sponsorship">Book your  <a href="https://www.michaelagreiler.com/workshops/">awesome codereview workshop</a></div>
 
-Links:
+## Read the whole episode "Why integration tests are better than unit tests with Kent C. Dodds" (Transcript)
 
-- [Kent C. Dodd’s testingjavascript.com](https://testingjavascript.com/)
-- [All Testing Blog Posts of Kent](https://kentcdodds.com/blog/?q=testing)
-- [Testing Pyramid](https://martinfowler.com/bliki/TestPyramid.html)
-- [Write Tests. Not too many. Mostly integration.](https://kentcdodds.com/blog/write-tests)
-- [Test Confessions: How Plug-in Systems are tested – Study](https://www.michaelagreiler.com/wp-content/uploads/2020/03/TUD-SERG-2011-010-Test-Confessions.pdf)
-- [Testing Implementation Details](https://kentcdodds.com/blog/testing-implementation-details)
-- [Write fewer, longer tests](https://kentcdodds.com/blog/write-fewer-longer-tests)
-- [Webinar: Michaela’s secret sauce for fast and effective code reviews](https://youtu.be/DjIz7dJGHSI)
-
-## Transcript: Why integration tests are better than unit tests with Kent C. Dodds
+_\[Improve this transcript on [Github](https://github.com/mgreiler/se-unlocked/tree/master/Transcripts)_[.](https://github.com/mgreiler/se-unlocked/tree/master/Transcripts)\]

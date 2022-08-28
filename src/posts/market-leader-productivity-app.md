@@ -29,33 +29,44 @@ post_header_image: ../uploads/2020/06/Amir_bg.jpg
 audio: http://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/aaca90/aaca909a-e34f-49ae-a86f-f59e4fa807f0/67159a85-1734-416e-a493-baead56cb174/amir-salihefendic-ready_tc.mp3
 ---
 
+<div class="episode-about">
+Amir Salihefendić, CEO and Founder of Doist, the company behind the widely successful productivity app ToDoist shares with us his entrepreneurial journey.
+<br/> <br/>We also talk about:
+<ul>
+<li> bootstrapping from idea to market leader,</li>
+<li> how asynchronous communication helps create better products,</li>
+<li> why he believes in the vitality of recharging,</li>
+<li> and how to get a job at the remote-first company Doist.</li>
+</ul>
+</div>
+<div class=" episode-links">
+<b>Episode Resources:</b><br/>
+<a href="https://www.michaelagreiler.com/code-review-book/">Michaela’s Code Review Book</a><br/>
+<a href="https://www.michaelagreiler.com/workshops/">Code Review Workshops</a><br/>
+<a href="https://twitter.com/amix3k">Amir’s twitter</a><br/>
+<a href="https://doist.com/">Doist’s website</a><br/>
+<a href="https://twitter.com/mgreiler">Michaela’s Twitter</a><br/>
+Blog posts mentioned:<br/>
+<a href="https://doist.com/blog/how-to-become-a-market-leader-in-10-years/">Market leader in 10 years</a><br/>
+<a href="https://doist.com/blog/ambition-balance/">Ambition and balance</a><br/>
+<a href="https://doist.com/blog/no-exit-strategy/">Having no exit strategy</a><br/>
+</div>
+
+<div class="row pt-2 align-items-center">
+<div class="col-4 guest-picture">
+<img src="../uploads/2020/06/amir.jpg" alt="Picture of Amir Salihefendić"/>
+</div>
+<div class="col-8 guest-about">
+<b>About Amir Salihefendić</b><br/>
 Amir Salihefendić, CEO and Founder of Doist, the company behind the widely successful productivity app ToDoist shares with us his entrepreneurial journey. We also talk about the company and engineering values lived at Doist.
-
-**We talk about:**
-
-- bootstrapping from idea to market leader,
-- how asynchronous communication helps create better products,
-- why he believes in the vitality of recharging,
-- and how to get a job at the remote-first company Doist.
+</div>
+</div>
 
 <div class="sponsorship">
 Book your <a href="https://www.michaelagreiler.com/workshops">awesomecodereview.com</a> workshop!
 </div>
 
-### Subscribe on [iTunes](https://podcasts.apple.com/at/podcast/software-engineering-unlocked/id1477527378?l=en), [Spotify](https://open.spotify.com/show/2wz1OneBIDXpbBYeuyIsJL?si=2I0R0HuaTLK6RT0f7lDIFg), [Google](https://www.google.com/podcasts?feed=aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS9LMV9tdjBDSg%3D%3D), [Deezer](https://www.deezer.com/show/465682), or via [RSS](https://www.software-engineering-unlocked.com/subscribe/).
 
-**Links:**
+## Read the whole episode ""How to build the market leading todo-app ToDoist" (Transcript)
 
-- [Michaela’s Code Review Book](https://www.michaelagreiler.com/code-review-book/)
-- [Code Review Workshops](https://www.michaelagreiler.com/workshops/)
-- [Amir’s twitter](https://twitter.com/amix3k)
-- [Doist’s website](https://doist.com/)
-- [Michaela’s Twitter](https://twitter.com/mgreiler)
-
-Blog posts mentioned:
-
-- [Market leader in 10 years](https://doist.com/blog/how-to-become-a-market-leader-in-10-years/)
-- [Ambition and balance](https://doist.com/blog/ambition-balance/)
-- [Having no exit strategy](https://doist.com/blog/no-exit-strategy/)
-
-## Transcript:
+_\[If you want, you can help make the transcript better, and improve the podcast’s accessibility via_ [Github](https://github.com/mgreiler/se-unlocked/tree/master/Transcripts)_[.](https://github.com/mgreiler/se-unlocked/tree/master/Transcripts) I’m happy to lend a hand to help you get started with pull requests, and open source work.\]_

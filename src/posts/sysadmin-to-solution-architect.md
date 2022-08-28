@@ -29,26 +29,39 @@ post_header_image: ../uploads/2020/08/Angela-Andrews-Bg.jpg
 audio: http://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/aaca90/aaca909a-e34f-49ae-a86f-f59e4fa807f0/f3b7dbb9-70fc-458f-9af8-1a58c3d240a4/angela-andrews-readyy_tc.mp3
 ---
 
+<div class="episode-about">
+Angela Andrews shares how she transitioned into the role of a solution architect at Red Hat.
+<br/> <br/>We also talk about:
+<ul>
+<li> her experiences as a sysadmin,</li>
+<li> how she learned to program,</li>
+<li> and how she transitioned into becoming a solution architect at Red Hat.</li>
+<li> She also shares why she has a wall of different certifications,</li>
+<li> and started a bunch of different learning circles and communities that help people learn to program and reach their goals.</li>
+</ul>
+</div>
+<div class=" episode-links">
+<b>Episode Resources:</b><br/>
+<a href="https://www.michaelagreiler.com/workshops/">Michaela’s Code Review Workshops</a><br/>
+<a href="https://twitter.com/ScooterPhoenix">Angela’s Twitter</a><br/>
+<!--<a href="">THIRD LINK</a><br/>-->
+</div>
+
+<div class="row pt-2 align-items-center">
+<div class="col-4 guest-picture">
+<img src="../uploads/2020/08/Angela_Scooter.jpg" alt="Picture of Angela Andrews"/>
+</div>
+<div class="col-8 guest-about">
+<b>About Angela Andrews</b><br/>
 Angela Andrews shares how she transitioned into the role of a solution architect at Red Hat. Angela is a curious learner who has worn many hats over the last +20 years in the tech industry.
-
-**We talk about:**
-
-- her experiences as a sysadmin,
-- how she learned to program,
-- and how she transitioned into becoming a solution architect at Red Hat.
-- She also shares why she has a wall of different certifications,
-- and started a bunch of different learning circles and communities that help people learn to program and reach their goals.
+</div>
+</div>
 
 <div class="sponsorship">
 Book your <a href="https://www.michaelagreiler.com/workshops">awesomecodereview.com</a> workshop!
 </div>
 
-### Subscribe on [iTunes](https://podcasts.apple.com/at/podcast/software-engineering-unlocked/id1477527378?l=en), [Spotify](https://open.spotify.com/show/2wz1OneBIDXpbBYeuyIsJL?si=2I0R0HuaTLK6RT0f7lDIFg), [Google](https://www.google.com/podcasts?feed=aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS9LMV9tdjBDSg%3D%3D), [Deezer](https://www.deezer.com/show/465682), or via [RSS](https://www.software-engineering-unlocked.com/subscribe/).
+## Read the whole episode "From Sysadmin to Developer to Solution Architect at Red Hat" (Transcript)
 
-Links:
+_\[If you want, you can help make the transcript better, and improve the podcast’s accessibility via_ [Github](https://github.com/mgreiler/se-unlocked/tree/master/Transcripts)_[.](https://github.com/mgreiler/se-unlocked/tree/master/Transcripts) I’m happy to lend a hand to help you get started with pull requests, and open source work.\]_
 
-[Michaela’s Code Review Workshops ](https://www.michaelagreiler.com/workshops/)
-
-[Angela’s Twitter](https://twitter.com/ScooterPhoenix)
-
-## Transcript:

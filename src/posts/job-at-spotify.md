@@ -27,33 +27,41 @@ _yoast_wpseo_content_score:
   - "30"
 ---
 
+<div class="episode-about">
+Emma Bostian shares how she got a job at Spotify and what it means to move countries during a pandemic.
+<br/> <br/>We also talk about:
+<ul>
+<li> her interview experience with Spotify and Google,</li>
+<li> her experience moving countries during a global pandemic,</li>
+<li> what makes for a great onboarding experience and</li>
+<li> how we can take action to make sure workplaces are friendly and welcoming.</li>
+</ul>
+</div>
+<div class=" episode-links">
+<b>Episode Resources:</b><br/>
+<a href="https://twitter.com/EmmaBostian">Emma’s Twitter</a><br/>
+<a href="https://technicalinterviews.dev/">Emma’s Interview Book</a><br/>
+<a href="https://www.ladybug.dev/">Ladybug Podcast</a><br/>
+Study on Effects of Technical Interviews by North Carolina University:<br/>
+<a href="https://news.ncsu.edu/2020/07/tech-job-interviews-anxiety/">Blog post</a><br/>
+<a href="http://chrisparnin.me/pdf/stress_FSE_20.pdf">Research Paper</a><br/>
+</div>
+
+<div class="row pt-2 align-items-center">
+<div class="col-4 guest-picture">
+<img src="../uploads/2020/09/emma_s.jpg" alt="Picture of Emma Bostian"/>
+</div>
+<div class="col-8 guest-about">
+<b>About Emma Bostian</b><br/>
 Emma Bostian shares how she got a job at Spotify and what it means to move countries during a pandemic. Emma is the kind of person, that not only applies and interviews for jobs, but at the same time writes a complete book about her interviewing experience hunting for this dream job. This book sold so well, that she could pay back all her medical debt. Before joining Spotify, she worked for LogMeIn, and IBM. She won competitions and moved countries several times.
-
-**We talk about:**
-
-- her interview experience with Spotify and Google,
-- her experience moving countries during a global pandemic,
-- what makes for a great onboarding experience and
-- how we can take action to make sure workplaces are friendly and welcoming.
-
-### Subscribe on [iTunes](https://podcasts.apple.com/at/podcast/software-engineering-unlocked/id1477527378?l=en), [Spotify](https://open.spotify.com/show/2wz1OneBIDXpbBYeuyIsJL?si=2I0R0HuaTLK6RT0f7lDIFg), [Google](https://www.google.com/podcasts?feed=aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS9LMV9tdjBDSg%3D%3D), [Deezer](https://www.deezer.com/show/465682), or via [RSS](https://www.software-engineering-unlocked.com/subscribe/).
-
-Links:
-
-- [Emma’s Twitter](https://twitter.com/EmmaBostian)
-- [Emma’s Interview Book](https://technicalinterviews.dev/)
-- [Ladybug Podcast](https://www.ladybug.dev/)
-- Study on Effects of Technical Interviews by North Carolina University:
-  - [Blog post](https://news.ncsu.edu/2020/07/tech-job-interviews-anxiety/)
-  - [Research Paper](http://chrisparnin.me/pdf/stress_FSE_20.pdf)
+</div>
+</div>
 
 <div class="sponsorship">
 Book your <a href="https://www.michaelagreiler.com/workshops">awesomecodereview.com</a> workshop!
 </div>
 
- <iframe frameborder="no" height="200px" scrolling="no" seamless="" src="https://player.simplecast.com/cb179ff0-0388-478d-a570-8d7d28f6f23c?dark=false" width="100%"></iframe>
-
-Transcript:
+## Read the whole episode "How I got a job at Spotify during a pandemic - Emma Bostian" (Transcript)
 
 _\[This transcripts is the result of a community effort. You can help make it better, and improve the podcast’s accessibility via_ [Github](https://github.com/mgreiler/se-unlocked/tree/master/Transcripts)_[.](https://github.com/mgreiler/se-unlocked/tree/master/Transcripts) I’m happy to lend a hand to help you get started with pull requests, and open source work.  
 Special thanks to [Florencia Silva Olivera](https://github.com/florenciasilva) for helping improve this transcript.\]_
