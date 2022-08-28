@@ -18,33 +18,41 @@ audio: https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/aaca909a-e3
 post_header_image: ../uploads/2021/02/Felienne_Hermans_BG.jpg
 ---
 
+<div class="episode-about">
 In this episode, I talk to Felienne Hermans, who is an associate professor at the University of Leiden and researches how developers think and learn.
+<br/> <br/>We also talk about:
+<ul>
+<li> why it is so hard to read and understand code,</li>
+<li> her book “The programmer’s brain”,</li>
+<li> how we can learn easier to program,</li>
+<li> techniques to understand complex code quicker,</li>
+<li> how a shared vocabulary can help teams, not only during code reviews</li>
+<li> and her process to write a book developers will love.</li>
+</ul>
+</div>
+<div class=" episode-links">
+<b>Episode Resources:</b><br/>
+<a href="https://twitter.com/Felienne">Felienne’s Twitter</a><br/>
+<a href="https://www.manning.com/books/the-programmers-brain">The Programmer Brain</a><br/>
+<a href="https://djangogirls.org/">Django Girls website</a><br/>
+<a href="https://www.michaelagreiler.com/workshops/">Michaela’s code review workshops</a><br/>
+<a href="https://www.michaelagreiler.com/code-review-book/">Code Review Book</a><br/>
+</div>
 
-**We talk about:**
+<div class="row pt-2 align-items-center">
+<div class="col-4 guest-picture">
+<img src="../uploads/2021/02/Felienne-Hermans.jpg" alt="Picture of Felienne Hermans"/>
+</div>
+<div class="col-8 guest-about">
+<b>About Felienne Hermans</b><br/>
+In this episode, I talk to Felienne Hermans, who is an associate professor at the University of Leiden and researches how developers think and learn.
+</div>
+</div>
 
-- why it is so hard to read and understand code,
-- her book “The programmer’s brain”,
-- how we can learn easier to program,
-- techniques to understand complex code quicker,
-- how a shared vocabulary can help teams, not only during code reviews
-- and her process to write a book developers will love.
+<div class="sponsorship">
+Today’s episode is sponsored by <a href="https://configcat.com/">ConfigCat</a> – your favorite feature flag management tool to release more frequently with fewer risks!
+</div> 
 
-![](../uploads/2021/02/Felienne-Hermans.jpg)
-
-### Today’s episode is sponsored by [ConfigCat](https://configcat.com/) – your favorite feature flag management tool to release more frequently with fewer risks!
-
- <iframe frameborder="no" height="200px" scrolling="no" seamless="" src="https://player.simplecast.com/54d1f660-9f8b-4015-8d25-e96c326010ff?dark=false" width="100%"></iframe>
-
-Links:
-
-- [Felienne’s Twitter](https://twitter.com/Felienne)
-- [The Programmer Brain](https://www.manning.com/books/the-programmers-brain)
-- [Django Girls website](https://djangogirls.org/)
-- [Michaela’s code review workshops](https://www.michaelagreiler.com/workshops/)
-- [Code Review Book](https://www.michaelagreiler.com/code-review-book/)
-
-### Subscribe on [iTunes](https://podcasts.apple.com/at/podcast/software-engineering-unlocked/id1477527378?l=en), [Spotify](https://open.spotify.com/show/2wz1OneBIDXpbBYeuyIsJL?si=2I0R0HuaTLK6RT0f7lDIFg), [Google](https://www.google.com/podcasts?feed=aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS9LMV9tdjBDSg%3D%3D), [Deezer](https://www.deezer.com/show/465682), or via [RSS](https://www.software-engineering-unlocked.com/subscribe/).
-
-## Transcript: How programmers think and learn
+## Read the whole episode "How Programmers Think and Learn" (Transcript)
 
 _\[If you want, you can help make the transcript better, and improve the podcast’s accessibility via_ [Github](https://github.com/mgreiler/se-unlocked/tree/master/Transcripts)_[.](https://github.com/mgreiler/se-unlocked/tree/master/Transcripts) I’m happy to lend a hand to help you get started with pull requests, and open source work.\]_

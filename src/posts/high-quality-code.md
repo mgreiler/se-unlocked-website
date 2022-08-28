@@ -30,28 +30,38 @@ secondline_themes_disable_img:
   - "on"
 ---
 
+<div class="episode-about">
 Liran Haimovitch, CTO of Rookout – an effortless debugging tool, and I talk about how to get to high-quality code.
+<br/> <br/>We also talk about:
+<ul>
+<li> what are the challenges of moving fast</li>
+<li> what does productivity mean</li>
+<li> a lot about code reviews</li>
+<li> and I also give you a glimpse of the research I’m currently doing.</li>
+</ul>
+</div>
+<div class=" episode-links">
+<b>Episode Resources:</b><br/>
+<a href="https://www.youtube.com/watch?v=BcXtSEmNg90">This talk on YouTube</a><br/>
+<a href="https://www.rookout.com/">Rookout</a><br/>
+<a href="https://www.michaelagreiler.com/workshops/">My awesome code review workshops</a><br/>
+<a href="https://queue.acm.org/detail.cfm?id=3454124">SPACE framework</a><br/>
+</div>
 
-**We talk about:**
-
-- what are the challenges of moving fast
-- what does productivity mean
-- a lot about code reviews
-- and I also give you a glimpse of the research I’m currently doing.
+<div class="row pt-2 align-items-center">
+<div class="col-4 guest-picture">
+<img src="../uploads/2021/05/Liran-Haimovitch.jpg" alt="Picture of Liran Haimovitch"/>
+</div>
+<div class="col-8 guest-about">
+<b>About Liran Haimovitch</b><br/>
+Liran Haimovitch, CTO of Rookout – an effortless debugging tool, and I talk about how to get to high-quality code.
+</div>
+</div>
 
 <div class="sponsorship">
 Book your <a href="https://www.michaelagreiler.com/workshops">awesomecodereview.com</a> workshop!
-</div>
+</div> 
 
-Links:
-
-- [This talk on YouTube](https://www.youtube.com/watch?v=BcXtSEmNg90)
-- [Rookout](https://www.rookout.com/)
-- [My awesome code review workshops](https://www.michaelagreiler.com/workshops/)
-- [SPACE framework](https://queue.acm.org/detail.cfm?id=3454124)
-
-### Subscribe on [iTunes](https://podcasts.apple.com/at/podcast/software-engineering-unlocked/id1477527378?l=en), [Spotify](https://open.spotify.com/show/2wz1OneBIDXpbBYeuyIsJL?si=2I0R0HuaTLK6RT0f7lDIFg), [Google](https://www.google.com/podcasts?feed=aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS9LMV9tdjBDSg%3D%3D), [Deezer](https://www.deezer.com/show/465682), or via [RSS](https://www.software-engineering-unlocked.com/subscribe/).
-
-## Transcript:
+## Read the whole episode "The Secret To High-Quality Code with Dr. Michaela Greiler and Liran Haimovitch" (Transcript)
 
 _\[If you want, you can help make the transcript better, and improve the podcast’s accessibility via_ [Github](https://github.com/mgreiler/se-unlocked/tree/master/Transcripts)_[.](https://github.com/mgreiler/se-unlocked/tree/master/Transcripts) I’m happy to lend a hand to help you get started with pull requests, and open source work.\]_

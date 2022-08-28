@@ -29,28 +29,39 @@ secondline_themes_disable_img:
   - "on"
 ---
 
+<div class="episode-about">
+Max Stoiber is a JavaScript Engineer that is in love with React and Node, and also a fellow Austrian.
+<br/> <br/>We also talk about:
+<ul>
+<li> what he learned about software engineering best practices at GitHub,</li>
+<li> why he started his newest side-project bedrock,</li>
+<li> why building an indie or small lifestyle businesses is not his thing anymore,</li>
+<li> and how he prepares to build a billion-dollar business.</li>
+</ul>
+</div>
+<div class=" episode-links">
+<b>Episode Resources:</b><br/>
+<a href="https://twitter.com/mxstbr">Max’s Twitter</a><br/>
+<a href="https://bedrock.mxstbr.com/">Bedrock</a><br/>
+<a href="https://feedback.fish/">Feedback Fish</a><br/>
+<a href="https://www.amazon.com/Mom-Test-customers-business-everyone-ebook/dp/B01H4G2J1U/">Book: The Mum Test</a><br/>
+</div>
+
+<div class="row pt-2 align-items-center">
+<div class="col-4 guest-picture">
+<img src="../uploads/2021/05/Max-Stoiber.jpg" alt="Picture of Max Stoiber"/>
+</div>
+<div class="col-8 guest-about">
+<b>About Max Stoiber</b><br/>
 Max Stoiber is a JavaScript Engineer that is in love with React and Node, and also a fellow Austrian. He has a track record in the open-source world, worked for Gatsby, and Github, and also is a successful entrepreneur.
-
-**We talk about:**
-
-- what he learned about software engineering best practices at GitHub,
-- why he started his newest side-project bedrock,
-- why building an indie or small lifestyle businesses is not his thing anymore,
-- and how he prepares to build a billion-dollar business.
+</div>
+</div>
 
 <div class="sponsorship">
 Book your <a href="https://www.michaelagreiler.com/workshops">awesomecodereview.com</a> workshop!
-</div>
+</div> 
 
-Links:
 
-- [Max’s Twitter](https://twitter.com/mxstbr)
-- [Bedrock](https://bedrock.mxstbr.com/)
-- [Feedback Fish](https://feedback.fish/)
-- [Book: The Mum Test](https://www.amazon.com/Mom-Test-customers-business-everyone-ebook/dp/B01H4G2J1U/)
-
-### Subscribe on [iTunes](https://podcasts.apple.com/at/podcast/software-engineering-unlocked/id1477527378?l=en), [Spotify](https://open.spotify.com/show/2wz1OneBIDXpbBYeuyIsJL?si=2I0R0HuaTLK6RT0f7lDIFg), [Google](https://www.google.com/podcasts?feed=aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS9LMV9tdjBDSg%3D%3D), [Deezer](https://www.deezer.com/show/465682), or via [RSS](https://www.software-engineering-unlocked.com/subscribe/).
-
-## Transcript: Getting ready for a billion-dollar business
+## Read the whole episode "Getting ready to build a billion-dollar business" (Transcript)
 
 _\[If you want, you can help make the transcript better, and improve the podcast’s accessibility via_ [Github](https://github.com/mgreiler/se-unlocked/tree/master/Transcripts)_[.](https://github.com/mgreiler/se-unlocked/tree/master/Transcripts) I’m happy to lend a hand to help you get started with pull requests, and open source work.\]_

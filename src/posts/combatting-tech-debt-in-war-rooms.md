@@ -16,29 +16,41 @@ audio: http://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/aaca909a-e34
 post_header_image: ../uploads/2020/11/tomasz-bg.jpg
 ---
 
+
+<div class="episode-about">
+In this episode, I talk to Tomasz Łakomy, a senior frontend engineer at OLX Group.
+<br/> <br/>We also talk about:
+<ul>
+<li> how they develop, test, and reviews software at OLX group,</li>
+<li> what war rooms are and how they help to combat technical debt,</li>
+<li> how he managed to create over 170 video tutorials about software engineering,</li>
+<li> why he is AWS certified as a front-end engineer, and</li>
+<li> how skydiving helped him to be a better software developer.</li>
+
+</ul>
+</div>
+<div class=" episode-links">
+<b>Episode Resources:</b><br/>
+<a href="https://codesubmit.io/">CodeSubmit</a><br/>
+<a href="https://www.michaelagreiler.com/workshops">awesomecodereview.com</a><br/>
+<a href="https://twitter.com/tlakomy">Tomasz’s Twitter</a><br/>
+<a href="https://tlakomy.com/seven-years-as-a-developer-lessons-learned">7 years as a developer – lessons learned</a><br/>
+<a href="https://tlakomy.com/">Tomasz’s Tech Blog</a><br/>
+<a href="https://www.olxgroup.com/">OLX Group</a><br/>
+</div>
+
+<div class="row pt-2 align-items-center">
+<div class="col-4 guest-picture">
+<img src="../uploads/2020/11/tomasz_lakomi.jpg" alt=" Picture of Tomasz Łakomy"/>
+</div>
+<div class="col-8 guest-about">
+<b>About Tomasz Łakomy</b><br/>
 In this episode, I talk to Tomasz Łakomy, a senior frontend engineer at OLX Group. Tomasz is fascinated about teaching everything he knows and has over 170 video tutorials.
-
-**We talk about:**
-
-- how they develop, test, and reviews software at OLX group,
-- what war rooms are and how they help to combat technical debt,
-- how he managed to create over 170 video tutorials about software engineering,
-- why he is AWS certified as a front-end engineer, and
-- how skydiving helped him to be a better software developer.
+</div>
+</div>
 
 <div class="sponsorship"> Today’s episode is sponsored by <a href="https://codesubmit.io/" target="_blank" rel="noreferrer" >CodeSubmit</a> – the best take-home assignments for your tech hiring! </div>
 
-Links:
-
-- [CodeSubmit](https://codesubmit.io/)
-- [awesomecodereview.com](https://www.michaelagreiler.com/workshops) workshops
-- [Tomasz’s Twitter](https://twitter.com/tlakomy)
-- [7 years as a developer – lessons learned](https://tlakomy.com/seven-years-as-a-developer-lessons-learned)
-- [Tomasz’s Tech Blog](https://tlakomy.com/)
-- [OLX Group](https://www.olxgroup.com/)
-
-### Subscribe on [iTunes](https://podcasts.apple.com/at/podcast/software-engineering-unlocked/id1477527378?l=en), [Spotify](https://open.spotify.com/show/2wz1OneBIDXpbBYeuyIsJL?si=2I0R0HuaTLK6RT0f7lDIFg), [Google](https://www.google.com/podcasts?feed=aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS9LMV9tdjBDSg%3D%3D), [Deezer](https://www.deezer.com/show/465682), or via [RSS](https://www.software-engineering-unlocked.com/subscribe/).
-
-## Transcript: Combatting Tech Debt In War Rooms
+## Read the whole episode "Combatting tech debt in war rooms" (Transcript)
 
 _\[If you want, you can help make the transcript better, and improve the podcast’s accessibility via_ [Github](https://github.com/mgreiler/se-unlocked/tree/master/Transcripts)_[.](https://github.com/mgreiler/se-unlocked/tree/master/Transcripts) I’m happy to lend a hand to help you get started with pull requests, and open source work.\]_

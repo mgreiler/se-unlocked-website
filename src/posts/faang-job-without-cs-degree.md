@@ -27,32 +27,39 @@ secondline_themes_header_image_id:
 post_header_image: ../uploads/2020/11/BenLeshBg.jpg
 ---
 
+<div class="episode-about">
+Ben Lesh, a Senior Software engineer at Citadel Securities explains how he got into Google and Netflix without a CS degree.
+<br/> <br/>We also talk about:
+<ul>
+<li> how he got into several FAANG companies without a CS degree,</li>
+<li> the importance of building relationships, and an online brand,</li>
+<li> the benefits of being helpful and kind to others,</li>
+<li> the differences in engineering practices at Google, Netflix, and Citadel Securities, and</li>
+<li> what RX.js is and why you might need it.</li>
+</ul>
+</div>
+<div class=" episode-links">
+<b>Episode Resources:</b><br/>
+Follow Michaela’s Journey on <a href="https://www.youtube.com/channel/UCWVxDd-f0EbQ_t56MyLobqw">YouTube</a><br/>
+and on <a href="https://www.twitch.tv/doctormckayla">Twitch</a><br/>
+<a href="https://twitter.com/BenLesh">Ben’s Twitter</a><br/>
+<a href="https://rxjs-dev.firebaseapp.com/">Rx.js Website</a><br/>
+</div>
+
+<div class="row pt-2 align-items-center">
+<div class="col-4 guest-picture">
+<img src="../uploads/2020/11/ben.jpg_small.jpg" alt="Picture of Ben Lesh"/>
+</div>
+<div class="col-8 guest-about">
+<b>About Ben Lesh</b><br/>
 Ben Lesh, a Senior Software engineer at Citadel Securities explains how he got into Google and Netflix without a CS degree. Ben is also the Project Lead for RxJS. RxJS is a library for composing asynchronous and event-based programs by using observable sequences.
-
-**We talk about:**
-
-- how he got into several FAANG companies without a CS degree,
-- the importance of building relationships, and an online brand,
-- the benefits of being helpful and kind to others,
-- the differences in engineering practices at Google, Netflix, and Citadel Securities, and
-- what RX.js is and why you might need it.
+</div>
+</div>
 
 <div class="sponsorship">
 Book your <a href="https://www.michaelagreiler.com/workshops">awesomecodereview.com</a> workshop!
-</div>
+</div> 
 
- <iframe frameborder="no" height="200px" scrolling="no" seamless="" src="https://player.simplecast.com/2ec3af9e-9a17-4ccd-95df-0e9b1a03ecc6?dark=false" width="100%"></iframe>
-
-Links:
-
-- Follow Michaela’s Journey on [YouTube](https://www.youtube.com/channel/UCWVxDd-f0EbQ_t56MyLobqw) and on [Twitch](https://www.twitch.tv/doctormckayla)
-- [Ben’s Twitter](https://twitter.com/BenLesh)
-- [Rx.js Website](https://rxjs-dev.firebaseapp.com/)
-
-### Subscribe on [iTunes](https://podcasts.apple.com/at/podcast/software-engineering-unlocked/id1477527378?l=en), [Spotify](https://open.spotify.com/show/2wz1OneBIDXpbBYeuyIsJL?si=2I0R0HuaTLK6RT0f7lDIFg), [Google](https://www.google.com/podcasts?feed=aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS9LMV9tdjBDSg%3D%3D), [Deezer](https://www.deezer.com/show/465682), or via [RSS](https://www.software-engineering-unlocked.com/subscribe/).
-
-<br/>
-
-### Transcript: How I got into FAANG companies without CS degree.
+## Read the whole episode "How I got into FAANG companies without a CS degree" (Transcript)
 
 _\[If you want, you can help make the transcript better, and improve the podcast’s accessibility via_ [Github](https://github.com/mgreiler/se-unlocked/tree/master/Transcripts)_[.](https://github.com/mgreiler/se-unlocked/tree/master/Transcripts) I’m happy to lend a hand to help you get started with pull requests, and open source work.\]_
