@@ -40,7 +40,7 @@ In this episode, I talk to Diana Mounter, the Director of Design Infrastructure 
 </div>
 <div class="col-8 guest-about">
 <b>About Diana Mounter</b><br/>
-In this episode, I talk to Diana Mounter, the Director of Design Infrastructure at GitHub. Diana traveled the world and lived in many different countries – even continents. She started as a print designer and spent some time in government before she got into web and design. Now, she leads the design systems at GitHub.
+Diana Mounter, the Director of Design Infrastructure at GitHub. Diana traveled the world and lived in many different countries – even continents. She started as a print designer and spent some time in government before she got into web and design. Now, she leads the design systems at GitHub.
 </div>
 </div>
 

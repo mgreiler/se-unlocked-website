@@ -41,7 +41,7 @@ In this episode, I talk to Annie Liew, who works as a web developer at a startup
 </div>
 <div class="col-8 guest-about">
 <b>About Annie Liew</b><br/>
-In this episode, I talk to Annie Liew, who works as a web developer at a startup called Pastel. She transitioned from Design to Engineering, and I want to know how she experienced this.
+Annie Liew, is a web developer at a startup called Pastel. She transitioned from Design to Engineering,
 </div>
 </div>
 
