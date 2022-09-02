@@ -42,7 +42,7 @@ In this episode, I talk to Troy Hunt, a leading security expert.
 </div>
 <div class="col-8 guest-about">
 <b>About Troy Hunt</b><br/>
-Troy Hunt, a leading security expert. Troy is a successful Pluralsight author and runs security workshops all around the world. He also is person behind the popular web haveIbeenPwned, which allows everybody to check whether their data has been exposed in a data breach.
+Troy Hunt, is a leading security expert. Troy is a successful Pluralsight author and runs security workshops all around the world. He also is person behind the popular web haveIbeenPwned, which allows everybody to check whether their data has been exposed in a data breach.
 </div>
 </div>
 

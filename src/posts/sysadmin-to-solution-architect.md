@@ -53,7 +53,7 @@ Angela Andrews shares how she transitioned into the role of a solution architect
 </div>
 <div class="col-8 guest-about">
 <b>About Angela Andrews</b><br/>
-Angela Andrews shares how she transitioned into the role of a solution architect at Red Hat. Angela is a curious learner who has worn many hats over the last +20 years in the tech industry.
+Angela Andrews, is a solution architect at Red Hat. Angela is a curious learner who has worn many hats over the last +20 years in the tech industry.
 </div>
 </div>
 

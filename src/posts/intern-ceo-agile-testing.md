@@ -53,8 +53,8 @@ Alex Schladebeck, a testing expert and powerful voice in the tech community, sha
 </div>
 <div class="col-8 guest-about">
 <b>About Alex Schladebeck</b><br/>
-Alex Schladebeck, a testing expert and powerful voice in the tech community, shared how she transitioned from intern to CEO of a dev shop. Alex is the CEO of Bredex, a dev shop that offers tailor-made IT solutions but also specializes in quality assurance and testing.
-A decade ago, Alex graduated in linguistic and came into tech by accident. So, I obviously have to ask her about her career transition, and testing.
+Alex Schladebeck, is a testing expert and powerful voice in the tech community. Alex is the CEO of Bredex, a dev shop that offers tailor-made IT solutions but also specializes in quality assurance and testing.
+A decade ago, Alex graduated in linguistic and came into tech by accident.
 </div>
 </div>
 

@@ -42,8 +42,7 @@ Cher Scarlett talks about how she was open about her bipolar disorder when inter
 </div>
 <div class="col-8 guest-about">
 <b>About Cher Scarlett</b><br/>
-Cher Scarlett talks about how she was open about her bipolar disorder when interviewing at Apple. In this part, we deep-dive into her interview experience at Apple and how she worked her way up to a Staff engineering position.
-This episode is part 2 of my interview with Cher Scarlett, where we cover more of her early life and how she worked hard to make it to a staff engineering position at Apple.
+Cher Scarlett is the Staff engineer at Apple.
 </div>
 </div>
 

@@ -45,7 +45,7 @@ In this episode, I talk to Tomasz Łakomy, a senior frontend engineer at OLX Gro
 </div>
 <div class="col-8 guest-about">
 <b>About Tomasz Łakomy</b><br/>
-Tomasz Łakomy, a senior frontend engineer at OLX Group. Tomasz is fascinated about teaching everything he knows and has over 170 video tutorials.
+Tomasz Łakomy, is a senior frontend engineer at OLX Group. Tomasz is fascinated about teaching everything he knows and has over 170 video tutorials.
 </div>
 </div>
 

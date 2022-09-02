@@ -53,7 +53,7 @@ Martin Gratzer, CEO and founder of Topmind, shares how he managed to build a str
 </div>
 <div class="col-8 guest-about">
 <b>About Martin Gratzer</b><br/>
-Martin Gratzer, CEO and founder of Topmind, shares how he managed to build a striving development agency far way from Silicon Valey and other tech hot spots. Topmind is a successful boutique dev shop in the heart of Carinthia in Austria.
+Martin Gratzer, is the CEO and founder of Topmind, he managed to build a striving development agency far way from Silicon Valey and other tech hot spots. Topmind is a successful boutique dev shop in the heart of Carinthia in Austria.
 </div>
 </div>
 

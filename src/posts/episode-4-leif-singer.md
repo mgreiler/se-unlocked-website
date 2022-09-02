@@ -44,7 +44,7 @@ In this episode, I talk to Leif Singer, an engineer at the fully remote company 
 </div>
 <div class="col-8 guest-about">
 <b>About Leif Singer</b><br/>
-In this episode, I talk to Leif Singer, an engineer at the fully remote company Automattic. Automattic is the company behind WordPress, a famous and powerful content management system with an estimated 75 Million user base.
+Leif Singer, is an engineer at the fully remote company Automattic. Automattic is the company behind WordPress, a famous and powerful content management system with an estimated 75 Million user base.
 </div>
 </div>
 
