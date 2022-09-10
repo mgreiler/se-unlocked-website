@@ -53,7 +53,7 @@ Michael Feathers, the author of the super-popular book “working effectively wi
 </div>
 <div class="col-8 guest-about">
 <b>About Michael Feathers</b><br/>
-Michael Feathers, the author of the super-popular book “working effectively with legacy code”, talks about how systems are like living organisms. He is also the founder and director of R7K Research and Conveyance, a company that helps engineering teams with their software and organization design. Recently, Michael also joined Globant as Chief Architect.
+Michael Feathers, is the author of the super-popular book “working effectively with legacy code”, talks about how systems are like living organisms. He is also the founder and director of R7K Research and Conveyance, a company that helps engineering teams with their software and organization design. Recently, Michael also joined Globant as Chief Architect.
 </div>
 </div>
 

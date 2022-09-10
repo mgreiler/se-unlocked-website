@@ -46,7 +46,7 @@ In this episode, I talk to Sandeep Panda, CEO and Founder of Hashnode, a friendl
 </div>
 <div class="col-8 guest-about">
 <b>About Sandeep Panda</b><br/>
-In this episode, I talk to Sandeep Panda, CEO and Founder of Hashnode, a friendly and inclusive developer community. Sandeep shares with me his entrepreneurial journey and all the lessons he learned along his way.
+Sandeep Panda, is the CEO and Founder of Hashnode, a friendly and inclusive developer community.
 </div>
 </div>
 <div class="sponsorship">

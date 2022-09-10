@@ -45,8 +45,8 @@ Talk to “<a href="https://trishagee.github.io/presentation/reading_code/">Why 
 <img src="../uploads/2020/04/Trisha.jpg" alt="Picture of Trisha Gee"/>
 </div>
 <div class="col-8 guest-about">
-<b>About NAME OF THE GUEST</b><br/>
-In this episode, I talk to Trisha Gee, who is the Lead of the Java Developer Advocacy Team at JetBrain. She is an expert for Java high-performance systems, and developed software for a variety of industries, such as finance or manufacturing.
+<b>About Trisha Gee</b><br/>
+Trisha Gee, is the Lead of the Java Developer Advocacy Team at JetBrain. She is an expert for Java high-performance systems, and developed software for a variety of industries, such as finance or manufacturing.
 </div>
 </div>
 

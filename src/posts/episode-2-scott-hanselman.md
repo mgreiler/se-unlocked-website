@@ -49,7 +49,7 @@ In this episode, I talk to Scott Hanselman, a partner product manager at Microso
 </div>
 <div class="col-8 guest-about">
 <b>About Scott Hanselman</b><br/>
-In this episode, I talk to Scott Hanselman, a partner product manager at Microsoft. Since years, Scott is one of the most successful tech bloggers, he has three podcasts and actively works on making tech a more diverse place.
+Scott Hanselman, is a partner product manager at Microsoft. Since years, Scott is one of the most successful tech bloggers, he has three podcasts and actively works on making tech a more diverse place.
 </div>
 </div>
 

@@ -45,7 +45,7 @@ In this episode, I talk to Felienne Hermans, who is an associate professor at th
 </div>
 <div class="col-8 guest-about">
 <b>About Felienne Hermans</b><br/>
-In this episode, I talk to Felienne Hermans, who is an associate professor at the University of Leiden and researches how developers think and learn.
+Felienne Hermans, is an associate professor at the University of Leiden and researches how developers think and learn.
 </div>
 </div>
 

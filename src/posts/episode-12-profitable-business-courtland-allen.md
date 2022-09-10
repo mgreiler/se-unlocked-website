@@ -49,7 +49,7 @@ Courtland Allen, the founder and chief-indie hacker of the Indie Hacker communit
 </div>
 <div class="col-8 guest-about">
 <b>About Courtland Allen</b><br/>
-Courtland Allen, the founder and chief-indie hacker of the Indie Hacker community, shares how he started a profitable business in six weeks. After many years of trial and error, Courtland launched the widely successful indie hacker community and the indie hacker podcast.
+Courtland Allen, is the founder and chief-indie hacker of the Indie Hacker community, he started a profitable business in six weeks. After many years of trial and error, Courtland launched the widely successful indie hacker community and the indie hacker podcast.
 </div>
 </div>
 

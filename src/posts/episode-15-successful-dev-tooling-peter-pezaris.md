@@ -53,7 +53,7 @@ Peter Pezaris, the CEO and co-founder of a start-up called CodeStream, talks abo
 </div>
 <div class="col-8 guest-about">
 <b>About Peter Pezaris</b><br/>
-Peter Pezaris, the CEO and co-founder of a start-up called [CodeStream](https://www.codestream.com), talks about his 25 years-long journey building tech startups and developer tools. What’s interesting about Peter’s story is that CodeStream isn’t his first startup. CodeStream is one of the many companies Peter built. 
+Peter Pezaris, is the CEO and co-founder of a start-up called CodeStream, he have been 25 years building tech startups and developer tools. What’s interesting about Peter’s story is that CodeStream isn’t his first startup. CodeStream is one of the many companies Peter built. 
 </div>
 </div>
 

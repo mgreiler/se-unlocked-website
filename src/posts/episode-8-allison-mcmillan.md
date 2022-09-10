@@ -41,11 +41,8 @@ Allison’s  <a href="https://www.parentdrivendevelopment.com/">Parent Driven De
 </div>
 <div class="col-8 guest-about">
 <b>About Allison McMillan</b><br/>
-In this episode, Allison McMillan, a software engineering manager at Github joins me to talk about
-how she broke into tech from a non-traditional background,
-how she overcame obstacles and problems as a new mother in tech and
-how she builds herself a striving career.
-As always, we also talk about software development methodologies such as code reviews and testing at Github. And surely, I pick her brain about remote work and her strategies to stay focused and happy in a remote setting.
+Allison McMillan, is a software engineering manager at Github. She broke into tech from a non-traditional background,
+and overcame obstacles as a new mother in tech.
 </div>
 </div>
 

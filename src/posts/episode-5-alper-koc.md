@@ -42,7 +42,8 @@ In this episode, I talk to Alper Kemal Koç, who was the first engineer building
 </div>
 <div class="col-8 guest-about">
 <b>About Alper Kemal Koç</b><br/>
-In this episode, I talk to Alper Kemal Koç, who was the first engineer building a low code platform called Kuika, that helps users develop mobile applications. Alper shares with me how he build this startup from idea to serving over 15 customers, and which cultural differences he observed when building software in Turkey, the Netherlands and the rest of the world.
+Alper Kemal Koç, was the first engineer building a low code platform called Kuika, that helps users develop mobile applications. Alper built this startup from the idea of serving over 15 customers.
+<!-- can you check if i did this correctly -->
 </div>
 </div>
 

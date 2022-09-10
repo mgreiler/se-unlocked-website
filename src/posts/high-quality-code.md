@@ -54,7 +54,7 @@ Liran Haimovitch, CTO of Rookout – an effortless debugging tool, and I talk ab
 </div>
 <div class="col-8 guest-about">
 <b>About Liran Haimovitch</b><br/>
-Liran Haimovitch, CTO of Rookout – an effortless debugging tool, and I talk about how to get to high-quality code.
+Liran Haimovitch, is the CTO of Rookout – an effortless debugging tool.
 </div>
 </div>
 
