@@ -54,7 +54,7 @@ Tracy Lee talks about starting and running a widely successful dev shop.
     <img src="../uploads/2021/08/Tracy-Lee.jpg" alt="Tracy Lee Founder of This Dot Labs"/>
     </div>
     <div class="col-8 guest-about">
-    <b>About Dr. Holly Cummins</b><br/>
+    <b>About Tracy Lee</b><br/>
       Tracy Lee is the CEO and co-founder of This Dot Labs. She is also a speaker, conference organizer, blogger, and widely known in the JavaScript community.
     </div>
 </div>

@@ -52,7 +52,7 @@ and on <a href="https://www.twitch.tv/doctormckayla">Twitch</a><br/>
 </div>
 <div class="col-8 guest-about">
 <b>About Ben Lesh</b><br/>
-Ben Lesh, a Senior Software engineer at Citadel Securities explains how he got into Google and Netflix without a CS degree. Ben is also the Project Lead for RxJS. RxJS is a library for composing asynchronous and event-based programs by using observable sequences.
+Ben Lesh, is a Senior Software engineer at Citadel Securities. He got into Google and Netflix without a CS degree. Ben is also the Project Lead for RxJS. RxJS is a library for composing asynchronous and event-based programs by using observable sequences.
 </div>
 </div>
 

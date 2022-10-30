@@ -52,7 +52,7 @@ Description of <a href="https://en.wikipedia.org/wiki/Missing_stair">missing sta
 </div>
 <div class="col-8 guest-about">
 <b>About Chris Biscardi</b><br/>
-Chris Biscardi, an independent software consultant, talks about how he became successful through open source and community building.
+Chris Biscardi, is an independent software consultant, he became successful through open source and community building.
 </div>
 </div>
 

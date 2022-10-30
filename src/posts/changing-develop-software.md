@@ -51,7 +51,7 @@ In this episode, I talk to Tudor Gîrba, CEO and co-founder of Feenk, a software
 </div>
 <div class="col-8 guest-about">
 <b>About Tudor Gîrba</b><br/>
-In this episode, I talk to Tudor Gîrba, CEO and co-founder of Feenk, a software consultancy. Over the last 10 years, Tudor researched new ways to develop software – called moldable development. In this interview, I did deep to understand what that exactly means, and how he started to work on a novel IDE that enables moldable developments.
+Tudor Gîrba, is the CEO and co-founder of Feenk, a software consultancy. Over the last 10 years, Tudor researched new ways to develop software – called moldable development.
 </div>
 </div>
 

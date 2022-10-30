@@ -45,7 +45,7 @@ Post on <a href="https://charity.wtf/2019/01/04/engineering-management-the-pendu
 </div>
 <div class="col-8 guest-about">
 <b>About Charity Majors</b><br/>
-In this episode, I talk to Charity Majors, founder, and CTO of honeycomb. Honeycomb is a tool for introspecting and interrogating your production systems. It represents the new generation of monitoring systems that can handle highly distributed and complex systems. Charity shares with me what observability means and how we can make systems more reliable and maintainable.
+Charity Majors, is the founder, and CTO of honeycomb. Honeycomb is a tool for introspecting and interrogating your production systems. It represents the new generation of monitoring systems that can handle highly distributed and complex systems.
 </div>
 </div>
 

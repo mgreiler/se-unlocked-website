@@ -53,7 +53,7 @@ Suz Hinton talks about her transition from Microsoft to Stripe, mentoring and ad
 </div>
 <div class="col-8 guest-about">
 <b>About Suz Hinton</b><br/>
-Suz Hinton talks about her transition from Microsoft to Stripe, mentoring and advancing one’s career and live coding.
+Suz Hinton transitioned from Microsoft to Stripe.
 </div>
 </div>
 

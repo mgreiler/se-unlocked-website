@@ -58,7 +58,7 @@ Blog posts mentioned:<br/>
 </div>
 <div class="col-8 guest-about">
 <b>About Amir Salihefendić</b><br/>
-Amir Salihefendić, CEO and Founder of Doist, the company behind the widely successful productivity app ToDoist shares with us his entrepreneurial journey. We also talk about the company and engineering values lived at Doist.
+Amir Salihefendić, is the CEO and Founder of Doist, the company behind the widely successful productivity app ToDoist.
 </div>
 </div>
 

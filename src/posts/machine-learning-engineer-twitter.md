@@ -50,7 +50,7 @@ Jigyasa Grover, a machine learning engineer at Twitter, tells us about her succe
 </div>
 <div class="col-8 guest-about">
 <b>About Jigyasa Grover</b><br/>
-Jigyasa Grover, a machine learning engineer at Twitter, tells us about her successful career path through internships and research projects. Jigyasa is my first data engineer, and so it’s great to learn from her about what her day to day work entails.
+Jigyasa Grover, is a machine learning engineer at Twitter.
 </div>
 </div>
 

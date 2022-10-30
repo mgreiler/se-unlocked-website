@@ -53,7 +53,7 @@ Laurie Barth, a staff software engineer at Gatsby shares how she got a position 
 </div>
 <div class="col-8 guest-about">
 <b>About Laurie Barth</b><br/>
-Laurie Barth, a staff software engineer at Gatsby shares how she got a position at Gatsby. Laurie is also a vivid conference speaker, tech blogger, and egghead instructor.
+Laurie Barth, is a staff software engineer at Gatsby. Laurie is also a vivid conference speaker, tech blogger, and egghead instructor.
 </div>
 </div>
 

@@ -44,7 +44,7 @@ In this episode, I talk to Derrick Stolee, a principal software engineer at Micr
 </div>
 <div class="col-8 guest-about">
 <b>About Derrick Stolee</b><br/>
-In this episode, I talk to Derrick Stolee, a principal software engineer at Microsoft who makes sure the Git version control system is lightning fast.
+Derrick Stolee, is a principal software engineer at Microsoft who makes sure the Git version control system is lightning fast.
 </div>
 </div>
 

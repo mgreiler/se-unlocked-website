@@ -50,7 +50,7 @@ Kent C. Dodds, creator of the widely used open-source testing-library, explains 
 </div>
 <div class="col-8 guest-about">
 <b>About Kent C. Dodds</b><br/>
-Kent C. Dodds, creator of the widely used open-source testing-library, explains why using mocks during testing is dangerous. Before starting his entrepreneurial journey, Kent has been working for PayPal. He is a major open source contributor and also the creator and maintainer of the widely used open-source testing-library.
+Kent C. Dodds, is a creator of the widely used open-source testing-library. Before starting his entrepreneurial journey, Kent has been working for PayPal. He is a major open source contributor and also the creator and maintainer of the widely used open-source testing-library.
 Code that he writes is used by millions of people around the world, and he also teaches thousands of engineers how to test their JavaScript systems, and how to work with React.
 </div>
 </div>

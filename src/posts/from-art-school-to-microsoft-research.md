@@ -52,7 +52,7 @@ My upcoming code review book <a href="http://codereviewbook.io/">codereviewbook.
 </div>
 <div class="col-8 guest-about">
 <b>About Michaela Greiler</b><br/>
-To celebrate the one year anniversary of the podcast, I tell you about my own journey into tech, and my experiences working at Microsoft and Microsoft Research. I share with you the turning points in my career and also how and why I started my own business.
+Dr. Michaela Greiler makes code reviews a team's superpower through her code review workshops. She has worked with teams from Microsoft, National Instruments, Metro Systems, Flutter, Wix and many more.
 </div>
 </div>
 

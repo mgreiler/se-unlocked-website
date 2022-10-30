@@ -50,10 +50,10 @@ Cher Scarlett shares her inspirational story about she overcame hardship and pov
 </div>
 <div class="col-8 guest-about">
 <b>About Cher Scarlett</b><br/>
-Cher Scarlett shares her inspirational story about she overcame hardship and poverty, and worked her way up to become a staff engineer at Apple.
+Cher Scarlett overcame hardships and poverty, and worked her way up to become a staff engineer at Apple.
 Cher has incredible strength in her, and bravely shares her struggles dealing with mental health issues publicly.
 She also regularly reminds people that they belong in tech independent of their education or background.
-I am impressed by how she openly shares her vulnerabilities and encourages and lifts up others. Also, listen to the second interview, where <a href="https://www.software-engineering-unlocked.com/disability-at-apple/">Cher Scarlett talks about how she got hired at Apple despite her bipolar disorder</a>.
+She openly shares her vulnerabilities and encourages and lifts up others. Also, listen to the second interview, where <a href="https://www.software-engineering-unlocked.com/disability-at-apple/">Cher Scarlett talks about how she got hired at Apple despite her bipolar disorder</a>.
 </div>
 </div>
 

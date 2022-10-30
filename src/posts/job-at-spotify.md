@@ -53,7 +53,8 @@ Study on Effects of Technical Interviews by North Carolina University:<br/>
 </div>
 <div class="col-8 guest-about">
 <b>About Emma Bostian</b><br/>
-Emma Bostian shares how she got a job at Spotify and what it means to move countries during a pandemic. Emma is the kind of person, that not only applies and interviews for jobs, but at the same time writes a complete book about her interviewing experience hunting for this dream job. This book sold so well, that she could pay back all her medical debt. Before joining Spotify, she worked for LogMeIn, and IBM. She won competitions and moved countries several times.
+Emma Bostian got a job at Spotify, and moved countries during a pandemic. Emma is the kind of person, that not only applies and interviews for jobs, but at the same time writes a complete book about her interviewing experience hunting for this dream job. This book sold so well, that she could pay back all her medical debt. Before joining Spotify, she worked for LogMeIn, and IBM. She won competitions and moved countries several times.
+<!-- it might be long but don't know what to cut out -->
 </div>
 </div>
 

@@ -58,7 +58,7 @@ In this episode, I talk to Charlie Gerard who recently switched from the softwar
 </div>
 <div class="col-8 guest-about">
 <b>About Charlie Gerard</b><br/>
-In this episode, I talk to Charlie Gerard who recently switched from the software consultancy ThoughtWorks to the product company Atlassian. She now works on Jira, the planning and bug tracking software that comprises a codebase of several million lines of code.
+Charlie Gerard, has recently switched from the software consultancy ThoughtWorks to the product company Atlassian. She now works on Jira, the planning and bug tracking software that comprises a codebase of several million lines of code.
 </div>
 </div>
 
