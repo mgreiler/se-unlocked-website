@@ -15,7 +15,7 @@ tag: []
 post_format: []
 _yoast_wpseo_primary_category:
   - "13"
-audio: http://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/aaca90/aaca909a-e34f-49ae-a86f-f59e4fa807f0/c20424de-dfb3-4ff2-871e-0e64f6809511/courtland-allen-ready_tc.mp3
+audio: https://cdn.simplecast.com/audio/aaca90/aaca909a-e34f-49ae-a86f-f59e4fa807f0/c20424de-dfb3-4ff2-871e-0e64f6809511/courtland-allen-ready_tc.mp3
 _yoast_wpseo_content_score:
   - "30"
 secondline_themes_disable_img:

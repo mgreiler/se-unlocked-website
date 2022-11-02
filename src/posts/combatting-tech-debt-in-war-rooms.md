@@ -12,7 +12,7 @@ thumbnail: ../uploads/2020/11/tomasz_lakomi.jpg
 category: ["Company Culture", "Hiring", "Productivity", "Testing"]
 tag: []
 post_format: []
-audio: http://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/aaca909a-e34f-49ae-a86f-f59e4fa807f0/episodes/b13a1e7f-9661-47fe-9292-751581b7f3c0/audio/0fd939a3-49d6-4fa1-b634-e7a889922646/default_tc.mp3
+audio: https://cdn.simplecast.com/audio/aaca909a-e34f-49ae-a86f-f59e4fa807f0/episodes/b13a1e7f-9661-47fe-9292-751581b7f3c0/audio/0fd939a3-49d6-4fa1-b634-e7a889922646/default_tc.mp3
 post_header_image: ../uploads/2020/11/tomasz-bg.jpg
 ---
 

@@ -16,7 +16,7 @@ category:
   - "Women in Tech"
 tag: []
 post_format: []
-audio: http://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/aaca90/aaca909a-e34f-49ae-a86f-f59e4fa807f0/1d6ddbfd-1a55-4b28-af1f-0db0c92f164c/suz-complete_tc.mp3
+audio: https://cdn.simplecast.com/audio/aaca90/aaca909a-e34f-49ae-a86f-f59e4fa807f0/1d6ddbfd-1a55-4b28-af1f-0db0c92f164c/suz-complete_tc.mp3
 secondline_themes_header_image_id:
   - "926"
 post_header_image: ../uploads/2020/01/bg_suz.jpg

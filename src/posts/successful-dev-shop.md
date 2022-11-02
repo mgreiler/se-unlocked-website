@@ -16,13 +16,7 @@ category:
   - Startup
 tag: []
 post_format: []
-_yoast_wpseo_primary_category:
-  - "19"
-_yoast_wpseo_content_score:
-  - "90"
-audio: http://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/aaca90/aaca909a-e34f-49ae-a86f-f59e4fa807f0/4a441de2-fcfd-4625-9a97-554fce03657e/martin-gratzer-ready_tc.mp3
-secondline_themes_header_image_id:
-  - "1124"
+audio: https://cdn.simplecast.com/audio/aaca90/aaca909a-e34f-49ae-a86f-f59e4fa807f0/4a441de2-fcfd-4625-9a97-554fce03657e/martin-gratzer-ready_tc.mp3
 post_header_image: ../uploads/2020/04/MartinGratzer_Bg.jpg
 secondline_themes_disable_img:
   - "on"

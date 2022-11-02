@@ -21,7 +21,7 @@ _yoast_wpseo_primary_category:
   - "17"
 _yoast_wpseo_content_score:
   - "90"
-audio: http://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/aaca90/aaca909a-e34f-49ae-a86f-f59e4fa807f0/2b1c85ff-837e-4771-aa2a-8350a37f9e0c/peter-pezaris-ready_tc.mp3
+audio: https://cdn.simplecast.com/audio/aaca90/aaca909a-e34f-49ae-a86f-f59e4fa807f0/2b1c85ff-837e-4771-aa2a-8350a37f9e0c/peter-pezaris-ready_tc.mp3
 secondline_themes_disable_img:
   - "on"
 secondline_themes_header_image_id:

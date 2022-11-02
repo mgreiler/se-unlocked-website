@@ -15,16 +15,8 @@ category:
   - Productivity
 tag: []
 post_format: []
-_yoast_wpseo_primary_category:
-  - "17"
-secondline_themes_header_image_id:
-  - "1496"
 post_header_image: ../uploads/2020/12/nader-dabit-serverless-bg.jpg
-secondline_themes_disable_img:
-  - "on"
-_yoast_wpseo_content_score:
-  - "30"
-audio: http://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/aaca909a-e34f-49ae-a86f-f59e4fa807f0/episodes/201c3afb-fea2-4662-bca0-88141aa91ab3/audio/1124f7e0-e429-41ab-9b49-f6be277973cc/default_tc.mp3
+audio: https://cdn.simplecast.com/audio/aaca909a-e34f-49ae-a86f-f59e4fa807f0/episodes/201c3afb-fea2-4662-bca0-88141aa91ab3/audio/1124f7e0-e429-41ab-9b49-f6be277973cc/default_tc.mp3
 ---
 
 <div class="episode-about">

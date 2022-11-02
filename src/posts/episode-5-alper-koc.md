@@ -14,7 +14,7 @@ tag: []
 post_format: []
 _yoast_wpseo_content_score:
   - "60"
-audio: http://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/aaca90/aaca909a-e34f-49ae-a86f-f59e4fa807f0/ed21c78c-d730-4143-9d78-ec4679786d9c/alper-koc-ready_tc.mp3
+audio: https://cdn.simplecast.com/audio/aaca90/aaca909a-e34f-49ae-a86f-f59e4fa807f0/ed21c78c-d730-4143-9d78-ec4679786d9c/alper-koc-ready_tc.mp3
 post_header_image: ../uploads/2019/10/Alper_BG_Blog_SOFTWARE-ENGINEERING-Unlocked.jpg
 ---
 

@@ -17,10 +17,7 @@ _yoast_wpseo_primary_category:
     - '14'
 _yoast_wpseo_content_score:
     - '60'
-enclosure:
-    - "https://cdn.simplecast.com/audio/aaca909a-e34f-49ae-a86f-f59e4fa807f0/episodes/1386fdd3-fc37-47f1-a93a-b6ba8194bb0f/audio/ce6ae4c5-8b78-4d77-96e6-e106d43e2346/default_tc.mp3\n37849777\naudio/mpeg\na:2:{s:8:\"duration\";s:8:\"00:39:26\";s:8:\"explicit\";s:1:\"0\";}"
-secondline_themes_header_image_id:
-    - '122198'
+audio: "https://cdn.simplecast.com/audio/aaca909a-e34f-49ae-a86f-f59e4fa807f0/episodes/1386fdd3-fc37-47f1-a93a-b6ba8194bb0f/audio/ce6ae4c5-8b78-4d77-96e6-e106d43e2346/default_tc.mp3"
 secondline_themes_header_image:
     - 'https://www.software-engineering-unlocked.com/wp-content/uploads/2022/07/Nicolas-Dular-Engineering-Manager.jpg'
 _yoast_wpseo_metadesc:

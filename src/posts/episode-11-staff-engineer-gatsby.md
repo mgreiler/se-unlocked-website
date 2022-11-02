@@ -25,7 +25,7 @@ _yoast_wpseo_metadesc:
   - "Laurie Barth talks about how to get a staff software engineer position at Gatsby, blogging, speaking at conferenes and how to grow a Twitter following."
 secondline_themes_disable_img:
   - "on"
-audio: http://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/aaca90/aaca909a-e34f-49ae-a86f-f59e4fa807f0/1095a998-3d22-4442-a0ad-142d3adda9b5/laurie-barth-ready_tc.mp3
+audio: https://cdn.simplecast.com/audio/aaca90/aaca909a-e34f-49ae-a86f-f59e4fa807f0/1095a998-3d22-4442-a0ad-142d3adda9b5/laurie-barth-ready_tc.mp3
 _yoast_wpseo_content_score:
   - "30"
 ---

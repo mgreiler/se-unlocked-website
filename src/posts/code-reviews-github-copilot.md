@@ -24,8 +24,7 @@ secondline_themes_header_image:
     - 'https://www.software-engineering-unlocked.com/wp-content/uploads/2022/04/Paige-Bailey-Background.jpg'
 _yoast_wpseo_content_score:
     - '30'
-enclosure:
-    - "https://cdn.simplecast.com/audio/aaca909a-e34f-49ae-a86f-f59e4fa807f0/episodes/d1dba0bb-cd80-4e39-8b3c-a0af5353c6ea/audio/e1a02d10-f71b-4403-a850-abadd584db69/default_tc.mp3\n36348282\naudio/mpeg\na:2:{s:8:\"duration\";s:8:\"00:37:52\";s:8:\"explicit\";s:1:\"0\";}"
+audio: "https://cdn.simplecast.com/audio/aaca909a-e34f-49ae-a86f-f59e4fa807f0/episodes/d1dba0bb-cd80-4e39-8b3c-a0af5353c6ea/audio/e1a02d10-f71b-4403-a850-abadd584db69/default_tc.mp3"
 secondline_themes_disable_img:
     - 'on'
 ---

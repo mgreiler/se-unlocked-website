@@ -14,7 +14,7 @@ tag: []
 post_format: []
 _yoast_wpseo_content_score:
   - "60"
-audio: http://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/aaca90/aaca909a-e34f-49ae-a86f-f59e4fa807f0/383c4463-3674-4c2d-998a-f92f5dc43c24/leif-singer-ready_tc.mp3
+audio: https://cdn.simplecast.com/audio/aaca90/aaca909a-e34f-49ae-a86f-f59e4fa807f0/383c4463-3674-4c2d-998a-f92f5dc43c24/leif-singer-ready_tc.mp3
 post_header_image: ../uploads/2019/10/Leif-Background.jpg
 ---
 

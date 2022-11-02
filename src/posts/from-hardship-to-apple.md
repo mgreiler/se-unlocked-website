@@ -19,7 +19,7 @@ _yoast_wpseo_primary_category:
   - "11"
 _yoast_wpseo_content_score:
   - "60"
-audio: http://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/aaca90/aaca909a-e34f-49ae-a86f-f59e4fa807f0/ccd5a84b-e404-41ac-b860-0ab3e2bfd56e/cher-scarlett-part-1-ready_tc.mp3
+audio: https://cdn.simplecast.com/audio/aaca90/aaca909a-e34f-49ae-a86f-f59e4fa807f0/ccd5a84b-e404-41ac-b860-0ab3e2bfd56e/cher-scarlett-part-1-ready_tc.mp3
 secondline_themes_disable_img:
   - "on"
 secondline_themes_header_image_id:

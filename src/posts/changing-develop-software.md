@@ -21,7 +21,7 @@ category:
 tag: []
 post_format: []
 post_header_image: ../uploads/2020/06/bg_tudor_girba.jpg
-audio: http://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/aaca90/aaca909a-e34f-49ae-a86f-f59e4fa807f0/bd3cc2cd-8884-4474-8eee-c8e39529cb7d/tudor-girba-recording-ready_tc.mp3
+audio: https://cdn.simplecast.com/audio/aaca90/aaca909a-e34f-49ae-a86f-f59e4fa807f0/bd3cc2cd-8884-4474-8eee-c8e39529cb7d/tudor-girba-recording-ready_tc.mp3
 ---
 
 <div class="episode-about">

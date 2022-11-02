@@ -23,8 +23,7 @@ secondline_themes_header_image:
     - 'https://www.software-engineering-unlocked.com/wp-content/uploads/2022/05/Yehonathan-Sharvit_Background.jpg'
 secondline_themes_disable_img:
     - 'on'
-enclosure:
-    - "https://cdn.simplecast.com/audio/aaca909a-e34f-49ae-a86f-f59e4fa807f0/episodes/6f454467-1399-41bc-b3a1-4d6bd6ce78f1/audio/b4bddaf6-3167-438c-a3f2-4c1639e5ae15/default_tc.mp3\n26683173\naudio/mpeg\na:2:{s:8:\"duration\";s:8:\"00:27:48\";s:8:\"explicit\";s:1:\"0\";}"
+audio: "https://cdn.simplecast.com/audio/aaca909a-e34f-49ae-a86f-f59e4fa807f0/episodes/6f454467-1399-41bc-b3a1-4d6bd6ce78f1/audio/b4bddaf6-3167-438c-a3f2-4c1639e5ae15/default_tc.mp3"
 ---
 
 <div class="episode-about">

@@ -14,7 +14,7 @@ tag: []
 post_header_image: ../uploads/2020/03/Troy_Hunt_bg.jpg
 _yoast_wpseo_content_score:
   - "30"
-audio: http://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/aaca90/aaca909a-e34f-49ae-a86f-f59e4fa807f0/631fb569-139b-4b95-9693-943a4c247a82/episode-14-troy-hunt-ready_tc.mp3
+audio: https://cdn.simplecast.com/audio/aaca90/aaca909a-e34f-49ae-a86f-f59e4fa807f0/631fb569-139b-4b95-9693-943a4c247a82/episode-14-troy-hunt-ready_tc.mp3
 ---
 
 <div class="episode-about">

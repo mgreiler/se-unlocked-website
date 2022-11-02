@@ -18,7 +18,7 @@ tag: []
 post_format: []
 _yoast_wpseo_primary_category:
   - "12"
-audio: https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/aaca909a-e34f-49ae-a86f-f59e4fa807f0/episodes/c6efc56d-1f37-4764-8b82-50b4e91ce8fc/audio/2ccdb90e-26e3-4023-beca-93628a7da23b/default_tc.mp3
+audio: https://cdn.simplecast.com/audio/aaca909a-e34f-49ae-a86f-f59e4fa807f0/episodes/c6efc56d-1f37-4764-8b82-50b4e91ce8fc/audio/2ccdb90e-26e3-4023-beca-93628a7da23b/default_tc.mp3
 secondline_themes_disable_img:
   - "on"
 secondline_themes_header_image_id:

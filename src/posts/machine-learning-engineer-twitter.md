@@ -24,7 +24,7 @@ secondline_themes_disable_img:
 secondline_themes_header_image_id:
   - "1209"
 post_header_image: ../uploads/2020/07/jigyasa-bg.jpg
-audio: http://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/aaca90/aaca909a-e34f-49ae-a86f-f59e4fa807f0/c001c16a-7fff-4009-a35e-dd30088655ee/jigyasa-grover-recording-ready_tc.mp3
+audio: https://cdn.simplecast.com/audio/aaca90/aaca909a-e34f-49ae-a86f-f59e4fa807f0/c001c16a-7fff-4009-a35e-dd30088655ee/jigyasa-grover-recording-ready_tc.mp3
 ---
 
 <div class="episode-about">

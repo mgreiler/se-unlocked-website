@@ -16,16 +16,8 @@ category:
   - Startup
 tag: []
 post_format: []
-_yoast_wpseo_primary_category:
-  - "15"
-_yoast_wpseo_content_score:
-  - "90"
-secondline_themes_disable_img:
-  - "on"
-secondline_themes_header_image_id:
-  - "1261"
 post_header_image: ../uploads/2020/09/Chris_bg.jpg
-audio: http://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/aaca90/aaca909a-e34f-49ae-a86f-f59e4fa807f0/41c24b31-bdef-4ddf-8dd8-29e7fb547e0e/chris-biscardi-ready_tc.mp3
+audio: https://cdn.simplecast.com/audio/aaca90/aaca909a-e34f-49ae-a86f-f59e4fa807f0/41c24b31-bdef-4ddf-8dd8-29e7fb547e0e/chris-biscardi-ready_tc.mp3
 ---
 
 <div class="episode-about">

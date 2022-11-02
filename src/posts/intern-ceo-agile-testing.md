@@ -24,7 +24,7 @@ _yoast_wpseo_content_score:
   - "30"
 secondline_themes_disable_img:
   - "on"
-audio: http://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/aaca909a-e34f-49ae-a86f-f59e4fa807f0/episodes/79768797-91b9-4d4b-8088-35b4c3f705a5/audio/1f5fb905-dcfb-45cc-a057-d9635532cbee/default_tc.mp3
+audio: https://cdn.simplecast.com/audio/aaca909a-e34f-49ae-a86f-f59e4fa807f0/episodes/79768797-91b9-4d4b-8088-35b4c3f705a5/audio/1f5fb905-dcfb-45cc-a057-d9635532cbee/default_tc.mp3
 ---
 
 <div class="episode-about">

@@ -22,8 +22,7 @@ secondline_themes_header_image_id:
     - '121566'
 secondline_themes_header_image:
     - 'https://www.software-engineering-unlocked.com/wp-content/uploads/2021/12/Developer-experience-background.jpg'
-enclosure:
-    - "https://cdn.simplecast.com/audio/aaca909a-e34f-49ae-a86f-f59e4fa807f0/episodes/7d3ff77b-c660-4fa7-8acd-820c40e993d8/audio/43e2756b-f8b8-403d-b6cc-44c927f9eaef/default_tc.mp3\n14651777\naudio/mpeg\na:2:{s:8:\"duration\";s:8:\"00:23:31\";s:8:\"explicit\";s:1:\"0\";}"
+audio: "https://cdn.simplecast.com/audio/aaca909a-e34f-49ae-a86f-f59e4fa807f0/episodes/7d3ff77b-c660-4fa7-8acd-820c40e993d8/audio/43e2756b-f8b8-403d-b6cc-44c927f9eaef/default_tc.mp3"
 secondline_themes_disable_img:
     - 'on'
 ---

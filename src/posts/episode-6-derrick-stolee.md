@@ -14,7 +14,7 @@ tag: []
 post_format: []
 _yoast_wpseo_content_score:
   - "60"
-audio: http://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/aaca90/aaca909a-e34f-49ae-a86f-f59e4fa807f0/24a6aef5-fc1a-48a1-9bd9-f6d59ae1ac86/derrick-stolee-ready_tc.mp3
+audio: https://cdn.simplecast.com/audio/aaca90/aaca909a-e34f-49ae-a86f-f59e4fa807f0/24a6aef5-fc1a-48a1-9bd9-f6d59ae1ac86/derrick-stolee-ready_tc.mp3
 post_header_image: ../uploads/2019/11/derrick_bg.jpg
 ---
 

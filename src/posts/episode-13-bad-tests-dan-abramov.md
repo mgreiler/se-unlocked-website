@@ -22,7 +22,7 @@ _yoast_wpseo_content_score:
 secondline_themes_header_image_id:
   - "992"
 post_header_image: ../uploads/2020/03/Dan_bg.jpg
-audio: http://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/aaca90/aaca909a-e34f-49ae-a86f-f59e4fa807f0/8108bd6c-3028-4bce-8800-7e9a908b3987/dan-abramov-ready_tc.mp3
+audio: https://cdn.simplecast.com/audio/aaca90/aaca909a-e34f-49ae-a86f-f59e4fa807f0/8108bd6c-3028-4bce-8800-7e9a908b3987/dan-abramov-ready_tc.mp3
 _yoast_wpseo_metadesc:
   - "Ever wondered how to land a job at Facebook and which engineering practices Facebook's devs follow? How do they test? This episode has all the answers!"
 secondline_themes_disable_img:

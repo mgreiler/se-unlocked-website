@@ -1,7 +1,7 @@
 ---
-title: 'Using WordPress to run a profitable developer training business'
+title: 'How to master a difficult job search and proof them all wrong'
 date: '2022-06-15T10:53:31+00:00'
-status: publish
+status: draft
 permalink: /wordpress-dev-training-business
 author: michaela
 excerpt: 'The importance of time efficiency and task delegation.'
@@ -15,8 +15,6 @@ category:
     - Startup
 tag: []
 post_format: []
-secondline_themes_header_image:
-    - 'https://www.software-engineering-unlocked.com/wp-content/uploads/2022/06/Avid-Grimm-Background.jpg'
 audio: "https://cdn.simplecast.com/audio/aaca909a-e34f-49ae-a86f-f59e4fa807f0/episodes/2e4ccaa8-a370-4fd3-b676-8df74ac4bb34/audio/aa0a552b-2390-4064-b0ce-f35e3227ade0/default_tc.mp3"
 ---
 
@@ -60,5 +58,4 @@ This episode is sponsored by <a href="https://www.tonic.ai/?ref=se-unlocked">Ton
 ## Read the whole episode "Using WordPress to run a profitable developer training business" (Transcript)
 
 _\[If you want, you can help make the transcript better, and improve the podcast’s accessibility via_ [Github](https://github.com/mgreiler/se-unlocked/tree/master/Transcripts)_[.](https://github.com/mgreiler/se-unlocked/tree/master/Transcripts) I’m happy to lend a hand to help you get started with pull requests, and open source work.\]_
-
 

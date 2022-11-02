@@ -24,8 +24,7 @@ secondline_themes_header_image_id:
     - '121529'
 secondline_themes_header_image:
     - 'https://www.software-engineering-unlocked.com/wp-content/uploads/2021/11/Florin-Pop-Bg.jpg'
-enclosure:
-    - "https://cdn.simplecast.com/audio/aaca909a-e34f-49ae-a86f-f59e4fa807f0/episodes/7e4f6c23-0f13-4ee5-ad38-3993c147ba65/audio/71674b3c-25e4-4018-aa9f-0b7d08336401/default_tc.mp3\n30218783\naudio/mpeg\na:2:{s:8:\"duration\";s:8:\"00:36:20\";s:8:\"explicit\";s:1:\"0\";}"
+audio: "https://cdn.simplecast.com/audio/aaca909a-e34f-49ae-a86f-f59e4fa807f0/episodes/7e4f6c23-0f13-4ee5-ad38-3993c147ba65/audio/71674b3c-25e4-4018-aa9f-0b7d08336401/default_tc.mp3"
 ---
 
 <div class="episode-about">

@@ -14,7 +14,7 @@ tag: []
 post_format: []
 _yoast_wpseo_content_score:
   - "30"
-audio: https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/aaca909a-e34f-49ae-a86f-f59e4fa807f0/episodes/54d1f660-9f8b-4015-8d25-e96c326010ff/audio/65e5e5c2-1e23-4c97-a9c0-81c85115073b/default_tc.mp3
+audio: https://cdn.simplecast.com/audio/aaca909a-e34f-49ae-a86f-f59e4fa807f0/episodes/54d1f660-9f8b-4015-8d25-e96c326010ff/audio/65e5e5c2-1e23-4c97-a9c0-81c85115073b/default_tc.mp3
 post_header_image: ../uploads/2021/02/Felienne_Hermans_BG.jpg
 ---
 

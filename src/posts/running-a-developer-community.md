@@ -25,8 +25,7 @@ secondline_themes_header_image:
     - 'https://www.software-engineering-unlocked.com/wp-content/uploads/2022/03/SOFTWARE-ENGINEERING.jpg'
 _yoast_wpseo_content_score:
     - '60'
-enclosure:
-    - "https://cdn.simplecast.com/audio/aaca909a-e34f-49ae-a86f-f59e4fa807f0/episodes/5c8beb4d-87a6-4737-b696-2c66f131430c/audio/485e34a8-cbcc-42d7-9a50-5a4095b8061f/default_tc.mp3\n23022633\naudio/mpeg\na:2:{s:8:\"duration\";s:8:\"00:32:26\";s:8:\"explicit\";s:1:\"0\";}"
+audio: "https://cdn.simplecast.com/audio/aaca909a-e34f-49ae-a86f-f59e4fa807f0/episodes/5c8beb4d-87a6-4737-b696-2c66f131430c/audio/485e34a8-cbcc-42d7-9a50-5a4095b8061f/default_tc.mp3"
 ---
 
 <div class="episode-about">

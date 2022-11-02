@@ -22,7 +22,7 @@ secondline_themes_header_image_id:
 post_header_image: ../uploads/2021/05/Max-Stoiber-Background.jpg
 _yoast_wpseo_content_score:
   - "30"
-audio: https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/aaca909a-e34f-49ae-a86f-f59e4fa807f0/episodes/c9aa17f7-c159-456c-bd44-ca609c0ac29c/audio/3eb59a7c-8a65-4a7a-8550-eb374bc57dde/default_tc.mp3
+audio: https://cdn.simplecast.com/audio/aaca909a-e34f-49ae-a86f-f59e4fa807f0/episodes/c9aa17f7-c159-456c-bd44-ca609c0ac29c/audio/3eb59a7c-8a65-4a7a-8550-eb374bc57dde/default_tc.mp3
 _yoast_wpseo_primary_category:
   - "16"
 secondline_themes_disable_img:

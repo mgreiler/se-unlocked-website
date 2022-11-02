@@ -26,7 +26,7 @@ secondline_themes_disable_img:
 secondline_themes_header_image_id:
   - "1192"
 post_header_image: ../uploads/2020/06/Amir_bg.jpg
-audio: http://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/aaca90/aaca909a-e34f-49ae-a86f-f59e4fa807f0/67159a85-1734-416e-a493-baead56cb174/amir-salihefendic-ready_tc.mp3
+audio: https://cdn.simplecast.com/audio/aaca90/aaca909a-e34f-49ae-a86f-f59e4fa807f0/67159a85-1734-416e-a493-baead56cb174/amir-salihefendic-ready_tc.mp3
 ---
 
 <div class="episode-about">

@@ -12,7 +12,7 @@ thumbnail: ../uploads/2019/09/scott.jpg
 category: ["Company Culture", Hiring, Productivity, "Remote Work"]
 tag: []
 post_format: []
-audio: http://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/aaca90/aaca909a-e34f-49ae-a86f-f59e4fa807f0/b94c57a5-9afe-4853-be2f-b4d147fb62bf/scott_episode2_ready_tc.mp3
+audio: https://cdn.simplecast.com/audio/aaca90/aaca909a-e34f-49ae-a86f-f59e4fa807f0/b94c57a5-9afe-4853-be2f-b4d147fb62bf/scott_episode2_ready_tc.mp3
 _yoast_wpseo_content_score:
   - "60"
 post_header_image: ../uploads/2019/07/bg_1.jpg

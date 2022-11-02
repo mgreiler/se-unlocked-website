@@ -19,10 +19,7 @@ _yoast_wpseo_primary_category:
     - '15'
 _yoast_wpseo_content_score:
     - '30'
-enclosure:
-    - "https://cdn.simplecast.com/audio/aaca909a-e34f-49ae-a86f-f59e4fa807f0/episodes/3641e363-0ee6-42ce-97a8-4b9269450528/audio/a3061f6b-09fc-4ef3-8ee2-4a83a5e595e2/default_tc.mp3\n47923325\naudio/mpeg\na:2:{s:8:\"duration\";s:8:\"00:49:55\";s:8:\"explicit\";s:1:\"0\";}"
-secondline_themes_header_image_id:
-    - '122177'
+audio: "https://cdn.simplecast.com/audio/aaca909a-e34f-49ae-a86f-f59e4fa807f0/episodes/3641e363-0ee6-42ce-97a8-4b9269450528/audio/a3061f6b-09fc-4ef3-8ee2-4a83a5e595e2/default_tc.mp3"
 secondline_themes_header_image:
     - 'https://www.software-engineering-unlocked.com/wp-content/uploads/2022/07/Jess-Rose-Learning-and-mentoring-Background.jpg'
 secondline_themes_disable_img:

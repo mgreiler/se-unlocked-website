@@ -20,8 +20,7 @@ _yoast_wpseo_content_score:
     - '60'
 _yoast_wpseo_metadesc:
     - 'Are happy developers more productive? Let''s look at some research together and explore whether happiness and satisfaction affect developer productivity.'
-enclosure:
-    - "https://cdn.simplecast.com/audio/aaca909a-e34f-49ae-a86f-f59e4fa807f0/episodes/130a6709-2e54-4309-b3cd-3a3a195eb6d5/audio/7679499b-f1db-4003-a02c-df863255a50b/default_tc.mp3\n21816512\naudio/mpeg\na:2:{s:8:\"duration\";s:8:\"00:29:58\";s:8:\"explicit\";s:1:\"0\";}"
+audio: "https://cdn.simplecast.com/audio/aaca909a-e34f-49ae-a86f-f59e4fa807f0/episodes/130a6709-2e54-4309-b3cd-3a3a195eb6d5/audio/7679499b-f1db-4003-a02c-df863255a50b/default_tc.mp3"
 secondline_themes_header_image_id:
     - '121889'
 secondline_themes_header_image:

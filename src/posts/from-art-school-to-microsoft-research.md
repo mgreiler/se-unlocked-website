@@ -19,7 +19,7 @@ tag: []
 post_format: []
 _yoast_wpseo_primary_category:
   - "15"
-audio: http://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/aaca90/aaca909a-e34f-49ae-a86f-f59e4fa807f0/b4195a43-95e5-481a-8917-e3d0e201ea9c/michaela-ready_tc.mp3
+audio: https://cdn.simplecast.com/audio/aaca90/aaca909a-e34f-49ae-a86f-f59e4fa807f0/b4195a43-95e5-481a-8917-e3d0e201ea9c/michaela-ready_tc.mp3
 secondline_themes_disable_img:
   - "on"
 secondline_themes_header_image_id:

@@ -12,7 +12,7 @@ thumbnail: ../uploads/2019/12/Alison_Sq.jpg
 category: ["Company Culture", Hiring, "Remote Work", "Women in Tech"]
 tag: []
 post_format: []
-audio: http://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/aaca90/aaca909a-e34f-49ae-a86f-f59e4fa807f0/1aa1f746-4254-4211-9875-5b78ec277f40/allison-mcmilan-episode-8-ready_tc.mp3
+audio: https://cdn.simplecast.com/audio/aaca90/aaca909a-e34f-49ae-a86f-f59e4fa807f0/1aa1f746-4254-4211-9875-5b78ec277f40/allison-mcmilan-episode-8-ready_tc.mp3
 post_header_image: ../uploads/2019/12/SOFTWARE-ENGINEERING-1.jpg
 _yoast_wpseo_content_score:
   - "30"

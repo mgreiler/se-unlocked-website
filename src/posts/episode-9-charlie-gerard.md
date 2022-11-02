@@ -16,7 +16,7 @@ category:
   - "Women in Tech"
 tag: []
 post_format: []
-audio: http://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/aaca90/aaca909a-e34f-49ae-a86f-f59e4fa807f0/3bf26b9b-29d2-4dc5-b651-bcb2a6edc8f8/charlie-gerard-9-ready_tc.mp3
+audio: https://cdn.simplecast.com/audio/aaca90/aaca909a-e34f-49ae-a86f-f59e4fa807f0/3bf26b9b-29d2-4dc5-b651-bcb2a6edc8f8/charlie-gerard-9-ready_tc.mp3
 secondline_themes_disable_img:
   - "on"
 _yoast_wpseo_primary_category:

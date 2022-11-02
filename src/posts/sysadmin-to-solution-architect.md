@@ -17,16 +17,8 @@ category:
   - "Women in Tech"
 tag: []
 post_format: []
-_yoast_wpseo_primary_category:
-  - "15"
-_yoast_wpseo_content_score:
-  - "90"
-secondline_themes_disable_img:
-  - "on"
-secondline_themes_header_image_id:
-  - "1226"
 post_header_image: ../uploads/2020/08/Angela-Andrews-Bg.jpg
-audio: http://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/aaca90/aaca909a-e34f-49ae-a86f-f59e4fa807f0/f3b7dbb9-70fc-458f-9af8-1a58c3d240a4/angela-andrews-readyy_tc.mp3
+audio: https://cdn.simplecast.com/audio/aaca90/aaca909a-e34f-49ae-a86f-f59e4fa807f0/f3b7dbb9-70fc-458f-9af8-1a58c3d240a4/angela-andrews-readyy_tc.mp3
 ---
 
 <div class="episode-about">

@@ -14,7 +14,7 @@ tag: []
 post_format: []
 _yoast_wpseo_content_score:
   - "90"
-audio: http://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/aaca90/aaca909a-e34f-49ae-a86f-f59e4fa807f0/b3702e2b-afde-4332-946d-d4d08dfb3d44/trisha-gee-audio-ready_tc.mp3
+audio: https://cdn.simplecast.com/audio/aaca90/aaca909a-e34f-49ae-a86f-f59e4fa807f0/b3702e2b-afde-4332-946d-d4d08dfb3d44/trisha-gee-audio-ready_tc.mp3
 post_header_image: ../uploads/2020/04/trisha_bg.jpg
 ---
 

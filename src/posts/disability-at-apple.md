@@ -14,7 +14,7 @@ tag: []
 post_format: []
 _yoast_wpseo_content_score:
   - "90"
-audio: http://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/aaca90/aaca909a-e34f-49ae-a86f-f59e4fa807f0/3560504a-0f4b-4628-8933-1f4ed66c891b/cher-part-2-ready_tc.mp3
+audio: https://cdn.simplecast.com/audio/aaca90/aaca909a-e34f-49ae-a86f-f59e4fa807f0/3560504a-0f4b-4628-8933-1f4ed66c891b/cher-part-2-ready_tc.mp3
 post_header_image: ../uploads/2020/05/cher_bg.jpg
 ---
 

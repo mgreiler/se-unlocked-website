@@ -17,11 +17,7 @@ category:
   - "Women in Tech"
 tag: []
 post_format: []
-_yoast_wpseo_primary_category:
-  - "15"
-_yoast_wpseo_content_score:
-  - "30"
-audio: https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/aaca909a-e34f-49ae-a86f-f59e4fa807f0/episodes/ed08d77f-bcd2-46d6-b2d8-bb0b5cb934ef/audio/7e71fc7b-e153-4fc4-af77-a740f35a6d6e/default_tc.mp3
+audio: https://cdn.simplecast.com/audio/aaca909a-e34f-49ae-a86f-f59e4fa807f0/episodes/ed08d77f-bcd2-46d6-b2d8-bb0b5cb934ef/audio/7e71fc7b-e153-4fc4-af77-a740f35a6d6e/default_tc.mp3
 secondline_themes_header_image_id:
   - "121147"
 post_header_image: ../uploads/2021/03/Jenn-Creighton-Bg.jpg

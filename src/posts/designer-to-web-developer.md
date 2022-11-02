@@ -13,7 +13,7 @@ category: ["Hiring", "Startup", "Tech", "Women in Tech"]
 tag: []
 post_format: []
 post_header_image: ../uploads/2021/04/Anne-Liew-Bg.jpg
-audio: https://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/aaca909a-e34f-49ae-a86f-f59e4fa807f0/episodes/2befd088-cbb3-431f-8caa-a86d8ca7b582/audio/75ae4cb0-e4b4-4eae-8f83-a09fabf5b0b1/default_tc.mp3
+audio: https://cdn.simplecast.com/audio/aaca909a-e34f-49ae-a86f-f59e4fa807f0/episodes/2befd088-cbb3-431f-8caa-a86d8ca7b582/audio/75ae4cb0-e4b4-4eae-8f83-a09fabf5b0b1/default_tc.mp3
 sponsorship: "Today’s episode is sponsored by [Botany.io](https://www.botany.io/) – Botany is a virtual coach for software engineers that unblocks essential teamwork and levels up careers!"
 ---
 

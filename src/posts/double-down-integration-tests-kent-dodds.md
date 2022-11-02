@@ -14,7 +14,7 @@ tag: []
 post_format: []
 _yoast_wpseo_content_score:
   - "30"
-audio: http://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/aaca90/aaca909a-e34f-49ae-a86f-f59e4fa807f0/4eafdc01-56ad-4284-bf8f-3bb6a307a936/kent-c-dodds-ready_tc.mp3
+audio: https://cdn.simplecast.com/audio/aaca90/aaca909a-e34f-49ae-a86f-f59e4fa807f0/4eafdc01-56ad-4284-bf8f-3bb6a307a936/kent-c-dodds-ready_tc.mp3
 secondline_themes_header_image_id:
   - "1234"
 post_header_image: ../uploads/2020/08/Kent-Doods-Bg.jpg

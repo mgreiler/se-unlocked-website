@@ -28,8 +28,7 @@ _yoast_wpseo_linkdex:
     - '48'
 secondline_themes_header_image:
     - 'https://www.software-engineering-unlocked.com/wp-content/uploads/2022/01/Michaela-Greiler-Engineering-Values-BG.jpg'
-enclosure:
-    - "https://cdn.simplecast.com/audio/aaca909a-e34f-49ae-a86f-f59e4fa807f0/episodes/f5b713b5-ded9-45ea-b6d6-b36020630d0b/audio/ba2428d5-9dff-4a7d-b6c1-78870f18387c/default_tc.mp3\n20983035\naudio/mpeg\na:2:{s:8:\"duration\";s:8:\"00:29:04\";s:8:\"explicit\";s:1:\"0\";}"
+audio: "https://cdn.simplecast.com/audio/aaca909a-e34f-49ae-a86f-f59e4fa807f0/episodes/f5b713b5-ded9-45ea-b6d6-b36020630d0b/audio/ba2428d5-9dff-4a7d-b6c1-78870f18387c/default_tc.mp3"
 secondline_themes_header_image_id:
     - '121727'
 ---

@@ -20,7 +20,7 @@ _yoast_wpseo_primary_category:
 secondline_themes_header_image_id:
   - "1294"
 post_header_image: ../uploads/2020/09/emma-bg..png
-audio: http://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/aaca909a-e34f-49ae-a86f-f59e4fa807f0/episodes/cb179ff0-0388-478d-a570-8d7d28f6f23c/audio/a458d6b4-96b5-4b5a-8e8f-10b3b146c373/default_tc.mp3
+audio: https://cdn.simplecast.com/audio/aaca909a-e34f-49ae-a86f-f59e4fa807f0/episodes/cb179ff0-0388-478d-a570-8d7d28f6f23c/audio/a458d6b4-96b5-4b5a-8e8f-10b3b146c373/default_tc.mp3
 secondline_themes_disable_img:
   - "on"
 _yoast_wpseo_content_score:

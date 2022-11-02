@@ -16,8 +16,7 @@ tag: []
 post_format: []
 _yoast_wpseo_primary_category:
     - '19'
-enclosure:
-    - "https://cdn.simplecast.com/audio/aaca909a-e34f-49ae-a86f-f59e4fa807f0/episodes/98d66118-0875-475b-ba50-3abd85d02b37/audio/afcb8826-5dc4-4a29-95d3-b0cfe1d9cb30/default_tc.mp3\n31114301\naudio/mpeg\na:2:{s:8:\"duration\";s:8:\"00:32:25\";s:8:\"explicit\";s:1:\"0\";}"
+audio: "https://cdn.simplecast.com/audio/aaca909a-e34f-49ae-a86f-f59e4fa807f0/episodes/98d66118-0875-475b-ba50-3abd85d02b37/audio/afcb8826-5dc4-4a29-95d3-b0cfe1d9cb30/default_tc.mp3"
 secondline_themes_disable_img:
     - 'on'
 _yoast_wpseo_content_score:

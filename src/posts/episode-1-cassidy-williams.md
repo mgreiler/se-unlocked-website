@@ -14,7 +14,7 @@ tag: []
 post_format: []
 _yoast_wpseo_content_score:
   - "30"
-audio: http://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/aaca90/aaca909a-e34f-49ae-a86f-f59e4fa807f0/1328f160-34a7-4302-98bf-0e22d0996bfb/episode1_software_engineering_unlocked_cassidy_ready_tc.mp3
+audio: https://cdn.simplecast.com/audio/aaca90/aaca909a-e34f-49ae-a86f-f59e4fa807f0/1328f160-34a7-4302-98bf-0e22d0996bfb/episode1_software_engineering_unlocked_cassidy_ready_tc.mp3
 sc_audio: https://player.simplecast.com/1328f160-34a7-4302-98bf-0e22d0996bfb?dark=false
 secondline_themes_gallery:
   - 'a:1:{i:601;s:83:"https://www.software-engineering-unlocked.com/wp-content/uploads/2019/08/bg_ep1.jpg";}'

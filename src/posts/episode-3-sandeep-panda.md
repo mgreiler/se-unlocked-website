@@ -12,7 +12,7 @@ thumbnail: ../uploads/2019/07/sandeep_panda_small_square.jpg
 category: ["Company Culture", "Remote Work", Startup]
 tag: []
 post_format: []
-audio: http://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/aaca90/aaca909a-e34f-49ae-a86f-f59e4fa807f0/5aa645ad-9395-42df-a1bb-3640f6080820/sandeep_panda_ready_tc.mp3
+audio: https://cdn.simplecast.com/audio/aaca90/aaca909a-e34f-49ae-a86f-f59e4fa807f0/5aa645ad-9395-42df-a1bb-3640f6080820/sandeep_panda_ready_tc.mp3
 post_header_image: ../uploads/2017/09/donate-bg.jpg
 _yoast_wpseo_content_score:
   - "30"

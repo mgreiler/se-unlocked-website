@@ -12,7 +12,7 @@ thumbnail: ../uploads/2020/10/Diana_Full_Res.jpeg
 category: ["Company Culture", "Remote Work", "Testing", "Women in Tech"]
 tag: []
 post_format: []
-audio: http://dts.podtrac.com/redirect.mp3/cdn.simplecast.com/audio/aaca909a-e34f-49ae-a86f-f59e4fa807f0/episodes/ffd16e2f-0b97-478b-9ac0-bac75ae61e82/audio/35bae655-7404-44c5-ac0f-827d54a1bed7/default_tc.mp3
+audio: https://cdn.simplecast.com/audio/aaca909a-e34f-49ae-a86f-f59e4fa807f0/episodes/ffd16e2f-0b97-478b-9ac0-bac75ae61e82/audio/35bae655-7404-44c5-ac0f-827d54a1bed7/default_tc.mp3
 post_header_image: ../uploads/2020/10/diana_bg.jpg
 ---
 
