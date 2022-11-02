@@ -99,7 +99,9 @@ export default function Home({ data }) {
 export const query = graphql`
   query PostQuery {
     allMarkdownRemark(
-      filter: { frontmatter: { type: { eq: "post" } } }
+      filter: {
+        frontmatter: { status: { eq: "publish" }, type: { eq: "post" } }
+      }
       sort: { fields: frontmatter___date, order: DESC }
     ) {
       nodes {
