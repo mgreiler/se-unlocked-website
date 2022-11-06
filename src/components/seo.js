@@ -9,6 +9,7 @@ import * as React from "react";
 import PropTypes from "prop-types";
 import { Helmet } from "react-helmet";
 import { useStaticQuery, graphql } from "gatsby";
+import ogImage from "../../static/og-image.png";
 
 const Seo = ({ canonical, description, lang, meta, title }) => {
   const { site } = useStaticQuery(
@@ -75,6 +76,13 @@ const Seo = ({ canonical, description, lang, meta, title }) => {
           content: metaDescription,
         },
         {
+          property: `og:image`,
+          // You should ideally replace the hardcoded URL below with a value you set
+          // in your gatsby-config.js file.  And import all shared site metadata into
+          // this component with the useStaticQuery hook.
+          content: `https://www.software-engineering-unlocked.com/${ogImage}`,
+        },
+        {
           name: `keywords`,
           content: site.siteMetadata.keywords,
         },
@@ -86,7 +94,7 @@ const Seo = ({ canonical, description, lang, meta, title }) => {
 Seo.defaultProps = {
   lang: `en`,
   meta: [],
-  description: ``,
+  description: `Your favorite Software Engineering Podcast.`,
 };
 
 Seo.propTypes = {

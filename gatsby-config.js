@@ -6,7 +6,7 @@ module.exports = {
       name: `Dr. Michaela Greiler`,
       summary: `who is obsessed with making code reviews your superpower.`,
     },
-    description: `Your Software Engineering Podcast.`,
+    description: `Your favorite Software Engineering Podcast.`,
     siteUrl: `https://www.software-engineering-unlocked.com`,
     social: {
       twitter: `mgreiler`,
