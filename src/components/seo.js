@@ -80,7 +80,7 @@ const Seo = ({ canonical, description, lang, meta, title }) => {
           // You should ideally replace the hardcoded URL below with a value you set
           // in your gatsby-config.js file.  And import all shared site metadata into
           // this component with the useStaticQuery hook.
-          content: `https://www.software-engineering-unlocked.com/${ogImage}`,
+          content: `https://se-unlocked.netlify.app/${ogImage}`,
         },
         {
           name: `keywords`,
