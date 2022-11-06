@@ -51,7 +51,7 @@ Ashley is a vivid speaker and proponent of testing and loves sharing her experie
 </div>
 
 <div class="sponsorship">
-Book your awesomecodereviews.com workshop!
+Book your <a href="https://awesomecodereviews.com">awesomecodereviews.com</a> workshop!
 </div> 
 
 
