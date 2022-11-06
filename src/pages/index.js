@@ -16,13 +16,17 @@ export default function Home({ data }) {
   const posts = data.allMarkdownRemark.nodes;
   return (
     <Layout>
-    <Seo title="Software Engineering Unlocked" />
+      <Seo title="Software Engineering Unlocked" />
       <section className={styles.episodes}>
         <h1>Latest Episodes</h1>
         <ul>
           {posts.map((posts) => (
             <li key={posts.id}>
-              <Link className={styles.episodeCard} to={posts.frontmatter.permalink} key={posts.id}>
+              <Link
+                className={styles.episodeCard}
+                to={posts.frontmatter.permalink}
+                key={posts.id}
+              >
                 <div className={styles.cardPicture}>
                   <GatsbyImage
                     image={getImage(posts.frontmatter.thumbnail)}
