@@ -1,5 +1,5 @@
 ---
-episode: "Transcript Improving Code Reviews with Github’s  Copilot"
+episode: "Transcript Improving Code Reviews with Github’s Copilot"
 permalink: /code-reviews-github-copilot
 status: publish
 type: transcript

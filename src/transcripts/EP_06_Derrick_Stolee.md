@@ -1,9 +1,4 @@
----
-episode: "Transcript Episode 6 Derrick Stolee"
-permalink: /episode-6-derrick-stolee
-status: publish
-type: transcript
----
+# Transcript GitHub Episode 6 Derrick Stolee
 
 **Michaela:** [00:00:00] Hello, welcome to the software engineering unlocked 
 podcast. I'm your host, dr. McKayla. And today I have the pleasure to talk to 

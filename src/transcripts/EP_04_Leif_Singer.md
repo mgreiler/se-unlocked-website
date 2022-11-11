@@ -1,9 +1,4 @@
----
-episode: "Transcript Episode 4 Leif Singer"
-permalink: /episode-4-leif-singer
-status: publish
-type: transcript
----
+# Transcript Episode 4 with Leif Singer
 
 **Michaela:** [00:00:00] Hello, and welcome to the Software Engineering Unlocked 
 podcast, where I talk to experienced developers from different companies about 

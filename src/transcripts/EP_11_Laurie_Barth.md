@@ -1,9 +1,4 @@
----
-episode: "Transcript Episode 11 Laurie Barth"
-permalink: /episode-11-staff-engineer-gatsby
-status: publish
-type: transcript
----
+# Transcript Episode 11 Laurie Barth
 
 **Michaela:** [00:00:00] Hello and welcome to the software engineering unlocked 
 podcast. I'm your host, Dr. McKayla. And today I have the pleasure to talk to 

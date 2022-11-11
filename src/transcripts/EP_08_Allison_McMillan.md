@@ -1,9 +1,4 @@
----
-episode: "Transcript Episode 8 Allison McMillan"
-permalink: /episode-8-allison-mcmillan
-status: publish
-type: transcript
----
+## Transcript Episode 8 Allison-McMilan
 
 **Michaela:** [00:00:00] Hello, and welcome to the software engineering unlocked 
 podcast. I'm your host, Dr. Mikayla. And today I have the pleasure to talk to 

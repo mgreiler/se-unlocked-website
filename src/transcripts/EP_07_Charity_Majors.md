@@ -1,9 +1,4 @@
----
-episode: "Transcript Episode 7 Charity Majors"
-permalink: /episode-7-charity-majors
-status: publish
-type: transcript
----
+# Transcript Episode 7 with Charity Majors
 
 
 **Michaela:** [00:00:00] Hello and welcome to the Software Engineering Unlocked

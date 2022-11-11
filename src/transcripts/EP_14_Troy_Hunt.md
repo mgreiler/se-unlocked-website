@@ -1,9 +1,4 @@
----
-episode: "Transcript Episode 1 Troy Hunt"
-permalink: /developer-security-troy-hunt
-status: publish
-type: transcript
----
+# Transcript Episode 14: Troy Hunt
 
 **Michaela:** [00:00:02] Hello and welcome, to the Software Engineering Unlocked podcast. I'm your host, Dr. McKayla. And today I have the pleasure to talk to Troy Hunt. But before I introduce Troy, let me tell you a little bit about myself. For several years, I've been working with Microsoft to help engineering teams be more effective and efficient.
 

@@ -1,9 +1,6 @@
----
-episode: "Transcript Episode 5 Alper Kemal Koç"
-permalink: /episode-5-alper-koc
-status: publish
-type: transcript
----
+# Transcript Episode 5 Alper Koc
+
+(Intro music)
 
 **Michaela:** [00:00:00] Hello, and welcome to the software engineering unlocked
 podcast. I'm your host, Dr. Michaela, and today I have the pleasure to be talking
