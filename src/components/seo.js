@@ -10,8 +10,17 @@ import PropTypes from "prop-types";
 import { Helmet } from "react-helmet";
 import { useStaticQuery, graphql } from "gatsby";
 import ogImage from "../../static/og-image.png";
+import { constructUrl } from "./util";
 
-const Seo = ({ canonical, description, lang, meta, title }) => {
+const Seo = ({
+  canonical,
+  description,
+  lang,
+  meta,
+  title,
+  imageUrl,
+  imageAlt,
+}) => {
   const { site } = useStaticQuery(
     graphql`
       query {
@@ -23,6 +32,8 @@ const Seo = ({ canonical, description, lang, meta, title }) => {
             social {
               twitter
             }
+            defaultogimage
+            siteUrl
           }
         }
       }
@@ -31,6 +42,13 @@ const Seo = ({ canonical, description, lang, meta, title }) => {
 
   const metaDescription = description || site.siteMetadata.description;
   const defaultTitle = site.siteMetadata?.title;
+
+  const defaultImageUrl = constructUrl(
+    site.siteMetadata.siteUrl,
+    site.siteMetadata.defaultogimage
+  );
+
+  const ogImageUrl = imageUrl || defaultImageUrl;
 
   return (
     <Helmet
@@ -61,7 +79,7 @@ const Seo = ({ canonical, description, lang, meta, title }) => {
         },
         {
           name: `twitter:card`,
-          content: `summary`,
+          content: imageUrl ? `summary_large_image` : `summary`,
         },
         {
           name: `twitter:creator`,
@@ -80,7 +98,15 @@ const Seo = ({ canonical, description, lang, meta, title }) => {
           // You should ideally replace the hardcoded URL below with a value you set
           // in your gatsby-config.js file.  And import all shared site metadata into
           // this component with the useStaticQuery hook.
-          content: `https://se-unlocked.netlify.app/${ogImage}`,
+          content: ogImageUrl,
+        },
+        {
+          name: `twitter:image`,
+          content: ogImageUrl,
+        },
+        {
+          property: `twitter:image:alt`,
+          content: imageAlt || "se-unlocked.com social preview",
         },
         {
           name: `keywords`,

@@ -1,43 +1,69 @@
 import { graphql } from "gatsby";
 import React from "react";
 import Layout from "../components/Layout";
-import { GatsbyImage, getImage } from "gatsby-plugin-image";
+import { GatsbyImage, getImage, getSrc } from "gatsby-plugin-image";
 import "../styles/markdown.css";
 import * as styles from "../styles/posts-detail.module.css";
 import { Container } from "react-bootstrap";
+import Seo from "../components/seo";
+import { constructUrl } from "../components/util";
 
 export default function PostsDetails({ data }) {
   const { html } = data.markdownRemark;
+  const { ogimage } = data;
   const {
     title,
     thumbnail,
     thumbnail_alt,
     permalink,
     post_header_image,
+    excerpt,
     audio,
     sc_audio,
   } = data.markdownRemark.frontmatter;
 
-  const { transcript } = data
+  const { transcript } = data;
+  const ogimagesrc = getSrc(getImage(ogimage.frontmatter.thumbnail));
 
-  let audio_player
+  let audio_player;
   if (sc_audio) {
-    audio_player = (<iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless src={sc_audio} title={title}></iframe>)
+    audio_player = (
+      <iframe
+        height="200px"
+        width="100%"
+        frameborder="no"
+        scrolling="no"
+        seamless
+        src={sc_audio}
+        title={title}
+      ></iframe>
+    );
   } else {
-    audio_player = <audio controls preload="none">
-          <source src={audio} />
-        </audio>
+    audio_player = (
+      <audio controls preload="none">
+        <source src={audio} />
+      </audio>
+    );
   }
 
-  let transcript_html
+  let transcript_html;
   if (transcript) {
-    transcript_html = (<div dangerouslySetInnerHTML={{ __html: transcript.html }} />)
+    transcript_html = (
+      <div dangerouslySetInnerHTML={{ __html: transcript.html }} />
+    );
   } else {
-    transcript_html = (<p>Transcript coming soon...</p>)
+    transcript_html = <p>Transcript coming soon...</p>;
   }
 
   return (
     <Layout>
+      <Seo
+        //canonical={canonical}
+        title={title}
+        description={excerpt}
+        imageUrl={constructUrl(data.site.siteMetadata.siteUrl, ogimagesrc)}
+        imageAlt={thumbnail_alt}
+      />
       <Container className="podcast_details_container">
         {/* <GatsbyImage image={getImage(post_header_image)} alt={permalink} /> */}
         {/* <audio controls preload="none">
@@ -45,7 +71,7 @@ export default function PostsDetails({ data }) {
         </audio> */}
         {audio_player}
         <h1 className={styles.podcast_details}>{title}</h1>
-       
+
         <div>
           {/* <div>
           <GatsbyImage image={getImage(thumbnail)} alt={permalink} />
@@ -58,7 +84,7 @@ export default function PostsDetails({ data }) {
             /> */}
             {/* {<div dangerouslySetInnerHTML={{ __html: html }} />} */}
             {<div dangerouslySetInnerHTML={{ __html: html }} />}
-                    {transcript_html}
+            {transcript_html}
           </div>
         </div>
       </Container>
@@ -68,6 +94,12 @@ export default function PostsDetails({ data }) {
 
 export const query = graphql`
   query PostPage($permalink: String) {
+    site {
+      siteMetadata {
+        title
+        siteUrl
+      }
+    }
     markdownRemark(
       frontmatter: { permalink: { eq: $permalink }, type: { eq: "post" } }
     ) {
@@ -76,6 +108,7 @@ export const query = graphql`
         title
         type
         permalink
+        excerpt
         thumbnail {
           childImageSharp {
             gatsbyImageData(
@@ -96,9 +129,22 @@ export const query = graphql`
       }
     }
 
+    ogimage: markdownRemark(
+      frontmatter: { permalink: { eq: $permalink }, type: { eq: "post" } }
+    ) {
+      frontmatter {
+        thumbnail {
+          childImageSharp {
+            gatsbyImageData(width: 1200, formats: [AUTO, WEBP, AVIF])
+          }
+        }
+      }
+    }
+
     transcript: markdownRemark(
-    frontmatter: {type: {eq: "transcript"}, permalink: {eq: $permalink}}) {
-    html
+      frontmatter: { type: { eq: "transcript" }, permalink: { eq: $permalink } }
+    ) {
+      html
     }
   }
 `;
