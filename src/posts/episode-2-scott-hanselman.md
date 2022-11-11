@@ -1,5 +1,5 @@
 ---
-title: "Episode 2: Getting a remote position at Microsoft with Scott Hanselman"
+title: "Getting a remote position at Microsoft with Scott Hanselman"
 date: "2019-09-10T07:36:44+00:00"
 status: publish
 permalink: /episode-2-scott-hanselman
