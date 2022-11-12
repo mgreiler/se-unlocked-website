@@ -80,6 +80,7 @@ module.exports = {
             query: `
               {
                 allMarkdownRemark(
+                  filter: {frontmatter: {status: {eq: "publish"}}}
                   sort: { order: DESC, fields: [frontmatter___date] },
                 ) {
                   nodes {
