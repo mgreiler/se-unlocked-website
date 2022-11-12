@@ -66,7 +66,7 @@ module.exports = {
             serialize: ({ query: { site, allMarkdownRemark } }) => {
               return allMarkdownRemark.nodes.map((node) => {
                 return Object.assign({}, node.frontmatter, {
-                  description: node.excerpt,
+                  description: node.frontmatter.excerpt,
                   date: node.frontmatter.date,
                   url: site.siteMetadata.siteUrl + node.frontmatter.permalink,
                   guid: site.siteMetadata.siteUrl + node.frontmatter.permalink,
@@ -80,11 +80,10 @@ module.exports = {
             query: `
               {
                 allMarkdownRemark(
-                  filter: {frontmatter: {status: {eq: "publish"}}}
+                  filter: {frontmatter: {status: {eq: "publish"}, type: {eq: "post"}}}
                   sort: { order: DESC, fields: [frontmatter___date] },
                 ) {
                   nodes {
-                    excerpt
                     html
                     frontmatter {
                       permalink
