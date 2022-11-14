@@ -46,9 +46,9 @@ export default function Sponsorship() {
       {/*section2*/}
       <div className={styles.section_2}>
         <div className={`${styles.sponsor_container} ${styles.text_left}`}>
-          <h1 className={`${styles.text_left}`}>99,000+ listens</h1>
-          <h1 className={`${styles.text_left}`}>48+ episodes</h1>
-          <h1 className={`${styles.text_left}`}>6,000+ Twitter followers</h1>
+          <h1 className={`${styles.text_left}`}>160,000+ listens</h1>
+          <h1 className={`${styles.text_left}`}>60+ episodes</h1>
+          <h1 className={`${styles.text_left}`}>5,000+ Twitter followers</h1>
         </div>
       </div>
       {/*section3 What Sponsor Say*/}
@@ -83,7 +83,7 @@ export default function Sponsorship() {
       <div className={styles.section_2}>
         <div className={styles.sponsor_container}>
           <div className="d-flex justify-content-center">
-            <a href="mailto:michaela@michaelagreiler.com">
+            <a href="https://code-review-workshop.typeform.com/to/Cap63J">
               <button className={styles.button}>I want to sponsor!</button>{" "}
             </a>
           </div>
@@ -118,16 +118,16 @@ export default function Sponsorship() {
           <p>
             Because the best results for podcast advertisers are achieved when
             sponsors appear on a few consecutive shows, we highly encourage you
-            to book a package and profit from the discounted rates.
+            to book a multi-show-package and profit from the discounted rates.
           </p>
           <ul>
-            <li>Multi-show 3+ appearances — €440 Euro per show</li>
-            <li>Multi-show 6+ appearances — €299 Euro per show</li>
-            <li>Single show appearance — €650 Euro per show</li>
+            <li>Multi-show 3+ appearances — €540 Euro per show</li>
+            <li>Multi-show 6+ appearances — €399 Euro per show</li>
+            <li>Single show appearance — €850 Euro per show</li>
           </ul>
           <p>
             We occasionally have sponsored speakers, giving all the spotlight to
-            you for 45 minutes. A sponsored speaker episode costs €1190 Euros.{" "}
+            you for 45 minutes. A sponsored speaker episode costs €1490 Euros.{" "}
           </p>
         </div>
       </div>
@@ -135,7 +135,7 @@ export default function Sponsorship() {
       <div className={styles.section_2}>
         <div className={styles.sponsor_container}>
           <div className="d-flex justify-content-center">
-            <a href="mailto:michaela@michaelagreiler.com">
+            <a href="https://code-review-workshop.typeform.com/to/Cap63J">
               <button className={styles.button}>Let me sponsor!</button>
             </a>
           </div>
@@ -196,7 +196,7 @@ export default function Sponsorship() {
       <div className={styles.section_2}>
         <div className={styles.sponsor_container}>
           <div className="d-flex justify-content-center">
-            <a href="mailto:michaela@michaelagreiler.com">
+            <a href="https://code-review-workshop.typeform.com/to/Cap63J">
               <button className={styles.button}>I'm ready to get in!</button>{" "}
             </a>
           </div>
@@ -208,7 +208,7 @@ export default function Sponsorship() {
           <p>
             Just within one year, the podcast has reached a wide audience of
             quality-focused software engineers and product-folks. The podcast
-            has been listened to over 99,000 times. Each episode averages around
+            has been listened to over 160,000 times. Each episode averages around
             1,500 listens. The number of listens each episode gets is quite
             stable, showing a loyal, yet growing listener base. Some of the most
             downloaded episodes reach around 5,000 people.
@@ -252,9 +252,7 @@ export default function Sponsorship() {
           <h1 className={styles.text_left}>Ready to increase your reach?</h1>
           <p className="mt-4">Interested in sponsoring? Send us an email at</p>
           <p>
-            <a href="mailto:michaela@michaelagreiler.com">
-              michaela@michaelagreiler.com
-            </a>
+              michaela [at] michaelagreiler [.] com
           </p>
         </div>
       </div>
