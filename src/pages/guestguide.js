@@ -1,6 +1,5 @@
 import React from "react";
 import Layout from "../components/Layout";
-import * as styles from "../styles/guest-guide.module.css";
 import { Container } from "react-bootstrap";
 import Seo from "../components/seo";
 
@@ -10,7 +9,7 @@ export default function GuestGuide() {
     <Layout>
       <Seo title="Your favorite Software Engineering Podcast" />
       <Container className="guest-guide pt-3 pb-5">
-        <h1 className="pt-5">A Guide's Guide to the SE Unlocked Podcast</h1>
+        <h1 className="pt-5">A Guest's Guide to the SE Unlocked Podcast</h1>
         <p>
           I'm excited that you want to become a guest on the Software
           Engineering Unlocked podcast. Here, you find all you need to know
