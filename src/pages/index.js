@@ -16,7 +16,7 @@ export default function Home({ data }) {
   const posts = data.allMarkdownRemark.nodes;
   return (
     <Layout>
-      <Seo title="Software Engineering Unlocked" />
+      <Seo title="Your favorite Software Engineering Podcast" />
       <section className={styles.episodes}>
         <h1>Latest Episodes</h1>
         <ul>

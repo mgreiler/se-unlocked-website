@@ -1,11 +1,13 @@
 import * as React from "react";
 import { Link } from "gatsby";
+import Layout from "../components/Layout";import { Container } from "react-bootstrap";
 
 // markup
 const NotFoundPage = () => {
   return (
-    <main>
-      <title>Not found</title>
+    <Layout>
+    <Container>
+      <title>Page not found</title>
       <h1>Page not found</h1>
       <p>
         Sorry{" "}
@@ -17,14 +19,15 @@ const NotFoundPage = () => {
         {process.env.NODE_ENV === "development" ? (
           <>
             <br />
-            Try creating a page in <code>src/pages/</code>.
+            Go back to all episodes <a href="https://www.software-engineering-unlocked.com/">here</a>
             <br />
           </>
         ) : null}
         <br />
         <Link to="/">Go home</Link>.
       </p>
-    </main>
+      </Container>
+      </Layout>
   );
 };
 

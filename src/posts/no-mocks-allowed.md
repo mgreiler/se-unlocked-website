@@ -56,7 +56,7 @@ Code that he writes is used by millions of people around the world, and he also 
 </div>
 
 
-<div class="sponsorship">Become <a href="https://www.software-engineering-unlocked.com/sponsor-us/">a sponsor of the show</a> and reach thousands of quality driven software Engineers ❤.</div>
+<div class="sponsorship">Become <a href="https://www.software-engineering-unlocked.com/sponsorship/">a sponsor of the show</a> and reach thousands of quality driven software Engineers ❤.</div>
 
 ## Read the whole episode "No mocks allowed: A testing discussion with Kent C. Dodds" (Transcript)
 

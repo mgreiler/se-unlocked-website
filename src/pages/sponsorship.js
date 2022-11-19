@@ -1,5 +1,6 @@
 import React from "react";
 import Layout from "../components/Layout";
+import Seo from "../components/seo";
 import * as styles from "../styles/sponsor.module.css";
 import { StaticImage } from "gatsby-plugin-image";
 import Row from "react-bootstrap/Row";
@@ -13,6 +14,7 @@ import twitter from "../images/twitter-logo-sm-blue.png";
 export default function Sponsorship() {
   return (
     <Layout>
+       <Seo title="Your favorite Software Engineering Podcast" />
       <div className={styles.sponsor_container}>
         <h1>
           Reach developers with a heart for developing high-quality software!
@@ -46,9 +48,9 @@ export default function Sponsorship() {
       {/*section2*/}
       <div className={styles.section_2}>
         <div className={`${styles.sponsor_container} ${styles.text_left}`}>
-          <h1 className={`${styles.text_left}`}>160,000+ listens</h1>
-          <h1 className={`${styles.text_left}`}>60+ episodes</h1>
-          <h1 className={`${styles.text_left}`}>5,000+ Twitter followers</h1>
+          <p className={`${styles.text_left}`}>160,000+ listens</p>
+          <p className={`${styles.text_left}`}>60+ episodes</p>
+          <p className={`${styles.text_left}`}>5,000+ Twitter followers</p>
         </div>
       </div>
       {/*section3 What Sponsor Say*/}
@@ -73,7 +75,7 @@ export default function Sponsorship() {
                 excited to continue working with her in the future.
               </p>
               <p className={styles.italic}>
-                -Tracy Phillips, Co-Founder at CodeSubmit
+                Tracy Phillips, Co-Founder at CodeSubmit
               </p>
             </Col>
           </Row>
