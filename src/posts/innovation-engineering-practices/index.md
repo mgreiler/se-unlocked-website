@@ -1,5 +1,5 @@
 ---
-title: "Driving innovation through engineering practices with Dr. Holly Cummins"
+title: "Innovation through engineering practices"
 date: "2021-09-28T08:10:10+00:00"
 status: publish
 permalink: /innovation-engineering-practices

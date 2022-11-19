@@ -1,5 +1,5 @@
 ---
-title: "Deeply caring for developer experience"
+title: "High-performing engineering teams through DX"
 date: "2022-11-02T01:53:31+00:00"
 status: publish
 permalink: /developer-experience-job

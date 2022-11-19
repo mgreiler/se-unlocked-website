@@ -1,10 +1,10 @@
 ---
-title: 'Using WordPress to run a profitable developer training business'
+title: 'How to master a difficult job search'
 date: '2022-06-15T10:53:31+00:00'
 status: publish
 permalink: /wordpress-dev-training-business
 author: michaela
-excerpt: 'The importance of time efficiency and task delegation.'
+excerpt: 'Avdi Grimm shares how he found his independence by running a training and consulting business.'
 type: post
 id: 122115
 thumbnail: ../uploads/2022/06/Avid-Grimm_s.jpg

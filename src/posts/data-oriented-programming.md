@@ -1,5 +1,5 @@
 ---
-title: 'what the heck is data-oriented programming?'
+title: 'What the heck is data-oriented programming?'
 date: '2022-05-31T09:21:48+00:00'
 status: publish
 permalink: /data-oriented-programming

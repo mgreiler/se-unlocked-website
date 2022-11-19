@@ -1,5 +1,5 @@
 ---
-title: 'What hinders your career as a developer? - Mindset.'
+title: 'How to advance your developer career'
 date: '2022-06-29T11:45:00+00:00'
 status: publish
 permalink: /advance-dev-career

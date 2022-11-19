@@ -1,5 +1,5 @@
 ---
-title: "Running a widely successful dev shop without a CS degree"
+title: "Running a successful dev shop without a CS degree"
 date: "2021-08-31T11:37:03+00:00"
 status: publish
 permalink: /javascript-community

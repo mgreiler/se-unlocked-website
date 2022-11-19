@@ -1,5 +1,5 @@
 ---
-title: "How design systems help create an inclusive user experience at Github"
+title: "Design systems and inclusive user experience at Github"
 date: "2020-10-13T20:08:50+00:00"
 status: publish
 permalink: /design-systems-github
