@@ -9,13 +9,20 @@ export default function Footer() {
       <footer>
         <Container className="footer_section">
           <div>
-            <h2>ABOUT</h2>
+            <h2>ABOUT SOFTWARE ENGINEERING UNLOCKED PODCAST</h2>
             <p>
-              The Software Engineering Unlocked podcast gives you a sneak peek
+              The Software Engineering Unlocked is your favorite tech podcast. 
+              It gives you a sneak peek
               into how software companies around the world develop software.
+
+              This Software Engineering Podcast focuses on:</p>
+              <p>
               What challenges do they face? Which best practices do they follow?
               And what do they do to build reliable, maintainable and scaleable
-              software people love? Hear from developers at companies of all
+              software people love? 
+              </p>
+              <p>
+              In this software engineering podcast, you hear from developers at companies of all
               sizes, whether it is a large cooperations or a small startup. Each
               guest has their unique story to tell.
             </p>
@@ -37,7 +44,7 @@ export default function Footer() {
         <p></p>
 
         <p className="text-center">
-          Copyright 2021{" "}
+          Copyright 2022{" "}
           <a
             href="https://www.michaelagreiler.com/"
             target="_blank"
