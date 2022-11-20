@@ -51,7 +51,7 @@ export default function Home({ data }) {
       </section>
       <section className="subscribe">
         <div className="subscribe-text">
-          <h2>Subscribe To Our Podcast</h2>
+          <h2>Subscribe To Your Favorite Tech Podcast</h2>
           <p>
             Never miss an episode! Subscribe on iTunes, Google, Deezer, or via
             RSS
