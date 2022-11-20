@@ -14,6 +14,7 @@ module.exports = {
     keywords: `tech podcast, software quality, code reviews, technology podcast, software engineering podcast, programming podcast`,
     defaultogimage: `/og-image.png`,
   },
+  trailingSlash: "always",
   plugins: [
     // {
     //   resolve: "gatsby-plugin-sass",
