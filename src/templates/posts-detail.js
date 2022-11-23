@@ -40,7 +40,7 @@ export default function PostsDetails({ data }) {
     );
   } else {
     audio_player = ( 
-      <audio controls preload="none" style={{border:"2px solid #263669", borderRadius: "64px", boxShadow: " 6px 6px 1px 1px #eeff61;"}}>
+      <audio controls preload="none" style={{border:"2px solid #263669", borderRadius: "64px", boxShadow: " 2px 2px 1px 1px #eeff61;"}}>
         <source src={audio} />
       </audio>
     );
