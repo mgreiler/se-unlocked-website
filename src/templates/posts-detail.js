@@ -1,7 +1,7 @@
 import { graphql } from "gatsby";
 import React from "react";
 import Layout from "../components/Layout";
-import { GatsbyImage, getImage, getSrc } from "gatsby-plugin-image";
+import { getImage, getSrc } from "gatsby-plugin-image";
 import "../styles/markdown.css";
 import * as styles from "../styles/posts-detail.module.css";
 import { Container } from "react-bootstrap";
@@ -40,7 +40,7 @@ export default function PostsDetails({ data }) {
     );
   } else {
     audio_player = (
-      <audio controls preload="none">
+      <audio controls preload="none" style={{border:"2px solid #263669", borderRadius: "64px", boxShadow: "12px 12px 2px 1px rgba(0, 0, 255, .2);"}}>
         <source src={audio} />
       </audio>
     );
@@ -64,7 +64,7 @@ export default function PostsDetails({ data }) {
         imageUrl={constructUrl(data.site.siteMetadata.siteUrl, ogimagesrc)}
         imageAlt={thumbnail_alt}
       />
-      <Container className="podcast_details_container">
+      <Container className={styles.podcast_details_container}>
         {/* <GatsbyImage image={getImage(post_header_image)} alt={permalink} /> */}
         {/* <audio controls preload="none">
           <source src={audio} />

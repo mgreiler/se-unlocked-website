@@ -1,4 +1,8 @@
 
+.podcast_details_container {
+  max-width: 960px;
+}
+
 .podcast_details {
   margin-top: 0.5em;
   padding-top: 0.5em;
@@ -18,5 +22,8 @@ h2 {
 
 audio {
 margin-top: 2em;
+width: 100%;
 }
+
+
 
