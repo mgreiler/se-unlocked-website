@@ -12,8 +12,6 @@ thumbnail: ../uploads/2019/07/face11.jpg
 category: ["Company Culture", "Remote Work", "Women in Tech"]
 tag: []
 post_format: []
-_yoast_wpseo_content_score:
-  - "30"
 audio: https://cdn.simplecast.com/audio/aaca90/aaca909a-e34f-49ae-a86f-f59e4fa807f0/1328f160-34a7-4302-98bf-0e22d0996bfb/episode1_software_engineering_unlocked_cassidy_ready_tc.mp3
 sc_audio: https://player.simplecast.com/1328f160-34a7-4302-98bf-0e22d0996bfb?dark=false
 secondline_themes_gallery:
@@ -23,8 +21,13 @@ post_header_image: ../uploads/2019/08/bg_ep1.jpg
 
 
 <div class="episode-about">
-In this episode, I talk with Cassidy Williams, a senior software engineer that works for the fully-remote company CodePen. 
-    <br/> <br/>We also talk about:
+  In this episode, I talk with Cassidy Williams, a senior software engineer that works for the fully-remote company CodePen. 
+  <br/>
+  <br/>
+  <div class="video-container">
+    <iframe class="video" src="https://www.youtube-nocookie.com/embed/Tchj3aBoACw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </div>
+ <br/>We also talk about:
     <ul>
         <li>working remote for a small startup</li>
         <li>how to find fulfillment in your career and through side projects</li>
