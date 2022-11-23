@@ -18,6 +18,10 @@ post_format: []
 
 <div class="episode-about">
 Ashley Hunsberger shares what a director of Developer Experience does and why developer experience matters
+<br/> <br/>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PRt1dJJDVog" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <br/> <br/>We also talk about:
 <ul>
 <li>what a director of developer experience (DX) does.</li>
