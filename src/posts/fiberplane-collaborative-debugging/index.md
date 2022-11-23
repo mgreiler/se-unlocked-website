@@ -19,7 +19,9 @@ post_format: []
 <div class="episode-about">
 Micha Hernandez van Leuffen shares how and why he built Fiberplane, a platform for collaborative debugging notebooks.<br/> <br/> 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WOKAOW24I-Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="video-container">
+<iframe class="video" src="https://www.youtube-nocookie.com/embed/WOKAOW24I-Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 <br/> <br/>We also talk about:
 <ul>

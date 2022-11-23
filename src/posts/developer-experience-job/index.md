@@ -16,13 +16,15 @@ tag: []
 post_format: []
 ---
 
+
 <div class="episode-about">
-Ashley Hunsberger shares what a director of Developer Experience does and why developer experience matters
-<br/> <br/>
+Ashley Hunsberger shares what a director of Developer Experience does and why developer experience matters. <br/> <br/>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PRt1dJJDVog" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="video-container">
+<iframe class="video" src="https://www.youtube-nocookie.com/embed/PRt1dJJDVog" title="YouTube video player" rel=0"  frameborder="0" allowfullscreen="allowfullscreen allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
-<br/> <br/>We also talk about:
+<br/>We also talk about:
 <ul>
 <li>what a director of developer experience (DX) does.</li>
 <li>what testing, continious delivery and DevOps principle have to do with developer experience,</li>
@@ -35,7 +37,7 @@ Ashley Hunsberger shares what a director of Developer Experience does and why de
 </ul>
 </div>
 
-<div class=" episode-links">
+<div class="episode-links">
 <b>Episode Resources:</b><br/>
 <a href="https://www.linkedin.com/in/ashleyhunsberger/">Ashley's Twitter</a><br/>
 <a href="https://www.michaelagreiler.com/wp-content/uploads/2021/12/Framework-for-Understanding-and-Improving.pdf">Developer experience research paper</a><br/>
