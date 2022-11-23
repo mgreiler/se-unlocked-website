@@ -7,8 +7,11 @@ const NotFoundPage = () => {
   return (
     <Layout>
     <Container>
-      <title>Page not found</title>
+      <br/>
+      <br/>
+      <title>Whoops! Page not found</title>
       <h1>Page not found</h1>
+      <br/>
       <p>
         Sorry{" "}
         <span role="img" aria-label="Pensive emoji">
@@ -16,16 +19,17 @@ const NotFoundPage = () => {
         </span>{" "}
         we couldn’t find what you were looking for.
         <br />
+        </p>
+        <h3>
         {process.env.NODE_ENV === "development" ? (
           <>
             <br />
-            Go back to all episodes <a href="https://www.software-engineering-unlocked.com/">here</a>
+            Please go back to all episodes <Link to="/">here</Link>.
             <br />
           </>
         ) : null}
         <br />
-        <Link to="/">Go home</Link>.
-      </p>
+      </h3>
       </Container>
       </Layout>
   );
