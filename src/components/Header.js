@@ -22,14 +22,24 @@ export default function Header() {
       href: "https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS9LMV9tdjBDSg==",
     },
     {
+      name: "deezer",
+      title: "Deezer",
+      href: "https://www.deezer.com/us/show/465682",
+    },
+    {
       name: "twitter",
       title: "Twitter",
       href: "https://twitter.com/se_unlocked",
     },
     {
-      name: "deezer",
-      title: "Deezer",
-      href: "https://www.deezer.com/us/show/465682",
+      name: "yt",
+      title: "YouTube",
+      href: "https://www.youtube.com/channel/UCWVxDd-f0EbQ_t56MyLobqw",
+    },
+    {
+      name: "mailchimp",
+      title: "Newsletter",
+      href: "https://mailchi.mp/8216e8ed8cec/se-unlocked-email-community",
     },
     {
       name: "rss",
@@ -69,7 +79,7 @@ export default function Header() {
           </nav>
           <div className={styles.subscribe}>
             <div className="container nav_container">
-              <span>Click to subscribe!</span>
+              <span>Subscribe on</span>
               <ul>
                 {subscriptionOptions.map((option) => (
                   <li key={option.name}>
