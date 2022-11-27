@@ -29,18 +29,21 @@ post_header_image: ../uploads/2020/05/cher_bg.jpg
 
 <div class="episode-about">
 Cher Scarlett shares her inspirational story about she overcame hardship and poverty, and worked her way up to become a staff engineer at Apple.
-<!--<br/> <br/>We also talk about:
+<br/> <br/>We also talk about:
 <ul>
-<li> BULLET POINT LIST OF TOPICS DISCUSSED</li>
-<li> SECOND POINT DISCUSSED</li>
-<li> THIRD POINT DISCUSSED</li>
-</ul>-->
+<li> How Cher Scarlett bravely shares and deals with her mental health issues publicly</li>
+<li> How Cher fights for inclusion in tech and reminds people that they belong in tech independent of their education or background</li>
+<li> She openly shares her vulnerabilities and encourages and lifts up others. </li>
+<li> Also, listen to the second interview, where <a href="https://www.software-engineering-unlocked.com/disability-at-apple/">Cher Scarlett talks about how she got hired at Apple despite her bipolar disorder</a>.</li>
+</ul>
+
 </div>
 <div class=" episode-links">
 <b>Episode Resources:</b><br/>
-<a href="https://www.michaelagreiler.com/code-review-book/">McKayla’s Code Review Book</a><br/>
 <a href="https://twitter.com/CHERdotdev">Cher’s Twitter</a><br/>
-<a href="https://cher.dev/">Website of Cher</a><br/>
+<a href="https://cher.dev/">Website of Cher Scarlett</a><br/>
+<a href="https://earthweb.com/appletoo/">AppletToo Movement, where Apple workers joined together to “organize and protect” themselves.</a></br> 
+<a href="https://www.michaelagreiler.com/code-review-book/">McKayla’s Code Review Book</a><br/>
 </div>
 <br/>
 
@@ -50,10 +53,8 @@ Cher Scarlett shares her inspirational story about she overcame hardship and pov
 </div>
 <div class="col-8 guest-about">
 <b>About Cher Scarlett</b><br/>
-Cher Scarlett overcame hardships and poverty, and worked her way up to become a staff engineer at Apple.
-Cher has incredible strength in her, and bravely shares her struggles dealing with mental health issues publicly.
-She also regularly reminds people that they belong in tech independent of their education or background.
-She openly shares her vulnerabilities and encourages and lifts up others. Also, listen to the second interview, where <a href="https://www.software-engineering-unlocked.com/disability-at-apple/">Cher Scarlett talks about how she got hired at Apple despite her bipolar disorder</a>.
+Cher Scarlett, who is influential in the #AppleToo movement, overcame hardships and poverty. 
+Cher works as a software engineer and made a name for herself thorugh Twitter, blogging and by being a leading worker's right activist.
 </div>
 </div>
 
