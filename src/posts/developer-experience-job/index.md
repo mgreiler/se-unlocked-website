@@ -39,7 +39,7 @@ Ashley Hunsberger shares what a director of Developer Experience does and why de
 
 <div class="episode-links">
 <b>Episode Resources:</b><br/>
-<a href="https://www.linkedin.com/in/ashleyhunsberger/">Ashley's Twitter</a><br/>
+<a href="https://www.linkedin.com/in/ashleyhunsberger/">Ashley's LinkedIn</a><br/>
 <a href="https://www.michaelagreiler.com/wp-content/uploads/2021/12/Framework-for-Understanding-and-Improving.pdf">Developer experience research paper</a><br/>
 
 
@@ -63,5 +63,5 @@ Book your <a href="https://awesomecodereviews.com">awesomecodereviews.com</a> wo
 
 ## Read the whole episode (Transcript)
 
-_\[If you want, you can help make the transcript better, and improve the podcast’s accessibility via_ [Github](https://github.com/mgreiler/se-unlocked/tree/master/Transcripts)_[.](https://github.com/mgreiler/se-unlocked/tree/master/Transcripts) I’m happy to lend a hand to help you get started with pull requests, and open source work.\]_
+_\[Improve this transcript on [Github](https://github.com/mgreiler/se-unlocked/tree/master/Transcripts)_[.](https://github.com/mgreiler/se-unlocked/tree/master/Transcripts)\]
 

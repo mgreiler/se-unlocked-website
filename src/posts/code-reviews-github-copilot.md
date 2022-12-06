@@ -67,4 +67,4 @@ Book your <a href="https://www.michaelagreiler.com/workshops">awesomecodereview.
 
 ## Read the whole episode "Improving Code Reviews with Github’s  Copilot" (Transcript)
 
-_\[If you want, you can help make the transcript better, and improve the podcast’s accessibility via_ [Github](https://github.com/mgreiler/se-unlocked/tree/master/Transcripts)_[.](https://github.com/mgreiler/se-unlocked/tree/master/Transcripts) I’m happy to lend a hand to help you get started with pull requests, and open source work.\]_
+_\[Improve this transcript on [Github](https://github.com/mgreiler/se-unlocked/tree/master/Transcripts)_[.](https://github.com/mgreiler/se-unlocked/tree/master/Transcripts)\]_

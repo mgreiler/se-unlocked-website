@@ -82,7 +82,7 @@ Book your <a href="https://www.michaelagreiler.com/workshops">awesomecodereview.
 </div>
 
 <div>
-  <h2>Other episodes you might like</h2>
+  <h2>Other episodes you'll like</h2>
     <div class="row-md-6">
       <div class="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
           <div class="col p-4 d-flex flex-column position-static">
