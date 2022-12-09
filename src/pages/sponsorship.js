@@ -81,6 +81,29 @@ export default function Sponsorship() {
           </Row>
         </div>
       </div>
+      <div className={styles.section_1}>
+        <div className={styles.sponsor_container}>
+          <Row className="mt-4 ml-4 mr-4">
+            <Col sm={12} md={6} lg={6}>
+              <StaticImage
+                src="../images/Elena_Boroda_Fiberplane.jpg"
+                alt="Elena Boroda Fiberplane sponsoring the podcast"
+              />
+            </Col>
+            <Col sm={12} md={6} lg={6}>
+              <p className={styles.italic}>
+                {" "}
+                We sponsored SE Unlocked when launching our public beta and found it to be a smooth and worthwhile experience. The collaboration was highly pleasant, from first contact until the release and distribution of the episode, with a fast turnaround time. The ability to present our product in a 45 min episode allowed us to really dive deep into the product and was a great fit for the launch.
+Michaela proactively provided us with a thought-provoking interview outline and worked with us to fine-tune it. As the interview was only scripted enough to spark the initial conversation, we were able to present our product authentically and this made the episode educational and informative for the listener
+Michaela was a great interviewer too; overall we had a fantastic experience and would easily recommend SE Unlocked.
+              </p>
+              <p className={styles.italic}>
+              Elena Boroda, Head of Marketing at Fiberplane
+              </p>
+            </Col>
+          </Row>
+        </div>
+      </div>
       {/*section4*/}
       <div className={styles.section_2}>
         <div className={styles.sponsor_container}>
