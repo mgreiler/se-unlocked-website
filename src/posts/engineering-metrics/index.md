@@ -9,7 +9,7 @@ id: 667
 type: post
 thumbnail_alt: "Picture of Lauren Peate"
 thumbnail: Lauren_Peate.jpg
-audio: https://cdn.simplecast.com/audio/aaca909a-e34f-49ae-a86f-f59e4fa807f0/episodes/14f69a24-bf6f-4e84-8dd8-f57c3f73c32b/audio/fd7c231f-9de9-4e86-b249-d8ab450c3483/default_tc.mp3
+audio: https://cdn.simplecast.com/audio/aaca909a-e34f-49ae-a86f-f59e4fa807f0/episodes/14f69a24-bf6f-4e84-8dd8-f57c3f73c32b/audio/3bc44755-6fc4-41cd-84bd-bc6e2228c0aa/default_tc.mp3
 category: ["Company Culture", DevOps, Productivity, Startup, Testing, "Women in Tech"]
 tag: []
 post_format: []
@@ -17,7 +17,14 @@ post_format: []
 
 
 <div class="episode-about">
-Lauren Peate shares how engineering metrics can be ethical with Multitudes. <br/>
+Lauren Peate shares how engineering metrics can be ethical with Multitudes. 
+<br/> <br/>
+
+<div class="video-container">
+<iframe class="video" src="https://www.youtube-nocookie.com/embed/BiRAixDIZnE" title="YouTube video player" rel=0"  frameborder="0" allowfullscreen="allowfullscreen allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+
 <br/>We also talk about:
 <ul>
 <li>what are ethical developer metrics?</li>
@@ -59,7 +66,7 @@ Book your <a href="https://awesomecodereviews.com">awesomecodereviews.com</a> wo
     <div class="row-md-6">
       <div class="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
           <div class="col p-4 d-flex flex-column position-static">
-            <a href="https://se-unlocked.netlify.app/happy-developers-productive/"><h4 class="mb-0">Are happy developers more productive?</h3></a>
+            <a href="https://software-engineering-unlocked.com/happy-developers-productive/"><h4 class="mb-0">Are happy developers more productive?</h3></a>
   <audio controls preload="none">
                <source src="https://cdn.simplecast.com/audio/aaca909a-e34f-49ae-a86f-f59e4fa807f0/episodes/130a6709-2e54-4309-b3cd-3a3a195eb6d5/audio/7679499b-f1db-4003-a02c-df863255a50b/default_tc.mp3" />
               </audio>
@@ -69,9 +76,19 @@ Book your <a href="https://awesomecodereviews.com">awesomecodereviews.com</a> wo
     <div class="row-md-6">
       <div class="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
           <div class="col p-4 d-flex flex-column position-static">
-                       <a href="https://se-unlocked.netlify.app/measure-developer-productivity-space/" class="stretched-link"> <h4 class="mb-0">Measure developer productivity using the SPACE framework</h3></a>
+                       <a href="https://software-engineering-unlocked.com/measure-developer-productivity-space/" class="stretched-link"> <h4 class="mb-0">Measure developer productivity using the SPACE framework</h3></a>
   <audio controls preload="none">
                 <source src="https://cdn.simplecast.com/audio/aaca909a-e34f-49ae-a86f-f59e4fa807f0/episodes/5f2f49ae-1df9-4c13-9a52-670548e10892/audio/f557f044-ac96-40a4-b6b4-f8f215a1a81b/default_tc.mp3" />
+              </audio>
+          </div>
+        </div>
+      </div>
+          <div class="row-md-6">
+      <div class="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
+          <div class="col p-4 d-flex flex-column position-static">
+                       <a href="https://software-engineering-unlocked.com/developer-experience-job/" class="stretched-link"> <h4 class="mb-0">High-performing engineering teams through DX</h3></a>
+  <audio controls preload="none">
+                <source src="https://cdn.simplecast.com/audio/aaca909a-e34f-49ae-a86f-f59e4fa807f0/episodes/08be65aa-4b4e-41f5-8d94-3611ef987d90/audio/98662bb1-c656-4b89-afbc-ab4ce94e697f/default_tc.mp3" />
               </audio>
           </div>
         </div>
