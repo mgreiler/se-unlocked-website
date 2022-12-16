@@ -22,13 +22,16 @@ secondline_themes_header_image:
     - 'https://www.software-engineering-unlocked.com/wp-content/uploads/2022/07/Nicolas-Dular-Engineering-Manager.jpg'
 _yoast_wpseo_metadesc:
     - 'Nicolas Dular shares why he wasn''t happy as an engineering manager, even though he always dreamt of becoming one.'
-secondline_themes_disable_img:
-    - 'on'
 ---
 
 <div class="episode-about">
 In this episode, I talk to Nicolas Dular, a senior full-stack engineer at GitLab, about his experience of becoming an engineering manager.
-<br/> <br/>We also talk about:
+<br/> <br/>
+<div class="video-container">
+<iframe class="video" src="https://www.youtube-nocookie.com/embed/gT8lj9ZoTds" title="YouTube video player" rel=0"  frameborder="0" allowfullscreen="allowfullscreen allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+<br/>
+We also talk about:
 <ul>
 <li> how he became an engineering manager</li>
 <li> what he liked about this role</li>
