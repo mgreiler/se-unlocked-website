@@ -1,6 +1,8 @@
 ---
 title: "How Programmers Think and Learn"
 date: "2021-02-02T09:53:42+00:00"
+updated: "2022-12-10T05:16:50+00:00"
+
 status: publish
 permalink: /how-programmers-think-and-learn
 author: michaela
@@ -12,15 +14,17 @@ thumbnail: ../uploads/2021/02/Felienne-Hermans.jpg
 category: [Productivity, Science, Tech, "Women in Tech"]
 tag: []
 post_format: []
-_yoast_wpseo_content_score:
-  - "30"
 audio: https://cdn.simplecast.com/audio/aaca909a-e34f-49ae-a86f-f59e4fa807f0/episodes/54d1f660-9f8b-4015-8d25-e96c326010ff/audio/65e5e5c2-1e23-4c97-a9c0-81c85115073b/default_tc.mp3
 post_header_image: ../uploads/2021/02/Felienne_Hermans_BG.jpg
 ---
 
 <div class="episode-about">
-In this episode, I talk to Felienne Hermans, who is an associate professor at the University of Leiden and researches how developers think and learn.
-<br/> <br/>We also talk about:
+Felienne Hermans shares her research on how developers think and learn.
+<br/> <br/>
+<div class="video-container">
+<iframe class="video" src="https://www.youtube.com/embed/2RjNsW7mYIk" title="YouTube video player" rel=0"  frameborder="0" allowfullscreen="allowfullscreen allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div/><br/>
+We also talk about:
 <ul>
 <li> why it is so hard to read and understand code,</li>
 <li> her book “The programmer’s brain”,</li>

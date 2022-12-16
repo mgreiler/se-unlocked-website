@@ -1,6 +1,7 @@
 ---
 title: 'What the heck is data-oriented programming?'
 date: '2022-05-31T09:21:48+00:00'
+updated: "2022-12-10T05:16:50+00:00"
 status: publish
 permalink: /data-oriented-programming
 author: michaela
@@ -13,22 +14,18 @@ category:
     - Testing
 tag: []
 post_format: []
-_yoast_wpseo_primary_category:
-    - '20'
-_yoast_wpseo_content_score:
-    - '30'
-secondline_themes_header_image_id:
-    - '122101'
-secondline_themes_header_image:
-    - 'https://www.software-engineering-unlocked.com/wp-content/uploads/2022/05/Yehonathan-Sharvit_Background.jpg'
-secondline_themes_disable_img:
-    - 'on'
 audio: "https://cdn.simplecast.com/audio/aaca909a-e34f-49ae-a86f-f59e4fa807f0/episodes/6f454467-1399-41bc-b3a1-4d6bd6ce78f1/audio/b4bddaf6-3167-438c-a3f2-4c1639e5ae15/default_tc.mp3"
 ---
 
 <div class="episode-about">
-In this episode, I talk to Yehonathan Sharvit, author of the book Data-oriented programming.
-<br/> <br/>We also talk about:
+Yehonathan Sharvit explains the why data-oriented programming is better than object-oriented programming.
+<br/> <br/>
+
+<div class="video-container">
+<iframe class="video" src="https://www.youtube-nocookie.com/embed/xJTBHkAImb0" title="YouTube video player" rel=0"  frameborder="0" allowfullscreen="allowfullscreen allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+<br/>
+We also talk about:
 <ul>
 <li> the basics of Data-Oriented Programming,</li>
 <li> how Data-Oriented Programming compares to object-oriented programming and functional programming,</li>

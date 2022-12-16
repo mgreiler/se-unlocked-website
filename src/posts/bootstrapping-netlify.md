@@ -18,8 +18,15 @@ audio: https://cdn.simplecast.com/audio/aaca909a-e34f-49ae-a86f-f59e4fa807f0/epi
 
 <div class="episode-about">
     Matt Biilmann shares his experience bootstrapping a novel JAM-stack idea to a multi-million business.
-    <br/> <br/>We also talk about:
-    <ul>
+    <br/> <br/>
+    
+<div class="video-container">
+<iframe class="video" src="https://www.youtube-nocookie.com/embed/LKb1HFFAYhE" title="YouTube video player" rel=0"  frameborder="0" allowfullscreen="allowfullscreen allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+<br/>
+    
+We also talk about:
+<ul>
 <li>how he got the vision for the JAM-stack,</li>
 <li>how it feels to grow a company from a two-person adventure to over 150 employees,</li>
 <li>how he envisions the collaborative software development of the future,</li>

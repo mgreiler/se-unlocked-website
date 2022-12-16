@@ -1,6 +1,7 @@
 ---
 title: "Finding fulfillment through humor in tech with Cassidy Williams"
 date: "2019-08-28T11:50:36+00:00"
+updated: "2022-12-10T05:16:50+00:00"
 status: publish
 permalink: /episode-1-cassidy-williams
 author: michaela

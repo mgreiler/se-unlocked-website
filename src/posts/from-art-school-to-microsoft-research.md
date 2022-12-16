@@ -1,6 +1,7 @@
 ---
 title: "From art school to Microsoft Research"
 date: "2020-09-01T10:22:13+00:00"
+updated: "2022-12-10T05:16:50+00:00"
 status: publish
 permalink: /from-art-school-to-microsoft-research
 author: michaela
@@ -30,8 +31,13 @@ _yoast_wpseo_content_score:
 ---
 
 <div class="episode-about">
-To celebrate the one year anniversary of the podcast, I tell you about my own journey into tech, and my experiences working at Microsoft and Microsoft Research.
-<br/> <br/>We also talk about:
+To celebrate the one-year anniversary of the podcast, I tell you about my own journey into tech, and my experiences working at Microsoft and Microsoft Research.
+<br/><br/>
+<div class="video-container">
+<iframe class="video" src="https://www.youtube-nocookie.com/embed/y-H0Q5aaNNU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+<br/>
+We also talk about:
 <ul>
 <li> how I got into tech without any previous computer knowledge,</li>
 <li> how my dream of becoming a researcher in the industry became true,</li>

@@ -1,6 +1,7 @@
 ---
 title: "Making Git faster with Derrick Stolee"
 date: "2019-11-04T21:00:58+00:00"
+updated: "2022-12-10T05:16:50+00:00"
 status: publish
 permalink: /episode-6-derrick-stolee
 author: michaela
@@ -20,7 +21,13 @@ post_header_image: ../uploads/2019/11/derrick_bg.jpg
 
 <div class="episode-about">
 In this episode, I talk to Derrick Stolee, a principal software engineer at Microsoft who makes sure the Git version control system is lightning fast.
-<br/> <br/>We also talk about:
+<br/> <br/>
+<div class="video-container">
+<iframe class="video" src="https://www.youtube-nocookie.com/embed/IZPRVDalWzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+</br>
+
+We also talk about:
 <ul>
 <li> his career switch from being a professor to become a software engineer at Microsoft,</li>
 <li> what it means to contribute to open-source during your worktime for Microsoft,</li>

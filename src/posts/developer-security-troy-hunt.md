@@ -1,6 +1,7 @@
 ---
 title: "What developers should know about security with Troy Hunt"
 date: "2020-03-17T17:18:35+00:00"
+updated: "2022-12-10T05:16:50+00:00"
 status: publish
 permalink: /developer-security-troy-hunt
 author: michaela
@@ -19,7 +20,12 @@ audio: https://cdn.simplecast.com/audio/aaca90/aaca909a-e34f-49ae-a86f-f59e4fa80
 
 <div class="episode-about">
 In this episode, I talk to Troy Hunt, a leading security expert.
-<br/> <br/>We also talk about:
+<br/> <br/>
+<div class="video-container">
+<iframe class="video" src="https://www.youtube-nocookie.com/embed/ysnZibUGdMs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+</br>
+We also talk about:
 <ul>
 <li> how to prevent data breaches,</li>
 <li> what software engineers have to know about the security and software vulnerabilities,</li>

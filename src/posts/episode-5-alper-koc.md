@@ -1,6 +1,7 @@
 ---
 title: "Being the first engineer at a startup with Alper Kemal Koç"
 date: "2019-10-22T05:00:16+00:00"
+updated: "2022-12-10T05:16:50+00:00"
 status: publish
 permalink: /episode-5-alper-koc
 author: michaela
@@ -21,7 +22,13 @@ post_header_image: ../uploads/2019/10/Alper_BG_Blog_SOFTWARE-ENGINEERING-Unlocke
 
 <div class="episode-about">
 In this episode, I talk to Alper Kemal Koç, who was the first engineer building a low code platform called Kuika, that helps users develop mobile applications.
-<br/> <br/>We also talk about:
+<br/><br/>
+<div class="video-container">
+<iframe class="video" src="https://www.youtube-nocookie.com/embed/SjLwUQqh-Us" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+<br/>
+
+We also talk about:
 <ul>
 <li> why and how he joined this startup,</li>
 <li> how he decided on the right tech stack,</li>

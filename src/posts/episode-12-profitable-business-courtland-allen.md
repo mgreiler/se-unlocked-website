@@ -1,6 +1,7 @@
 ---
 title: "Start a Profitable Business in Six Weeks with Courtland Allen"
 date: "2020-02-18T08:48:10+00:00"
+updated: "2022-12-10T05:16:50+00:00"
 status: publish
 permalink: /episode-12-profitable-business-courtland-allen
 author: michaela
@@ -27,7 +28,12 @@ post_header_image: ../uploads/2020/02/Courtland-bg..png
 
 <div class="episode-about">
 Courtland Allen, the founder and chief-indie hacker of the Indie Hacker community, shares how he started a profitable business in six weeks.
-<br/> <br/>We also talk about:
+<br/> <br/>
+<div class="video-container">
+<iframe class="video" src="https://www.youtube-nocookie.com/embed/dpHp0sfCISo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+</br>
+We also talk about:
 <ul>
 <li> how he managed to build a lively community from the scratch</li>
 <li> his tips for first-time founders</li>

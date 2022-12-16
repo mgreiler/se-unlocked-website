@@ -1,6 +1,7 @@
 ---
 title: 'Do not punish learning in software engineering teams'
 date: '2022-03-30T15:12:18+00:00'
+updated: "2022-12-10T05:16:50+00:00"
 status: publish
 permalink: /foster-learning-culture
 author: michaela
@@ -18,19 +19,14 @@ post_format: []
 _yoast_wpseo_primary_category:
     - '11'
 audio: "https://cdn.simplecast.com/audio/aaca909a-e34f-49ae-a86f-f59e4fa807f0/episodes/f53e2b81-a8e4-4230-b184-9aff2d327021/audio/ba2d09df-7c53-4505-bd63-1190b11fa612/default_tc.mp3"
-secondline_themes_disable_img:
-    - 'on'
-secondline_themes_header_image_id:
-    - '122006'
-secondline_themes_header_image:
-    - 'https://www.software-engineering-unlocked.com/wp-content/uploads/2022/03/Cat-Hicks_Learning_Culture_Banner.jpg'
-_yoast_wpseo_content_score:
-    - '30'
 ---
 
 <div class="episode-about">
-In this episode, I talk to Dr. Cat Hicks, a data scientist, a behavioral scientist, and a creative entrepreneur.
-<br/> <br/>We also talk about:
+Dr. Cat Hicks shares why development teams are often punished to learn.
+<br/> <br/>
+<div class="video-container">
+<iframe class="video" src="https://www.youtube-nocookie.com/embed/PPGtr0Xh4lI" title="YouTube video player" rel=0"  frameborder="0" allowfullscreen="allowfullscreen allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div/> <br/>We also talk about:
 <ul>
 <li> how she deviated away from a traditional path of a researcher to start her company, Catharsis Consulting,</li>
 <li> how to foster a learning culture within your engineering team</li>

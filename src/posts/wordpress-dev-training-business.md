@@ -1,6 +1,7 @@
 ---
-title: 'How to master a difficult job search'
+title: 'Running a profitable training business for Ruby developers'
 date: '2022-06-15T10:53:31+00:00'
+updated: "2022-12-10T05:16:50+00:00"
 status: publish
 permalink: /wordpress-dev-training-business
 author: michaela
@@ -21,7 +22,7 @@ audio: "https://cdn.simplecast.com/audio/aaca909a-e34f-49ae-a86f-f59e4fa807f0/ep
 ---
 
 <div class="episode-about">
-In this episode, my guest Avdi Grimm shares how he found his independence by running a training and consulting business for over ten years.
+Avdi Grimm shares how he found his independence by running a training and consulting business for Ruby developers for over ten years.
 <br/> <br/>We also talk about:
 <ul>
 <li> the importance of time efficiency, task delegation,</li>

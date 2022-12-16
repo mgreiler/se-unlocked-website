@@ -1,6 +1,7 @@
 ---
 title: "Done playing Microsoft's corporate game with Suz Hinton"
 date: "2020-01-21T05:16:50+00:00"
+updated: "2022-12-10T05:16:50+00:00"
 status: publish
 permalink: /episode-10-no-corporate-games
 author: michaela
@@ -20,24 +21,23 @@ audio: https://cdn.simplecast.com/audio/aaca90/aaca909a-e34f-49ae-a86f-f59e4fa80
 secondline_themes_header_image_id:
   - "926"
 post_header_image: ../uploads/2020/01/bg_suz.jpg
-secondline_themes_disable_img:
-  - "on"
-_yoast_wpseo_primary_category:
-  - "15"
-_yoast_wpseo_content_score:
-  - "90"
 ---
 
 <div class="episode-about">
-Suz Hinton talks about her transition from Microsoft to Stripe, mentoring and advancing one’s career and live coding.
-<br/> <br/>We also talk about:
+Suz Hinton talks about her transition from Microsoft to Stripe, mentoring and advancing your career, and live coding on Twitch.
+<br/> <br/>
+<div class="video-container">
+<iframe class="video" src="https://www.youtube-nocookie.com/embed/iFQlQUDOfIU" title="YouTube video player" rel=0"  frameborder="0" allowfullscreen="allowfullscreen allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+<br/>We also talk about:
 <ul>
-<li> her role and responsibilities at Stripe,</li>
+<li> Suz Hinton's role and responsibilities at Stripe,</li>
 <li> how to understand what customers and users want,</li>
 <li> why she left Microsoft,</li>
 <li> how she now ensures the job and company culture matches her personality,</li>
 <li> and about her style of mentoring junior developers.</li>
-<li> Finally, Suz tells me all there is to know about live coding.</li>
+<li> Finally, Suz tells me all there is to know about live coding on Twitch.</li>
 </ul>
 </div>
 <div class=" episode-links">
@@ -53,7 +53,7 @@ Suz Hinton talks about her transition from Microsoft to Stripe, mentoring and ad
 </div>
 <div class="col-8 guest-about">
 <b>About Suz Hinton</b><br/>
-Suz Hinton transitioned from Microsoft to Stripe.
+Suz Hinton is a senior software developer and open-source maintainer. She currently works at Stripe, where she is repsonsible for developer tools and API experience. Suz also enjoys maintaining OSS, and to tinker with hardware and the Internet of Things. Another regular adventure of Suz is to live code on Twitch. 
 </div>
 </div>
 

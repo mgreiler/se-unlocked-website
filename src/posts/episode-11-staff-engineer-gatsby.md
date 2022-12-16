@@ -1,6 +1,7 @@
 ---
 title: "Making Gatsby easy to understand with Laurie Barth"
 date: "2020-02-04T10:05:36+00:00"
+updated: "2022-12-10T05:16:50+00:00"
 status: publish
 permalink: /episode-11-staff-engineer-gatsby
 author: michaela
@@ -32,7 +33,12 @@ _yoast_wpseo_content_score:
 
 <div class="episode-about">
 Laurie Barth, a staff software engineer at Gatsby shares how she got a position at Gatsby.
-<br/> <br/>We also talk about:
+<br/><br/>
+<div class="video-container">
+<iframe class="video" src="https://www.youtube-nocookie.com/embed/evYNdBUfoqs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+<br/>
+We also talk about:
 <ul>
 <li> how she got this awesome position at Gatsby</li>
 <li> her work as an open-source maintainer</li>
