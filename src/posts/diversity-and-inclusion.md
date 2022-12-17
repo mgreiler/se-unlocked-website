@@ -50,6 +50,31 @@ post_header_image: ../uploads/2021/09/Just-Work-Kim-Scott-Trier-Bryant-Bg-2.jpg
 </div>
 
 <div class="sponsorship"> Today’s episode is sponsored by <a href="https://codesubmit.io/" target="_blank" rel="noreferrer" >CodeSubmit</a> – the best take-home assignments for your tech hiring! </div>
+<br/>
+<div>
+  <h2>Other episodes you'll enjoy</h2>
+    <div class="row-md-6">
+      <div class="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
+          <div class="col p-4 d-flex flex-column position-static">
+            <h3 class="mb-0"><a href="https://software-engineering-unlocked.com/faang-job-without-cs-degree/">How I got into FAANG companies without a CS degree</a></h3>
+  <audio controls preload="none">
+                <source src="https://cdn.simplecast.com/audio/aaca909a-e34f-49ae-a86f-f59e4fa807f0/episodes/2ec3af9e-9a17-4ccd-95df-0e9b1a03ecc6/audio/66ec2bf9-b1d0-4ae3-868e-9017bb8cc4ee/default_tc.mp3" />
+              </audio>
+          </div>
+        </div>
+      </div>
+    <div class="row-md-6">
+      <div class="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
+          <div class="col p-4 d-flex flex-column position-static">
+            <h3 class="mb-0"><a href="https://software-engineering-unlocked.com/episode-2-scott-hanselman/">Getting a remote position at Microsoft with Scott Hanselman</a></h3>
+  <audio controls preload="none">
+                <source src="https://cdn.simplecast.com/audio/aaca90/aaca909a-e34f-49ae-a86f-f59e4fa807f0/b94c57a5-9afe-4853-be2f-b4d147fb62bf/scott_episode2_ready_tc.mp3" />
+              </audio>
+          </div>
+        </div>
+      </div>
+</div>
+<br/>
 
 ## Read the complete episode "Better collaboration & performance through diversity and inclusion" (Transcript):
 

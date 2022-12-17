@@ -51,8 +51,42 @@ Micha Hernandez van Leuffen is the founder and CEO of Fiberplane. He previously 
 <div class="sponsorship">
 This episode is sponsored by <a href="https://fiberplane.com/">Fiberplane</a>. Your platform for collaborative debugging notebooks!
 </div> 
-
-
+<br/>
+<div>
+  <h2>Other episodes you'll enjoy</h2>
+  <br/>
+    <div class="row-md-6">
+      <div class="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
+          <div class="col p-4 d-flex flex-column position-static">
+            <a href="https://www.software-engineering-unlocked.com/easier-security/"><h4 class="mb-0">Making security easier for developers</h3></a>
+  <audio controls preload="none">
+               <source src="https://cdn.simplecast.com/audio/aaca909a-e34f-49ae-a86f-f59e4fa807f0/episodes/0e929d5a-97e6-44b7-98a6-9488a74e4769/audio/7ab6e57c-6830-4aa0-9e49-5c6510fe17da/default_tc.mp3" />
+              </audio>
+          </div>
+        </div>
+      </div>
+    <div class="row-md-6">
+      <div class="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
+          <div class="col p-4 d-flex flex-column position-static">
+                       <a href="https://www.software-engineering-unlocked.com/vulnerability-disclosure-katie-moussouris/"> <h4 class="mb-0">Vulnerability disclosure with Katie Moussouris</h3></a>
+  <audio controls preload="none">
+                <source src="https://cdn.simplecast.com/audio/aaca909a-e34f-49ae-a86f-f59e4fa807f0/episodes/a407c606-b977-44d4-9941-10b59e579fd3/audio/898fd8db-8e4a-4055-bf95-9c764d63e264/default_tc.mp3" />
+              </audio>
+          </div>
+        </div>
+      </div>
+          <div class="row-md-6">
+      <div class="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
+          <div class="col p-4 d-flex flex-column position-static">
+                       <a href="https://www.software-engineering-unlocked.com/episode-7-charity-majors/"> <h4 class="mb-0">Troubleshooting systems through Observability</h3></a>
+  <audio controls preload="none">
+                <source src="https://cdn.simplecast.com/audio/aaca90/aaca909a-e34f-49ae-a86f-f59e4fa807f0/1d63a2c8-dfd9-464d-893b-8baf182cbe3b/charity-majors-episode-7-ready_tc.mp3" />
+              </audio>
+          </div>
+        </div>
+      </div>
+</div>
+<br/>
 
 
 ## Read the whole episode (Transcript)

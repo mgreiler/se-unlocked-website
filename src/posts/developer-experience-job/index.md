@@ -61,6 +61,43 @@ Book your <a href="https://awesomecodereviews.com">awesomecodereviews.com</a> wo
 </div> 
 
 
+ <br/><br/>
+<div>
+  <h2>Other episodes you'll enjoy</h2>
+  <br/>
+    <div class="row-md-6">
+      <div class="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
+          <div class="col p-4 d-flex flex-column position-static">
+            <a href="https://software-engineering-unlocked.com/happy-developers-productive/"><h4 class="mb-0">Are happy developers more productive?</h3></a>
+  <audio controls preload="none">
+               <source src="https://cdn.simplecast.com/audio/aaca909a-e34f-49ae-a86f-f59e4fa807f0/episodes/130a6709-2e54-4309-b3cd-3a3a195eb6d5/audio/7679499b-f1db-4003-a02c-df863255a50b/default_tc.mp3" />
+              </audio>
+          </div>
+        </div>
+      </div>
+    <div class="row-md-6">
+      <div class="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
+          <div class="col p-4 d-flex flex-column position-static">
+                       <a href="https://software-engineering-unlocked.com/measure-developer-productivity-space/"><h4 class="mb-0">Measure developer productivity using the SPACE framework</h3></a>
+  <audio controls preload="none">
+                <source src="https://cdn.simplecast.com/audio/aaca909a-e34f-49ae-a86f-f59e4fa807f0/episodes/5f2f49ae-1df9-4c13-9a52-670548e10892/audio/f557f044-ac96-40a4-b6b4-f8f215a1a81b/default_tc.mp3" />
+              </audio>
+          </div>
+        </div>
+      </div>
+          <div class="row-md-6">
+      <div class="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
+          <div class="col p-4 d-flex flex-column position-static">
+                       <a href="https://www.software-engineering-unlocked.com/engineering-metrics/"> <h4 class="mb-0">Can Engineering metrics be ethical?</h3></a>
+  <audio controls preload="none">
+                <source src="https://cdn.simplecast.com/audio/aaca909a-e34f-49ae-a86f-f59e4fa807f0/episodes/14f69a24-bf6f-4e84-8dd8-f57c3f73c32b/audio/3bc44755-6fc4-41cd-84bd-bc6e2228c0aa/default_tc.mp3" />
+              </audio>
+          </div>
+        </div>
+      </div>
+</div>
+<br/>
+
 ## Read the whole episode (Transcript)
 
 _\[Improve this transcript on [Github](https://github.com/mgreiler/se-unlocked/tree/master/Transcripts)_[.](https://github.com/mgreiler/se-unlocked/tree/master/Transcripts)\]

@@ -58,6 +58,31 @@ Harshit Chitalia is the co-founder and CTO of Tromzo, a start-up dedicated to re
 <div class="sponsorship">
 Book your <a href="https://www.michaelagreiler.com/workshops">awesomecodereview.com</a> workshop!
 </div> 
+<br/>
+<div>
+  <h2>Other episodes you'll enjoy</h2>
+    <div class="row-md-6">
+      <div class="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
+          <div class="col p-4 d-flex flex-column position-static">
+            <h3 class="mb-0"><a href="https://www.software-engineering-unlocked.com/vulnerability-disclosure-katie-moussouris/">Vulnerability disclosure with Katie Moussouris</h3></a>
+  <audio controls preload="none">
+                <source src="https://cdn.simplecast.com/audio/aaca909a-e34f-49ae-a86f-f59e4fa807f0/episodes/a407c606-b977-44d4-9941-10b59e579fd3/audio/898fd8db-8e4a-4055-bf95-9c764d63e264/default_tc.mp3" />
+              </audio>
+          </div>
+        </div>
+      </div>
+    <div class="row-md-6">
+      <div class="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
+          <div class="col p-4 d-flex flex-column position-static">
+            <h3 class="mb-0"><a href="https://www.software-engineering-unlocked.com/tests-find-bugs/">How to write tests that find bugs</h3></a>
+  <audio controls preload="none">
+                <source src="https://cdn.simplecast.com/audio/aaca909a-e34f-49ae-a86f-f59e4fa807f0/episodes/53528752-3178-4d13-9b17-8285eeab471c/audio/f768b14a-56e4-4d9a-8ed2-d27b3b1342f5/default_tc.mp3" />
+              </audio>
+          </div>
+        </div>
+      </div>
+</div>
+<br/>
 
 ## Read the whole episode "Making security easier for developers" (Transcript)
 

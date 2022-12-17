@@ -61,6 +61,41 @@ Jess Rose, specializes in community building, outreach, and developing better pr
 <div class="sponsorship">
 Today’s episode is sponsored by  <a href="https://www.mergify.com/?utm_source=social&utm_medium=podcast&utm_campaign=SeUnlocked">Mergify</a> the faster and safer way to merge your code.
 </div> 
+<br/>
+<div>
+  <h2>Other episodes you'll enjoy</h2>
+  <div class="row-md-6">
+      <div class="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
+          <div class="col p-4 d-flex flex-column position-static">
+            <h3 class="mb-0"><a href="https://www.software-engineering-unlocked.com/no-engineering-manager/">Being an engineering manager wasn’t for me</a></h3>
+  <audio controls preload="none">
+                <source src="https://cdn.simplecast.com/audio/aaca909a-e34f-49ae-a86f-f59e4fa807f0/episodes/1386fdd3-fc37-47f1-a93a-b6ba8194bb0f/audio/ce6ae4c5-8b78-4d77-96e6-e106d43e2346/default_tc.mp3" />
+              </audio>
+          </div>
+        </div>
+      </div>
+    <div class="row-md-6">
+      <div class="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
+          <div class="col p-4 d-flex flex-column position-static">
+            <h3 class="mb-0"><a href="https://software-engineering-unlocked.com/faang-job-without-cs-degree/">How I got into FAANG companies without a CS degree</a></h3>
+  <audio controls preload="none">
+                <source src="https://cdn.simplecast.com/audio/aaca909a-e34f-49ae-a86f-f59e4fa807f0/episodes/2ec3af9e-9a17-4ccd-95df-0e9b1a03ecc6/audio/66ec2bf9-b1d0-4ae3-868e-9017bb8cc4ee/default_tc.mp3" />
+              </audio>
+          </div>
+        </div>
+      </div>
+    <div class="row-md-6">
+      <div class="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
+          <div class="col p-4 d-flex flex-column position-static">
+            <h3 class="mb-0"><a href="https://software-engineering-unlocked.com/episode-2-scott-hanselman/">Getting a remote position at Microsoft with Scott Hanselman</a></h3>
+  <audio controls preload="none">
+                <source src="https://cdn.simplecast.com/audio/aaca90/aaca909a-e34f-49ae-a86f-f59e4fa807f0/b94c57a5-9afe-4853-be2f-b4d147fb62bf/scott_episode2_ready_tc.mp3" />
+              </audio>
+          </div>
+        </div>
+      </div>
+</div>
+<br/>
 
 ## Read the whole episode "Mentoring as an engineering manager" (Transcript)
 

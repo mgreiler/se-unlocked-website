@@ -81,16 +81,13 @@ Book your <a href="https://www.michaelagreiler.com/workshops">awesomecodereview.
 44:50 Diversity at Automattic<br/>
 </p>
 </div>
-
+<br/>
 <div>
-  <h2>Other episodes you'll like</h2>
+  <h2>Other episodes you'll enjoy</h2>
     <div class="row-md-6">
       <div class="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
           <div class="col p-4 d-flex flex-column position-static">
-            <strong class="d-inline-block mb-2 text-primary">Interviews</strong>
-            <h3 class="mb-0">How I got into FAANG companies without a CS degree</h3>
-            <p class="card-text mb-auto">Ben Lesh, a Senior Software engineer at Citadel Securities explains how he got into Google and Netflix without a CS degree.</p>
-            <a href="https://software-engineering-unlocked.com/faang-job-without-cs-degree/" class="stretched-link">Go to episode</a>
+            <h3 class="mb-0"><a href="https://software-engineering-unlocked.com/faang-job-without-cs-degree/">How I got into FAANG companies without a CS degree</a></h3>
   <audio controls preload="none">
                 <source src="https://cdn.simplecast.com/audio/aaca909a-e34f-49ae-a86f-f59e4fa807f0/episodes/2ec3af9e-9a17-4ccd-95df-0e9b1a03ecc6/audio/66ec2bf9-b1d0-4ae3-868e-9017bb8cc4ee/default_tc.mp3" />
               </audio>
@@ -100,10 +97,7 @@ Book your <a href="https://www.michaelagreiler.com/workshops">awesomecodereview.
     <div class="row-md-6">
       <div class="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
           <div class="col p-4 d-flex flex-column position-static">
-            <strong class="d-inline-block mb-2 text-primary">Interviews</strong>
-            <h3 class="mb-0">Getting a remote position at Microsoft with Scott Hanselman</h3>
-            <p class="card-text mb-auto">Scott Hanselman shares how to get a remote job at Microsoft.</p>
-            <a href="https://software-engineering-unlocked.com/episode-2-scott-hanselman/" class="stretched-link">Go to episode</a>
+            <h3 class="mb-0"><a href="https://software-engineering-unlocked.com/episode-2-scott-hanselman/">Getting a remote position at Microsoft with Scott Hanselman</a></h3>
   <audio controls preload="none">
                 <source src="https://cdn.simplecast.com/audio/aaca90/aaca909a-e34f-49ae-a86f-f59e4fa807f0/b94c57a5-9afe-4853-be2f-b4d147fb62bf/scott_episode2_ready_tc.mp3" />
               </audio>
@@ -111,6 +105,31 @@ Book your <a href="https://www.michaelagreiler.com/workshops">awesomecodereview.
         </div>
       </div>
 </div>
+<br/>
+<div>
+  <h2>Other episodes you'll enjoy</h2>
+    <div class="row-md-6">
+      <div class="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
+          <div class="col p-4 d-flex flex-column position-static">
+            <h3 class="mb-0"><a href="https://software-engineering-unlocked.com/faang-job-without-cs-degree/">How I got into FAANG companies without a CS degree</a></h3>
+  <audio controls preload="none">
+                <source src="https://cdn.simplecast.com/audio/aaca909a-e34f-49ae-a86f-f59e4fa807f0/episodes/2ec3af9e-9a17-4ccd-95df-0e9b1a03ecc6/audio/66ec2bf9-b1d0-4ae3-868e-9017bb8cc4ee/default_tc.mp3" />
+              </audio>
+          </div>
+        </div>
+      </div>
+    <div class="row-md-6">
+      <div class="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
+          <div class="col p-4 d-flex flex-column position-static">
+            <h3 class="mb-0"><a href="https://software-engineering-unlocked.com/episode-2-scott-hanselman/">Getting a remote position at Microsoft with Scott Hanselman</a></h3>
+  <audio controls preload="none">
+                <source src="https://cdn.simplecast.com/audio/aaca90/aaca909a-e34f-49ae-a86f-f59e4fa807f0/b94c57a5-9afe-4853-be2f-b4d147fb62bf/scott_episode2_ready_tc.mp3" />
+              </audio>
+          </div>
+        </div>
+      </div>
+</div>
+<br/>
 
 ## Read the whole episode "Getting a remote job at Auttomatic with Leif Singer" (Transcript) 
 
