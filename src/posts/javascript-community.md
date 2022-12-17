@@ -21,11 +21,7 @@ _yoast_wpseo_primary_category:
 _yoast_wpseo_content_score:
   - "60"
 audio: https://cdn.simplecast.com/audio/aaca909a-e34f-49ae-a86f-f59e4fa807f0/episodes/eb1463ba-a0b3-467b-b5ec-fb3f6e134eed/audio/58495076-bddd-4a33-8327-eda0468c582c/default_tc.mp3
-sc_audio: https://player.simplecast.com/53528752-3178-4d13-9b17-8285eeab471c?dark=false
-secondline_themes_disable_img:
-  - "on"
-secondline_themes_header_image_id:
-  - "121455"
+sc_audio: https://player.simplecast.com/eb1463ba-a0b3-467b-b5ec-fb3f6e134eed?dark=false
 post_header_image: ../uploads/2021/08/Tracy-Lee-Bg.jpg
 ---
 
@@ -74,12 +70,32 @@ Tracy Lee talks about starting and running a widely successful dev shop.
           </div>
         </div>
       </div>
-    <div class="row-md-6">
+    	<div class="row-md-6">
       <div class="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
           <div class="col p-4 d-flex flex-column position-static">
-            <h3 class="mb-0"><a href="https://software-engineering-unlocked.com/episode-2-scott-hanselman/">Getting a remote position at Microsoft with Scott Hanselman</a></h3>
+            <h3 class="mb-0"><a href="https://www.software-engineering-unlocked.com/episode-12-profitable-business-courtland-allen/">Start a Profitable Business in Six Weeks</a></h3>
   <audio controls preload="none">
-                <source src="https://cdn.simplecast.com/audio/aaca90/aaca909a-e34f-49ae-a86f-f59e4fa807f0/b94c57a5-9afe-4853-be2f-b4d147fb62bf/scott_episode2_ready_tc.mp3" />
+                <source src="https://cdn.simplecast.com/audio/aaca90/aaca909a-e34f-49ae-a86f-f59e4fa807f0/c20424de-dfb3-4ff2-871e-0e64f6809511/courtland-allen-ready_tc.mp3" />
+              </audio>
+          </div>
+        </div>
+      </div>
+	  <div class="row-md-6">
+      <div class="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
+          <div class="col p-4 d-flex flex-column position-static">
+            <h3 class="mb-0"><a href="https://www.software-engineering-unlocked.com/wordpress-dev-training-business/">Running a training business for Ruby developers</a></h3>
+  <audio controls preload="none">
+                <source src="https://cdn.simplecast.com/audio/aaca909a-e34f-49ae-a86f-f59e4fa807f0/episodes/2e4ccaa8-a370-4fd3-b676-8df74ac4bb34/audio/aa0a552b-2390-4064-b0ce-f35e3227ade0/default_tc.mp3" />
+              </audio>
+          </div>
+        </div>
+      </div>
+		  <div class="row-md-6">
+      <div class="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
+          <div class="col p-4 d-flex flex-column position-static">
+            <h3 class="mb-0"><a href="https://www.software-engineering-unlocked.com/entrepreneurship-101/">How to build a profitable content business as a developer</a></h3>
+  <audio controls preload="none">
+                <source src="https://cdn.simplecast.com/audio/aaca909a-e34f-49ae-a86f-f59e4fa807f0/episodes/aeb45b70-2198-4f9a-ba14-ca9eded05e19/audio/ba023e2c-ff2f-4a15-8bb9-6b073ace9b20/default_tc.mp3" />
               </audio>
           </div>
         </div>

@@ -50,22 +50,32 @@ _yoast_wpseo_content_score:
 <br/>
 <div>
   <h2>Other episodes you'll enjoy</h2>
-    <div class="row-md-6">
+			 <div class="row-md-6">
       <div class="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
           <div class="col p-4 d-flex flex-column position-static">
-            <h3 class="mb-0"><a href="https://software-engineering-unlocked.com/faang-job-without-cs-degree/">How I got into FAANG companies without a CS degree</a></h3>
+                       <a href="https://software-engineering-unlocked.com/developer-experience-job/"> <h4 class="mb-0">High-performing engineering teams through DX</h3></a>
   <audio controls preload="none">
-                <source src="https://cdn.simplecast.com/audio/aaca909a-e34f-49ae-a86f-f59e4fa807f0/episodes/2ec3af9e-9a17-4ccd-95df-0e9b1a03ecc6/audio/66ec2bf9-b1d0-4ae3-868e-9017bb8cc4ee/default_tc.mp3" />
+                <source src="https://cdn.simplecast.com/audio/aaca909a-e34f-49ae-a86f-f59e4fa807f0/episodes/08be65aa-4b4e-41f5-8d94-3611ef987d90/audio/98662bb1-c656-4b89-afbc-ab4ce94e697f/default_tc.mp3" />
               </audio>
           </div>
         </div>
       </div>
-    <div class="row-md-6">
+	  			 <div class="row-md-6">
       <div class="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
           <div class="col p-4 d-flex flex-column position-static">
-            <h3 class="mb-0"><a href="https://software-engineering-unlocked.com/episode-2-scott-hanselman/">Getting a remote position at Microsoft with Scott Hanselman</a></h3>
+                       <a href="https://www.software-engineering-unlocked.com/engineering-values/"> <h4 class="mb-0">How to build a strong engineering culture through engineering values</h3></a>
   <audio controls preload="none">
-                <source src="https://cdn.simplecast.com/audio/aaca90/aaca909a-e34f-49ae-a86f-f59e4fa807f0/b94c57a5-9afe-4853-be2f-b4d147fb62bf/scott_episode2_ready_tc.mp3" />
+                <source src="https://cdn.simplecast.com/audio/aaca909a-e34f-49ae-a86f-f59e4fa807f0/episodes/f5b713b5-ded9-45ea-b6d6-b36020630d0b/audio/ba2428d5-9dff-4a7d-b6c1-78870f18387c/default_tc.mp3" />
+              </audio>
+          </div>
+        </div>
+      </div>
+      	<div class="row-md-6">
+      <div class="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
+          <div class="col p-4 d-flex flex-column position-static">
+            <a href="https://software-engineering-unlocked.com/happy-developers-productive/"><h4 class="mb-0">Are happy developers more productive?</h3></a>
+  <audio controls preload="none">
+               <source src="https://cdn.simplecast.com/audio/aaca909a-e34f-49ae-a86f-f59e4fa807f0/episodes/130a6709-2e54-4309-b3cd-3a3a195eb6d5/audio/7679499b-f1db-4003-a02c-df863255a50b/default_tc.mp3" />
               </audio>
           </div>
         </div>

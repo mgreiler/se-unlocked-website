@@ -73,6 +73,16 @@ Book your <a href="https://www.michaelagreiler.com/workshops">awesomecodereview.
 <br/>
 <div>
   <h2>Other episodes you'll enjoy</h2>
+  	  	  		  <div class="row-md-6">
+      <div class="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
+          <div class="col p-4 d-flex flex-column position-static">
+            <h3 class="mb-0"><a href="http://localhost:8000/innovation-engineering-practices/">Innovation through engineering practices</a></h3>
+  <audio controls preload="none">
+                <source src="https://cdn.simplecast.com/audio/aaca909a-e34f-49ae-a86f-f59e4fa807f0/episodes/71917bf7-3777-4dc8-84e3-1f3ea736953b/audio/8670770e-323e-45eb-88df-0080e8965908/default_tc.mp3" />
+              </audio>
+          </div>
+        </div>
+      </div>
    <div class="row-md-6">
       <div class="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
           <div class="col p-4 d-flex flex-column position-static">

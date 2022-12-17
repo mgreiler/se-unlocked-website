@@ -1,5 +1,5 @@
 ---
-title: "Running A Successful Dev Shop with Martin Gratzer"
+title: "Running A Successful Dev Shop in a small town"
 date: "2020-04-14T05:57:03+00:00"
 status: publish
 permalink: /successful-dev-shop
@@ -57,12 +57,12 @@ Book your <a href="https://www.michaelagreiler.com/workshops">awesomecodereview.
 <br/>
 <div>
   <h2>Other episodes you'll enjoy</h2>
-    <div class="row-md-6">
+    	  	  		  <div class="row-md-6">
       <div class="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
           <div class="col p-4 d-flex flex-column position-static">
-            <h3 class="mb-0"><a href="https://software-engineering-unlocked.com/faang-job-without-cs-degree/">How I got into FAANG companies without a CS degree</a></h3>
+            <h3 class="mb-0"><a href="https://www.software-engineering-unlocked.com/javascript-community/">Running a successful dev shop without a CS degree</a></h3>
   <audio controls preload="none">
-                <source src="https://cdn.simplecast.com/audio/aaca909a-e34f-49ae-a86f-f59e4fa807f0/episodes/2ec3af9e-9a17-4ccd-95df-0e9b1a03ecc6/audio/66ec2bf9-b1d0-4ae3-868e-9017bb8cc4ee/default_tc.mp3" />
+                <source src="https://cdn.simplecast.com/audio/aaca909a-e34f-49ae-a86f-f59e4fa807f0/episodes/eb1463ba-a0b3-467b-b5ec-fb3f6e134eed/audio/58495076-bddd-4a33-8327-eda0468c582c/default_tc.mp3" />
               </audio>
           </div>
         </div>
@@ -70,9 +70,19 @@ Book your <a href="https://www.michaelagreiler.com/workshops">awesomecodereview.
     <div class="row-md-6">
       <div class="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
           <div class="col p-4 d-flex flex-column position-static">
-            <h3 class="mb-0"><a href="https://software-engineering-unlocked.com/episode-2-scott-hanselman/">Getting a remote position at Microsoft with Scott Hanselman</a></h3>
+            <h3 class="mb-0"><a href="https://www.software-engineering-unlocked.com/success-community-building/">Run a successful developer business through community building</a></h3>
   <audio controls preload="none">
-                <source src="https://cdn.simplecast.com/audio/aaca90/aaca909a-e34f-49ae-a86f-f59e4fa807f0/b94c57a5-9afe-4853-be2f-b4d147fb62bf/scott_episode2_ready_tc.mp3" />
+                <source src="https://cdn.simplecast.com/audio/aaca90/aaca909a-e34f-49ae-a86f-f59e4fa807f0/41c24b31-bdef-4ddf-8dd8-29e7fb547e0e/chris-biscardi-ready_tc.mp3" />
+              </audio>
+          </div>
+        </div>
+      </div>
+	  	<div class="row-md-6">
+      <div class="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
+          <div class="col p-4 d-flex flex-column position-static">
+            <h3 class="mb-0"><a href="https://www.software-engineering-unlocked.com/getting-ready-for-a-billion-dollar-business/">Getting ready to build a billion-dollar business</a></h3>
+  <audio controls preload="none">
+                <source src="https://cdn.simplecast.com/audio/aaca909a-e34f-49ae-a86f-f59e4fa807f0/episodes/c9aa17f7-c159-456c-bd44-ca609c0ac29c/audio/3eb59a7c-8a65-4a7a-8550-eb374bc57dde/default_tc.mp3" />
               </audio>
           </div>
         </div>
@@ -82,6 +92,6 @@ Book your <a href="https://www.michaelagreiler.com/workshops">awesomecodereview.
 
 ## Read the whole episode "Running A Successful Dev Shop with Martin Gratzer" (Transcript)
 
-_\[If you want, you can help make the transcript better, and improve the podcast’s accessibility via_ [Github](https://github.com/mgreiler/se-unlocked/tree/master/Transcripts)_[.](https://github.com/mgreiler/se-unlocked/tree/master/Transcripts) I’m happy to lend a hand to help you get started with pull requests, and open source work.\]_
+_\[Make the transcript better, and improve the podcast’s accessibility via_ [Github](https://github.com/mgreiler/se-unlocked/tree/master/Transcripts)_[.](https://github.com/mgreiler/se-unlocked/tree/master/Transcripts).\]_
 
 
