@@ -66,14 +66,15 @@ Dr. Mauricio Aniche writes a book called “Effective Software Testing” which 
 Today’s episode is sponsored by <a href="https://www.codiga.io/?utm_source=podcast&utm_medium=social&utm_campaign=se_unlocked"><u>Codiga</u></a>, a smart coding assistant and automated code review platform. <a href="https://www.codiga.io/?utm_source=podcast&utm_medium=social&utm_campaign=se_unlocked"><u>Try Codiga for FREE</u></a>
 </div> 
 <br/>
+
 <div>
   <h2>Other episodes you'll enjoy</h2>
     <div class="row-md-6">
       <div class="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
           <div class="col p-4 d-flex flex-column position-static">
-            <h3 class="mb-0"><a href="https://software-engineering-unlocked.com/faang-job-without-cs-degree/">How I got into FAANG companies without a CS degree</a></h3>
+            <h3 class="mb-0"><a href="https://www.software-engineering-unlocked.com/no-mocks-allowed/">No mocks allowed: A testing discussion with Kent C. Dodds</a></h3>
   <audio controls preload="none">
-                <source src="https://cdn.simplecast.com/audio/aaca909a-e34f-49ae-a86f-f59e4fa807f0/episodes/2ec3af9e-9a17-4ccd-95df-0e9b1a03ecc6/audio/66ec2bf9-b1d0-4ae3-868e-9017bb8cc4ee/default_tc.mp3" />
+                <source src="https://cdn.simplecast.com/audio/aaca909a-e34f-49ae-a86f-f59e4fa807f0/episodes/af0c1508-d256-42cf-97a9-998234ae1186/audio/74614447-0817-41c0-a97f-02391f63ea48/default_tc.mp3" />
               </audio>
           </div>
         </div>
@@ -81,13 +82,23 @@ Today’s episode is sponsored by <a href="https://www.codiga.io/?utm_source=pod
     <div class="row-md-6">
       <div class="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
           <div class="col p-4 d-flex flex-column position-static">
-            <h3 class="mb-0"><a href="https://software-engineering-unlocked.com/episode-2-scott-hanselman/">Getting a remote position at Microsoft with Scott Hanselman</a></h3>
+            <h3 class="mb-0"><a href="https://www.software-engineering-unlocked.com/double-down-integration-tests-kent-dodds/">Why integration tests are better than unit tests</a></h3>
   <audio controls preload="none">
-                <source src="https://cdn.simplecast.com/audio/aaca90/aaca909a-e34f-49ae-a86f-f59e4fa807f0/b94c57a5-9afe-4853-be2f-b4d147fb62bf/scott_episode2_ready_tc.mp3" />
+                <source src="https://cdn.simplecast.com/audio/aaca90/aaca909a-e34f-49ae-a86f-f59e4fa807f0/4eafdc01-56ad-4284-bf8f-3bb6a307a936/kent-c-dodds-ready_tc.mp3" />
               </audio>
           </div>
         </div>
       </div>
+    <div class="row-md-6">
+      <div class="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
+          <div class="col p-4 d-flex flex-column position-static">
+            <h3 class="mb-0"><a href="https://www.software-engineering-unlocked.com/high-quality-code/">The Secret To High-Quality Code</a></h3>
+  <audio controls preload="none">
+                <source src="https://cdn.simplecast.com/audio/aaca909a-e34f-49ae-a86f-f59e4fa807f0/episodes/47f883a9-4633-4c1b-9e5f-c673f3b0b280/audio/5497ed3e-ecfd-4df1-ac15-28738a2a08fd/default_tc.mp3" />
+              </audio>
+          </div>
+        </div>
+      </div> 
 </div>
 <br/>
 

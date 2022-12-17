@@ -59,9 +59,9 @@ This episode is sponsored by <a href="https://www.tonic.ai/?ref=se-unlocked">Ton
     <div class="row-md-6">
       <div class="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
           <div class="col p-4 d-flex flex-column position-static">
-            <h3 class="mb-0"><a href="https://software-engineering-unlocked.com/faang-job-without-cs-degree/">How I got into FAANG companies without a CS degree</a></h3>
+            <h3 class="mb-0"><a href="https://www.software-engineering-unlocked.com/legacy-code-michael-feathers/">How to work with legacy code with Michael Feathers</a></h3>
   <audio controls preload="none">
-                <source src="https://cdn.simplecast.com/audio/aaca909a-e34f-49ae-a86f-f59e4fa807f0/episodes/2ec3af9e-9a17-4ccd-95df-0e9b1a03ecc6/audio/66ec2bf9-b1d0-4ae3-868e-9017bb8cc4ee/default_tc.mp3" />
+                <source src="https://cdn.simplecast.com/audio/aaca909a-e34f-49ae-a86f-f59e4fa807f0/episodes/c51d6cda-2f16-4872-bfa5-20472d0ed1d6/audio/5700cc3c-c308-46ed-bd29-3225db1dfd6f/default_tc.mp3" />
               </audio>
           </div>
         </div>
@@ -69,16 +69,26 @@ This episode is sponsored by <a href="https://www.tonic.ai/?ref=se-unlocked">Ton
     <div class="row-md-6">
       <div class="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
           <div class="col p-4 d-flex flex-column position-static">
-            <h3 class="mb-0"><a href="https://software-engineering-unlocked.com/episode-2-scott-hanselman/">Getting a remote position at Microsoft with Scott Hanselman</a></h3>
+            <h3 class="mb-0"><a href="https://www.software-engineering-unlocked.com/tests-find-bugs/">How to write tests that find bugs</a></h3>
   <audio controls preload="none">
-                <source src="https://cdn.simplecast.com/audio/aaca90/aaca909a-e34f-49ae-a86f-f59e4fa807f0/b94c57a5-9afe-4853-be2f-b4d147fb62bf/scott_episode2_ready_tc.mp3" />
+                <source src="https://cdn.simplecast.com/audio/aaca909a-e34f-49ae-a86f-f59e4fa807f0/episodes/53528752-3178-4d13-9b17-8285eeab471c/audio/f768b14a-56e4-4d9a-8ed2-d27b3b1342f5/default_tc.mp3" />
               </audio>
           </div>
         </div>
       </div>
+    <div class="row-md-6">
+      <div class="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
+          <div class="col p-4 d-flex flex-column position-static">
+            <h3 class="mb-0"><a href="https://www.software-engineering-unlocked.com/high-quality-code/">The Secret To High-Quality Code</a></h3>
+  <audio controls preload="none">
+                <source src="https://cdn.simplecast.com/audio/aaca909a-e34f-49ae-a86f-f59e4fa807f0/episodes/47f883a9-4633-4c1b-9e5f-c673f3b0b280/audio/5497ed3e-ecfd-4df1-ac15-28738a2a08fd/default_tc.mp3" />
+              </audio>
+          </div>
+        </div>
+      </div> 
 </div>
 <br/>
 
 ## Read the whole episode "what the heck is data-oriented programming?" (Transcript)
 
-_\[If you want, you can help make the transcript better, and improve the podcast’s accessibility via_ [Github](https://github.com/mgreiler/se-unlocked/tree/master/Transcripts)_[.](https://github.com/mgreiler/se-unlocked/tree/master/Transcripts) I’m happy to lend a hand to help you get started with pull requests, and open source work.\]_
+_\[Make the transcript better, and improve the podcast’s accessibility via_ [Github](https://github.com/mgreiler/se-unlocked/tree/master/Transcripts)_[.](https://github.com/mgreiler/se-unlocked/tree/master/Transcripts).\]_
