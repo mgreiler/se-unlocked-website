@@ -27,9 +27,9 @@ Ashley Hunsberger shares what a director of Developer Experience does and why de
 <br/>We also talk about:
 <ul>
 <li>what a director of developer experience (DX) does.</li>
-<li>what testing, continious delivery and DevOps principle have to do with developer experience,</li>
+<li>what testing, continuous delivery and DevOps principle have to do with developer experience,</li>
 <li>what Ashley thinks about my developer experience research paper</li>
-<li>how a good work-life balance is essiential for good software</li>
+<li>how a good work-life balance is essential for good software</li>
 
 
 
@@ -41,9 +41,6 @@ Ashley Hunsberger shares what a director of Developer Experience does and why de
 <b>Episode Resources:</b><br/>
 <a href="https://www.linkedin.com/in/ashleyhunsberger/">Ashley's LinkedIn</a><br/>
 <a href="https://www.michaelagreiler.com/wp-content/uploads/2021/12/Framework-for-Understanding-and-Improving.pdf">Developer experience research paper</a><br/>
-
-
-
 </div>
 
 <div class="row pt-2 align-items-center">
@@ -57,7 +54,7 @@ Ashley is a vivid speaker and proponent of testing and loves sharing her experie
 </div>
 
 <div class="sponsorship">
-Book your <a href="https://awesomecodereviews.com">awesomecodereviews.com</a> workshop!
+Make code reviews your superpower at <a href="https://awesomecodereviews.com">awesomecodereviews.com</a>!
 </div> 
 
 

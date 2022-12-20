@@ -44,7 +44,7 @@ audio: https://cdn.simplecast.com/audio/aaca909a-e34f-49ae-a86f-f59e4fa807f0/epi
 </div>
 
 <div class="sponsorship">
-Book your <a href="https://www.michaelagreiler.com/workshops">awesomecodereview.com</a> workshop!
+Make code reviews your superpower at <a href="https://awesomecodereviews.com">awesomecodereviews.com</a>!
 </div>
 <br/>
 <div>

@@ -14,10 +14,10 @@ import twitter from "../images/twitter-logo-sm-blue.png";
 export default function Sponsorship() {
   return (
     <Layout>
-       <Seo title="Your favorite Software Engineering Podcast" />
+       <Seo title="Sponsor the Software Engineering Unlocked Podcast" />
       <div className={styles.sponsor_container}>
         <h1>
-          Reach developers with a heart for developing high-quality software!
+        Reach developers with a heart for developing high-quality software!
         </h1>
       </div>
       {/*section1*/}
@@ -142,7 +142,7 @@ Michaela was a great interviewer too; overall we had a fantastic experience and 
           <h3>Pricing</h3>
           <p>
             Because the best results for podcast advertisers are achieved when
-            sponsors appear on a few consecutive shows, we highly encourage you
+            the podcast sponsors appear on a few consecutive shows, we highly encourage you
             to book a multi-show-package and profit from the discounted rates.
           </p>
           <ul>
@@ -173,16 +173,16 @@ Michaela was a great interviewer too; overall we had a fantastic experience and 
           <ul>
             <li>A one-minute sponsor spot at the beginning of the show .</li>
             <li>
-              A dedicated sponsorship section including your logo, link, and
-              description on the episode website page.
+              A dedicated sponsorship section on the episode website page including a link to your website, and a
+              slogan.
             </li>
             <li>
               A sponsorship section within the show notes syndicated to podcast
               clients and our RSS feed, reaching users independent of the
-              client.
+              podcast client.
             </li>
             <li>
-              One tweet introducing you to our Twitter audience every three
+              One tweet introducing you to our Twitter audience for every three
               episodes sponsored.
             </li>
             <li>
