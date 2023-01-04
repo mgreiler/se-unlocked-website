@@ -1,16 +1,16 @@
 ---
-title: "Writing code at MAANG companies"
+title: "Coding practices at Google and Microsoft vs. startups"
 date: "2022-12-20T01:53:31+00:00"
 status: publish
 permalink: /coding-practices-maang
 author: michaela
-excerpt: 'Michael Lynch shares what he learned by writing code at Microsoft, Google and now at his own startup.'
+excerpt: 'Michael Lynch shares what he learned by writing code at Microsoft, Google and now at his startup.'
 type: post
 thumbnail_alt: "Picture of Michael Lynch"
 thumbnail: michael_lynch.jpg
 audio: https://cdn.simplecast.com/audio/aaca909a-e34f-49ae-a86f-f59e4fa807f0/episodes/6d1dfdac-2c94-4424-ae43-398176735c9c/audio/381a7c5d-164d-4ee3-b446-f430fa33977e/default_tc.mp3
 category:
-  ["Company Culture", DevOps, Productivity, Startup, Testing, "Women in Tech"]
+  ["Company Culture", Practice, Productivity, Startup, Testing]
 tag: []
 post_format: []
 ---

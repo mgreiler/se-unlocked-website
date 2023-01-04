@@ -1,6 +1,7 @@
 ---
 title: "From designer to web developer"
 date: "2021-04-13T11:05:22+00:00"
+updated: "2022-12-31T11:05:22+00:00"
 status: publish
 permalink: /designer-to-web-developer/
 author: michaela
@@ -19,7 +20,11 @@ sponsorship: "Today’s episode is sponsored by [Botany.io](https://www.botany.i
 
 <div class="episode-about">
 In this episode, I talk to Annie Liew, who works as a web developer at a startup called Pastel.
-<br/> <br/>We also talk about:
+<br/><br/>
+<div class="video-container">
+<iframe class="video" src="https://www.youtube-nocookie.com/embed/JQ0XT6phIhA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+<br/> We also talk about:
 <ul>
 <li> about her experience transitioning from Designer to Engineer,</li>
 <li> the role her Juno Web Development Bootcamp (formerly HackerYou),</li>

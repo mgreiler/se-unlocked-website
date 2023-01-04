@@ -1,7 +1,7 @@
 ---
 title: "Making Gatsby easy to understand with Laurie Barth"
 date: "2020-02-04T10:05:36+00:00"
-updated: "2022-12-10T05:16:50+00:00"
+updated: '2023-01-04T09:36:15+00:00'
 status: publish
 permalink: /episode-11-staff-engineer-gatsby
 author: michaela
@@ -69,6 +69,16 @@ Book your <a href="https://www.michaelagreiler.com/workshops">awesomecodereview.
 <br/>
 <div>
   <h2>Other episodes you'll enjoy</h2>
+  <div class="row-md-6">
+      <div class="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
+          <div class="col p-4 d-flex flex-column position-static">
+            <h3 class="mb-0"><a href="https://www.software-engineering-unlocked.com/advance-dev-career/">How to advance your developer career</a></h3>
+  <audio controls preload="none">
+                <source src="https://cdn.simplecast.com/audio/aaca909a-e34f-49ae-a86f-f59e4fa807f0/episodes/976b6107-6a6b-4ad8-80f9-2cb521600f54/audio/1982ddf3-a565-4fc0-93ca-2962ae6e87c4/default_tc.mp3" />
+              </audio>
+          </div>
+        </div>
+      </div>
     <div class="row-md-6">
       <div class="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
           <div class="col p-4 d-flex flex-column position-static">

@@ -1,6 +1,7 @@
 ---
 title: "How I got into FAANG companies without a CS degree"
 date: "2020-11-10T07:27:28+00:00"
+updated: "2022-12-31T07:27:28+00:00"
 status: publish
 permalink: /faang-job-without-cs-degree
 author: michaela
@@ -21,7 +22,12 @@ post_header_image: ../uploads/2020/11/BenLeshBg.jpg
 
 <div class="episode-about">
 Ben Lesh, a Senior Software engineer at Citadel Securities explains how he got into Google and Netflix without a CS degree.
-<br/> <br/>We also talk about:
+<br/> 
+<br/>
+<div class="video-container">
+<iframe class="video" src="https://www.youtube-nocookie.com/embed/BLE5sEmf8po" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+<br/>We also talk about:
 <ul>
 <li> how he got into several FAANG companies without a CS degree,</li>
 <li> the importance of building relationships, and an online brand,</li>

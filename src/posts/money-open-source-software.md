@@ -1,6 +1,7 @@
 ---
 title: 'Make money with open source software'
 date: '2022-02-15T14:36:06+00:00'
+updated: '2023-01-04T09:36:15+00:00'
 status: publish
 permalink: /money-open-source-software
 author: michaela
@@ -14,22 +15,16 @@ category:
     - Startup
 tag: []
 post_format: []
-_yoast_wpseo_primary_category:
-    - '19'
 audio: "https://cdn.simplecast.com/audio/aaca909a-e34f-49ae-a86f-f59e4fa807f0/episodes/98d66118-0875-475b-ba50-3abd85d02b37/audio/afcb8826-5dc4-4a29-95d3-b0cfe1d9cb30/default_tc.mp3"
-secondline_themes_disable_img:
-    - 'on'
-_yoast_wpseo_content_score:
-    - '90'
-secondline_themes_header_image_id:
-    - '121908'
-secondline_themes_header_image:
-    - 'https://www.software-engineering-unlocked.com/wp-content/uploads/2022/02/Alvaro-Trigo-open-source-making-money.jpg'
 ---
 
 <div class="episode-about">
-Alvaro Trigo is a web developer who could quit his full-time job due to his popular open source software FullPage.js.
-<br/> <br/>We also talk about:
+Alvaro Trigo is a web developer who could quit his full-time job due to his popular open-source software FullPage.js.
+<br/> <br/>
+<div class="video-container">
+<iframe class="video" src="https://www.youtube-nocookie.com/embed/Cyrbgrxkmc8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+<br/><br/>We also talk about:
 <ul>
 <li> how to use open source to make a living</li>
 <li> how long it took him to build software people want to buy</li>

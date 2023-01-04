@@ -1,10 +1,11 @@
 ---
 title: 'How to write tests that find bugs'
 date: '2022-01-18T08:31:58+00:00'
+updated: '2023-01-04T09:36:15+00:00'
 status: publish
 permalink: /tests-find-bugs
 author: michaela
-excerpt: 'The difference between effective and not effective test cases'
+excerpt: 'Learn how to write tests that find bugs with Dr. Mauricio Aniche, who explains how to systematic software testing.'
 type: post
 id: 121748
 thumbnail: ../uploads/2022/01/Mauricio_Aniche.jpg
@@ -13,27 +14,15 @@ category:
 tag: []
 post_format: []
 audio: "https://cdn.simplecast.com/audio/aaca909a-e34f-49ae-a86f-f59e4fa807f0/episodes/53528752-3178-4d13-9b17-8285eeab471c/audio/f768b14a-56e4-4d9a-8ed2-d27b3b1342f5/default_tc.mp3"
-_yoast_wpseo_primary_category:
-    - '20'
-secondline_themes_header_image_id:
-    - '121751'
-secondline_themes_header_image:
-    - 'https://www.software-engineering-unlocked.com/wp-content/uploads/2022/01/Mauricio_Aniche_Systematic_Software_Testing.jpg'
-_yoast_wpseo_content_score:
-    - '60'
-secondline_themes_disable_img:
-    - 'on'
-_yoast_wpseo_focuskw:
-    - 'how to write tests that find bugs'
-_yoast_wpseo_metadesc:
-    - 'Ever wondered how to write tests that find bugs? Dr. Mauricio Aniche explains how to effectively and systematically write test cases.'
-_yoast_wpseo_linkdex:
-    - '73'
 ---
 
 <div class="episode-about">
 Dr. Mauricio Aniche explains how developers can write tests that find bugs.
-<br/> <br/>We also talk about:
+<br/> 
+<div class="video-container">
+<iframe class="video" src="https://www.youtube-nocookie.com/embed/XXXXF7pJbRc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+<br/>We also talk about:
 <ul>
 <li> the difference between effective and not effective test cases,</li>
 <li> how domain-based testing helps to write good test cases,</li>

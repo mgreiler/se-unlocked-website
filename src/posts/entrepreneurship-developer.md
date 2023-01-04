@@ -1,10 +1,11 @@
 ---
 title: 'Predictable profit through small bets'
 date: '2022-03-01T09:36:15+00:00'
+updated: '2023-01-04T09:36:15+00:00'
 status: publish
 permalink: /entrepreneurship-developer
 author: michaela
-excerpt: 'Anxiety when start-up attempts do not work out as planned'
+excerpt: 'Increase your chances to build a successful business through small bets.'
 type: post
 id: 121916
 thumbnail: ../uploads/2022/03/daniel-vassallo.jpg
@@ -14,21 +15,15 @@ category:
 tag: []
 post_format: []
 audio: "https://cdn.simplecast.com/audio/aaca909a-e34f-49ae-a86f-f59e4fa807f0/episodes/3af1fd1a-6611-46c4-b4d5-018f32e66e40/audio/b20977cc-47fa-4612-b86a-4fcc06f7a8cd/default_tc.mp3"
-_yoast_wpseo_primary_category:
-    - '19'
-secondline_themes_header_image_id:
-    - '121918'
-secondline_themes_header_image:
-    - 'https://www.software-engineering-unlocked.com/wp-content/uploads/2022/03/Vassallo-Background.jpg'
-_yoast_wpseo_content_score:
-    - '60'
-secondline_themes_disable_img:
-    - 'on'
 ---
 
 <div class="episode-about">
 Daniel Vassallo left his cushy job at Amazon, where he made over half a million per year, to start his own business.
-<br/> <br/>We also talk about:
+<br/><br/>
+<div class="video-container">
+<iframe class="video" src="https://www.youtube-nocookie.com/embed/QTFJ5-ynvIc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+<br/>We also talk about:
 <ul>
 <li> anxiety when start-up attempts do not work out as planned</li>
 <li> how he overcame failure</li>

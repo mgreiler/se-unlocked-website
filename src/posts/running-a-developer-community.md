@@ -1,6 +1,7 @@
 ---
 title: 'Running a developer community'
 date: '2022-03-16T07:49:17+00:00'
+updated: '2023-01-04T09:36:15+00:00'
 status: publish
 permalink: /running-a-developer-community
 author: michaela
@@ -15,16 +16,6 @@ category:
     - 'Women in Tech'
 tag: []
 post_format: []
-_yoast_wpseo_primary_category:
-    - '15'
-secondline_themes_disable_img:
-    - 'on'
-secondline_themes_header_image_id:
-    - '121956'
-secondline_themes_header_image:
-    - 'https://www.software-engineering-unlocked.com/wp-content/uploads/2022/03/SOFTWARE-ENGINEERING.jpg'
-_yoast_wpseo_content_score:
-    - '60'
 audio: "https://cdn.simplecast.com/audio/aaca909a-e34f-49ae-a86f-f59e4fa807f0/episodes/5c8beb4d-87a6-4737-b696-2c66f131430c/audio/485e34a8-cbcc-42d7-9a50-5a4095b8061f/default_tc.mp3"
 ---
 
@@ -62,6 +53,16 @@ Today’s episode is sponsored by <a href="https://www.codiga.io/?utm_source=pod
 <br/>
 <div>
   <h2>Other episodes you'll enjoy</h2>
+  	  <div class="row-md-6">
+      <div class="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
+          <div class="col p-4 d-flex flex-column position-static">
+            <h3 class="mb-0"><a href="https://www.software-engineering-unlocked.com/money-open-source-software/">Make money with open source software</a></h3>
+  <audio controls preload="none">
+                <source src="https://cdn.simplecast.com/audio/aaca909a-e34f-49ae-a86f-f59e4fa807f0/episodes/98d66118-0875-475b-ba50-3abd85d02b37/audio/afcb8826-5dc4-4a29-95d3-b0cfe1d9cb30/default_tc.mp3" />
+              </audio>
+          </div>
+        </div>
+      </div>
     <div class="row-md-6">
       <div class="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
           <div class="col p-4 d-flex flex-column position-static">

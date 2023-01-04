@@ -1,6 +1,7 @@
 ---
 title: "Responsibilities of a Chief Data Officer"
 date: "2021-08-03T11:06:09+00:00"
+updated: "2022-12-30T11:06:09+00:00"
 status: publish
 permalink: /responsibilities-of-a-chief-data-officer
 author: michaela
@@ -16,21 +17,18 @@ category:
   - Science
 tag: []
 post_format: []
-_yoast_wpseo_primary_category:
-  - "15"
 audio: https://cdn.simplecast.com/audio/aaca909a-e34f-49ae-a86f-f59e4fa807f0/episodes/29980acf-d861-4abc-a9fe-109a611dbf13/audio/d4ade6da-50d2-4374-8f0e-2df3afd6d32e/default_tc.mp3
-secondline_themes_disable_img:
-  - "on"
-secondline_themes_header_image_id:
-  - "121399"
 post_header_image: ../uploads/2021/08/Patrick-Wagstrom-Background.jpg
-_yoast_wpseo_content_score:
-  - "60"
 ---
 
 <div class="episode-about">
 Patrick Wagstrom is the Chief Data Officer at Brightcove.
-<br/> <br/>We also talk about:
+
+<br/>
+<div class="video-container">
+<iframe class="video" src="https://www.youtube-nocookie.com/embed/JKpIezjYWs8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+<br/>We also talk about:
 <ul>
 <li> his role and responsibilities as a chief data officer,</li>
 <li> the difference between building systems that support machine learning and systems that don’t,</li>

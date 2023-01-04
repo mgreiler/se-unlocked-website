@@ -1,6 +1,7 @@
 ---
 title: "How to build a profitable content business as a developer"
 date: "2021-07-20T10:41:10+00:00"
+updated: '2023-01-04T09:36:15+00:00'
 status: publish
 permalink: /entrepreneurship-101
 author: michaela
@@ -19,7 +20,11 @@ audio: https://cdn.simplecast.com/audio/aaca909a-e34f-49ae-a86f-f59e4fa807f0/epi
 ---
 <div class="episode-about">
     Karls Hughes tells us how he build his start-up draft.dev that creates content that reaches software engineers – which means he combined his two passions, development and content creation.
-    <br/> <br/>We also talk about:
+<br/><br/>
+<div class="video-container">
+<iframe class="video" src="https://www.youtube-nocookie.com/embed/0EjZc96u1Zs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+<br/>We also talk about:
     <ul>
       <li>  his transition from developer to CTO, and then to the business owner</li>
       <li>  value-based pricing and how to focus on the customer segment that gets the most value out of your product</li>
