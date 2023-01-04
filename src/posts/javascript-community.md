@@ -3,7 +3,6 @@ title: "Running a successful dev shop without a CS degree"
 date: "2021-08-31T11:37:03+00:00"
 updated: '2023-01-04T09:36:15+00:00'
 status: publish
-updated: "2022-12-31T11:37:03+00:00"
 permalink: /javascript-community
 author: michaela
 excerpt: "Tracy Lee, the CEO and co-founder of This Dot Labs, talks about starting and running a widely successful dev shop."
@@ -18,23 +17,18 @@ category:
   - "Women in Tech"
 tag: []
 post_format: []
-_yoast_wpseo_primary_category:
-  - "19"
-_yoast_wpseo_content_score:
-  - "60"
 audio: https://cdn.simplecast.com/audio/aaca909a-e34f-49ae-a86f-f59e4fa807f0/episodes/eb1463ba-a0b3-467b-b5ec-fb3f6e134eed/audio/58495076-bddd-4a33-8327-eda0468c582c/default_tc.mp3
 sc_audio: https://player.simplecast.com/eb1463ba-a0b3-467b-b5ec-fb3f6e134eed?dark=false
 post_header_image: ../uploads/2021/08/Tracy-Lee-Bg.jpg
 ---
 
-
 <div class="episode-about">
-Tracy Lee talks about starting and running a widely successful dev shop. 
-<br/>
+Tracy Lee talks about starting and running a widely successful dev shop without CS degree. 
+<br/><br/>
 <div class="video-container">
 <iframe class="video" src="https://www.youtube-nocookie.com/embed/T-lOTDH_Md0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-    <br/> <br/>We also talk about:
+<br/>We also talk about:
     <ul>
         <li>how she dared to start her first start-up as soon as right out of college,</li>
         <li>how she learned to program and fall in love with JavaScript and the community,</li>

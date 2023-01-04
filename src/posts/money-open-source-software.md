@@ -24,7 +24,7 @@ Alvaro Trigo is a web developer who could quit his full-time job due to his popu
 <div class="video-container">
 <iframe class="video" src="https://www.youtube-nocookie.com/embed/Cyrbgrxkmc8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-<br/><br/>We also talk about:
+<br/>We also talk about:
 <ul>
 <li> how to use open source to make a living</li>
 <li> how long it took him to build software people want to buy</li>
