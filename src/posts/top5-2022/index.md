@@ -25,7 +25,7 @@ Alvaro Trigo, who once was a web developer but could quit his day job to <a href
 <li>Daniel Vassallo tells us why he left his cushy job at Amazon to <a href="https://www.software-engineering-unlocked.com/entrepreneurship-developer/">start many small businesses</a>. </li>
 <li>Dagna Bieda explains how you can <a href="https://www.software-engineering-unlocked.com/advance-dev-career/">fast-track your engineering career</a> and what mindset has to do with professional growth.</li>
 <li>Mauricio Aniche explains how to <a href="https://www.software-engineering-unlocked.com/tests-find-bugs/">write tests that find bugs</a> and what domain-driven testing is.</li>
-<li>Nuchals Dular shares why the <a href="https://www.software-engineering-unlocked.com/no-engineering-manager/">engineering manager position</a> he worked hard toward to wasn’t meant for him. </li>
+<li>Nichals Dular shares why the <a href="https://www.software-engineering-unlocked.com/no-engineering-manager/">engineering manager position</a> he worked hard toward to wasn’t meant for him. </li>
 </ul>
 </div>
 
