@@ -1,30 +1,30 @@
 ---
-title: 'Do not measure developer productivity'
-date: '2021-12-07T19:26:18+00:00'
+title: "Do not measure developer productivity"
+date: "2021-12-07T19:26:18+00:00"
 status: publish
 permalink: /dont-measure-developer-productivity
 author: michaela
-excerpt: 'Why (IMHO) metrics and a productivity-driven mindset can be problematic for your culture and long-term success'
+excerpt: "Why (IMHO) metrics and a productivity-driven mindset can be problematic for your culture and long-term success"
 type: post
 id: 121549
 thumbnail: ../uploads/2021/12/DX-and-productivity-thumbnail.jpeg
 category:
-    - 'Company Culture'
-    - Productivity
-    - Science
+  - "Company Culture"
+  - Productivity
+  - Science
 tag: []
 post_format: []
 _yoast_wpseo_primary_category:
-    - '12'
+  - "12"
 _yoast_wpseo_content_score:
-    - '30'
+  - "30"
 secondline_themes_header_image_id:
-    - '121566'
+  - "121566"
 secondline_themes_header_image:
-    - 'https://www.software-engineering-unlocked.com/wp-content/uploads/2021/12/Developer-experience-background.jpg'
+  - "https://www.software-engineering-unlocked.com/wp-content/uploads/2021/12/Developer-experience-background.jpg"
 audio: "https://cdn.simplecast.com/audio/aaca909a-e34f-49ae-a86f-f59e4fa807f0/episodes/7d3ff77b-c660-4fa7-8acd-820c40e993d8/audio/43e2756b-f8b8-403d-b6cc-44c927f9eaef/default_tc.mp3"
 secondline_themes_disable_img:
-    - 'on'
+  - "on"
 ---
 
 <div class="episode-about">

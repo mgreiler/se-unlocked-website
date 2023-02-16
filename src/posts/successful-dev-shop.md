@@ -93,5 +93,3 @@ Book your <a href="https://www.michaelagreiler.com/workshops">awesomecodereview.
 ## Read the whole episode "Running A Successful Dev Shop with Martin Gratzer" (Transcript)
 
 _\[Make the transcript better, and improve the podcast’s accessibility via_ [Github](https://github.com/mgreiler/se-unlocked/tree/master/Transcripts)_[.](https://github.com/mgreiler/se-unlocked/tree/master/Transcripts).\]_
-
-

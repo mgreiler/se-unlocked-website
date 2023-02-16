@@ -1,32 +1,32 @@
 ---
-title: 'Improving Code Reviews with Github’s Copilot'
-date: '2022-04-13T07:06:06+00:00'
+title: "Improving Code Reviews with Github’s Copilot"
+date: "2022-04-13T07:06:06+00:00"
 status: publish
 permalink: /code-reviews-github-copilot
 author: michaela
-excerpt: 'How does GitHub Copilot and Codespaces help data scientists to write, understand, and review code?'
+excerpt: "How does GitHub Copilot and Codespaces help data scientists to write, understand, and review code?"
 type: post
 id: 122025
 thumbnail: ../uploads/2022/04/Paige-Bailey.png
 category:
-    - DevOps
-    - Productivity
-    - Security
-    - Testing
-    - 'Women in Tech'
+  - DevOps
+  - Productivity
+  - Security
+  - Testing
+  - "Women in Tech"
 tag: []
 post_format: []
 _yoast_wpseo_primary_category:
-    - '12'
+  - "12"
 secondline_themes_header_image_id:
-    - '122045'
+  - "122045"
 secondline_themes_header_image:
-    - 'https://www.software-engineering-unlocked.com/wp-content/uploads/2022/04/Paige-Bailey-Background.jpg'
+  - "https://www.software-engineering-unlocked.com/wp-content/uploads/2022/04/Paige-Bailey-Background.jpg"
 _yoast_wpseo_content_score:
-    - '30'
+  - "30"
 audio: "https://cdn.simplecast.com/audio/aaca909a-e34f-49ae-a86f-f59e4fa807f0/episodes/d1dba0bb-cd80-4e39-8b3c-a0af5353c6ea/audio/e1a02d10-f71b-4403-a850-abadd584db69/default_tc.mp3"
 secondline_themes_disable_img:
-    - 'on'
+  - "on"
 ---
 
 <div class="episode-about">
@@ -90,6 +90,6 @@ Book your <a href="https://www.michaelagreiler.com/workshops">awesomecodereview.
 </div>
 <br/>
 
-## Read the whole episode "Improving Code Reviews with Github’s  Copilot" (Transcript)
+## Read the whole episode "Improving Code Reviews with Github’s Copilot" (Transcript)
 
-_\[Improve this transcript on [Github](https://github.com/mgreiler/se-unlocked/tree/master/Transcripts)_[.](https://github.com/mgreiler/se-unlocked/tree/master/Transcripts)\]_
+_\[Improve this transcript on [Github](https://github.com/mgreiler/se-unlocked/tree/master/Transcripts)_[.](https://github.com/mgreiler/se-unlocked/tree/master/Transcripts)\]\_

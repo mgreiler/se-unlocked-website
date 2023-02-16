@@ -7,19 +7,18 @@ type: transcript
 
 [00:00:00] **Michaela:** Hello, and welcome to the software engineering
 unlocked podcast. I'm your host, Dr. Michaela, and today I have the pleasure to
-welcome Dr. Mauricio Aniche to talk about systematic software testing. 
+welcome Dr. Mauricio Aniche to talk about systematic software testing.
 
+But before I start, let me tell you about an amazing start-up that is sponsoring
+today's episode: Codiga. Codiga is a code analysis platform that automates
+the boring part of code reviews and lets you merge with confidence on GitHub,
+GitLab and Bitbucket. I’ve worked with Codiga for around one year now, and I
+love how it guides me in discovering and improving, well, the “not so nice
+parts” of my codebase.
 
-But before I start, let me tell you about an amazing start-up that is sponsoring 
-today's episode: Codiga. Codiga is a code analysis platform that automates 
-the boring part of code reviews and lets you merge with confidence on GitHub, 
-GitLab and Bitbucket. I’ve worked with Codiga for around one year now, and I 
-love how it guides me in discovering and improving, well, the “not so nice 
-parts” of my codebase. 
-
-But there is more, Codiga also has a coding assistant 
-that helps you write better code faster. Find and share safe and reusable blocks 
-of code within your favorite IDE on-demand while you are coding. 
+But there is more, Codiga also has a coding assistant
+that helps you write better code faster. Find and share safe and reusable blocks
+of code within your favorite IDE on-demand while you are coding.
 Learn more at [codiga.io](https://www.codiga.io/?utm_source=podcast&utm_medium=social&utm_campaign=se_unlocked) - that is Codiga.io.
 
 But now, back to Mauricio.
@@ -38,10 +37,10 @@ So, you ask, what do we have to do for that, right? Well, there's the chance
 to win this book. If you like and retweet this episode's tweet, I will put it in
 the show notes, or you can find it on se_unlocked on Twitter. For an extra
 chance to win the book, you can add a comment of your personal best testing
-practice. But now let's welcome Mauricio. Mauricio, welcome to the show. 
+practice. But now let's welcome Mauricio. Mauricio, welcome to the show.
 
 [00:01:56] **Mauricio:** Hi Michaela. Thank you so much for the invitation. It's
-a pleasure to be here. 
+a pleasure to be here.
 
 [00:02:00] **Michaela:** Yeah, I'm super, super excited. I'm so excited
 to learn about this book. I have a copy already here with me, right? So, I'm
@@ -53,7 +52,7 @@ and yeah, I can learn a lot and my listeners can learn a lot. So maybe the first
 question that I have is what does "writing tests in a systematic way" actually
 mean to you?
 
-What is that? What is systematic software testing? 
+What is that? What is systematic software testing?
 
 [00:02:37] **Mauricio:** That's a super good question. Michaela and I think that's
 what makes my book different from the others. So, I think we are now
@@ -74,17 +73,17 @@ So, this is more or less the whole story of the book.
 have to learn it, I'm thinking back at university and the first thing that pops
 into my mind is fuzzy testing and, you know, and maybe verification and all of
 that, which you know, is scary and a lot of developers don't do it and maybe it's not
-that practical, it's not that scalable. 
+that practical, it's not that scalable.
 
 Are we talking about those kinds of things or are we more thinking about edge cases,
-for example, and you know, what is exactly the systematic way to write test cases? Is it hard? 
+for example, and you know, what is exactly the systematic way to write test cases? Is it hard?
 
 [00:04:03] **Mauricio:** It is not, and I think it's closer to the thinking of edge
 cases, as you mentioned, so really close to the way developers write tests
 nowadays.
 
-So, that's not a big jump from what you're doing now to what I'm trying to 
-propose in the book. 
+So, that's not a big jump from what you're doing now to what I'm trying to
+propose in the book.
 
 And so think of, you know, you have this method to test, this method
 receives two or three parameters. My book basically says, you know, look to the
@@ -94,7 +93,7 @@ parameter, go to the third parameter, then try to see how those three
 parameters interact together.
 
 So, it's again, super similar to the unit test you write. But now in a more
-systematic way. 
+systematic way.
 
 [00:04:42] **Michaela:** So, is it a little bit like a checklist for me
 that sounds like a checklist or, you know even in code reviews, you
@@ -116,7 +115,7 @@ right? So I learned a lot from what is in there. And so the domain testing
 techniques that are there may be super popular in academia, a bit less popular
 in industry. They are doing these checklists without calling them checklists.
 
-Right? Yeah. 
+Right? Yeah.
 
 [00:05:38] **Michaela:** In the book you described quite a few different
 types of testing, right? Domain testing, which I would really briefly describe
@@ -131,7 +130,7 @@ know all kinds of ... this kind of different testing types? Or is it enough if
 I, you know, do domain testing? Are they exclusive or how does the, you know,
 how do they integrate with each other?
 
-[00:06:22] **Mauricio:** 
+[00:06:22] **Mauricio:**
 
 Yeah, good question. I think, you know, if you're a busy person and you cannot
 read all the chapters, if you read the domain testing one, and then the
@@ -164,7 +163,7 @@ different techniques you can do to, to make your tests better.
 
 Like property-based testing, design-by-contracts so on and so forth. But, the two
 techniques are the ones that I consider core for someone that wants to create
-good tests. 
+good tests.
 
 [00:08:10] **Michaela:** So domain testing, I have to see a little bit as,
 it's not, it's not black box testing because I know the code. But it's
@@ -182,7 +181,7 @@ even, you know, the exception and you know, if they are like, if there's a
 switch statement, do I go through each of the cases and so on? Right. Is that,
 and then I go back to domain testing again, what should this actually do?
 
-And loop through that. 
+And loop through that.
 
 [00:09:05] **Mauricio:** That's a super good point. And I think this is one of
 the things my book does differently from the others. And I'm super curious to
@@ -209,11 +208,11 @@ that code coverage for me is not there for us to see a number.
 
 And, you know, did we reach our magical number code coverage for, for the CI to
 pass? No, it's more like it's a tool to augment the tests you created using
-domain testing. So, they don't care about the number anymore. You care about 
+domain testing. So, they don't care about the number anymore. You care about
 looking at a line that is not covered and reflecting about it. If in the end
 you achieve a hundred percent, I don't care.
 
-I just care that you reflected about things you didn't test. You know what I mean? 
+I just care that you reflected about things you didn't test. You know what I mean?
 
 [00:10:40] **Michaela:** And so, yeah, I know what you mean, but so one
 of the biggest criticisms for code coverage is [00:10:47] that we are, we are
@@ -226,11 +225,11 @@ especially if I hear code coverage and coverage reports and this number, right?
 The question is always okay, well, did I hit every line, but did I even check,
 you know, what's happening here? Or do I just execute the program, right?
 
-Because well, if, if you know, a smoke test (*laugh*) could also execute a
+Because well, if, if you know, a smoke test (_laugh_) could also execute a
 lot of the code base. Actually just, you know, make sure that the code runs
-somehow without verifying that, you know, the inputs and outputs are 
+somehow without verifying that, you know, the inputs and outputs are
 matching and so on. What's your take on that? And what is your advice?
-Is it something that you, you know, that you talk about in your book 
+Is it something that you, you know, that you talk about in your book
 and the developers should be worried about?
 
 [00:11:41] **Mauricio:** No, I think that's, that's common sense in industry. A
@@ -262,7 +261,7 @@ prioritize where to start, you're testing the process right now say you're in a
 legacy without tests. The code coverage can be a nice guidance for you. So that
 is the tip. Don't use code coverage as a number that you blindly try to achieve.
 
-That's not going to work for you. 
+That's not going to work for you.
 
 [00:13:16] **Michaela:** Yeah, I like that very much and it reminds me
 of you know, a study that I did during my PhD. And, and the tool that I
@@ -289,15 +288,15 @@ tests and system tests and, and unit tests and, you know, there's this th the
 testing pyramid, which I think is very, very common and very well known, but is
 it still valid nowadays the pyramid has like biggest part is the base, right?
 And then the higher we go up the [00:14:43] perimeter a little bit, you know,
-reduces its size until, it's just a little, (*laugh*) a little spot at the beginning. So
+reduces its size until, it's just a little, (_laugh_) a little spot at the beginning. So
 and then each of the levels for testing is actually reflected in this pyramid.
 
-So, it more or less says that we should do focus on unit testing the most, 
+So, it more or less says that we should do focus on unit testing the most,
 then a little bit less on integration testing, a little bit less than system
 testing, UI testing and so on. Is that something that you recommend?
-Is that a, is that a view that you share? 
+Is that a, is that a view that you share?
 
-[00:15:10] **Mauricio:** You are only asking me the tricky questions Michaela, 
+[00:15:10] **Mauricio:** You are only asking me the tricky questions Michaela,
 I love that. Before I answer the test pyramid, let me make a remark about tools, because you
 mentioned you developed the tool and et cetera.
 
@@ -306,7 +305,7 @@ coverage tools. Because right now I feel most of them are super interested in
 reporting a code coverage number. But they are less interested in using coverage to
 help guide developers. What is the next test I should write? And i feel, the
 first company person that does this will have the code coverage tool that will
-be used in uh, in the market. 
+be used in uh, in the market.
 
 And then, you mentioned about the testing pyramid indeed. So, the base of the
 pyramid is the unit testing and the base of the pyramid is a bit larger because
@@ -317,8 +316,8 @@ Some people prefer not to focus on unit tests, but focus more on integration and
 system tests. I belong to the team unit testing. So, in my book, I do recommend
 people to try to focus on unit testing as much as possible, the reason being I
 believe that if you design your code, well, the core of your system, the
-important parts of your system will be just a bunch of for loops and if's 
-and data structures being manipulated. 
+important parts of your system will be just a bunch of for loops and if's
+and data structures being manipulated.
 
 And those can be easily tested with unit testing and by easily, I mean,
 it's super easy and fast to write a test, they run super fast.
@@ -326,8 +325,8 @@ You can quickly explore different corner cases.
 You know, it's super easy to just instantiate a class, put some values in
 column methods.
 
-That is why I prefer unit [00:16:43] testing. But that requires though, 
-that you develop your system with this, you know, unit testing, 
+That is why I prefer unit [00:16:43] testing. But that requires though,
+that you develop your system with this, you know, unit testing,
 the stability in mind, and this is not always easy. Why do some people prefer integration testing? and they
 have a point there because, you know, in lots of types of systems we do, a lot
 of the bugs only happen when you put components together.
@@ -338,19 +337,19 @@ will only happen with certain combination of things. And if you're really
 mocking out components, you know, when testing one component, you kind of mock
 the rest, maybe you're going to miss the cool stuff, right?
 
-So that's why some people like integration testing. And to be honest, I think we 
-should do all of them. My suggestion is focus a lot on unit testing, ensure that 
-your small units, small components are super well tested via unit tests, and then 
+So that's why some people like integration testing. And to be honest, I think we
+should do all of them. My suggestion is focus a lot on unit testing, ensure that
+your small units, small components are super well tested via unit tests, and then
 go for integration testing, maybe even system testing to explore things you cannot
 explore with unit tests.
 
 Those are more expensive. So maybe you have to prioritize a little bit more,
 which test cases you're going to write with all the levels are important. Then
-the challenge is to find when to write which type of tests. 
+the challenge is to find when to write which type of tests.
 
 [00:18:03] **Michaela:** And is your book going into that a little bit?
-Is it giving some guidance for developers on when to write which tests? And 
-do we get some examples? 
+Is it giving some guidance for developers on when to write which tests? And
+do we get some examples?
 
 [00:18:12] **Mauricio:** Yeah, it does. Right in chapter one already, I have a huge
 discussion on the testing pyramids. And then I say, you know, based on my experience,
@@ -358,20 +357,20 @@ when I go for unit testing, when I go for integration testing. And then in
 chapter nine. So, one before the last chapter of my book, is all dedicated to
 integration and system testing.
 
-[00:18:32] **Michaela:** Yeah, that's good. 
+[00:18:32] **Michaela:** Yeah, that's good.
 
 [00:18:33] **Mauricio:** That is a bit tricky, right? Because when it comes to
 integration testing and system testing, it's then, to me, highly contextual.
-So, if we're developing a microservices type of application, you may 
+So, if we're developing a microservices type of application, you may
 have some best practices there.
 If we're developing a mobile [00:18:46] application, maybe you have
 another set of practices.
 
-So I tried to make a more generic discussion, you know, on integration testing. 
+So I tried to make a more generic discussion, you know, on integration testing.
 
 [00:18:54] **Michaela:** So, you were also talking about something that I
 want to explore a little bit and that's testability, right?
-So, you were saying, well, it's a little bit harder to make things 
+So, you were saying, well, it's a little bit harder to make things
 testable and, and, you know, you have to have testability in, in mind.
 
 What does testability even mean and what do design principles, software design
@@ -381,12 +380,12 @@ integration and system tests or ...
 
 [00:19:24] **Mauricio:** Yeah, a good question. I think, he testability rules,
 if I can call them like that, are not so complicated, but it's super hard to
-apply them once you start to develop more complex software, 
+apply them once you start to develop more complex software,
 because your mind is just full of other things to think about.
 
 But a testable system is just a system that is
 super easy for you to control. So I want to test this specific class or a
-specific component of my system, it's super easy for me to tell the component 
+specific component of my system, it's super easy for me to tell the component
 what I want it to do.
 
 And it's also easy to observe what this component is doing. So, after the
@@ -402,8 +401,8 @@ you gain some control. And so I feel like the most common anti-pattern I see
 there when it comes to testability is, you know, you're creating a class.
 
 You just make this class to depend on five other classes, but you don't give
-a way for the testing codes to control these things. 
-And this starts to accumulate, and this becomes like a snowball and 
+a way for the testing codes to control these things.
+And this starts to accumulate, and this becomes like a snowball and
 [00:20:47] it's super easy to lose control and then
 to never be able to write unit tests anymore. So that is rule number one.
 
@@ -413,7 +412,7 @@ see design for testability. So, it's not super complicated, but I feel we need
 to put a lot of efforts in making sure we are never forgetting to do these
 things.
 
-Does that make sense to you? 
+Does that make sense to you?
 
 [00:21:18] **Michaela:** Yeah, it makes sense. The question is a little bit, okay. We
 can create mocks. We can stop things. But first of all, it, it, it takes a lot
@@ -436,15 +435,15 @@ present, you know, the XML structure and so on changes. And then you have to go
 to your test code and to your marks and your stops and your, you know, dummy data.
 
 And, and change all of that. What can we do to, you know, make our lives a
-little bit easier here? Is there something, or is it we have to deal with it? 
+little bit easier here? Is there something, or is it we have to deal with it?
 
 [00:22:43] **Mauricio:** Yeah. Good question. So, I feel like if it's becoming
 boring for you to mock stuff, this is just the code telling you that
 there's something wrong, right?
 
-It shouldn't be hard to. So, usually my decision-making process is, if things 
-are hard to mock, are there, is there any other way for me to redesign things, 
-you know, maybe move some responsibility there, some other responsibility here 
+It shouldn't be hard to. So, usually my decision-making process is, if things
+are hard to mock, are there, is there any other way for me to redesign things,
+you know, maybe move some responsibility there, some other responsibility here
 so that the design of classes make mocking a little bit easier.
 
 That's number one. Number two is I feel like sometimes we have this idea that if
@@ -459,9 +458,9 @@ you know, classes together rather than one single class. That being said, some
 domains just are not unit testing friendly.
 
 And the domain you mentioned, mining repositories is it's one that is super close to my
-heart as well as a researcher. And so, when I'm doing these type of tools, 
+heart as well as a researcher. And so, when I'm doing these type of tools,
 where I extract data from git repositories, or I parse source code to come up
-with code metrics I don't write unit tests so much. So, I have a, I have a 
+with code metrics I don't write unit tests so much. So, I have a, I have a
 project in my github called CK, which is a code metric tool.
 
 It looks at the Java class and tells you the complexity, coupling and et cetera.
@@ -469,13 +468,13 @@ I don't mock stuff. Because it just makes no sense. It was super hard for me.
 
 So, 90% of the tests there are integration tests. So, there's also, you know,
 these type of domains where you should go for integration tests because they
-will pay better. 
+will pay better.
 
 [00:24:24] **Michaela:** Yeah. Yeah. I think that's a very pragmatic
-answer. I like it very much (*laugh*). I also, in this, in this kind of situations I
+answer. I like it very much (_laugh_). I also, in this, in this kind of situations I
 heavily rely on integration tests, but I actually also write a lot of unit tests
 for things that are easier to unit tests.
- 
+
 But if I see that it's really hard now, I change my method and do something that
 I feel, is a little bit [00:24:48] more meaningful also from a maintenance
 perspective, right? So, maintainenance, I think is also something and maybe
@@ -483,7 +482,7 @@ something that I want to talk with you about. Maintainenance, I think goes hand 
 with test code because we have to maintain test code, right?
 
 If you don't maintain it, and if it's really hard to do it, you are not doing it.
-You are disabling the tests (*laugh*). I know it. I did it right (*laugh*). At one point, you're
+You are disabling the tests (_laugh_). I know it. I did it right (_laugh_). At one point, you're
 just giving up on it and to say, okay, do i comment it out, do I delete it, or
 the worst thing is commenting it out right?
 
@@ -529,7 +528,7 @@ positive? And we had like a cost benefit analysis where we said,
 Well, every time it fails for no good reason. It's a cost that we incur because
 we have to go and investigate and find out actually nothing happened. And then
 for every time it actually finds it back. We tried to estimate. You know, how
-much did that actually help us now? Right? So, how much how much did we save 
+much did that actually help us now? Right? So, how much how much did we save
 and so for each of those tests, we had a profile on, you know, from past runs
 and we looked at that, I mean, it was again, obviously an automatic approach.
 
@@ -541,7 +540,7 @@ really often and, you know, you just realize nothing happened.
 
 And it actually doesn't really find anything, right? Or the other thing is,
 well, it fails quite a bit, but it also finds quite a lot of things. So, we
-still think you should keep it or, you know, go and improve it and so on. 
+still think you should keep it or, you know, go and improve it and so on.
 So yeah, this is something that came up from my mind when you were talking
 about flaky tests. Is that something that you have ever looked at?
 
@@ -565,12 +564,12 @@ the build because of a flaky test, you're breaking the entire organization.
 Right? And you don't want to do this. So, separating them from, from the tests
 that are not flaky is something super smart that Adyen does. Yeah. That's very
 cool. Yeah. Yeah. So, I feel like as soon as your software gets that big,
-you're not going to be able to avoid flaky tests. So, you have to learn how to 
+you're not going to be able to avoid flaky tests. So, you have to learn how to
 live with them.
 
 And I wrote a blog post about some smart stuff I saw not only at Adyen, but in
 industry in general, we have to get used to them. The more complex we do
-software, the more we're going to see. 
+software, the more we're going to see.
 
 [00:29:54] **Michaela:** . I will link that in the show notes. So
 Mauricio maybe the last thing that we want to let our listeners know again, is
@@ -584,12 +583,11 @@ so you have double the chance to win the book. And so, yeah, with that thank
 you so much Mauricio. I think it was a super great interview. I learned so much,
 I heard so much from you.
 
-And I think my listeners as well, so thank you so much for being on my show. 
+And I think my listeners as well, so thank you so much for being on my show.
 
 [00:30:34] **Mauricio:** Thank you, Michaela again for the invitation. I
-loved it. 
+loved it.
 
-[00:30:38] **Michaela:** Yeah, it was really great. Okay. Bye. Bye. 
+[00:30:38] **Michaela:** Yeah, it was really great. Okay. Bye. Bye.
 
-[00:30:41] **Mauricio:** Bye. 
-
+[00:30:41] **Mauricio:** Bye.

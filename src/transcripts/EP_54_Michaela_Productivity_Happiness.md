@@ -7,7 +7,7 @@ type: transcript
 
 [00:00:00] Hello and welcome to the software engineering unlocked podcast. I'm your
 host, Dr. McKayla, and today I want to talk about whether happy developers are
-more productive. That would be awesome, right? 
+more productive. That would be awesome, right?
 
 But before we start, let me tell
 you about an amazing startup that is sponsoring this episode. Codiga. Codiga is a
@@ -21,7 +21,7 @@ faster. Find and share safe and reusable blocks of code within your favorite IDE
 on demand while you're coding.
 
 Codiga also offers a great free plan, So there is nothing that stops you from giving
-it a try. Learn more at [Codiga.io](https://www.codiga.io/?utm_source=podcast&utm_medium=social&utm_campaign=se_unlocked). 
+it a try. Learn more at [Codiga.io](https://www.codiga.io/?utm_source=podcast&utm_medium=social&utm_campaign=se_unlocked).
 That is [Codiga.io](https://www.codiga.io/?utm_source=podcast&utm_medium=social&utm_campaign=se_unlocked).
 
 But now back to exploring the
@@ -502,4 +502,3 @@ thank you for listening. Don't forget to subscribe and I will talk to you in two
 weeks.
 
 Bye.
-

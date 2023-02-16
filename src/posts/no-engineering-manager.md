@@ -1,27 +1,27 @@
 ---
-title: 'Being an engineering manager wasn’t for me'
-date: '2022-07-28T12:23:18+00:00'
+title: "Being an engineering manager wasn’t for me"
+date: "2022-07-28T12:23:18+00:00"
 status: publish
 permalink: /no-engineering-manager
 author: michaela
-excerpt: 'Nicolas Dular shares why he wasn''t happy as an engineering manager, even though he always dreamt of becoming one.'
+excerpt: "Nicolas Dular shares why he wasn't happy as an engineering manager, even though he always dreamt of becoming one."
 type: post
 id: 122179
 thumbnail: ../uploads/2022/07/Nicolas-Dular.jpeg
 category:
-    - Hiring
-    - 'Tech Career'
+  - Hiring
+  - "Tech Career"
 tag: []
 post_format: []
 _yoast_wpseo_primary_category:
-    - '14'
+  - "14"
 _yoast_wpseo_content_score:
-    - '60'
+  - "60"
 audio: "https://cdn.simplecast.com/audio/aaca909a-e34f-49ae-a86f-f59e4fa807f0/episodes/1386fdd3-fc37-47f1-a93a-b6ba8194bb0f/audio/ce6ae4c5-8b78-4d77-96e6-e106d43e2346/default_tc.mp3"
 secondline_themes_header_image:
-    - 'https://www.software-engineering-unlocked.com/wp-content/uploads/2022/07/Nicolas-Dular-Engineering-Manager.jpg'
+  - "https://www.software-engineering-unlocked.com/wp-content/uploads/2022/07/Nicolas-Dular-Engineering-Manager.jpg"
 _yoast_wpseo_metadesc:
-    - 'Nicolas Dular shares why he wasn''t happy as an engineering manager, even though he always dreamt of becoming one.'
+  - "Nicolas Dular shares why he wasn't happy as an engineering manager, even though he always dreamt of becoming one."
 ---
 
 <div class="episode-about">
@@ -58,7 +58,7 @@ Nicolas Dular, is a senior full-stack engineer at GitLab, about his experience o
 
 <div class="sponsorship">
 Book your <a href="https://www.michaelagreiler.com/workshops">awesomecodereview.com</a> workshop!
-</div> 
+</div>
 
 <br/>
 <div>
@@ -95,7 +95,6 @@ Book your <a href="https://www.michaelagreiler.com/workshops">awesomecodereview.
       </div>
 </div>
 <br/>
-
 
 ## Read the whole episode "Being an engineering manager wasn't for me" (Transcript)
 

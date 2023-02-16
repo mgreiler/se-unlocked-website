@@ -19,7 +19,6 @@ audio: https://cdn.simplecast.com/audio/aaca90/aaca909a-e34f-49ae-a86f-f59e4fa80
 post_header_image: ../uploads/2019/10/Alper_BG_Blog_SOFTWARE-ENGINEERING-Unlocked.jpg
 ---
 
-
 <div class="episode-about">
 In this episode, I talk to Alper Kemal Koç, who was the first engineer building a low code platform called Kuika, that helps users develop mobile applications.
 <br/><br/>
@@ -29,6 +28,7 @@ In this episode, I talk to Alper Kemal Koç, who was the first engineer building
 <br/>
 
 We also talk about:
+
 <ul>
 <li> why and how he joined this startup,</li>
 <li> how he decided on the right tech stack,</li>
@@ -85,8 +85,4 @@ Book your <a href="https://www.michaelagreiler.com/workshops">awesomecodereview.
 
 ## Read the whole episode "Being the first engineer at a startup with Alper Kemal Koç" (Transcript)
 
-
 _\[Improve this transcript on [Github](https://github.com/mgreiler/se-unlocked/tree/master/Transcripts)_[.](https://github.com/mgreiler/se-unlocked/tree/master/Transcripts)\]
-
-
-

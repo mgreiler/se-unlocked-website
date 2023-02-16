@@ -25,8 +25,8 @@ In this episode, I talk to Scott Hanselman, a partner product manager at Microso
 <iframe class="video" src="https://www.youtube-nocookie.com/embed/zdRIY5SzdxE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
 <br/>We also talk about:
+
 <ul>
 <li> how it is to work remotely for Microsoft,</li>
 <li> how to get such a remote position at Microsoft,</li>
@@ -44,8 +44,6 @@ In this episode, I talk to Scott Hanselman, a partner product manager at Microso
 <a href="https://www.hanselman.com/blog/ScottHanselmansCompleteListOfProductivityTips.aspx">productivity tips</a><br/>
 <a href="https://www.youtube.com/watch?v=FS1mnISoG7U">talk about productivity</a><br/>
 <a href="https://www.hanselman.com/">Scott Hanselman</a><br/>
-
-
 
 </div>
 

@@ -19,11 +19,12 @@ secondline_themes_header_image_id:
   - "1234"
 post_header_image: ../uploads/2020/08/Kent-Doods-Bg.jpg
 ---
+
 <div class="episode-about">
 In this episode, I talk to Kent C. Dodds, a software engineer, and teacher. Before starting his entrepreneurial journey, Kent has been working for PayPal.
 
-
 <br/> <br/>We also talk about:
+
 <ul>
  <li> best practices in testing modern software systems,</li>
   <li> the testing pyramid and it’s “successor” the testing trophy,</li>

@@ -4,17 +4,15 @@ date: "2023-01-18T01:53:31+00:00"
 status: publish
 permalink: /mastering-difficult-job-search
 author: michaela
-excerpt: 'Heather Reid shares how she mastered a difficult job search journey in tech.'
+excerpt: "Heather Reid shares how she mastered a difficult job search journey in tech."
 type: post
 thumbnail_alt: "Picture of Heather Reid"
 thumbnail: Heather_Reid.jpg
 audio: https://cdn.simplecast.com/audio/aaca909a-e34f-49ae-a86f-f59e4fa807f0/episodes/9c52a714-a011-4951-b2c6-3ff99bf16be5/audio/f80fc010-c5ef-40c3-b322-da6bb5f7457c/default_tc.mp3
-category:
-  ["Hiring", Testing, "Women in Tech"]
+category: ["Hiring", Testing, "Women in Tech"]
 tag: []
 post_format: []
 ---
-
 
 <div class="episode-about">
 Heather Reid shares her difficult job search journey and how she overcame self-doubt and kept trying until she found the perfect job. 
@@ -25,6 +23,7 @@ Although Heather had been active in the testing community for over a decade when
 </div>
 
 <br/>We also talk about:
+
 <ul>
 <li>bad interview experiences</li>
 <li>why she was seen as "too long gone" in testing</li>
@@ -36,7 +35,7 @@ Although Heather had been active in the testing community for over a decade when
 
 <div class="sponsorship">
 Earn additional income by sharing your opinion on <a href="https://www.userinterviews.com/hello">userinterviews.com</a>!
-</div> 
+</div>
 
 <div class="episode-links">
 <b>Episode Resources:</b><br/>
@@ -55,8 +54,8 @@ Heather Reid is a Test Engineer at Glofox. Before that she was the community bos
 </div>
 </div>
 
-
 <br/><br/>
+
 <div class="episode-chapters">
 <p><b>Episode Chapters: </b> <br/>
 00:00 Introduction <br/>
@@ -77,6 +76,7 @@ Heather Reid is a Test Engineer at Glofox. Before that she was the community bos
 </div>
 
 <br/><br/>
+
 <div>
   <h2>Other episodes you'll enjoy</h2>
   <br/>
@@ -116,4 +116,3 @@ Heather Reid is a Test Engineer at Glofox. Before that she was the community bos
 ## Read the whole episode (Transcript)
 
 _\[Improve this transcript on [Github](https://github.com/mgreiler/se-unlocked/tree/master/Transcripts)_[.](https://github.com/mgreiler/se-unlocked/tree/master/Transcripts)\]
-
