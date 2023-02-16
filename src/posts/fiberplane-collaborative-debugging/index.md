@@ -4,26 +4,26 @@ date: "2022-11-16T11:53:31+00:00"
 status: publish
 permalink: /fiberplane-collaborative-debugging
 author: michaela
-excerpt: 'Micha shares how and why he build a devops tool called Fiberplane.'
+excerpt: "Micha shares how and why he build a devops tool called Fiberplane."
 id: 66
 type: post
 thumbnail_alt: "Picture of Micha Hernandez van Leuffen"
 thumbnail: Fiberplane_Micha.jpg
 audio: https://cdn.simplecast.com/audio/aaca909a-e34f-49ae-a86f-f59e4fa807f0/episodes/3cdb61d4-08a8-420a-889d-95e470195348/audio/c55a2717-ee88-4f42-80af-38273b0a96ef/default_tc.mp3
-category:
-  [DevOps, Productivity, Startup, Testing]
+category: [DevOps, Productivity, Startup, Testing]
 tag: []
 post_format: []
 ---
 
 <div class="episode-about">
-Micha Hernandez van Leuffen shares how and why he built Fiberplane, a platform for collaborative debugging notebooks.<br/> <br/> 
+Micha Hernandez van Leuffen shares how and why he built Fiberplane, a platform for collaborative debugging notebooks.<br/> <br/>
 
 <div class="video-container">
 <iframe class="video" src="https://www.youtube-nocookie.com/embed/WOKAOW24I-Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 <br/> <br/>We also talk about:
+
 <ul>
 <li>the idea behind collaborative debugging notebooks,</li>
 <li>how Fiberplane can help resolve incidents faster and blamelessly,</li>
@@ -88,8 +88,6 @@ This episode is sponsored by <a href="https://fiberplane.com/">Fiberplane</a>. Y
 </div>
 <br/>
 
-
 ## Read the whole episode (Transcript)
 
 _\[If you want, you can help make the transcript better, and improve the podcast’s accessibility via_ [Github](https://github.com/mgreiler/se-unlocked/tree/master/Transcripts)_[.](https://github.com/mgreiler/se-unlocked/tree/master/Transcripts) I’m happy to lend a hand to help you get started with pull requests, and open source work.\]_
-

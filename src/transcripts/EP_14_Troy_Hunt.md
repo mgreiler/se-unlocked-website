@@ -7,7 +7,7 @@ type: transcript
 
 **Michaela:** [00:00:02] Hello and welcome, to the Software Engineering Unlocked podcast. I'm your host, Dr. McKayla. And today I have the pleasure to talk to Troy Hunt. But before I introduce Troy, let me tell you a little bit about myself. For several years, I've been working with Microsoft to help engineering teams be more effective and efficient.
 
-I worked on solutions to improve, build, test and culture tools and processes at Microsoft. In fact, I worked with all major product teams such as Office, Windows, Visual Studio to help them get better results. Since 2018, I work with engineering teams all over the world through workshops and consultancy. 
+I worked on solutions to improve, build, test and culture tools and processes at Microsoft. In fact, I worked with all major product teams such as Office, Windows, Visual Studio to help them get better results. Since 2018, I work with engineering teams all over the world through workshops and consultancy.
 
 In my code review workshops teams identify bottlenecks in the engineering processes and learn how to resolve them.
 
@@ -15,7 +15,7 @@ Everything I teach is based on proven best practices for code reviews that have 
 
 If you want to learn more, have a look at my website at michaelagreiler.com/workshops or write me an email at michaela@michaelagreiler.com so and now onto Troy. Well Troy Hunt is a leading security expert. Through his online security workshops and his various online courses at Pluralsight, he has helped already hundreds of thousands of engineers understand the ins and outs of security.
 
-He also developed the popular website, haveibeenpwned.com where you can easily check if your data has been exposed to a data breach in the last years. Well, I could go on and on, but just let me say that I'm super excited to have Troy here with me. Thank you, Troy, for being on my show. 
+He also developed the popular website, haveibeenpwned.com where you can easily check if your data has been exposed to a data breach in the last years. Well, I could go on and on, but just let me say that I'm super excited to have Troy here with me. Thank you, Troy, for being on my show.
 
 **Troy:** [00:01:46] Hey, thank you for having me here.
 
@@ -23,7 +23,7 @@ He also developed the popular website, haveibeenpwned.com where you can easily c
 
 What do they need to know about data breaches and attacks to the software system? So maybe I want to start with the data breaches. And there's, it's almost like every week there's a new data breach where millions of records of personal data are leaked. And on one hand that's super scary. But on the other hand, I also think because it happens so often.
 
-People feel, I feel that people are getting a little bit blunt or debted by it. Maybe it's just me. It's almost like, well, it happened now for the fourth time in a row in a year, and nothing actually happened to me, for example. Right. So probably it's not that bad. What do you think about that? 
+People feel, I feel that people are getting a little bit blunt or debted by it. Maybe it's just me. It's almost like, well, it happened now for the fourth time in a row in a year, and nothing actually happened to me, for example. Right. So probably it's not that bad. What do you think about that?
 
 **Troy:** [00:02:47] Oh man, I wish it was only every week.
 
@@ -35,7 +35,7 @@ So people just getting so used to seeing data breaches all over the place that t
 
 So if we think about incidents such as in 2017 there were a couple of big ones that were handled very, very poorly. Equifax was not a very well handled data breach. The, the Uber situation was not a very well handled data breach and they got, they got rather slammed by the public. But then I'll say in other organizations, had data breaches and handled them exceptionally well and actually come out of it looking pretty good.
 
-So I think public sentiment has changed because it is happening so much. 
+So I think public sentiment has changed because it is happening so much.
 
 **Michaela:** [00:04:18] And do you think there is, you know, is that the right shift? Do you think it's just not preventable to have those data breaches or should organizations spend more and should technology be more involved to, you know, hinder data breaches or limit those.
 
@@ -45,9 +45,9 @@ So every one of these is due to a human error at some point. So yes, they are ab
 
 So, for example, password hashing is a really good example. Password hashing offers absolutely no security whatsoever. Until something else goes really badly wrong. So you've got to have a SQL injection vulnerability, or back your database up publicly facing and put it in the root of your website and someone downloads it.
 
-And then password hashing is useful. So that's a good example of, of where we implement security controls in layers of defense. With the expectation that some of them might go wrong. 
+And then password hashing is useful. So that's a good example of, of where we implement security controls in layers of defense. With the expectation that some of them might go wrong.
 
-**Michaela:** [00:05:39] And so you think that the attack surface has sort of stayed the same. It's just that 
+**Michaela:** [00:05:39] And so you think that the attack surface has sort of stayed the same. It's just that
 
 **Troy:** [00:05:45] it's getting massively bigger. So, I mean, have a think about it, right?
 
@@ -55,7 +55,7 @@ Like we've all seen stats about how many different Mac addresses there are out t
 
 There's so many connected things. It's just become a joke. I saw where I saw one last week I spoke about, which was a, an IOT candle. So there is a Kickstarter to have a candle that you can light with real fire remotely. Oh my goodness. I know. So I, I ordered one because I was like, I've got to see this.
 
-You know, this is going to be amazing. Well, actually I was thinking, I'm going to take this to conferences. I'm going to talk about it, and it'd be really cool. But then I was like. Are you allowed to take that on a plane? I'm like, maybe I can't even put that on the plan. so that's amazing. Oh, well it's not just that, but you know, Hey, you're not meant to take like cigarette lighters on a plane. So I imagine it's similar to that. But, uh, yeah. Might find out soon. We'll see. Might have my candle confiscated. 
+You know, this is going to be amazing. Well, actually I was thinking, I'm going to take this to conferences. I'm going to talk about it, and it'd be really cool. But then I was like. Are you allowed to take that on a plane? I'm like, maybe I can't even put that on the plan. so that's amazing. Oh, well it's not just that, but you know, Hey, you're not meant to take like cigarette lighters on a plane. So I imagine it's similar to that. But, uh, yeah. Might find out soon. We'll see. Might have my candle confiscated.
 
 **Michaela:** [00:06:52] so. You have this website, where everybody can see if their email address was somehow connected to your data breach. It's called, have I been pwned? And I saw that. Well, one of the first steps that when you are a part of a data breach, what you do is you update your password, but what else would you recommend somebody to do?
 
@@ -75,19 +75,19 @@ And then what you do is you go and update your direct debits or anything else th
 
 And the only reason credit cards make such big headlines, and the only reason that they are constantly referred to and things like data breach disclosure notices is because PCI. Actually has the ability to effectively kill an organization. So every time a company's in a data breach, they're like, so you know, your email address and your password and your date of birth lists or stuff got exposed but good news, your credit card is fine.
 
-"But that's the thing I care the least about!", Ahh but you've got to remain PCI compliant, so you're pandering not to the individual, but to the payment card industry. 
+"But that's the thing I care the least about!", Ahh but you've got to remain PCI compliant, so you're pandering not to the individual, but to the payment card industry.
 
 **Michaela:** [00:09:51] Yeah, that's exactly what I wanted to ask you, because every time I get an email about a data breach, it also suggests slightly that I might not be impacted.
 
 So it never says you are not, or you are, it somehow, you know, it's between the line. It's like. Oh, there have been, you know, 300,000 records, but there are another 3 million that haven't been. And you know, it's more likely that you are not impacted. They're not. And so every time I get one of those, I'm like, probably it's not me, but I go and update my password.
 
-But yeah, I think that this is probably a good strategy also to make people feel secure even when they are not. 
+But yeah, I think that this is probably a good strategy also to make people feel secure even when they are not.
 
 **Troy:** [00:10:31] Yeah, it's, I always wonder as well, how much of this is lawyers, right? And so I, I actually had a conversation with a company today that's got a very unpleasant vulnerability. And then the guy I was speaking to, he said, look, my, my legal counsel internally has basically said, don't say anything.
 
 Don't do anything. And I'm like mate in this particular situation, if you don't do anything, you're going to have a really, really bad day. So lawyers. Very often I find really don't understand the industry and a lot of their guidance is out of step with reality. And yeah, a really interesting example of this is that so many times those individuals who break into websites, dumping data, redistributing it.
 
-They don't care. They're anonymous or they believe they're anonymous, they don't believe anything bad can happen. So all the legal constructs in the world make absolutely no difference to them. And this is where I think lawyers tend to lose the plot a bit. 
+They don't care. They're anonymous or they believe they're anonymous, they don't believe anything bad can happen. So all the legal constructs in the world make absolutely no difference to them. And this is where I think lawyers tend to lose the plot a bit.
 
 **Michaela:** [00:11:25] So what are some of the steps apart from updating your password that you would say people should take action on?
 
@@ -103,13 +103,13 @@ What will you do? And everyone all over the world says, Oh, I just capitalize th
 
 And everyone says, Oh, I just put a one on the end. So this classic view of what makes passwords strong is not really consistent with reality. So in a, in a perfect world, a strong password. If you want something that a human can actually type in is going to be something like a pass phrase, pick a few random words and combine those together.
 
-Or ideally you have a dedicated digital password manager and you generate the password and it's just going to be 20, 30, 40 random characters, however many you set it as, that is a strong password, and that's going to be unique as well. 
+Or ideally you have a dedicated digital password manager and you generate the password and it's just going to be 20, 30, 40 random characters, however many you set it as, that is a strong password, and that's going to be unique as well.
 
 **Michaela:** [00:13:47] So that's what I do. I have a dedicated password manager and I click every time I click the little generate button and something, you know, very unique and very obfuscated t comes out right?
 
 But I'm still like. I, it gives me a little bit of anxiety because first of all, I have a master password for that one, which is now in, it's super, super secret. And then the second one is if that company gets into data breach or you know, what happens if, you know, I don't think, I don't know exactly what could happen, but I'm not completely at ease.
 
-Do you think that I should just sleep very well? 
+Do you think that I should just sleep very well?
 
 **Troy:** [00:14:24] Well, the question that normally gets posed is people say, what happens if someone gets into my password manager and there's a really easy answer, you're screwed. Like you're going to have a really, really bad day. Now that I think that the reasonable question to ask here is what is the likelihood, like we know the impact is high, what's the likelihood? And this really depends on a combination of the password manager that you choose and the practices that you follow. So I use the password manager Onepassword. And there's a few key things there that people need to understand. So first of all, my master password alone is not sufficient.
 
@@ -123,7 +123,7 @@ So with all that in mind, I feel a lot more comfortable that if I follow good. I
 
 **Michaela:** [00:16:22] Okay. Yeah, that sounds good. I should probably switch my password manager. Um, one of the things I wanted to talk with you about, again from a end user perspective a little bit is data privacy. So I know that you are sharing a lot of your life also online via Twitter or via your personal blogs. How do you feel about that?
 
-What do you think, you know, is a good amount to share outside. are there some boundaries that you said. Did you say, well that's, that's something that I don't, you know, expose to the, to the outside world. 
+What do you think, you know, is a good amount to share outside. are there some boundaries that you said. Did you say, well that's, that's something that I don't, you know, expose to the, to the outside world.
 
 **Troy:** [00:16:57] Well, I think the first thing is, is that it's a very personal thing. Privacy means very different things to different people.
 
@@ -133,13 +133,13 @@ Uh, I know other people who at the other end of the spectrum where they, uh, the
 
 So for me, I think I'm probably somewhere in the middle there where I share aspects of my life, a lot of my professional life, uh, online. Certainly I share bits and pieces of my kids normally related to things in the industry. In fact, I wrote a blog post with this only about a week ago. But there are other things that are, that are happening in my life, which, which I've chosen not to share, that are very personal.
 
-Um, even maybe I'll share some of these things in the future, I don't know. But again, privacy is something that we all have to define for ourselves and then use the tools that we have appropriately in order to try and protect that privacy. 
+Um, even maybe I'll share some of these things in the future, I don't know. But again, privacy is something that we all have to define for ourselves and then use the tools that we have appropriately in order to try and protect that privacy.
 
 **Michaela:** [00:18:10] Yeah. And is there something that you think makes you vulnerable more, you know, like for example, your address where you live or, you know, so for example I'm also thinking constantly about, especially my kids, right?
 
 This is probably my biggest concern. You know, how much do I share online about my kids? And I'm not completely opposed to sharing anything. And there are pictures of my kids floating around on the internet, but still, every time it happens, I'm like. Am I okay with it? And it feels like I don't know exactly what, you know what could happen, and I feel probably nothing, but with AI and things like that, machine learning algorithms that are getting better every day, I'm not sure if I can predict the future enough, you know, to say, well, it's a safe choice to, to share, for example, pictures of my kids.
 
-Do you think that that has some, some foundation this way of thinking, or is it just a panic. 
+Do you think that that has some, some foundation this way of thinking, or is it just a panic.
 
 **Troy:** [00:19:07] I think the, the problem is, is that you represent that in a really binary fashion. Is it safe? Versus what? Like not safe. So if I put a photo of my kid on the internet, is everything going to be totally fine or is it going to be disastrous you know, is it going to possibly be somewhere in between?
 
@@ -149,23 +149,23 @@ Again, are going to be very, very different to ours. And I'll sort of lament a l
 
 I think the reality of it is, is that as, as people get older and generations, uh, retire and then disappear and new ones come in and they've never known a world that's different, they're going to have a very, very different view of things. Up until that point my view of things is that I'm going to, I'm going to share what I feel is necessary and fulfilling to my life and my kids' life, and that's going to be a little bit different to what some other people do.
 
-**Michaela:** [00:20:47] Yeah. Yeah. I think it's a good answer, and that's probably what I do as well because as I said, I share, but for each of the information that I share, I'm thinking. Should I or shouldn't I? Right. And I think it depends on the kind of information that, that you're sharing about your kids. 
+**Michaela:** [00:20:47] Yeah. Yeah. I think it's a good answer, and that's probably what I do as well because as I said, I share, but for each of the information that I share, I'm thinking. Should I or shouldn't I? Right. And I think it depends on the kind of information that, that you're sharing about your kids.
 
 **Troy:** [00:21:02] Well, I think conscious thought is, is a good thing, right?
 
-Like the fact that you're thinking is this a good idea or not? Right off the bat is good. There's a lot of other people who are not giving it any thought whatsoever, and they're the ones I worry about a little bit more. 
+Like the fact that you're thinking is this a good idea or not? Right off the bat is good. There's a lot of other people who are not giving it any thought whatsoever, and they're the ones I worry about a little bit more.
 
 **Michaela:** [00:21:18] Yeah. I'm, I'm evaluating on a case by case scenario.
 
 **Troy:** [00:21:23] and you know, like this. Anyone listening to this, will go, that makes a lot of sense.
 
-That's just a perfectly common sense approach. 
+That's just a perfectly common sense approach.
 
 **Michaela:** [00:21:30] Yeah. So I would like to go a little bit away from the end user perspective and look at the tech behind. So, well, we touched a little bit already on what happened. If a company has a data breach, what are the common things there that go wrong? I would like to understand it a little bit better.
 
 What should engineers know about, you know, software engineers know about data breaches, data privacy, security. So what, what should they know apart from, you know, very common things like SQL injection, cross site scripting, maybe failure to restrict access authentication and session management problems.
 
-Those are the things that come to my mind. But is there something else? What are the fundamentals that engineers should know. Well, 
+Those are the things that come to my mind. But is there something else? What are the fundamentals that engineers should know. Well,
 
 **Troy:** [00:22:12] probably the best place to start for engineers trying to figure out like what are the things that they need to look after. My applications is start with the OS top 10 so I was pissed.
 
@@ -177,7 +177,7 @@ And all of these vulnerabilities have really, really good explanations from OWOS
 
 I'm not responsible. That's handled somewhere else. Or, you know. This is only relevant when I would access user data, which I don't. And then if you, you know, dig it a little bit deeper. We understand that we are accessing user data quite often, but what do you think about this mindset? Is that something that you encounter as well?
 
-And how, how, how do you handle that in your workshop that are really focused on security? 
+And how, how, how do you handle that in your workshop that are really focused on security?
 
 **Troy:** [00:24:07] Well, firstly, I've got a special place in HaveIBeenPwned for these people. I've got, I've got a lot of cloud space. Yeah, I'm, I'm fine. If people want to have that attitude, Hey look, I've made a complete career out of people having that attitude.
 
@@ -189,7 +189,7 @@ As a collective whole, we can't just say chuck it over the fence and someone els
 
 It's the same. It is literally the same. There's absolutely no difference in the effort and in fact, I would argue that there are use cases where building resilient SQL injection code is actually more efficient if you're using object relational mappers or something like that. So I, I just don't see any good practical reason to have that attitude.
 
-I only see ignorance. 
+I only see ignorance.
 
 **Michaela:** [00:25:48] Yeah. Yeah, that's true. So I was thinking also about devops and now also dev-sec-ops, and it's more and more on the rise. Do you think that that's also one of the reasons why people have to know more about security than ever before, or does it stay the same? It's just a different mindset.
 
@@ -197,11 +197,11 @@ I only see ignorance.
 
 We, we do run the risk of circumventing what might've been a more formal security process in the past. Now, I think a lot of those formal processes have their own issues, but what it really does is highlight a shared responsibility thing again and say, Hey, you want to write software faster and release quickly?
 
-You're really going to need to buy into this security stuff because we can't go and manually penetration test every single release anymore. 
+You're really going to need to buy into this security stuff because we can't go and manually penetration test every single release anymore.
 
 **Michaela:** [00:26:54] Yeah, that's true. So if you are, I know you're consulting also with organizations, so what do you advise them about more formal strategies? What do you tell them?
 
-For example, about code reviews or security reviews? What are your advices in that area? 
+For example, about code reviews or security reviews? What are your advices in that area?
 
 **Troy:** [00:27:11] So I look at it in a little bit of a continuum about where we actually want to implement the each part of this. So, for example, developer education I think is absolutely critical. Now I have a vested interest because I run workshops and I have courses and all that sort of thing.
 
@@ -211,9 +211,9 @@ Now, they may be everything from code reviews to automated analysis. There are s
 
 I'm going to run all the automated tools over and have a report waiting for me in the morning. Fantastic. You can automate this stuff. And then I mentioned penetration testing before as well. Again, this is an important part of it to like build that into your life cycle at the right time because it is an expensive, very human intensive exercise, but that's great.
 
-And if you build it on top of automated testing and you build it on top of educated developers, the hope is is that these really expensive penetration testers are not going to find much. And if they do, it's going to be something really, really good. 
+And if you build it on top of automated testing and you build it on top of educated developers, the hope is is that these really expensive penetration testers are not going to find much. And if they do, it's going to be something really, really good.
 
-**Michaela:** [00:28:37] Yeah. One of the things that, um, baffles me since quite some time now is we're testing and now you say penetration testing, but all kinds of men will test actually, when do they take place and where do they have space in this continuous deployment, continuous delivery life cycle. You said you have to think about when you do it because it's expensive, but when you think are a good times to do it, is it daily or is it weekly or you know, how do you figure out what a good cycle would be for that? 
+**Michaela:** [00:28:37] Yeah. One of the things that, um, baffles me since quite some time now is we're testing and now you say penetration testing, but all kinds of men will test actually, when do they take place and where do they have space in this continuous deployment, continuous delivery life cycle. You said you have to think about when you do it because it's expensive, but when you think are a good times to do it, is it daily or is it weekly or you know, how do you figure out what a good cycle would be for that?
 
 **Troy:** [00:29:12] Well, ideally you want it to be a continuous process.
 
@@ -223,13 +223,13 @@ So, for example, at initial release or major revisions. Now, your problem here i
 
 But one of the principles that we've had a lot in the industry in recent years is this idea of shifting left. So if you pitch your software development life cycle and we go like all the way to the left hand side of the scale where like let's say the design phase, let's try and shift the security into design and get stuff right there rather than letting it filter through into build, deploy, sustain, all this sort of thing.
 
-**Michaela:** [00:30:24] And how would it look like, for example, how would security take place during the design? What would you think about? 
+**Michaela:** [00:30:24] And how would it look like, for example, how would security take place during the design? What would you think about?
 
 **Troy:** [00:30:32] Well, I mean, a good part of that is actually having a security review of the design now, that's the sort of thing that I'd love to see security teams involved in. So if you're in an organization that's large enough to have a dedicated team, get their input on that.
 
 So for example, are we storing passwords in what we now believe is the best practice today? Uh, are our password criteria. Correct. As per today's standards, that's something you can change at that design phase. What components are we going to use? Are we using any components with known vulnerabilities? I mean, that was one of the things in the OWOS top 10 how are you going to keep those components up to date?
 
-They're good discussions to have even before a line of code is written. 
+They're good discussions to have even before a line of code is written.
 
 **Michaela:** [00:31:08] So one of the things that I wanted to ask you about is about sensitive data. So for example, a lot of the companies like Facebook, Google, Twitter, and they have like, tons of relevant and highly sensitive data about millions of people worldwide.
 
@@ -239,7 +239,7 @@ What our people are doing, are they reading? You know, what's actually stored th
 
 Because if, even if a website is tracking, I think a large amount of these little websites and many of the websites are run by small businesses, I don't even think that they are looking at the collected data. So the data again feeds back to the large organizations that you know, have, have the power over that.
 
-What do you think about that? 
+What do you think about that?
 
 **Troy:** [00:32:28] Well, certainly one of the first things we gotta recognize when we talk about regulations in government, they're traditionally always behind the curve when it comes to technology, technology marches ahead at at an absolutely unprecedented price. And then government sort of tries to catch up and figure out what to do.
 
@@ -253,7 +253,7 @@ And look, we've obviously got regulations like GDPR, which are designed to try a
 
 **Michaela:** [00:34:06] Yeah, yeah, that's true. Maybe I want to switch it a little bit gears again. I want to talk about your, your career as well. So I would like to understand that a little bit more, how, everything started? So can you bring me back to the time when you were not as security expert, not as solidly donor, but you are just at the beginning of your journey to become one?
 
-Where were you in your life, you know, what was your, what did you think about, why would you do that and what were your first steps into that direction? 
+Where were you in your life, you know, what was your, what did you think about, why would you do that and what were your first steps into that direction?
 
 **Troy:** [00:34:39] Yeah. So look, I started out as a developer. I mentioned earlier, I was, I saw the internet when I was eighteen in the mid nineties and I just wanted to build software for the internet.
 
@@ -265,11 +265,11 @@ And that was sort of the, that a big, big chunk of my career as it's been more t
 
 So I, I did the other thing, I did the architecture thing and I missed the development so much that I started blogging and I started writing a lot of blogs about software related things, and one of those things was security and security just got a lot of traction.
 
-So every time I'd write about security, people like, Oh, this is amazing. You should do more of this. And I kind of know, okay, I'll do it a bit more of this. And I just found that there was a nation there which hadn't been met. 
+So every time I'd write about security, people like, Oh, this is amazing. You should do more of this. And I kind of know, okay, I'll do it a bit more of this. And I just found that there was a nation there which hadn't been met.
 
 **Michaela:** [00:36:29] Yeah. So it's really, you're, you're following what people wanted, wanted you to write about.
 
-And so when did you make the shift from being an employee to being self employed and saying, well, now I'm going all in. Have you had your Pluralsight courses already? Or you know, how, how does that, how did the dad change happen? 
+And so when did you make the shift from being an employee to being self employed and saying, well, now I'm going all in. Have you had your Pluralsight courses already? Or you know, how, how does that, how did the dad change happen?
 
 **Troy:** [00:36:51] So I've actually got a talk about this, it's a talk called hacker career. So if you do a Google for my name and hacker career, there's a YouTube video I've done a couple of times now.
 
@@ -281,7 +281,7 @@ And, um, you know, we, we really didn't see Ottawa and I was just hating the job
 
 It just didn't make sense. And that the joy of a redundancy is the company sort of saying, look, it's, it's not you, it's me. Right? Like they're going, yeah, you're fine. We just don't need the role anymore. And as such, we need to pay you a lot of money to go, which is good. So I got paid, I think it was almost like a couple of years worth of pay to go.
 
-And I managed a, at that time, my Pluralsight courses were going really, really well. So I just went and started doing that. And then. Heaps of other things on top of it. 
+And I managed a, at that time, my Pluralsight courses were going really, really well. So I just went and started doing that. And then. Heaps of other things on top of it.
 
 **Michaela:** [00:38:31] Yeah. I think that's a really good start. Many people would wish for. So there are actually several things. So your, your topic was being picked up by folks around the world.
 
@@ -307,7 +307,7 @@ There is no information about the tools that I have developed and, um, the thing
 
 Even if you do test a little bit as you're sad, it takes a lot of time, but maybe you don't have to produce each month a blogpost, but maybe you write something every half a year, and if you do that over a long time, it will come bound to a substantial portfolio that people can look at it and say, well, you did that.
 
-What do you think about that? 
+What do you think about that?
 
 **Troy:** [00:42:47] I think that the real key thing here is to, to have autonomy from your organization. Now that this doesn't have to be in conflict with your organization, whether it be a university or job you go to day in and day out, certainly doesn't have to be in conflict. It can be very complimentary, but you've got to think of yourself as an independent individual and an identity who's going to a job and one day it might be a different job, and if he can't do that, I think you really, you really carry forward, too big risk. An interesting story about this is that when Pfizer made these roles redundant, the, the way they did it is a week after Christmas in 2015.
 
@@ -321,11 +321,11 @@ You know, when you go to a meeting already crying, the outcome's probably not go
 
 I'm going to get up. And I remember saying like, can we just stop the bullshit and someone just psych? Clearly are you making jobs are done. Cause I'm quite okay with that. You know, I just want you to be honest about it. But I'll always remember how worried most of that room was because they didn't have that plan B. Their job was their life, and that to me, that Dutch has taught me a massively valuable lesson.
 
-**Michaela:** [00:45:06] Yeah, yeah. I was definitely that person. You know, they're just very, very focused and dedicated to one thing and somehow blindsided. Right? On one end, because I don't think that this dedication is from Marshall sites. Especially for lateral organization. Right. So, yeah, I think that's a very valuable obsession. Yeah. 
+**Michaela:** [00:45:06] Yeah, yeah. I was definitely that person. You know, they're just very, very focused and dedicated to one thing and somehow blindsided. Right? On one end, because I don't think that this dedication is from Marshall sites. Especially for lateral organization. Right. So, yeah, I think that's a very valuable obsession. Yeah.
 
 **Troy:** [00:45:26] No, you're, you're, you're right. And, and look at it, it might be that your boss loves you, right? Like the, you could have a fantastic relationship, but your boss is another individual within a larger organization that in certainly in a case like Pfizer might be making decisions multiple levels up the chain on the other side of the world, based on numbers in a spreadsheet.
 
-And it doesn't matter how much you love the place or how much you think your boss loves you. That is not going to save you when an accountant does the numbers and decides that they need to cut heads. 
+And it doesn't matter how much you love the place or how much you think your boss loves you. That is not going to save you when an accountant does the numbers and decides that they need to cut heads.
 
 **Michaela:** [00:45:53] Yeah, and it also doesn't, you know, you have no influence over what your boss is going to do. Right? Maybe your manager is leaving, going some Burrell's being pre placed their reorgs.
 
@@ -333,7 +333,7 @@ There is so little control that you have over what's actually happening, but I t
 
 So I think that's really a really good, really good lesson. So are you, you're still doing a Pluralsight courses. There are many other platforms, course platforms out there. How would you make a choice, if you are a new trainer, a new teacher, how would you make the choice nowadays to think about where should I put my courses?
 
-How did you make your choice back then? 
+How did you make your choice back then?
 
 **Troy:** [00:46:47] Well, I made that choice back in 2012 and the way I might it was was pretty simple. I read a news article about another author who was doing exceptionally well. He was making like $1 million a year out of Pluralsight courses, and I saw that and I went, Oh, that might, that sounds good.
 
@@ -347,7 +347,7 @@ The way they publish content, the way they monetize a Pluralsight worked well fo
 
 You've got to sort of think about, do you want to be on a tech platform or do you want to be on just a, just a massive e-learning platform of which tech is one thing . So there are lots of different decisions for someone to make. And of course there's always the route of self publishing and then there's all sorts of other things you can do independently of courses and videos as well.
 
-**Michaela:** [00:48:48] And do you think it's still a very viable career choice to do that, or is the market somehow saturated with online courses because 2012 I think it looked quite different on, you know, the amount of courses that there were and the impact that you could have with creating one course or five courses. 
+**Michaela:** [00:48:48] And do you think it's still a very viable career choice to do that, or is the market somehow saturated with online courses because 2012 I think it looked quite different on, you know, the amount of courses that there were and the impact that you could have with creating one course or five courses.
 
 **Troy:** [00:49:07] I think it would be hard to do the same thing today.
 
@@ -355,19 +355,19 @@ So it even, for me, I think, I think it'd be hard if, if I was, yeah, let's say 
 
 And the, I guess the only reason I sort of hesitate is that no matter what the industry is as one opportunity declines, there are always others that emerge and there are lots of other ways of making money online, becoming independent, getting your content out there. There are a lot of other ways today than what there were before.
 
-There's probably lots of things that I haven't even thought of as well. So I don't think that the way I did it in 2012 is the way to do it today. But that's not to say that there's not still great opportunities. 
+There's probably lots of things that I haven't even thought of as well. So I don't think that the way I did it in 2012 is the way to do it today. But that's not to say that there's not still great opportunities.
 
 **Michaela:** [00:49:55] And do you have some idea of what are the, in your mind, the best opportunities that are right now there for people?
 
 **Troy:** [00:50:03] Well, that would be giving my secrets away.
 
-It does really depend. So obviously I think a lot about what makes sense for me. Uh, you know, one of the biggest opportunities for me in terms of a combination of the effort required and then the exposure, and then the return on the effort is the workshops. Because I've just, I've created the content, I don't do any preparation,I turn up in a bank for two days. I talk, I leave, I send a bill job done. 
+It does really depend. So obviously I think a lot about what makes sense for me. Uh, you know, one of the biggest opportunities for me in terms of a combination of the effort required and then the exposure, and then the return on the effort is the workshops. Because I've just, I've created the content, I don't do any preparation,I turn up in a bank for two days. I talk, I leave, I send a bill job done.
 
-It's actually super, super easy, but that's something which is going to be a lot harder for some other people to do the conference speech. I do a lot of commercial conference talks these days because there are companies that run events that, That a commercial in nature and they want someone who can keynote and scare people about cyber things. 
+It's actually super, super easy, but that's something which is going to be a lot harder for some other people to do the conference speech. I do a lot of commercial conference talks these days because there are companies that run events that, That a commercial in nature and they want someone who can keynote and scare people about cyber things.
 
-And that, you know, that seems to be something I can do these days. So everyone's got to sort of find, not so much what, what the thing is that that works across the board, but what's the thing that leverages their expertise. 
+And that, you know, that seems to be something I can do these days. So everyone's got to sort of find, not so much what, what the thing is that that works across the board, but what's the thing that leverages their expertise.
 
-I found that, that my expertise was around how I communicate and present, and that's worked really well for me. Other people's expertise might be around the, the depth of their technical knowledge, you know, like find the thing that works for you. 
+I found that, that my expertise was around how I communicate and present, and that's worked really well for me. Other people's expertise might be around the, the depth of their technical knowledge, you know, like find the thing that works for you.
 
 **Michaela:** [00:51:18] Yeah. I think also you are in really different place right now because I'm being, you know, a thought leader already.
 
@@ -385,7 +385,7 @@ Uh, I'm conscious that I've got, uh, a platform and a bit of a megaphone now. So
 
 Uh, some people are very unhappy actually, that I, that I have the ability to do that, that they get upset with for shame. But, uh, I've got a blogpost that I don't really care about that .
 
-**Michaela:** [00:53:33] I will link all the progress you mentioned in the show notes. 
+**Michaela:** [00:53:33] I will link all the progress you mentioned in the show notes.
 
 **Troy:** [00:53:35] So I actually think that having a platform and a voice and then being in an influencer position, it can really allow you to do some pretty awesome things.
 
@@ -399,11 +399,11 @@ So here's, here's the data. The data is from this website. Uh, this is a server 
 
 So I thought it would be worthwhile having an included, never been paid. And this one's only got about 7,000 records or something in there. So I might not even be able to justify doing anything with it, which is a really kind of sad thing to say, but it all is inbound, so it's always people popping up, sending me DMS or sending me emails or encrypted chat messages going, Hey, here is more data.
 
-**Michaela:** [00:55:15] Okay. And then do you pointed to a server where you can, for example, download the data or how does that work? 
+**Michaela:** [00:55:15] Okay. And then do you pointed to a server where you can, for example, download the data or how does that work?
 
 **Troy:** [00:55:20] Yeah, so very often, and as I've done a number of talks where I explain and show this, but very often people will do things like put it on Mega.nz. So, Mega.nz is a really great file sharing platform though.
 
-They'll drop the data in there and then they'll send me a link and then I'd download it and verify it. And if it's all legit, load it up. 
+They'll drop the data in there and then they'll send me a link and then I'd download it and verify it. And if it's all legit, load it up.
 
 **Michaela:** [00:55:39] Okay. Yeah, that sounds, sounds interesting process. So there's also a lot of manual actually work involved from your side too, to have that website running. Is there, do you have any plans for that backside point of future?
 
@@ -417,16 +417,14 @@ And, uh, I wrote about that at the time, and literally today have been writing t
 
 In fact, I read a blog post, the blog post for everything you can clear this one, which was around, uh, in fact, I wrote, I think it was the last day of 2018 it was around fundamental financial tips for technology professionals, a bunch of stuff in there. All right, cool. So that, yes, man, every time I do something of like a soft skill nature, people find it really interesting.
 
-So maybe there's a lesson there for me. Um, so I would encourage people to read that, think about what they're doing in the industry and the amazing opportunities they get working tech. 
+So maybe there's a lesson there for me. Um, so I would encourage people to read that, think about what they're doing in the industry and the amazing opportunities they get working tech.
 
 **Michaela:** [00:57:37] Yeah. Yeah. That's, I think that's a very good, clear thing. Things. Um, I read that blog post, it was amazing. I will also link it down there.
 
 So thank you Troy for being on my show today. It was really a pleasure.
 
-**Troy:** [00:57:47] My pleasure to be here. Thank you.  
+**Troy:** [00:57:47] My pleasure to be here. Thank you.
 
-**Michaela:** [00:57:51] Yeah, thank you. I hope you enjoyed another episode after stuff engineering unlocked podcast. Don't forget to subscribe and I talk to you again in two weeks. 
+**Michaela:** [00:57:51] Yeah, thank you. I hope you enjoyed another episode after stuff engineering unlocked podcast. Don't forget to subscribe and I talk to you again in two weeks.
 
 **Troy:** [00:58:01] Bye.
-
- 

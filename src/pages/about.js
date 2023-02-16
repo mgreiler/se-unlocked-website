@@ -4,7 +4,6 @@ import { StaticImage } from "gatsby-plugin-image";
 import { Container } from "react-bootstrap";
 import Seo from "../components/seo";
 
-
 export default function About() {
   return (
     <Layout>

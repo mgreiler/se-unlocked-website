@@ -86,7 +86,6 @@ Book your <a href="https://www.michaelagreiler.com/workshops">awesomecodereview.
 </div>
 <br/>
 
-
 ## Read the whole episode "How to succeed building developer tooling with Peter Pezaris" (Transcript)
 
 _\[Improve this transcript on [Github](https://github.com/mgreiler/se-unlocked/tree/master/Transcripts)_[.](https://github.com/mgreiler/se-unlocked/tree/master/Transcripts)\]

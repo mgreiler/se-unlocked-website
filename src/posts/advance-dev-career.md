@@ -1,25 +1,25 @@
 ---
-title: 'How to advance your developer career'
-date: '2022-06-29T11:45:00+00:00'
+title: "How to advance your developer career"
+date: "2022-06-29T11:45:00+00:00"
 status: publish
 permalink: /advance-dev-career
 author: michaela
-excerpt: 'How to overcome common limiting beliefs that software engineers have.'
+excerpt: "How to overcome common limiting beliefs that software engineers have."
 type: post
 id: 122139
 thumbnail: ../uploads/2022/06/Dagna-Bieda.jpg
 category:
-    - 'Company Culture'
-    - Entrepreneurship
-    - Hiring
-    - 'Women in Tech'
+  - "Company Culture"
+  - Entrepreneurship
+  - Hiring
+  - "Women in Tech"
 tag: []
 post_format: []
 audio: https://cdn.simplecast.com/audio/aaca909a-e34f-49ae-a86f-f59e4fa807f0/episodes/976b6107-6a6b-4ad8-80f9-2cb521600f54/audio/1982ddf3-a565-4fc0-93ca-2962ae6e87c4/default_tc.mp3
 enclosure:
-    - "https://cdn.simplecast.com/audio/aaca909a-e34f-49ae-a86f-f59e4fa807f0/episodes/976b6107-6a6b-4ad8-80f9-2cb521600f54/audio/1982ddf3-a565-4fc0-93ca-2962ae6e87c4/default_tc.mp3\n28710994\naudio/mpeg\na:2:{s:8:\"duration\";s:8:\"00:29:54\";s:8:\"explicit\";s:1:\"0\";}"
+  - "https://cdn.simplecast.com/audio/aaca909a-e34f-49ae-a86f-f59e4fa807f0/episodes/976b6107-6a6b-4ad8-80f9-2cb521600f54/audio/1982ddf3-a565-4fc0-93ca-2962ae6e87c4/default_tc.mp3\n28710994\naudio/mpeg\na:2:{s:8:\"duration\";s:8:\"00:29:54\";s:8:\"explicit\";s:1:\"0\";}"
 secondline_themes_header_image:
-    - 'https://www.software-engineering-unlocked.com/wp-content/uploads/2022/06/Dagna-Bieda-SE-Unlocked.jpg'
+  - "https://www.software-engineering-unlocked.com/wp-content/uploads/2022/06/Dagna-Bieda-SE-Unlocked.jpg"
 ---
 
 <div class="episode-about">
@@ -30,6 +30,7 @@ Dagna Bieda, a career coach for software engineers, shares her signature framewo
 </div>
 
 <br/>We also talk about:
+
 <ul>
 <li> How Dagna experienced a plateau in her career as a software engineer</li>
 <li> What she did to overcome this stagnation</li>
@@ -87,4 +88,3 @@ This episode is sponsored by <a href="https://www.tonic.ai/?ref=se-unlocked">Ton
 ## Read the whole episode "What hinders your career as a developer? - Mindset." (Transcript)
 
 _\[Improve this transcript on [Github](https://github.com/mgreiler/se-unlocked/tree/master/Transcripts)_[.](https://github.com/mgreiler/se-unlocked/tree/master/Transcripts)\]
-

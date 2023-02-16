@@ -1,7 +1,7 @@
 ---
 title: "Running a successful dev shop without a CS degree"
 date: "2021-08-31T11:37:03+00:00"
-updated: '2023-01-04T09:36:15+00:00'
+updated: "2023-01-04T09:36:15+00:00"
 status: publish
 permalink: /javascript-community
 author: michaela
@@ -44,7 +44,6 @@ Tracy Lee talks about starting and running a widely successful dev shop without 
 <a href="https://www.ladyleet.com/">This Dot Labs Website</a><br/>
 </div>
 
-
 <div class="row pt-2 align-items-center">
     <div class="col-4 guest-picture">
     <img src="../uploads/2021/08/Tracy-Lee.jpg" alt="Tracy Lee Founder of This Dot Labs"/>
@@ -54,7 +53,6 @@ Tracy Lee talks about starting and running a widely successful dev shop without 
       Tracy Lee is the CEO and co-founder of This Dot Labs. She is also a speaker, conference organizer, blogger, and widely known in the JavaScript community.
     </div>
 </div>
-
 
 <div class="sponsorship"> Today’s episode is sponsored by <a href="https://codesubmit.io/" target="_blank" rel="noreferrer" >CodeSubmit</a> – the best take-home assignments for your tech hiring! </div>
 <br/>

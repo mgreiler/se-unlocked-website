@@ -80,5 +80,4 @@ Book your <a href="https://www.michaelagreiler.com/workshops">awesomecodereview.
 
 ## Read the whole episode "Building a developer community with Sandeep Panda" (Transcript)
 
-
 _\[Improve this transcript on [Github](https://github.com/mgreiler/se-unlocked/tree/master/Transcripts)_[.](https://github.com/mgreiler/se-unlocked/tree/master/Transcripts)\]

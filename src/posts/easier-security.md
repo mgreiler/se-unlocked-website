@@ -1,31 +1,31 @@
 ---
-title: 'Making security easier for developers'
-date: '2022-08-19T11:37:19+00:00'
+title: "Making security easier for developers"
+date: "2022-08-19T11:37:19+00:00"
 status: publish
 permalink: /easier-security
 author: michaela
-excerpt: 'Harshit Chitalia talks about how we can make security easier for developers'
+excerpt: "Harshit Chitalia talks about how we can make security easier for developers"
 type: post
 id: 122201
 thumbnail: ../uploads/2022/08/Harshit-Chitalia.png
 category:
-    - DevOps
-    - Entrepreneurship
-    - Security
-    - Testing
+  - DevOps
+  - Entrepreneurship
+  - Security
+  - Testing
 tag: []
 post_format: []
 _yoast_wpseo_primary_category:
-    - '21'
+  - "21"
 _yoast_wpseo_content_score:
-    - '60'
+  - "60"
 audio: "https://cdn.simplecast.com/audio/aaca909a-e34f-49ae-a86f-f59e4fa807f0/episodes/0e929d5a-97e6-44b7-98a6-9488a74e4769/audio/7ab6e57c-6830-4aa0-9e49-5c6510fe17da/default_tc.mp3"
 secondline_themes_disable_img:
-    - 'on'
+  - "on"
 secondline_themes_header_image_id:
-    - '122215'
+  - "122215"
 secondline_themes_header_image:
-    - 'https://www.software-engineering-unlocked.com/wp-content/uploads/2022/08/Harshit-Chitalia-Bg.jpg'
+  - "https://www.software-engineering-unlocked.com/wp-content/uploads/2022/08/Harshit-Chitalia-Bg.jpg"
 ---
 
 <div class="episode-about">
@@ -87,4 +87,3 @@ Book your <a href="https://www.michaelagreiler.com/workshops">awesomecodereview.
 ## Read the whole episode "Making security easier for developers" (Transcript)
 
 _\[If you want, you can help make the transcript better, and improve the podcast’s accessibility via_ [Github](https://github.com/mgreiler/se-unlocked/tree/master/Transcripts)_[.](https://github.com/mgreiler/se-unlocked/tree/master/Transcripts) I’m happy to lend a hand to help you get started with pull requests, and open source work.\]_
-

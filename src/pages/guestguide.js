@@ -3,7 +3,6 @@ import Layout from "../components/Layout";
 import { Container } from "react-bootstrap";
 import Seo from "../components/seo";
 
-
 export default function GuestGuide() {
   return (
     <Layout>

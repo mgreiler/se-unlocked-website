@@ -28,6 +28,7 @@ In this episode, I talk to Derrick Stolee, a principal software engineer at Micr
 </br>
 
 We also talk about:
+
 <ul>
 <li> his career switch from being a professor to become a software engineer at Microsoft,</li>
 <li> what it means to contribute to open-source during your worktime for Microsoft,</li>

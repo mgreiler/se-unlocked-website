@@ -4,7 +4,7 @@ permalink: /getting-ready-for-a-billion-dollar-business
 status: publish
 type: transcript
 ---
- 
+
 **Michaela:** [00:00:00] Hello and welcome to the software engineering unlocked
 podcast. I’m your host Dr. Mckayla and today I have the pleasure to talk to Max
 Stoiber.

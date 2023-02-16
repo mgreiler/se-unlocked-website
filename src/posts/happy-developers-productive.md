@@ -1,32 +1,32 @@
 ---
-title: 'Are happy developers more productive?'
-date: '2022-02-02T11:02:10+00:00'
+title: "Are happy developers more productive?"
+date: "2022-02-02T11:02:10+00:00"
 status: publish
 permalink: /happy-developers-productive
 author: michaela
-excerpt: 'Are happy developers more productive? Let''s look at some research together and explore whether happiness and satisfaction affect developer productivity.'
+excerpt: "Are happy developers more productive? Let's look at some research together and explore whether happiness and satisfaction affect developer productivity."
 type: post
 id: 121851
 thumbnail: ../uploads/2022/02/happy_more_productive.jpg
 category:
-    - 'Company Culture'
-    - Productivity
-    - 'Women in Tech'
+  - "Company Culture"
+  - Productivity
+  - "Women in Tech"
 tag: []
 post_format: []
 _yoast_wpseo_primary_category:
-    - '15'
+  - "15"
 _yoast_wpseo_content_score:
-    - '60'
+  - "60"
 _yoast_wpseo_metadesc:
-    - 'Are happy developers more productive? Let''s look at some research together and explore whether happiness and satisfaction affect developer productivity.'
+  - "Are happy developers more productive? Let's look at some research together and explore whether happiness and satisfaction affect developer productivity."
 audio: "https://cdn.simplecast.com/audio/aaca909a-e34f-49ae-a86f-f59e4fa807f0/episodes/130a6709-2e54-4309-b3cd-3a3a195eb6d5/audio/7679499b-f1db-4003-a02c-df863255a50b/default_tc.mp3"
 secondline_themes_header_image_id:
-    - '121889'
+  - "121889"
 secondline_themes_header_image:
-    - 'https://www.software-engineering-unlocked.com/wp-content/uploads/2022/02/happy_productive_devs.jpg'
+  - "https://www.software-engineering-unlocked.com/wp-content/uploads/2022/02/happy_productive_devs.jpg"
 secondline_themes_disable_img:
-    - 'on'
+  - "on"
 ---
 
 <div class="episode-about">
@@ -59,7 +59,7 @@ Dr. Michaela Greiler makes code reviews a team's superpower through her code rev
 
 <div class="sponsorship">
 Today’s episode is sponsored by <a href="https://www.codiga.io/?utm_source=podcast&utm_medium=social&utm_campaign=se_unlocked"><u>Codiga</u></a> a smart coding assistant and automated code review platform.
-</div> 
+</div>
 
 <br/>
 <div>
@@ -100,5 +100,3 @@ Today’s episode is sponsored by <a href="https://www.codiga.io/?utm_source=pod
 ## Read the whole episode "Are happy developers more productive?" (Transcript)
 
 _\[If you want, you can help make the transcript better, and improve the podcast’s accessibility via_ [Github](https://github.com/mgreiler/se-unlocked/tree/master/Transcripts)_[.](https://github.com/mgreiler/se-unlocked/tree/master/Transcripts) I’m happy to lend a hand to help you get started with pull requests, and open source work.\]_
-
- 

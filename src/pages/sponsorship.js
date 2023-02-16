@@ -14,10 +14,10 @@ import twitter from "../images/twitter-logo-sm-blue.png";
 export default function Sponsorship() {
   return (
     <Layout>
-       <Seo title="Sponsor the Software Engineering Unlocked Podcast" />
+      <Seo title="Sponsor the Software Engineering Unlocked Podcast" />
       <div className={styles.sponsor_container}>
         <h1>
-        Reach developers with a heart for developing high-quality software!
+          Reach developers with a heart for developing high-quality software!
         </h1>
       </div>
       {/*section1*/}
@@ -40,7 +40,9 @@ export default function Sponsorship() {
               provide high-quality training and education resources such as
               courses or books, or,
             </li>
-            <li>offer high-quality products that are beneficial for developers.</li>
+            <li>
+              offer high-quality products that are beneficial for developers.
+            </li>
           </ul>
         </div>
       </div>
@@ -92,12 +94,23 @@ export default function Sponsorship() {
             <Col sm={12} md={6} lg={6}>
               <p className={styles.italic}>
                 {" "}
-                We sponsored SE Unlocked when launching our public beta and found it to be a smooth and worthwhile experience. The collaboration was highly pleasant, from first contact until the release and distribution of the episode, with a fast turnaround time. The ability to present our product in a 45 min episode allowed us to really dive deep into the product and was a great fit for the launch.
-Michaela proactively provided us with a thought-provoking interview outline and worked with us to fine-tune it. As the interview was only scripted enough to spark the initial conversation, we were able to present our product authentically and this made the episode educational and informative for the listener
-Michaela was a great interviewer too; overall we had a fantastic experience and would easily recommend SE Unlocked.
+                We sponsored SE Unlocked when launching our public beta and
+                found it to be a smooth and worthwhile experience. The
+                collaboration was highly pleasant, from first contact until the
+                release and distribution of the episode, with a fast turnaround
+                time. The ability to present our product in a 45 min episode
+                allowed us to really dive deep into the product and was a great
+                fit for the launch. Michaela proactively provided us with a
+                thought-provoking interview outline and worked with us to
+                fine-tune it. As the interview was only scripted enough to spark
+                the initial conversation, we were able to present our product
+                authentically and this made the episode educational and
+                informative for the listener Michaela was a great interviewer
+                too; overall we had a fantastic experience and would easily
+                recommend SE Unlocked.
               </p>
               <p className={styles.italic}>
-              Elena Boroda, Head of Marketing at Fiberplane
+                Elena Boroda, Head of Marketing at Fiberplane
               </p>
             </Col>
           </Row>
@@ -118,25 +131,32 @@ Michaela was a great interviewer too; overall we had a fantastic experience and 
         <div className={styles.sponsor_container}>
           {" "}
           <h3>Why advertise on the SE Unlocked podcast?</h3>
-          <br/>
+          <br />
           <p>
-          The main positive effects of sponsoring the Software Engineering podcasts is to be able 
-          to <i>build brand awareness</i>, <i>create a positive association</i> with the product, and <i>reach a very targeted audience</i>. 
+            The main positive effects of sponsoring the Software Engineering
+            podcasts is to be able to <i>build brand awareness</i>,{" "}
+            <i>create a positive association</i> with the product, and{" "}
+            <i>reach a very targeted audience</i>.
           </p>
-          <br/>
+          <br />
           <p>
-          You have to imagine that podcast listeners have a very strong relationship with the podcast and with me as the host. 
-          They spend several hours per month listening to my show, and the audience is highly educated and often in a position 
-          to make purchasing decisions in their company. This is also the reason why it's important that there is a great 
-          match between your product and my audience. 
+            You have to imagine that podcast listeners have a very strong
+            relationship with the podcast and with me as the host. They spend
+            several hours per month listening to my show, and the audience is
+            highly educated and often in a position to make purchasing decisions
+            in their company. This is also the reason why it's important that
+            there is a great match between your product and my audience.
           </p>
-          <br/>
+          <br />
           <p>
-          Another benefit that previous sponsors reported is <i>link building</i>. 
-          After sponsoring the episodes, sponsors reported that their backlink profile had had a nice push. 
-          Finally, podcasts also work for <i>direct response advertising</i>, meaning generating clicks on your website or purchases. 
-          Yet, as listeners are often not on their devices but instead listening carefully, this is harder to measure as 
-          they often visit the website later on (and not through a trackable link). 
+            Another benefit that previous sponsors reported is{" "}
+            <i>link building</i>. After sponsoring the episodes, sponsors
+            reported that their backlink profile had had a nice push. Finally,
+            podcasts also work for <i>direct response advertising</i>, meaning
+            generating clicks on your website or purchases. Yet, as listeners
+            are often not on their devices but instead listening carefully, this
+            is harder to measure as they often visit the website later on (and
+            not through a trackable link).
           </p>
         </div>
       </div>
@@ -161,31 +181,40 @@ Michaela was a great interviewer too; overall we had a fantastic experience and 
           </p>
         </div>
       </div>
-            {/*section Ad Formats*/}
-            <div className={styles.section_2}>
+      {/*section Ad Formats*/}
+      <div className={styles.section_2}>
         <div className={styles.sponsor_container}>
           {" "}
           <h3>Advertisement Options</h3>
           <p>
-          We offer two options for advertising with us: 60-second podcast advertisements (ad-spots), and 45-min sponsored episodes.
-          <br/>
+            We offer two options for advertising with us: 60-second podcast
+            advertisements (ad-spots), and 45-min sponsored episodes.
+            <br />
           </p>
-          <br/>
+          <br />
           <p>
-          <b>Ad-spots</b> are 60-second advertisements that play at the beginning of each show. 
-          During this time, we will promote your company and its products by highlighting the key features and benefits, 
-          as well as how listeners can find and purchase the product (website). <br/>
-          Ad-spots are best used for building brand awareness and can be most effective when aired multiple times in 
-          succession to help listeners remember the brand and product.
+            <b>Ad-spots</b> are 60-second advertisements that play at the
+            beginning of each show. During this time, we will promote your
+            company and its products by highlighting the key features and
+            benefits, as well as how listeners can find and purchase the product
+            (website). <br />
+            Ad-spots are best used for building brand awareness and can be most
+            effective when aired multiple times in succession to help listeners
+            remember the brand and product.
           </p>
-          <br/><br/>
+          <br />
+          <br />
           <p>
-          <b>Sponsored episodes</b>, on the other hand, are an entire episode dedicated to your company and its product. 
-          The episode will be approximately 45 minutes long and will delve into either the technical and engineering processes 
-          that went into creating the product, the ins and uts of the product, or the company's founding story. <br/>
-          Sponsored episodes are ideal for those who want to provide more in-depth information about their product, 
-          and build trust amongst the developer community. 
-          For example, Fiberplane used a sponsored episode to increase brand recognition.
+            <b>Sponsored episodes</b>, on the other hand, are an entire episode
+            dedicated to your company and its product. The episode will be
+            approximately 45 minutes long and will delve into either the
+            technical and engineering processes that went into creating the
+            product, the ins and uts of the product, or the company's founding
+            story. <br />
+            Sponsored episodes are ideal for those who want to provide more
+            in-depth information about their product, and build trust amongst
+            the developer community. For example, Fiberplane used a sponsored
+            episode to increase brand recognition.
           </p>
         </div>
       </div>
@@ -196,8 +225,9 @@ Michaela was a great interviewer too; overall we had a fantastic experience and 
           <h3>Pricing</h3>
           <p>
             Because the best results for podcast advertisers are achieved when
-            the podcast sponsors appear on a few consecutive shows*, we highly encourage you
-            to book a multi-show-package and profit from the discounted rates.
+            the podcast sponsors appear on a few consecutive shows*, we highly
+            encourage you to book a multi-show-package and profit from the
+            discounted rates.
           </p>
           <ul>
             <li>Multi-show 3+ appearances — €540 Euro per show</li>
@@ -205,29 +235,47 @@ Michaela was a great interviewer too; overall we had a fantastic experience and 
             <li>Single show appearance — €850 Euro per show</li>
           </ul>
           <p>
-            When there is an excellent fit between your product and our audience, we allow you as a sponsored speakers, giving all the spotlight to
-            you for 45 minutes. A sponsored speaker episode costs €1490 Euros.{" "}
+            When there is an excellent fit between your product and our
+            audience, we allow you as a sponsored speakers, giving all the
+            spotlight to you for 45 minutes. A sponsored speaker episode costs
+            €1490 Euros.{" "}
           </p>
         </div>
       </div>
-        {/*section Why multiple ads*/}
-        <div className={styles.section_2}>
+      {/*section Why multiple ads*/}
+      <div className={styles.section_2}>
         <div className={styles.sponsor_container}>
           {" "}
           <h3>*The benefits of booking multiple ad-spots</h3>
-          <br/>
+          <br />
           <p>
             <ul>
-              <li><b>Increased brand recognition:</b> Booking multiple ad-spots in a row helps listeners become familiar 
-                with your brand and product, leading to increased recognition and recall.</li>
-                <li><b>Increased exposure:</b> Having multiple ad-spots allows for greater exposure to the target audience, 
-                 leading to increased brand awareness and increased conversion rates.</li>
-                <li><b>Improved cost-effectiveness:</b> Booking multiple ad-spots comes with a discount, 
-                  making it a more cost-effective way to reach your target audience compared to booking a single advertisement.</li>
-                <li><b>Reinforcement of key messages:</b> Booking multiple ad-spots reinforces key messages and features of the product, 
-                  helping to solidify the listener's understanding and recall of the product.</li>
-                <li><b>Building a relationship with the audience:</b> Consistently appearing in the listener's 
-                  feed can help establish a relationship with the audience and build trust in the brand.</li>
+              <li>
+                <b>Increased brand recognition:</b> Booking multiple ad-spots in
+                a row helps listeners become familiar with your brand and
+                product, leading to increased recognition and recall.
+              </li>
+              <li>
+                <b>Increased exposure:</b> Having multiple ad-spots allows for
+                greater exposure to the target audience, leading to increased
+                brand awareness and increased conversion rates.
+              </li>
+              <li>
+                <b>Improved cost-effectiveness:</b> Booking multiple ad-spots
+                comes with a discount, making it a more cost-effective way to
+                reach your target audience compared to booking a single
+                advertisement.
+              </li>
+              <li>
+                <b>Reinforcement of key messages:</b> Booking multiple ad-spots
+                reinforces key messages and features of the product, helping to
+                solidify the listener's understanding and recall of the product.
+              </li>
+              <li>
+                <b>Building a relationship with the audience:</b> Consistently
+                appearing in the listener's feed can help establish a
+                relationship with the audience and build trust in the brand.
+              </li>
             </ul>
           </p>
         </div>
@@ -249,8 +297,8 @@ Michaela was a great interviewer too; overall we had a fantastic experience and 
           <ul>
             <li>A one-minute sponsor spot at the beginning of the show .</li>
             <li>
-              A dedicated sponsorship section on the episode website page including a link to your website, and a
-              slogan.
+              A dedicated sponsorship section on the episode website page
+              including a link to your website, and a slogan.
             </li>
             <li>
               A sponsorship section within the show notes syndicated to podcast
@@ -275,7 +323,7 @@ Michaela was a great interviewer too; overall we had a fantastic experience and 
       {/*section9*/}{" "}
       <div className={styles.section_1}>
         <div className={styles.sponsor_container}>
-        <h3>Topics of the Software Engineering Unlocked podcast</h3>
+          <h3>Topics of the Software Engineering Unlocked podcast</h3>
           <p>
             The topics discussed in the podcast range from engineering
             methodologies to software engineering best practices, and experience
@@ -310,10 +358,10 @@ Michaela was a great interviewer too; overall we had a fantastic experience and 
           <p>
             Just within one year, the podcast has reached a wide audience of
             quality-focused software engineers and product-folks. The podcast
-            has been listened to over 160,000 times. Each episode averages around
-            1,500 listens. The number of listens each episode gets is quite
-            stable, showing a loyal, yet growing listener base. Some of the most
-            downloaded episodes reach around 5,000 people.
+            has been listened to over 160,000 times. Each episode averages
+            around 1,500 listens. The number of listens each episode gets is
+            quite stable, showing a loyal, yet growing listener base. Some of
+            the most downloaded episodes reach around 5,000 people.
           </p>
         </div>
       </div>
@@ -353,14 +401,12 @@ Michaela was a great interviewer too; overall we had a fantastic experience and 
         <div className={styles.sponsor_container}>
           <h1 className={styles.text_left}>Ready to increase your reach?</h1>
           <p className="mt-4">Interested in sponsoring? Send us an email at</p>
-          <p>
-              michaela [at] michaelagreiler [.] com
-          </p>
-          <br/>
-          <br/>
+          <p>michaela [at] michaelagreiler [.] com</p>
+          <br />
+          <br />
           <a href="https://code-review-workshop.typeform.com/to/Cap63J">
-              <button className={styles.button}>Let me sponsor!</button>
-            </a>
+            <button className={styles.button}>Let me sponsor!</button>
+          </a>
         </div>
       </div>
       <div className={styles.section_1}>
