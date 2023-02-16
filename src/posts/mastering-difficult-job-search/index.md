@@ -1,5 +1,5 @@
 ---
-title: "Mastering a difficult job search after a career break"
+title: "A soul-crushing job search"
 date: "2023-01-18T01:53:31+00:00"
 status: publish
 permalink: /mastering-difficult-job-search
