@@ -15,14 +15,14 @@ leveraged this AI, ML, augmented reality, blockchain, IOT, quantum computing, an
 even 5G. Wow! Before that he was a senior director of data science at Capitol. Yeah. Even
 before that he was a research nerd at IBM working on the Watson project. So what
 should I say? I'm so, so, so super straight to dig into all his experiences and
-his wisdom. So Patrick, welcome to the show. 
+his wisdom. So Patrick, welcome to the show.
 
 [00:00:41] **Patrick:** Thank you. I'm very happy to be here.
 
 [00:00:43] **Michaela:** Yeah, me too. I'm so, so happy. So what, what does it
 achieve data officer actually do what's that?
 
-[00:00:49] **Patrick:**  Yeah. Yeah. I know at a high level, you know,
+[00:00:49] **Patrick:** Yeah. Yeah. I know at a high level, you know,
 it's, it's an executive role that if you look at it, it means that I'm
 responsible for all the data aspects, but there's so many different aspects of
 data inside of today's companies, especially with the way that data fuels
@@ -46,15 +46,15 @@ data science, and machine learning. So sometimes you'll see that the chief data
 officer sometimes call the CEDAW, which is a chief data and analytics officer, so I have all those sets of responsibilities across the entire company that I have to work with. And that includes, you know, building the teams to
 work on that stuff, working with the existing teams and everything like that.
 But it's a, it's a whole lot of fun. And you don't really have routine days at
-this level. 
+this level.
 
 [00:02:15] **Michaela:** And so when you talk about compliance, the first thing
 that as a European comes to my mind is the GDPR compliance. Is that something
 that's interesting for US based folks? Are you, like for international company?
 Probably it is. Or sometimes they see the US you know, companies just ignore it
-at all. 
+at all.
 
-[00:02:35] **Patrick:** *chuckles* Yeah. As a company that operates internationally, we
+[00:02:35] **Patrick:** _chuckles_ Yeah. As a company that operates internationally, we
 can't ignore it. We wouldn't want to ignore it. It, it, it shows you know, our
 customers are asking for this.
 
@@ -62,7 +62,7 @@ So when it comes to filling out ropers, which is, you know, a record of
 processing for data and everything like that, like that stuff that rolls up to
 me and my team and I work with our legal team in order to get that sort of work done. So
 that is something that absolutely matters to us. And especially because in the
-United States, you're having individual states that are now enacting similar laws too. 
+United States, you're having individual states that are now enacting similar laws too.
 
 So, all of this means we have to be totally on the ball because operating in Europe and
 Singapore and China and Japan and Australia, New Zealand and the United States
@@ -77,7 +77,7 @@ baked into nearly everything.
 annoying, I think about all of that, I think are those pop up messages that you
 have to accept the cookies, which you anyway do right. Accept all these cookies, but now you're having this really
 annoying pop-ups everywhere. What do you think about that? I began getting this
-soon 
+soon
 
 [00:03:50] **Patrick:** you know, the, the, the cookie. So those are the cookie
 banners. I've seen something where most people just kind of click through that.
@@ -102,9 +102,9 @@ certainly, you know, the cookie banners they're around, they're most likely
 going to be here to stay.
 
 We've tried things in the past with things going back 20 plus years, like P3P for privacy, we've tried, do not track and everything like that. And you know, it looks like the cookie banners about the best that, you know, it's, it's
-not what we need, but it's what we've deserved, I guess. *chuckles*
+not what we need, but it's what we've deserved, I guess. _chuckles_
 
-[00:05:11] **Michaela:** *laughs* At the moment that they offer you the choice to, you
+[00:05:11] **Michaela:** _laughs_ At the moment that they offer you the choice to, you
 know, just have the essentials or completely opt out. I think then it makes
 sense. But, many sites have just like, I accept that, right? Like there's one
 button. I accept them. Like I always clicked or they have like accepted or not
@@ -119,7 +119,7 @@ know, you know, so it's it's, it's it is it is a reasonable solution.
 
 It's one that obviously, you know, we try to make it easy for our customers to
 comply with. But is it the best solution? Is it the thing that I think everybody
-thought we were getting when, when these laws are drafted? I really hope not. 
+thought we were getting when, when these laws are drafted? I really hope not.
 
 [00:05:56] **Michaela:** So, You had like these three pillars and two of them were
 very business oriented, at least in my mind.
@@ -152,7 +152,7 @@ because it was like, it's like, this is like everything that I've wanted to do.
 Like, it's got a little bit of policy, it's got some technology and engineering
 and it's got machine learning all rolled into one, you know?
 
-And it was very like, I don't want to curse this by talking about it too. 
+And it was very like, I don't want to curse this by talking about it too.
 
 [00:07:32] **Michaela:** I can imagine. Yeah, it sounds really cool. I didn't
 know your background. Yeah. You know, with policies and all of that, but now
@@ -181,7 +181,7 @@ code reviews sometimes have data scientists in my, in my workshops. So how does
 the data science do code reviews? Very often people are working alone.
 
 What's your experience here? What do you think? Whereas data science and
-software engineering practices, where do they meet? Or can they meet or you know, work together? 
+software engineering practices, where do they meet? Or can they meet or you know, work together?
 
 [00:10:12] **Patrick:** Yeah. So I absolutely think that models need to have
 some sort of code review that's going on with them. But it has to be done a
@@ -210,7 +210,7 @@ down to dollars. Like everything gets boiled down to dollars eventually. And so
 you boil it down to dollars that you have at risk, if something goes wrong and
 then based on that, you determine how much you have to do. So it could just be
 that you have somebody who reads through your code,and, and, you know, it was like, okay, that's like a standard code for you,
-right. 
+right.
 
 Like you read through and get the code. And they're like, oh, well, did
 you know that you should really should be using this library a little
@@ -259,8 +259,8 @@ models in production, it's like double check and make sure that your assumptions
 were correct along the way.
 
 [00:13:52] **Michaela:** So, is that also going into how we actually build
-systems that support machine learning a little bit different than system that, you know, 
-support normal software. Is that, is that part of that? It sounds like. 
+systems that support machine learning a little bit different than system that, you know,
+support normal software. Is that, is that part of that? It sounds like.
 
 [00:14:06] **Patrick:** Yeah. So when, when I started building up machine
 learning models, like usually the, the model was shipped as part of the
@@ -303,9 +303,9 @@ and more distributed. We are remote. What does this even mean for data science
 project and software engineering projects? And, you know, like, I think before
 we could meet each other much easier and now it's getting harder.
 
-Do you see that also in your experience? 
+Do you see that also in your experience?
 
-[00:16:17] **Patrick:** *chuckles* Yeah. Especially joining a company during COVID
+[00:16:17] **Patrick:** _chuckles_ Yeah. Especially joining a company during COVID
 and I had made a big mistake, mistake in coming here and maybe it wasn't a
 mistake. It was just a lack of realization. So at Verizon, I probably onboarded
 50 or 60 people to my organization. Why. While COVID was raging.
@@ -333,7 +333,7 @@ chief architect and say, Hey, is this correct?
 
 Right. Because he's probably in another scheduled meeting. So writing that stuff
 down is a huge step forward when basically all the interactions are scheduled,
-right?  Probably the number one practice that teams can adopt and then also
+right? Probably the number one practice that teams can adopt and then also
 putting stuff into systems that grab. Automatically and identify who's
 responsible for things because the responsibility for these components of of an
 enterprise, it hasn't gone away.
@@ -356,7 +356,7 @@ your company doesn't have one, I highly recommend it because as a newbie it's
 been really helpful and it's even helpful to some of the old timers when I see
 folks pop in and like, yep.
 
-This, that was the exact question that I had. 
+This, that was the exact question that I had.
 
 [00:19:00] **Michaela:** Yeah, that's great. I mean, there are so many things
 that I want to touch base on. You're talking about SM Chronos and synchronous
@@ -371,7 +371,7 @@ communication, but I see that a lot of people actually, during the pandemic.
 
 Set more on synchronous conversation. So they have meeting all over the day.
 What is your stand on that? What do you think about synchronous versus
-asynchronous communication? 
+asynchronous communication?
 
 [00:19:48] **Patrick:** I think that it's hard to take a, it was
 hard enough to take a company that was used to all in-person collaboration and
@@ -483,8 +483,6 @@ balance like I kinda will get on people if I know they're working like more than
 40 hours a week and everything. Cause that's not going to be long-term
 productive either.
 
-
-
 [00:25:26] **Michaela:** Yeah. Yeah. I recently did a study and I was interviewing a
 software engineers and a lot of people talked about how they're working long
 hours now to compensate for different things. And a little bit, as you said,
@@ -514,7 +512,7 @@ where she worked the university, they didn't give those stipends to the faculty
 members to be more productive at home.
 
 So I think that's a small step that has gone a long way for a number of companies.
-[00:26:00] Yeah. 
+[00:26:00] Yeah.
 
 [00:27:00] **Michaela:** Yeah. And I think it's really short-sighted because it's a
 one time cost and it's really low, and that has tremendous compound effects
@@ -527,7 +525,7 @@ because even if they are not, if they need it and you don't take it, then they
 take it anyway.
 
 Right. They take it on your desk or on their desk at home and you don't, you
-don't see them working. So yeah, yeah. 
+don't see them working. So yeah, yeah.
 
 [00:26:45] **Patrick:** Yeah. Well, one of, one of the things that really
 impressed me or bright Cove when I was interviewing here is the fact that since
@@ -547,16 +545,16 @@ signal to everybody else.
 Hey, this is not the time to be working, going, you know, go and take advantage
 of it, go for a hike. And there's been a little bit of a culture of people
 sharing what they've been able to do to get outside, reconnect with other
-people. And it's been absolutely terrefic. 
+people. And it's been absolutely terrefic.
 
-[00:27:45] **Michaela:**  Yeah, I love that. So today I was listening to another
+[00:27:45] **Michaela:** Yeah, I love that. So today I was listening to another
 podcast and Nathan Barry was talking and he's the CEO of ConvertKit and he was
 talking about how he, when he scaled the company, he became insignificant that
 how he, he said, right.
 
 He said that he became insignificant because if he spends two more hours, you
 know, doing something grinding or, you know, 15 hours more this week, it didn't
-really move the needle for large companies, because, you know,  there, there are hundreds of
+really move the needle for large companies, because, you know, there, there are hundreds of
 people working. And how it's more powerful for him to go and, you know, have a walk and
 then be more strategic.
 
@@ -568,7 +566,7 @@ big believer in taking your time, taking time off if you need it.
 
 And coming back with more energy to, you know, to double the work or triple the
 work of what you would have done otherwise. Right. So what's this two hours.
-Enjoy it. Yeah. 
+Enjoy it. Yeah.
 
 [00:29:53] **Patrick:** Yeah, the number of great ideas I've had just by going
 for a run or going for a walk. And, you know, I really hope that, you know, once
@@ -579,7 +577,6 @@ coffee there. Cause a lot of my one-on-ones would be like, Hey, let's go and
 let's walk and go grab coffee while we're doing that. And just that culture
 moving away from the space that can put you in a different mindset is hugely valuable.
 
-
 [00:30:17] **Michaela:** Yeah. Yeah, that's true. So Patrick, before. Stop. I want
 to pick your brain a little bit about something else. It is going back to your
 expertise and you know, your academic career and your nerdiness actually about
@@ -588,7 +585,7 @@ take to build machine learning software?
 
 What has to be different? And also how can we make unbiased machine learning
 models or very often has to do with the data? Or how can, how can we ensure that
-we are building unbiased. software. 
+we are building unbiased. software.
 
 [00:30:51] **Patrick:** Yeah. So, so when you say machine learning software,
 you're talking about the models at the core. Are you talking about the software
@@ -602,9 +599,9 @@ things, but in an insurance company.
 
 And we want to make sure that whatever data we feed it. We know, you know, it's
 not making decisions that we wouldn't support in normal life, which I think a
-lot of touring company unfortunately make. 
+lot of touring company unfortunately make.
 
-[00:31:27] **Patrick:** *laughs* Yeah, well, I don't know. They might make those in
+[00:31:27] **Patrick:** _laughs_ Yeah, well, I don't know. They might make those in
 normal life too, that, that's a question you'll have to ask them about the
 optimization function.
 
@@ -670,7 +667,7 @@ first one is that data mastery step and a lot of data science like, oh, it's
 data munching. It's not a hyper parameter optimization, disco, dance party and
 everything like that.
 
-But without that, it's just way too easy to make big mistake. 
+But without that, it's just way too easy to make big mistake.
 
 [00:34:52] **Michaela:** Yeah. So I have one question for you now, because it's
 just popped in my head. So [00:34:00] you've said it's not fair for that person.
@@ -724,7 +721,7 @@ nerd nerdy side of you, are you missing that as a C level?
 Are you still doing that? Do you have those conversation? Do you dig deep and
 think about your models and these curves and how can we change it and improve
 it? And how can we even come up with better algorithms to do it right. Do you
-still have that part of your job or are you missing. 
+still have that part of your job or are you missing.
 
 [00:37:39] **Patrick:** So bright co fortunately is a small enough company where
 I still have that as part of my job, thankfully.
@@ -757,9 +754,9 @@ and take it all the way through to production?
 Very, very rarely. Cause you know, usually it's like, this is a POC and then you
 get somebody who's doing it full time that actually like. I know they're just,
 you know, swearing as they rewrite my code. But but I definitely, definitely
-miss that part of things. Like it's, it's a hard balance to walk 
+miss that part of things. Like it's, it's a hard balance to walk
 
-[00:39:18] **Michaela:** so do you miss 
+[00:39:18] **Michaela:** so do you miss
 
 [00:39:21] **Patrick:** Yeah, I definitely do. I think that especially with my
 wife being an academic and, and everything like that, you know, it's something
@@ -783,10 +780,10 @@ applied? If you're, if you, one of those people in grad school where you, you,
 you don't like the basic stuff, but you love the applied stuff.
 
 I think it's an easier transition. I liked a lot of the basic stuff and I think
-that's the part that's that's hard for me to. 
+that's the part that's that's hard for me to.
 
 [00:40:26] **Michaela:** But why did you transition out of academia anyway? Like
-why, why are you not a professor now, but you're a C level executive. 
+why, why are you not a professor now, but you're a C level executive.
 
 [00:40:34] **Patrick:** Yeah, I think it was an accident to be honest. I, I'm
 entirely honest when I say that.
@@ -825,7 +822,7 @@ you going to do with your career?
 
 And like, I don't know. I guess I kind of like your job and he's like, what do
 you mean by that? I'm like, I'm like, well, CTO of like a two to 3000 person
-company or brand or something like that. 
+company or brand or something like that.
 
 And I saw the position here at bright covenant really is basically kind of what
 I sketched out. Whatever it was eight years ago when I was sitting down with Rob
@@ -836,21 +833,21 @@ it's within the order of magnitude and everything like that.
 
 And so, yeah, so I'm here now and it's going to keep on being fun, but I
 wouldn't say that I ever consciously stepped away from it, which [00:42:00] is
-really. 
+really.
 
 [00:42:01] **Michaela:** Yeah. I mean, I think it's really good if you make a
 plan where you want to be, and then somehow over the years, I think it doesn't
 happen immediately for a few people.
 
 I think it happens immediately. It's more like a transition. Getting into that.
-I think for me, it took still in the process somewhere. 
+I think for me, it took still in the process somewhere.
 
 [00:42:21] **Patrick:** Cause you you're, you're sort of similar. I mean, you,
 you were, you were, you were this academic with this weird art background and
 everything like that, then you know that then you started doing research at
 Microsoft establish yourself as a world expert in code reviews.
 
-And you know, now you're kind of off on your own, you know, 
+And you know, now you're kind of off on your own, you know,
 
 [00:42:37] **Michaela:** And I think it's good. I, I really grew into that off
 on my own thing, even though I just did a research project just submitting the
@@ -864,7 +861,7 @@ more flexibility and that's why I went off on my own. When I did it, it was so
 scary that I couldn't even enjoy it. And now that I'm a little bit more settled,
 I'm like, really?
 
-Oh, I like it. It's probably 
+Oh, I like it. It's probably
 
 [00:43:14] **Patrick:** the right thing. .
 
@@ -876,18 +873,18 @@ maybe I will invite you again.
 
 And so we can talk a little bit more. Is there something that you think you want
 to. You know, tell my listeners that you want to give them on their way. If they
-are still searching for them. 
+are still searching for them.
 
 [00:43:48] **Patrick:** Boy, I guess the good thing is to be relentlessly
 curious and when you find something cool, remember that, that person who wrote
 that thing, that's really cool.
 
-If you email them a lot of times, they will [00:44:00] email you back. 
+If you email them a lot of times, they will [00:44:00] email you back.
 
 So like, don't be afraid to approach these people and to ask ask questions of
-them. 
+them.
 
 [00:44:06] **Michaela:** Yeah, that's a good, that's a very good advice. I love
-that. So thank you so much, Patrick, for being on my show and have a good day. 
+that. So thank you so much, Patrick, for being on my show and have a good day.
 
 [00:44:13] **Patrick:** Bye bye.

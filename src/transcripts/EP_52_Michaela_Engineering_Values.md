@@ -5,11 +5,10 @@ status: publish
 type: transcript
 ---
 
-
- **Michaela:** Hello, and welcome to the software engineering unlocked
+**Michaela:** Hello, and welcome to the software engineering unlocked
 podcast. I'm your host, Dr. McKayla, and today I want to talk with you about
 engineering values and how you can use them to build a really strong
-engineering culture. 
+engineering culture.
 
 But before I start, I wanted to ask you for a small favor. My
 biggest goal this year is to grow the podcast.
@@ -40,7 +39,7 @@ exact opposite sometimes, but atleast.
 I don't have to really tell you which company I'm talking about and you know it
 right. So it, it definitely communicate something. And I think for a long time,
 actually, this was really something that was lived or believed by the staff
-of the company as well. Right. Don't be evil, 
+of the company as well. Right. Don't be evil,
 
 I think, especially companies that care very much about their culture, they work
 really hard to have company values that are meaningful and that reflect how
@@ -65,13 +64,13 @@ will be even friendly to me.
 
 Right. And I haven't had that experience with many companies at that time. And
 only recently when Jeff Bezos actually get handed over his role to his
- successor, they added two new company values, core values, core
+successor, they added two new company values, core values, core
 principles. Do you know what they are? They are striving to be the Earth's best
 employer and success in scale brings broad responsibilities.
 
 Well, maybe that rings a bell, right? I think it's Amazon's response to the
 strong and very persistent criticism against their workplace and employment
-circumstances. Right. And especially amongst the employees that work in the 
+circumstances. Right. And especially amongst the employees that work in the
 warehouses, for example, if the company will really live up to those principles is
 yet to be seen, I really hope so.
 
@@ -79,7 +78,7 @@ But we can see that. Company values. I think they are, they are a little bit
 marketing material, but I also think that when they are putting that out there,
 it's a statement, right? It's a statement saying, well, this is actually
 important to us. And so if you have to make decisions inside now, you don't have
-this 14 principles, but you have 16 principles, 
+this 14 principles, but you have 16 principles,
 
 And two of them. Are those well, how are we doing as an employer? We want to be
 the earth's best employer. I mean, this is bold, a bold goal, right? And the other
@@ -115,7 +114,7 @@ engineering values can do? Engineering values should really help you
 
 define or answer some of the most difficult questions that we have as engineers
 that we face. Right. And this is not like oh should I use algorithm A or algorithm B
- it's more about what does quality actually mean to us or have we tested this enough.or
+it's more about what does quality actually mean to us or have we tested this enough.or
 how are we working in collaborating together? What engineering practices do we embrace?
 
 What does success even mean to us? And also what does it mean for an engineer to
@@ -125,7 +124,7 @@ mean as an engineer in our organisation?
 The challenge, as I said, comes from making them concrete enough that you can
 actually work with them in practice. I've seen so many really nicely formulated
 engineering practice, but they're very fluff. Do read nice, right? It's very
-motivational. The whole, we work well  together, but then the company
+motivational. The whole, we work well together, but then the company
 is failing to being specific what this means without being perscriptive again.
 
 . So I think what's important to find this right level of, you know, being
@@ -306,7 +305,7 @@ company values on a higher level, but we can break them down. And I think it's
 so important that we actually do that. I call them code review values.
 
 You can definitely have different values as well, but I think code review values is
- so important. And so what our code review values. With them, we define a common
+so important. And so what our code review values. With them, we define a common
 understanding of how we do code reviews and what we value doing cultural years.
 . So they can be seen as a more concrete instantiation of your, of your
 engineering values.
@@ -348,7 +347,7 @@ agrees that. Well, the most important thing for code during code review is
 correctness. And I agreed to her, you can actually flip it around and say, well,
 actually the most important thing for code reviews is readability.
 
-Not correctness. 
+Not correctness.
 
 And there, there are many reasons for that, right? First of all, code reviews
 are not the most effective tool to find bugs. Right. I wrote a paper on that
@@ -386,7 +385,7 @@ I'm really getting the money from the credit card, maybe their correctness
 and security is more important.
 
 For me in this, in this instance for this code review, then when I know I'm
-changing something. On the internal backside. 
+changing something. On the internal backside.
 
 It's really good to, to have discussions really, dig deep around engineering
 culture. What do we value? What's important to us and, and have your engineers
@@ -399,7 +398,7 @@ and being open, being aware and understanding what others are thinking.
 What's also really important is that this is not about conformity in
 general. Yes, we want conformity and consistency in our code base,
 we don't want, you know you know, 10,000 different ways for the architecture and
-everybody does their own thing. 
+everybody does their own thing.
 
 But the goal for our engineering values is to create a shared mindset. The
 mindset of togetherness, of alignness of belonging, right. Something that's
@@ -461,7 +460,7 @@ listening.
 
 What has everybody in this room to say, and can I try to understand as much as
 possible opposing views, contrarian ideas, right. And then only if we are slowly
-settling here, we can, you know, come together to have shared values 
+settling here, we can, you know, come together to have shared values
 
 To give you a headstart, right? If you want to, discuss a little bit engineering
 values, I started to create a list of companies that share the engineering
@@ -479,4 +478,3 @@ And, yeah, so, well, this brings me really to the end of the episode. I hope you
 enjoyed it. If you did, please do not forget to share it with a friend or two
 and also leave a good review on your favorite podcasting site. That would be
 wonderful. And thank you. Bye.
-

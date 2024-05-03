@@ -9,7 +9,7 @@ type: transcript
 I'm your host Dr. Michaela and today I have a special episode for you. Two weeks
 ago I talked with Liran haimovitch, the CTO of Rookout - an effortless debugging
 tool. Our conversation was so much fun and somebody on Twitter actually asked me
-if I could make it an episode, and I thought, well that's a brilliant idea. So, 
+if I could make it an episode, and I thought, well that's a brilliant idea. So,
 today I'm sharing my talk with Liran Haimovitch on the challenges and struggles
 for getting to high-quality software. Enjoy.
 
@@ -19,8 +19,8 @@ Uh, so let me introduce you to Dr. Michaela and Liran Haimovitch, the stars of
 today's webinar. Dr. Michaela has been helping software teams build high quality
 software in an efficient and effective way for 10 years, and her mission is to
 lead teams to unlock their full potential through company workshops and team
-coaching sessions. 
- 
+coaching sessions.
+
 Liran is the co-founder and CTO of Rookout, which is a live data collection and
 debugging platform. He's an advocate of modern software methodologies like
 Agile, Lean and DevOps, and his passion is to understand how software actually
@@ -34,7 +34,7 @@ You're on Michaela, please take it away.
 **Michaela:** [00:01:02] Thank you so much for your really nice and kind
 introduction. I'm really excited to talk with Liren today about, um, high
 quality code and get his whole perspective on this topic and pick his brain. So
-yeah, I'm really thrilled to be here. 
+yeah, I'm really thrilled to be here.
 
 **Liran:**[00:01:19] It's great to be here with you to discuss so many
 interesting topics.
@@ -66,10 +66,10 @@ way that's actually driving a lot more value. I guess the biggest challenge is
 actually, how, how do you do that? How can you keep moving ever faster? How can
 you deliver in smaller units while still keeping delivery efficient? And I found
 that one of the best way, the best way to start is quite often culture. And we
-talked a bit about you, eh, doing  some recent research for that. So I would
+talked a bit about you, eh, doing some recent research for that. So I would
 love to hear about that. What do you think about how best to build a better
 culture and how to promote a culture that deliver faster and deliver in smaller
-units of work? 
+units of work?
 
 **Michaela:**[00:03:34] Um, I'm a big advocate for, for great, uh, culture,
 right? Who isn't? Somehow everybody wants to work at the company that has a
@@ -136,7 +136,7 @@ production, where you stop the line. When you see something is wrong and you say
 you have the give a individual engineers or individual employees, the permission
 to call it; to stop the line and spend the time and efforts to improve things,
 even at the cost of lost productivity in the short term, because it allows for
-continuous improvement. 
+continuous improvement.
 
 **Michaela:**[00:08:09] Yeah, exactly. It's a really good analogy. Yeah.
 
@@ -179,7 +179,7 @@ understanding code is really, really hard and everybody has, um, everybody has a
 time pressure and you know, wants to deliver the features. And a lot of
 engineers say, well, you know, code review is good, but, uh, I actually have to
 deliver feature. So what's about the time that I have to spend on the code
-reviews somehow it's missing from my feature work and so on. 
+reviews somehow it's missing from my feature work and so on.
 
 And so having really empathy around that and the experience of myself, but also
 off my, off my team, that's already creating culture, um, and being extremely,
@@ -213,7 +213,7 @@ human beings. And as we were, many of us are working remotely quite often, or
 most of the time. We can often forget there is a person on the other, on the
 other side of it. And sometimes we kind of forget to act with empathy, with
 compassion, and while we may be factually, correct we're not creating a good
-experience for the person on the other side of that communication. 
+experience for the person on the other side of that communication.
 
 **Michaela:**[00:13:35] Yeah. And actually about the factually correct thing, I
 have learned over my, you know, my time in the industry that the seldom leader
@@ -233,7 +233,7 @@ but even if there is even if you there is, and you're convinced that there is in
 your, on that single spruce, it's still communication. And you must not forget
 that there are other things beyond fact, too, and more often than not, there are
 actually no facts and it's just your opinion, which might be very good and
-professional, but it's just an opinion. 
+professional, but it's just an opinion.
 
 **Michaela:**[00:14:59] Yeah, very true. And a lot of the time it's about
 strategies. And about the unknowns that you know, that the unknowns unknowns
@@ -357,7 +357,7 @@ the code change, you will have different answers to that, or this code review. I
 want that, you know, my junior engineer knows how that works. And so I'm sending
 it over or this, this code changes about how we are doing the checkout. So I
 definitely want, you know, two more eyes, um, to make sure that there are no, no
-defects going out. Right? 
+defects going out. Right?
 
 **Liran:**[00:23:47] Yeah. I mean, that sounds so complex. Can't we just
 automate this and install some tool and get it over with?
@@ -379,7 +379,7 @@ which is very unproductive in code reviews. Um, it doesn't matter. Like why
 would you have an engineer spend time on finding certain types of errors? If a
 tool could do it automatically? I'm I'm all for automation. I think it's so
 important to automate whatever you can automate here. Yeah. Are you using, are
-you using some automated tools in your pipeline? 
+you using some automated tools in your pipeline?
 
 **Liran:**[00:25:15] So yeah, we actually adopted a GitHub advanced security. A
 few months ago at Rookout. And it was actually a pretty good tool for us. It
@@ -421,7 +421,7 @@ feel like for, for existing code, it somehow has this, you failed here. Um, um,
 Psychological, uh, you know, by byproduct, but you'd be like, Oh, now I'm seeing
 what's all messy and you cannot really do it. Um, yeah. But yeah, it's good that
 it worked out. So apparently you could, could you remove all of the issues?
-Could you work through all of them? 
+Could you work through all of them?
 
 **Liran:**[00:28:26] So we got through, and I think 95% of them ere, there were
 some, a few areas where we decided that. That code is not going to be the nicest
@@ -439,7 +439,7 @@ We have like some, you know, some amount per sprint that you can use on that, or
 how do you, how do you even. Um, assess the value of working on this, uh, you
 know, technical, then you were talking like, Oh, we already okay with this part
 of the code base, but how do you assess that? And on a more strategical,
-systematic level, right? 
+systematic level, right?
 
 **Liran:**[00:29:34] Yeah. So I guess that's a two part question. And on the one
 part, we do have a strategy and I can talk about it a bit, but I think it goes
@@ -469,7 +469,7 @@ kind of manage tech debt on a, you know, quarterly on a quarterly roadmap. We
 have a very. Agile flexible quarterly roadmap while we manage our roadmap, eh,
 usual, all the rollout. And you also kind of add, you know, a handful of tasks
 for each team and full of mid-level mid large tasks for each team where they
-can, whether they should strive for a tech debt. And obviously, you know,tech 
+can, whether they should strive for a tech debt. And obviously, you know,tech
 debt usually comes last in priorities priorities. So it doesn't always get
 executed. A lot depends on the roadmap progress in general and especially on a.
 Eh, eh, new tasks that get pushed in from the sales team as well, working with
@@ -496,7 +496,7 @@ actually never really see it in the maintainance pace. Right. So do you see it
 when they're writing it? Maybe when you're releasing it. And so a lot of the,
 you know, like a lot of the, the. Code becomes tech debt, because the knowledge
 is actually gone from the organization that, you know, wrote that that code or,
-you know, can maintainer or understand it. What's your perspective on that? 
+you know, can maintainer or understand it. What's your perspective on that?
 
 **Liran:**[00:34:07] So there's actually at Rookout we've kind of we've wrote
 and talked a lot about understandability. It's exactly what you mentioned. It's
@@ -530,7 +530,7 @@ don't understand. I think observability tools, by the way, can provide you with
 some insights into how the code is walking. Right. Eh, but at the end of the
 day, nothing beats just debugging the code, stepping through it, see what, see
 the actual types and values of variables, seeing the inputs and outputs of the
-system and seeing it in action. That's the best way to understand the code. 
+system and seeing it in action. That's the best way to understand the code.
 
 **Michaela:**[00:36:45] Yeah. I think the too, when I was at the university of
 Victoria in Canada, um, I was doing a research sabbatical there. And they,
@@ -579,7 +579,7 @@ they're working on. Um, and so why it's slowing you down to do the reviews. It
 really speeds you up. Once you have to work in this pace, right. Or in this
 place off the copies, or if somebody leaves, you have other engineers that are
 also familiar with. With that. And so I think there are other benefits that are
-really, really, um, really important here. Yeah. 
+really, really, um, really important here. Yeah.
 
 **Liran:**[00:40:19] Yeah. I Michaela, I'm hearing here speak, it's obvious. You're
 an advocate of code reviews and you're passionate about it and you're making
@@ -587,7 +587,7 @@ great, great arguments about why it's so important and how the part, the value
 fit. But don't people ever come to you and say, I don't know, it's slowing me
 down. It's making stuff complex. I mean, I don't want to do pull request. I don't
 want to do code reviews. I just want to skip the whole things and kind of what
-do you send them? 
+do you send them?
 
 **Michaela:**[00:40:50] So, honestly, I don't, I don't have a lot of people that
 have this complete mindset. I have a lot of people that would say I really would
@@ -627,7 +627,7 @@ doing that. Right. And then, and then really do it right. And have so many
 people that really love code reviews and so many teams that are striving through
 that. Um, and yeah, so definitely if you know, if they don't bring any value,
 then it's really, I think it's very often the process that's just completely
-screwed up and the culture around it. 
+screwed up and the culture around it.
 
 **Liran:**[00:43:39] Yeah. And do you find that companies struggled to
 understand which pull request was deserved called the code reviews versus which don't, what
@@ -635,7 +635,7 @@ policies did they have in place to know to solve them out? Sometimes I know
 sometimes just adding a log line and then you need to go through the same code
 review process, or at least by definition, it's the same workflow as if you're
 adding a big feature. So kind of how the companies go around managing the
-different kind of poll requests. 
+different kind of poll requests.
 
 **Michaela:**[00:44:08] So I think this is really a part of, I cannot
 generalize, um, because for some organization it's definitely valuable to go.
@@ -674,7 +674,7 @@ you, that you could do here, where it could incorporate some of the risk of
 something, or you have against that again, as it tools around somehow assess the
 risk. And that helps you to decide whether or not you need a code review or in
 what depth you need a code review here, how many people should be under code
-review. Right. So, so many questions, uh, yeah. Yeah. Touch on what you meant. 
+review. Right. So, so many questions, uh, yeah. Yeah. Touch on what you meant.
 
 **Liran:**[00:47:07] Uh, that's. Exactly. Yeah. That's that's perfect. I think
 we're almost running out of time here. So maybe Mo join us, throwing a few
@@ -702,7 +702,7 @@ those two people know about the code, but maybe I want other people in that, so
 we'll add them. So, um, code review can be, uh, a complimentary strategy to
 pairing, but I definitely say it should look different, right? For team, the
 task pairing code review should look different than for a team that does
-know pairing. Yeah. Okay. 
+know pairing. Yeah. Okay.
 
 **Maror:**[00:48:50] Very cool. Um, Liran, I think this one's for you, what's
 the relevance of code reviews for compliance.
@@ -725,7 +725,7 @@ task, did what he was supposed to do rather than the quality of the work he did.
 So that's a very different thing. And it's very important again, to kind of.
 Define the purpose of the code review. Is it just about understanding the scope
 of the task and the scope of the change, or is it about deeply evaluating it?
-Giving feedback, mentoring, sharing, knowledge and so on and so forth. 
+Giving feedback, mentoring, sharing, knowledge and so on and so forth.
 
 **Maror:**[00:50:43] Okay. Um, and Michaela, if people wanted to learn more about
 code reviews, where, where would they be able to go to do that?
@@ -735,32 +735,32 @@ website, right? I'm writing quite a bit about code reviews, which would be
 (Awesome Code Reviews)[awesome.Codereviews.com]. Or you can also go through my link.
 That's my name, [michaelagreiler dot com](https://www.michaelagreiler.com/workshops/),
 which is a little bit more difficult for me. We can put it somewhere, but I'm Awesome.
-Code reviews, dot com should have them work as well. And, um, yeah, I also have like 
-a GitHub. A project that's about code reviews, um, where I'm listing a lot of 
-different resources that I find on the web. So it's not only from me, but also what 
-I started recently doing is best practices from different organizations. So there 
-are articles where you see like how, um, You know, for example, the Google does 
-code reviews, or how is, you know, VMware doing code reviews and other, um, 
+Code reviews, dot com should have them work as well. And, um, yeah, I also have like
+a GitHub. A project that's about code reviews, um, where I'm listing a lot of
+different resources that I find on the web. So it's not only from me, but also what
+I started recently doing is best practices from different organizations. So there
+are articles where you see like how, um, You know, for example, the Google does
+code reviews, or how is, you know, VMware doing code reviews and other, um,
 resources that I found really valuable as well. I also have like code review checklist
-there on my [github](https://github.com/mgreiler/all-about-code-review) profile. Um, 
-so it it's, uh, the github thing. And then my, my handle is M G R E I L E R. 
-And so, yeah, there, you can find also quite some stuff, um, that, um, 
-that comes from everywhere that I found this valuable. 
+there on my [github](https://github.com/mgreiler/all-about-code-review) profile. Um,
+so it it's, uh, the github thing. And then my, my handle is M G R E I L E R.
+And so, yeah, there, you can find also quite some stuff, um, that, um,
+that comes from everywhere that I found this valuable.
 
 **Maror:**[00:52:03] That is a wealth of information that everyone should
 definitely take advantage of. Um, and I will make sure to send out your Twitter
 handle for them too, so they get it. Um, and on the topic of learning more in
-Liran, where can you learn more about Rookout? 
+Liran, where can you learn more about Rookout?
 
 **Liran:**[00:52:19] So you can learn more about Rookout first and foremost, that's
-[rookout.com](https://www.rookout.com/), which is our awesome website. We've just 
-launched a new website. And so feel free to check it out. Also, you can reach out 
-to me on Twitter at [Liran underscore last](https://twitter.com/liran_last?lang=en), 
-and I'll be happy to chat with you and share more about what we're doing. 
+[rookout.com](https://www.rookout.com/), which is our awesome website. We've just
+launched a new website. And so feel free to check it out. Also, you can reach out
+to me on Twitter at [Liran underscore last](https://twitter.com/liran_last?lang=en),
+and I'll be happy to chat with you and share more about what we're doing.
 
 **Maror:**[00:52:39] Amazing. Okay. So then we have one last question here,
 um, and it looks Michaela like it's for you. The question is, do we need
-additional manual reviews or testing if we have a study analysis tools or is 
+additional manual reviews or testing if we have a study analysis tools or is
 that enough?
 
 **Michaela:**[00:52:52] Okay. Um, I think I touched it a little bit
@@ -780,14 +780,14 @@ uh, workflows through that can be very, very broken and there are no tools that,
 right. An alpha example can check for that. So that definitely has to be done
 manually by, by person and very similar in the code review sense. Right. So, um,
 there are really good static analysis tools, but there's always things that just
-the tool cannot do for you. So they are complimentary, I would say. Okay, 
+the tool cannot do for you. So they are complimentary, I would say. Okay,
 
 **Maror:**[00:54:18] thanks. So that's all we have time for today,
 unfortunately. Um, but hopefully we can also down again cause it's been great.
 Um, so thank you everyone for joining us, we will be sending a follow-up email
 with the recording and Michaela and Liran's contact information for whoever wants
-to get in touch with them. And thank you Michaela. And thank you again. 
+to get in touch with them. And thank you Michaela. And thank you again.
 
-**Michaela:**[00:54:38] Yeah. Thank you so much. It was really fun. 
+**Michaela:**[00:54:38] Yeah. Thank you so much. It was really fun.
 
 **Liran:**[00:54:41] Thank you. Thank you.

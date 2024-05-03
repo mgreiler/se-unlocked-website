@@ -1,7 +1,7 @@
 ---
 title: "How to build a profitable content business as a developer"
 date: "2021-07-20T10:41:10+00:00"
-updated: '2023-01-04T09:36:15+00:00'
+updated: "2023-01-04T09:36:15+00:00"
 status: publish
 permalink: /entrepreneurship-101
 author: michaela
@@ -18,6 +18,7 @@ _yoast_wpseo_content_score:
   - "90"
 audio: https://cdn.simplecast.com/audio/aaca909a-e34f-49ae-a86f-f59e4fa807f0/episodes/aeb45b70-2198-4f9a-ba14-ca9eded05e19/audio/ba023e2c-ff2f-4a15-8bb9-6b073ace9b20/default_tc.mp3
 ---
+
 <div class="episode-about">
     Karls Hughes tells us how he build his start-up draft.dev that creates content that reaches software engineers – which means he combined his two passions, development and content creation.
 <br/><br/>
@@ -87,7 +88,6 @@ Book your <a href="https://www.michaelagreiler.com/workshops">awesomecodereview.
       </div>
 </div>
 <br/>
-
 
 ## Transcript: How to build a profitable content business as a developer
 

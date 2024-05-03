@@ -75,7 +75,9 @@
   clear: both;
   max-height: 0;
   pointer-events: none;
-  transition: max-height 0.3s ease-in, visibility 0.3s ease-in;
+  transition:
+    max-height 0.3s ease-in,
+    visibility 0.3s ease-in;
   user-select: none;
   visibility: hidden;
 }

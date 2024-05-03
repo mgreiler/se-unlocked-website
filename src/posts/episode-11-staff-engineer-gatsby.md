@@ -1,7 +1,7 @@
 ---
 title: "Making Gatsby easy to understand with Laurie Barth"
 date: "2020-02-04T10:05:36+00:00"
-updated: '2023-01-04T09:36:15+00:00'
+updated: "2023-01-04T09:36:15+00:00"
 status: publish
 permalink: /episode-11-staff-engineer-gatsby
 author: michaela

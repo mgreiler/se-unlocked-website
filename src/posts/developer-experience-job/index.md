@@ -4,7 +4,7 @@ date: "2022-11-02T01:53:31+00:00"
 status: publish
 permalink: /developer-experience-job
 author: michaela
-excerpt: 'Ashley Hunsberger shares what a director of developer experience does.'
+excerpt: "Ashley Hunsberger shares what a director of developer experience does."
 id: 66
 type: post
 thumbnail_alt: "Picture of Ashley Hunsberger"
@@ -16,7 +16,6 @@ tag: []
 post_format: []
 ---
 
-
 <div class="episode-about">
 Ashley Hunsberger shares what a director of Developer Experience does and why developer experience matters. <br/> <br/>
 
@@ -25,14 +24,12 @@ Ashley Hunsberger shares what a director of Developer Experience does and why de
 </div>
 
 <br/>We also talk about:
+
 <ul>
 <li>what a director of developer experience (DX) does.</li>
 <li>what testing, continuous delivery and DevOps principle have to do with developer experience,</li>
 <li>what Ashley thinks about my developer experience research paper</li>
 <li>how a good work-life balance is essential for good software</li>
-
-
-
 
 </ul>
 </div>
@@ -55,10 +52,10 @@ Ashley is a vivid speaker and proponent of testing and loves sharing her experie
 
 <div class="sponsorship">
 Make code reviews your superpower at <a href="https://awesomecodereviews.com">awesomecodereviews.com</a>!
-</div> 
+</div>
 
+<br/><br/>
 
- <br/><br/>
 <div>
   <h2>Other episodes you'll enjoy</h2>
   <br/>
@@ -98,4 +95,3 @@ Make code reviews your superpower at <a href="https://awesomecodereviews.com">aw
 ## Read the whole episode (Transcript)
 
 _\[Improve this transcript on [Github](https://github.com/mgreiler/se-unlocked/tree/master/Transcripts)_[.](https://github.com/mgreiler/se-unlocked/tree/master/Transcripts)\]
-

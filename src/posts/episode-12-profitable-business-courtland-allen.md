@@ -61,7 +61,7 @@ Courtland Allen, is the founder and chief-indie hacker of the Indie Hacker commu
 
 <div class="sponsorship">
 Book your <a href="https://www.michaelagreiler.com/workshops">awesomecodereview.com</a> workshop!
-</div> 
+</div>
 
 <br/>
 <div>

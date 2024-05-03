@@ -1,29 +1,29 @@
 ---
-title: 'Mentoring as an engineering manager'
-date: '2022-07-13T07:32:41+00:00'
+title: "Mentoring as an engineering manager"
+date: "2022-07-13T07:32:41+00:00"
 status: publish
 permalink: /mentoring-engineering-manager
 author: michaela
-excerpt: 'How managers can and cannot advocate for their team'
+excerpt: "How managers can and cannot advocate for their team"
 type: post
 id: 122157
 thumbnail: ../uploads/2022/07/jessica-rose.jpg
 category:
-    - 'Company Culture'
-    - Hiring
-    - Tech
-    - 'Women in Tech'
+  - "Company Culture"
+  - Hiring
+  - Tech
+  - "Women in Tech"
 tag: []
 post_format: []
 _yoast_wpseo_primary_category:
-    - '15'
+  - "15"
 _yoast_wpseo_content_score:
-    - '30'
+  - "30"
 audio: "https://cdn.simplecast.com/audio/aaca909a-e34f-49ae-a86f-f59e4fa807f0/episodes/3641e363-0ee6-42ce-97a8-4b9269450528/audio/a3061f6b-09fc-4ef3-8ee2-4a83a5e595e2/default_tc.mp3"
 secondline_themes_header_image:
-    - 'https://www.software-engineering-unlocked.com/wp-content/uploads/2022/07/Jess-Rose-Learning-and-mentoring-Background.jpg'
+  - "https://www.software-engineering-unlocked.com/wp-content/uploads/2022/07/Jess-Rose-Learning-and-mentoring-Background.jpg"
 secondline_themes_disable_img:
-    - 'on'
+  - "on"
 ---
 
 <div class="episode-about">
@@ -100,5 +100,3 @@ Today’s episode is sponsored by  <a href="https://www.mergify.com/?utm_source=
 ## Read the whole episode "Mentoring as an engineering manager" (Transcript)
 
 _\[If you want, you can help make the transcript better, and improve the podcast’s accessibility via_ [Github](https://github.com/mgreiler/se-unlocked/tree/master/Transcripts)_[.](https://github.com/mgreiler/se-unlocked/tree/master/Transcripts) I’m happy to lend a hand to help you get started with pull requests, and open source work.\]_
-
- 

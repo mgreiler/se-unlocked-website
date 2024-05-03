@@ -1,16 +1,16 @@
 ---
-title: 'How to write tests that find bugs'
-date: '2022-01-18T08:31:58+00:00'
-updated: '2023-01-04T09:36:15+00:00'
+title: "How to write tests that find bugs"
+date: "2022-01-18T08:31:58+00:00"
+updated: "2023-01-04T09:36:15+00:00"
 status: publish
 permalink: /tests-find-bugs
 author: michaela
-excerpt: 'Learn how to write tests that find bugs with Dr. Mauricio Aniche, who explains how to systematic software testing.'
+excerpt: "Learn how to write tests that find bugs with Dr. Mauricio Aniche, who explains how to systematic software testing."
 type: post
 id: 121748
 thumbnail: ../uploads/2022/01/Mauricio_Aniche.jpg
 category:
-    - Testing
+  - Testing
 tag: []
 post_format: []
 audio: "https://cdn.simplecast.com/audio/aaca909a-e34f-49ae-a86f-f59e4fa807f0/episodes/53528752-3178-4d13-9b17-8285eeab471c/audio/f768b14a-56e4-4d9a-8ed2-d27b3b1342f5/default_tc.mp3"

@@ -20,7 +20,6 @@ secondline_themes_gallery:
 post_header_image: ../uploads/2019/08/bg_ep1.jpg
 ---
 
-
 <div class="episode-about">
   In this episode, I talk with Cassidy Williams, a senior software engineer that works for the fully-remote company CodePen. 
   <br/>
@@ -46,7 +45,6 @@ post_header_image: ../uploads/2019/08/bg_ep1.jpg
     <a href="https://www.youtube.com/embed/DE3TZSdjVFM?feature=oembed">Cassidy's mentioned movie trailer</a>
 </div>
 
-
 <div class="row pt-2 align-items-center">
     <div class="col-4 guest-picture">
     <img src="../uploads/2019/07/face11.jpg" alt="Cassidy Williams"/>
@@ -56,7 +54,6 @@ post_header_image: ../uploads/2019/08/bg_ep1.jpg
       Cassidy Williams, who is widely known on Twitter for her tech humor, tells us about her career and hiring experiences.
     </div>
 </div>
-
 
 <div class="sponsorship">
 Book your <a href="https://www.michaelagreiler.com/workshops">awesomecodereview.com</a> workshop!

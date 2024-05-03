@@ -10,11 +10,11 @@ type: post
 thumbnail_alt: "Picture of Lauren Peate"
 thumbnail: Lauren_Peate.jpg
 audio: https://cdn.simplecast.com/audio/aaca909a-e34f-49ae-a86f-f59e4fa807f0/episodes/14f69a24-bf6f-4e84-8dd8-f57c3f73c32b/audio/3bc44755-6fc4-41cd-84bd-bc6e2228c0aa/default_tc.mp3
-category: ["Company Culture", DevOps, Productivity, Startup, Testing, "Women in Tech"]
+category:
+  ["Company Culture", DevOps, Productivity, Startup, Testing, "Women in Tech"]
 tag: []
 post_format: []
 ---
-
 
 <div class="episode-about">
 Lauren Peate shares how engineering metrics can be ethical with Multitudes. 
@@ -24,8 +24,8 @@ Lauren Peate shares how engineering metrics can be ethical with Multitudes.
 <iframe class="video" src="https://www.youtube-nocookie.com/embed/BiRAixDIZnE" title="YouTube video player" rel=0"  frameborder="0" allowfullscreen="allowfullscreen allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
 <br/>We also talk about:
+
 <ul>
 <li>what are ethical developer metrics?</li>
 <li>how to best measure developer productivity?</li>
@@ -56,10 +56,10 @@ Lauren is the CEO and founder of Multitudes. Her goal is to empower engineering 
  <br/>
 <div class="sponsorship">
 Book your <a href="https://awesomecodereviews.com">awesomecodereviews.com</a> workshop!
-</div> 
+</div>
 
+<br/><br/>
 
- <br/><br/>
 <div>
   <h2>Other episodes you'll enjoy</h2>
   <br/>
@@ -96,7 +96,6 @@ Book your <a href="https://awesomecodereviews.com">awesomecodereviews.com</a> wo
 </div>
 <br/>
 
-## Read the whole episode "Can Engineering metrics be ethical? (Transcript) 
+## Read the whole episode "Can Engineering metrics be ethical? (Transcript)
 
 _\[Improve this transcript on [Github](https://github.com/mgreiler/se-unlocked/tree/master/Transcripts)_[.](https://github.com/mgreiler/se-unlocked/tree/master/Transcripts)\]
-
