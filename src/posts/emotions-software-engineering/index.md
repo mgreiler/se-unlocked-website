@@ -4,7 +4,7 @@ date: "2023-02-22T01:53:31+00:00"
 status: publish
 permalink: /emotions-software-engineering
 author: michaela
-excerpt: 'Alexander Serebrenik shares with us what makes developers frustrated.'
+excerpt: "Alexander Serebrenik shares with us what makes developers frustrated."
 type: post
 thumbnail_alt: "Picture of Alexander Serebrenik"
 thumbnail: Alexander_Serebrenik.jpg
@@ -12,7 +12,6 @@ audio: https://cdn.simplecast.com/audio/aaca909a-e34f-49ae-a86f-f59e4fa807f0/epi
 category:
   ["Company Culture", DevOps, Productivity, Startup, Testing, "Women in Tech"]
 ---
-
 
 <div class="episode-about">
 Alexander Serebrenik gives us an overview of his exciting research on emotions and social aspects of software engineering. <br/> <br/>
@@ -22,6 +21,7 @@ Alexander Serebrenik gives us an overview of his exciting research on emotions a
 </div>
 
 <br/>We also talk about:
+
 <ul>
 <li>social aspects of software engineering,</li>
 <li>what software productivity has to do with your emotions and how you feel,</li>
@@ -60,10 +60,10 @@ Alexander is a Full Professor of Social Software Engineering at the Software Eng
 <br/><br/>
 <div class="sponsorship">
 Make code reviews your superpower at <a href="https://awesomecodereviews.com">awesomecodereviews.com</a>!
-</div> 
+</div>
 
+<br/><br/>
 
- <br/><br/>
 <div>
   <h2>Other episodes you'll enjoy</h2>
   <br/>
@@ -103,4 +103,3 @@ Make code reviews your superpower at <a href="https://awesomecodereviews.com">aw
 ## Read the whole episode (Transcript)
 
 _\[Improve this transcript on [Github](https://github.com/mgreiler/se-unlocked/tree/master/Transcripts)_[.](https://github.com/mgreiler/se-unlocked/tree/master/Transcripts)\]
-
