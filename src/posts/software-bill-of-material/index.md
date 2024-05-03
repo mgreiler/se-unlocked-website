@@ -56,7 +56,7 @@ Earn additional income by sharing your opinion on <a href="https://www.userinter
 <br/><br/>
 <div class="sponsorship">
 Make code reviews your superpower at <a href="https://awesomecodereviews.com">awesomecodereviews.com</a>!
-</div> 
+</div>
 
 <br/>
 <div>
