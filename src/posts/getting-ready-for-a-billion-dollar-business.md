@@ -59,7 +59,7 @@ Max Stoiber is a JavaScript Engineer that is in love with React and Node, and al
 
 <div class="sponsorship">
 Book your <a href="https://www.michaelagreiler.com/workshops">awesomecodereview.com</a> workshop!
-</div> 
+</div>
 
 <br/>
 <div>

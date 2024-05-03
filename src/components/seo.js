@@ -20,31 +20,29 @@ const Seo = ({
   imageUrl,
   imageAlt,
 }) => {
-  const { site } = useStaticQuery(
-    graphql`
-      query {
-        site {
-          siteMetadata {
-            title
-            description
-            keywords
-            social {
-              twitter
-            }
-            defaultogimage
-            siteUrl
+  const { site } = useStaticQuery(graphql`
+    query {
+      site {
+        siteMetadata {
+          title
+          description
+          keywords
+          social {
+            twitter
           }
+          defaultogimage
+          siteUrl
         }
       }
-    `
-  );
+    }
+  `);
 
   const metaDescription = description || site.siteMetadata.description;
   const defaultTitle = site.siteMetadata?.title;
 
   const defaultImageUrl = constructUrl(
     site.siteMetadata.siteUrl,
-    site.siteMetadata.defaultogimage
+    site.siteMetadata.defaultogimage,
   );
 
   const ogImageUrl = imageUrl || defaultImageUrl;

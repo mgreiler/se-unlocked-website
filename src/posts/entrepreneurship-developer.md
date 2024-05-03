@@ -1,17 +1,17 @@
 ---
-title: 'Predictable profit through small bets'
-date: '2022-03-01T09:36:15+00:00'
-updated: '2023-01-04T09:36:15+00:00'
+title: "Predictable profit through small bets"
+date: "2022-03-01T09:36:15+00:00"
+updated: "2023-01-04T09:36:15+00:00"
 status: publish
 permalink: /entrepreneurship-developer
 author: michaela
-excerpt: 'Increase your chances to build a successful business through small bets.'
+excerpt: "Increase your chances to build a successful business through small bets."
 type: post
 id: 121916
 thumbnail: ../uploads/2022/03/daniel-vassallo.jpg
 category:
-    - Entrepreneurship
-    - Startup
+  - Entrepreneurship
+  - Startup
 tag: []
 post_format: []
 audio: "https://cdn.simplecast.com/audio/aaca909a-e34f-49ae-a86f-f59e4fa807f0/episodes/3af1fd1a-6611-46c4-b4d5-018f32e66e40/audio/b20977cc-47fa-4612-b86a-4fcc06f7a8cd/default_tc.mp3"

@@ -1,19 +1,19 @@
 ---
-title: 'Running a developer community'
-date: '2022-03-16T07:49:17+00:00'
-updated: '2023-01-04T09:36:15+00:00'
+title: "Running a developer community"
+date: "2022-03-16T07:49:17+00:00"
+updated: "2023-01-04T09:36:15+00:00"
 status: publish
 permalink: /running-a-developer-community
 author: michaela
-excerpt: 'How sponsorships make it possible to be sustainable'
+excerpt: "How sponsorships make it possible to be sustainable"
 type: post
 id: 121955
 thumbnail: ../uploads/2022/03/Bekah-Weigel.jpg
 category:
-    - 'Company Culture'
-    - Entrepreneurship
-    - Tech
-    - 'Women in Tech'
+  - "Company Culture"
+  - Entrepreneurship
+  - Tech
+  - "Women in Tech"
 tag: []
 post_format: []
 audio: "https://cdn.simplecast.com/audio/aaca909a-e34f-49ae-a86f-f59e4fa807f0/episodes/5c8beb4d-87a6-4737-b696-2c66f131430c/audio/485e34a8-cbcc-42d7-9a50-5a4095b8061f/default_tc.mp3"
@@ -89,5 +89,3 @@ Today’s episode is sponsored by <a href="https://www.codiga.io/?utm_source=pod
 ## Read the whole episode "Running a developer community" (Transcript)
 
 _\[If you want, you can help make the transcript better, and improve the podcast’s accessibility via_ [Github](https://github.com/mgreiler/se-unlocked/tree/master/Transcripts)_[.](https://github.com/mgreiler/se-unlocked/tree/master/Transcripts) I’m happy to lend a hand to help you get started with pull requests, and open source work.\]_
-
-

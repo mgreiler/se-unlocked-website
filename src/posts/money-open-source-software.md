@@ -1,18 +1,18 @@
 ---
-title: 'Make money with open source software'
-date: '2022-02-15T14:36:06+00:00'
-updated: '2023-01-04T09:36:15+00:00'
+title: "Make money with open source software"
+date: "2022-02-15T14:36:06+00:00"
+updated: "2023-01-04T09:36:15+00:00"
 status: publish
 permalink: /money-open-source-software
 author: michaela
-excerpt: 'How to use open source to make a living'
+excerpt: "How to use open source to make a living"
 type: post
 id: 121895
 thumbnail: ../uploads/2022/02/Alvaro-Trigo.png
 category:
-    - Entrepreneurship
-    - 'Open Source'
-    - Startup
+  - Entrepreneurship
+  - "Open Source"
+  - Startup
 tag: []
 post_format: []
 audio: "https://cdn.simplecast.com/audio/aaca909a-e34f-49ae-a86f-f59e4fa807f0/episodes/98d66118-0875-475b-ba50-3abd85d02b37/audio/afcb8826-5dc4-4a29-95d3-b0cfe1d9cb30/default_tc.mp3"

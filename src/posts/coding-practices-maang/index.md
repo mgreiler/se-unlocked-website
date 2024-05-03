@@ -4,17 +4,15 @@ date: "2022-12-20T01:53:31+00:00"
 status: publish
 permalink: /coding-practices-maang
 author: michaela
-excerpt: 'Michael Lynch shares what he learned by writing code at Microsoft, Google and now at his startup.'
+excerpt: "Michael Lynch shares what he learned by writing code at Microsoft, Google and now at his startup."
 type: post
 thumbnail_alt: "Picture of Michael Lynch"
 thumbnail: michael_lynch.jpg
 audio: https://cdn.simplecast.com/audio/aaca909a-e34f-49ae-a86f-f59e4fa807f0/episodes/6d1dfdac-2c94-4424-ae43-398176735c9c/audio/381a7c5d-164d-4ee3-b446-f430fa33977e/default_tc.mp3
-category:
-  ["Company Culture", Practice, Productivity, Startup, Testing]
+category: ["Company Culture", Practice, Productivity, Startup, Testing]
 tag: []
 post_format: []
 ---
-
 
 <div class="episode-about">
 Michael Lynch shares what he learned by writing code at Microsoft and Google, and how that differs from the software practices that he embraces in his own software company.<br/> <br/>
@@ -24,6 +22,7 @@ Michael Lynch shares what he learned by writing code at Microsoft and Google, an
 </div>
 
 <br/>We also talk about:
+
 <ul>
 <li>what is the root cause when code reviews are evil</li>
 <li>how to establish a great code review practice</li>
@@ -53,9 +52,10 @@ Michael is a software engineer and entrepreneur. He has launched several busines
 <br/>
 <div class="sponsorship">
 Make code reviews your superpower at <a href="https://awesomecodereviews.com">awesomecodereviews.com</a>!
-</div> 
+</div>
 
 <br/><br/>
+
 <div class="episode-chapters">
 <p><b>Episode Chapters: </b> <br/>
 0:00 The importance of Code reviews<br/>
@@ -72,8 +72,8 @@ Make code reviews your superpower at <a href="https://awesomecodereviews.com">aw
 </p>
 </div>
 
+<br/><br/>
 
- <br/><br/>
 <div>
   <h2>Other episodes you'll enjoy</h2>
 <div class="row-md-6">
@@ -112,4 +112,3 @@ Make code reviews your superpower at <a href="https://awesomecodereviews.com">aw
 ## Read the whole episode (Transcript)
 
 _\[Improve this transcript on [Github](https://github.com/mgreiler/se-unlocked/tree/master/Transcripts)_[.](https://github.com/mgreiler/se-unlocked/tree/master/Transcripts)\]
-

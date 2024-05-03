@@ -26,6 +26,7 @@ Leif Singer, an senior engineer at the fully remote company Automattic, shares h
 </div>
 
 <br/>We also talk about:
+
 <ul>
 <li> why he switched from academia to industry,</li>
 <li> how he got hired without knowing Automattic’s tech stack,</li>
@@ -131,9 +132,6 @@ Book your <a href="https://www.michaelagreiler.com/workshops">awesomecodereview.
 </div>
 <br/>
 
-## Read the whole episode "Getting a remote job at Auttomatic with Leif Singer" (Transcript) 
+## Read the whole episode "Getting a remote job at Auttomatic with Leif Singer" (Transcript)
 
 _\[Improve this transcript on [Github](https://github.com/mgreiler/se-unlocked/tree/master/Transcripts)_[.](https://github.com/mgreiler/se-unlocked/tree/master/Transcripts)\]
-
-
-

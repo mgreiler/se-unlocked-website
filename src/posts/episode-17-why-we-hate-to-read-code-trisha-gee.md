@@ -52,7 +52,7 @@ Trisha Gee, is the Lead of the Java Developer Advocacy Team at JetBrain. She is 
 
 <div class="sponsorship">
 Book your <a href="https://www.michaelagreiler.com/workshops">awesomecodereview.com</a> workshop!
-</div> 
+</div>
 
 <br/>
 <div>

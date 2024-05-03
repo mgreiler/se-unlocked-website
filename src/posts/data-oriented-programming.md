@@ -1,17 +1,17 @@
 ---
-title: 'What the heck is data-oriented programming?'
-date: '2022-05-31T09:21:48+00:00'
+title: "What the heck is data-oriented programming?"
+date: "2022-05-31T09:21:48+00:00"
 updated: "2022-12-10T05:16:50+00:00"
 status: publish
 permalink: /data-oriented-programming
 author: michaela
-excerpt: 'How Data-Oriented Programming compares to object-oriented programming and functional programming,'
+excerpt: "How Data-Oriented Programming compares to object-oriented programming and functional programming,"
 type: post
 id: 122082
 thumbnail: ../uploads/2022/05/Yehonathan-Sharvit.jpeg
 category:
-    - Tech
-    - Testing
+  - Tech
+  - Testing
 tag: []
 post_format: []
 audio: "https://cdn.simplecast.com/audio/aaca909a-e34f-49ae-a86f-f59e4fa807f0/episodes/6f454467-1399-41bc-b3a1-4d6bd6ce78f1/audio/b4bddaf6-3167-438c-a3f2-4c1639e5ae15/default_tc.mp3"

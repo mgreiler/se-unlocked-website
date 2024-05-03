@@ -78,4 +78,5 @@ Annie Liew, is a web developer at a startup called Pastel. She transitioned from
 <br/>
 
 ## Read the whole episode "From designer to web developer" (Transcript)
+
 _\[Improve this transcript on [Github](https://github.com/mgreiler/se-unlocked/tree/master/Transcripts)_[.](https://github.com/mgreiler/se-unlocked/tree/master/Transcripts)\]

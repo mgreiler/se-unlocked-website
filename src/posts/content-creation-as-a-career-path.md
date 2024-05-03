@@ -1,21 +1,21 @@
 ---
-title: 'Content creation as a career path for developers'
-date: '2021-11-23T09:34:30+00:00'
+title: "Content creation as a career path for developers"
+date: "2021-11-23T09:34:30+00:00"
 status: publish
 permalink: /content-creation-as-a-career-path
 author: michaela
-excerpt: 'Florin turned from developing software as a freelancer to a successful content creator'
+excerpt: "Florin turned from developing software as a freelancer to a successful content creator"
 type: post
 id: 121514
 thumbnail: ../uploads/2021/11/Florin-Pop.jpg
 category:
-    - Entrepreneurship
-    - Productivity
-    - Startup
+  - Entrepreneurship
+  - Productivity
+  - Startup
 tag: []
 post_format: []
 secondline_themes_header_image:
-    - 'https://www.software-engineering-unlocked.com/wp-content/uploads/2021/11/Florin-Pop-Bg.jpg'
+  - "https://www.software-engineering-unlocked.com/wp-content/uploads/2021/11/Florin-Pop-Bg.jpg"
 audio: "https://cdn.simplecast.com/audio/aaca909a-e34f-49ae-a86f-f59e4fa807f0/episodes/7e4f6c23-0f13-4ee5-ad38-3993c147ba65/audio/71674b3c-25e4-4018-aa9f-0b7d08336401/default_tc.mp3"
 ---
 

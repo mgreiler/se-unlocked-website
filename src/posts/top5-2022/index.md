@@ -4,13 +4,14 @@ date: "2023-01-04T01:53:31+00:00"
 status: publish
 permalink: /top5-2022
 author: michaela
-excerpt: 'Let us revisit the top 5 episodes of 2022. We talk about entrepreneurship, career growth and software testing.'
+excerpt: "Let us revisit the top 5 episodes of 2022. We talk about entrepreneurship, career growth and software testing."
 type: post
 thumbnail_alt: "Picture of Michael Lynch"
 thumbnail: top5picks.jpg
 audio: https://cdn.simplecast.com/audio/aaca909a-e34f-49ae-a86f-f59e4fa807f0/episodes/2ecca5b7-53e5-4f06-a2a6-f175ec2c2e06/audio/873d3a8d-e4cb-42a7-a474-b6d2888b19c4/default_tc.mp3
 category: ["Company Culture", Practice, Productivity, Startup, Testing]
 ---
+
 <div class="episode-about">
 Let's revisit the top 5 interviews in 2022, which gives us all the opportunity to listen to some episodes you might have already forgotten or missed.
 <br/> <br/>
@@ -29,8 +30,8 @@ Alvaro Trigo, who once was a web developer but could quit his day job to <a href
 </ul>
 </div>
 
-
 <br/><br/>
+
 <div class="episode-chapters">
 <p><b>Episode Chapters: </b> <br/>
 0:00 Intro<br/>
@@ -44,8 +45,8 @@ Alvaro Trigo, who once was a web developer but could quit his day job to <a href
 </p>
 </div>
 
+<br/><br/>
 
- <br/><br/>
 <div>
   <h2>Find all 5 Top Episodes here:</h2>
 	<div class="row-md-6">
@@ -104,4 +105,3 @@ Alvaro Trigo, who once was a web developer but could quit his day job to <a href
 ## Read the whole episode (Transcript)
 
 _\[Improve this transcript on [Github](https://github.com/mgreiler/se-unlocked/tree/master/Transcripts)_[.](https://github.com/mgreiler/se-unlocked/tree/master/Transcripts)\]
-

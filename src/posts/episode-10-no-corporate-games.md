@@ -31,6 +31,7 @@ Suz Hinton talks about her transition from Microsoft to Stripe, mentoring and ad
 </div>
 
 <br/>We also talk about:
+
 <ul>
 <li> Suz Hinton's role and responsibilities at Stripe,</li>
 <li> how to understand what customers and users want,</li>
@@ -87,6 +88,5 @@ Book your <a href="https://www.michaelagreiler.com/workshops">awesomecodereview.
 <br/>
 
 ## Read the whole episode "Done playing Microsoft's corporate game with Suz Hinton" (Transcript)
-
 
 _\[Improve this transcript on [Github](https://github.com/mgreiler/se-unlocked/tree/master/Transcripts)_[.](https://github.com/mgreiler/se-unlocked/tree/master/Transcripts)\]

@@ -1,36 +1,36 @@
 ---
-title: 'How to build a strong engineering culture through engineering values'
-date: '2022-01-05T21:09:51+00:00'
+title: "How to build a strong engineering culture through engineering values"
+date: "2022-01-05T21:09:51+00:00"
 status: publish
 permalink: /engineering-values
 author: michaela
-excerpt: 'Learn how engineering values can help you build a strong engineering culture and empower your developers to make decisions that are aligned with your goals.'
+excerpt: "Learn how engineering values can help you build a strong engineering culture and empower your developers to make decisions that are aligned with your goals."
 type: post
 id: 121692
 thumbnail: ../uploads/2022/01/Engineering_Values_Michaela_Greiler_s.jpg
 category:
-    - 'Company Culture'
-    - Hiring
-    - 'Women in Tech'
+  - "Company Culture"
+  - Hiring
+  - "Women in Tech"
 tag: []
 post_format: []
 _yoast_wpseo_primary_category:
-    - '15'
+  - "15"
 _yoast_wpseo_content_score:
-    - '60'
+  - "60"
 secondline_themes_disable_img:
-    - 'on'
+  - "on"
 _yoast_wpseo_focuskw:
-    - 'engineering values'
+  - "engineering values"
 _yoast_wpseo_metadesc:
-    - 'Learn how engineering values can help you build a strong engineering culture and empower your developers to make decisions that are aligned with your goals.'
+  - "Learn how engineering values can help you build a strong engineering culture and empower your developers to make decisions that are aligned with your goals."
 _yoast_wpseo_linkdex:
-    - '48'
+  - "48"
 secondline_themes_header_image:
-    - 'https://www.software-engineering-unlocked.com/wp-content/uploads/2022/01/Michaela-Greiler-Engineering-Values-BG.jpg'
+  - "https://www.software-engineering-unlocked.com/wp-content/uploads/2022/01/Michaela-Greiler-Engineering-Values-BG.jpg"
 audio: "https://cdn.simplecast.com/audio/aaca909a-e34f-49ae-a86f-f59e4fa807f0/episodes/f5b713b5-ded9-45ea-b6d6-b36020630d0b/audio/ba2428d5-9dff-4a7d-b6c1-78870f18387c/default_tc.mp3"
 secondline_themes_header_image_id:
-    - '121727'
+  - "121727"
 ---
 
 <div class="episode-about">
@@ -119,5 +119,3 @@ Book your <a href="https://www.michaelagreiler.com/workshops">awesomecodereview.
 ## Read the whole episode "How to build a strong engineering culture through engineering values" (Transcript)
 
 _\[If you want, you can help make the transcript better, and improve the podcast’s accessibility via_ [Github](https://github.com/mgreiler/se-unlocked/tree/master/Transcripts)_[.](https://github.com/mgreiler/se-unlocked/tree/master/Transcripts) I’m happy to lend a hand to help you get started with pull requests, and open source work.\]_
-
- 

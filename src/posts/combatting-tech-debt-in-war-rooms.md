@@ -16,7 +16,6 @@ audio: https://cdn.simplecast.com/audio/aaca909a-e34f-49ae-a86f-f59e4fa807f0/epi
 post_header_image: ../uploads/2020/11/tomasz-bg.jpg
 ---
 
-
 <div class="episode-about">
 In this episode, I talk to Tomasz Łakomy, a senior frontend engineer at OLX Group.
 <br/> <br/>We also talk about:
@@ -76,7 +75,6 @@ Tomasz Łakomy, is a senior frontend engineer at OLX Group. Tomasz is fascinated
       </div>
 </div>
 <br/>
-
 
 ## Read the whole episode "Combatting tech debt in war rooms" (Transcript)
 

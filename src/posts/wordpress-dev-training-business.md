@@ -1,19 +1,19 @@
 ---
-title: 'Running a training business for Ruby developers'
-date: '2022-06-15T10:53:31+00:00'
+title: "Running a training business for Ruby developers"
+date: "2022-06-15T10:53:31+00:00"
 updated: "2022-12-10T05:16:50+00:00"
 status: publish
 permalink: /wordpress-dev-training-business
 author: michaela
-excerpt: 'Avdi Grimm shares how he found his independence by running a training and consulting business.'
+excerpt: "Avdi Grimm shares how he found his independence by running a training and consulting business."
 type: post
 id: 122115
 thumbnail: ../uploads/2022/06/Avid-Grimm_s.jpg
 category:
-    - Entrepreneurship
-    - 'Open Source'
-    - Productivity
-    - Startup
+  - Entrepreneurship
+  - "Open Source"
+  - Productivity
+  - Startup
 tag: []
 post_format: []
 audio: "https://cdn.simplecast.com/audio/aaca909a-e34f-49ae-a86f-f59e4fa807f0/episodes/2e4ccaa8-a370-4fd3-b676-8df74ac4bb34/audio/aa0a552b-2390-4064-b0ce-f35e3227ade0/default_tc.mp3"
@@ -41,7 +41,6 @@ Avdi Grimm shares how he found his independence by running a training and consul
 <a href="https://graceful.dev/">Graceful.Dev</a><br/>
 
 </div>
-
 
 <div class="row pt-2 align-items-center">
 <div class="col-4 guest-picture">

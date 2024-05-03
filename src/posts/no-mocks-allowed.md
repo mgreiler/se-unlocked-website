@@ -55,7 +55,6 @@ Code that he writes is used by millions of people around the world, and he also 
 </div>
 </div>
 
-
 <div class="sponsorship">Become <a href="https://www.software-engineering-unlocked.com/sponsorship/">a sponsor of the show</a> and reach thousands of quality driven software Engineers ❤.</div>
 <br/>
 
@@ -98,4 +97,3 @@ Code that he writes is used by millions of people around the world, and he also 
 
 _\[This transcripts is the result of a community effort. You can help make it better, and improve the podcast’s accessibility via_ [Github*.*](https://github.com/mgreiler/se-unlocked/tree/master/Transcripts) _I’m happy to lend a hand to help you get started with pull requests, and open source work._  
 _Special thanks to_ [_Tia Nadya_](https://github.com/tiana30) _for helping improve this transcript.\]_
-

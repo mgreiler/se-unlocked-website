@@ -1,23 +1,23 @@
 ---
-title: 'Do not punish learning in software engineering teams'
-date: '2022-03-30T15:12:18+00:00'
+title: "Do not punish learning in software engineering teams"
+date: "2022-03-30T15:12:18+00:00"
 updated: "2022-12-10T05:16:50+00:00"
 status: publish
 permalink: /foster-learning-culture
 author: michaela
-excerpt: 'How learning debt hinders software engineering teams to reach their full potential.'
+excerpt: "How learning debt hinders software engineering teams to reach their full potential."
 type: post
 id: 121991
 thumbnail: ../uploads/2022/03/Cat-Hicks.jpg
 category:
-    - 'Company Culture'
-    - Productivity
-    - Science
-    - 'Women in Tech'
+  - "Company Culture"
+  - Productivity
+  - Science
+  - "Women in Tech"
 tag: []
 post_format: []
 _yoast_wpseo_primary_category:
-    - '11'
+  - "11"
 audio: "https://cdn.simplecast.com/audio/aaca909a-e34f-49ae-a86f-f59e4fa807f0/episodes/f53e2b81-a8e4-4230-b184-9aff2d327021/audio/ba2d09df-7c53-4505-bd63-1190b11fa612/default_tc.mp3"
 ---
 
@@ -84,4 +84,3 @@ Today’s episode is sponsored by <a href="https://www.codiga.io/?utm_source=pod
 ## Read the whole episode "Do not punish learning in software engineering teams" (Transcript)
 
 _\[If you want, you can help make the transcript better, and improve the podcast’s accessibility via_ [Github](https://github.com/mgreiler/se-unlocked/tree/master/Transcripts)_[.](https://github.com/mgreiler/se-unlocked/tree/master/Transcripts) I’m happy to lend a hand to help you get started with pull requests, and open source work.\]_
-

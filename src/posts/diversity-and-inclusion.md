@@ -37,7 +37,6 @@ post_header_image: ../uploads/2021/09/Just-Work-Kim-Scott-Trier-Bryant-Bg-2.jpg
     <a href="https://www.justworktogether.com/">Company Website Just Work</a><br/>
 </div>
 
-
 <div class="row pt-2 align-items-center">
     <div class="col-4 guest-picture">
     <img src="../uploads/2021/09/Just-Work-Co-Founders.jpeg" alt="Kim Scott and Brient Trier from Just Work"/>
@@ -79,4 +78,3 @@ post_header_image: ../uploads/2021/09/Just-Work-Kim-Scott-Trier-Bryant-Bg-2.jpg
 ## Read the complete episode "Better collaboration & performance through diversity and inclusion" (Transcript):
 
 _\[Improve this transcript on [Github](https://github.com/mgreiler/se-unlocked/tree/master/Transcripts)_[.](https://github.com/mgreiler/se-unlocked/tree/master/Transcripts)\]
-
