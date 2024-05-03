@@ -18,6 +18,11 @@ audio: https://cdn.simplecast.com/audio/aaca909a-e34f-49ae-a86f-f59e4fa807f0/epi
 <div class="episode-about">
     Especially in recent years, several attacks on the software supply chain, like the <a href="https://www.businessinsider.com/solarwinds-hack-explained-government-agencies-cyber-security-2020-12">SolarWinds attack</a> or the ongoing <a href="https://www.ncsc.gov.uk/news/apache-log4j-vulnerability">Log4j vulnerability</a>, made it clear that our complex software ecosystems are hard to understand and even harder to keep secure. 
     The software bill of material aims at solving this problem. In this episode, Barak Brudo explains what a software bill of material is and why they are important for security and to reduce vulnerabilities. I also question if we are ever going to be able to reach a state where SBOMs are part of every software or library.
+<br/> <br/>
+
+<div class="video-container">
+<iframe class="video" src="https://www.youtube-nocookie.com/embed/onwv7fpePVQ" title="YouTube video player" rel=0"  frameborder="0" allowfullscreen="allowfullscreen allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
     <br/> <br/>We also talk about:
     <ul>
         <li> security and software regulations like the software bill of materials</li>
@@ -28,15 +33,15 @@ audio: https://cdn.simplecast.com/audio/aaca909a-e34f-49ae-a86f-f59e4fa807f0/epi
 </div>
 <br/><br/>
 <div class="sponsorship">
-Earn additional income by sharing your opinion on <a href="https://www.userinterviews.com/hello">userinterviews.com</a>!
+Earn additional income by sharing your opinion on <a href="https://www.userinterviews.com/hello" target="_blank" rel="noopener noreferrer">userinterviews.com</a>!
 </div> 
 <br/><br/>
 <div class=" episode-links">
 <b>Episode Resources:</b><br/>
-    <a href="https://www.whitehouse.gov/briefing-room/presidential-actions/2021/05/12/executive-order-on-improving-the-nations-cybersecurity/">Executive Order on Improving the Nation’s Cybersecurity</a><br/>
-    <a href="https://www.alphaomegaprojects.com/about">Alpha-Omega Projects</a><br/>
-    <a href="https://www.cisa.gov/">Cybersecurity & Infrastructure Security Agency (Cisa)</a><br/>
-    <a href="https://www.csoonline.com/article/3667483/8-top-sbom-tools-to-consider.html">Tools to create SBOM</a><br/>
+    <a href="https://www.whitehouse.gov/briefing-room/presidential-actions/2021/05/12/executive-order-on-improving-the-nations-cybersecurity/" target="_blank" rel="noopener noreferrer">Executive Order on Improving the Nation’s Cybersecurity</a><br/>
+    <a href="https://www.alphaomegaprojects.com/about" target="_blank" rel="noopener noreferrer">Alpha-Omega Projects</a><br/>
+    <a href="https://www.cisa.gov/" target="_blank" rel="noopener noreferrer">Cybersecurity & Infrastructure Security Agency (Cisa)</a><br/>
+    <a href="https://www.csoonline.com/article/3667483/8-top-sbom-tools-to-consider.html" target="_blank" rel="noopener noreferrer">Tools to create SBOM</a><br/>
 </div>
 
 <div class="row pt-2 align-items-center">
@@ -48,6 +53,10 @@ Earn additional income by sharing your opinion on <a href="https://www.userinter
     Barak Brudo helps organizations secure their software supply chain. He works as a Developer Relations Advocate at Scribe Security.
     </div>
 </div>
+<br/><br/>
+<div class="sponsorship">
+Make code reviews your superpower at <a href="https://awesomecodereviews.com">awesomecodereviews.com</a>!
+</div> 
 
 <br/>
 <div>
