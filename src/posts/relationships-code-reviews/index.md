@@ -2,14 +2,14 @@
 title: "Relationships Ruin Your Code Reviews"
 date: "2024-05-03T05:31:18+00:00"
 status: publish
-permalink: /relationships-code-reviews
+permalink: /relationships-code-reviews/
 author: michaela
 excerpt: "Relationships influence and bias how we review code."
 type: post
 thumbnail: relationships-code-review.jpg
 thumbnail_alt: "Developers reviewing code"
 category: ["Company Culture", "Remote Work", "Productivity"]
-audio: https://cdn.simplecast.com/audio/aaca909a-e34f-49ae-a86f-f59e4fa807f0/episodes/3fb24953-ec9c-418d-a6dc-099717716572/audio/1c9d471f-2a13-487e-9227-db31364f4984/default_tc.mp3
+audio: https://cdn.simplecast.com/audio/aaca909a-e34f-49ae-a86f-f59e4fa807f0/episodes/5a4ef76d-0ab4-48b2-ba6c-5de0e9d43057/audio/f0a4b337-9034-4fc2-9ab0-4c2a069bb00a/default_tc.mp3
 ---
 
 <div class="episode-about">
@@ -17,30 +17,34 @@ audio: https://cdn.simplecast.com/audio/aaca909a-e34f-49ae-a86f-f59e4fa807f0/epi
 <br/>
 <b>Key Insights:</b>
     <ul>
-        <li> Importance of Code Reviews: Code reviews are essential for error detection, understanding new features, adhering to coding standards, and ensuring only reviewed code is deployed.</li>
-        <li> Emotional Impact: Emotional dynamics play a significant role, with 30% of developers reviewing code from less favored colleagues, which can lead to biased judgments and negative feelings.</li>
-        <li> Striving for Objectivity: Despite personal feelings, approximately 76% of developers strive for objectivity to maintain professionalism.</li>
-        <li> Impact of Developer Experience: The experience level of a developer also influences the depth of code reviews and the manner in which feedback is provided.</li>
-        <li> Perceptions Formed: Reviewers' perceptions of code quality can affect their views on the author's skills or character.</li>
+        <li> Emotional dynamics play a significant role during code reviews. 30% of developers said they are reviewing code from less favored colleagues, which can lead to biased judgments and negative feelings.</li>
+        <li> Despite personal feelings, approximately 76% of developers strive for objectivity to maintain professionalism.</li>
+        <li> The experience level of a developer also influences the depth of code review feedback they get and the manner in which feedback is provided.</li>
+        <li> Reviewers' perceptions of code quality can affect their views on the author's skills or character.</li>
     </ul>
 </div>
-
+<div class="episode-about">
 <p>
 <b>Strategies to Mitigate Bias:</b>
 The episode outlines multiple strategies to reduce bias in code reviews, such as involving multiple reviewers, standardizing review criteria, and implementing anonymous reviews.</p>
 <p>
 <b>Additional Resources:</b>
-Listeners are encouraged to visit <a href="https://awesomecodereviews.com">awesomecodereviews.com</a> to discover Dr. McKayla’s latest article on the top 10 code review techniques and methodologies, including systematic approaches like using checklists and change-impact analysis.
+Visit <a href="https://awesomecodereviews.com">awesomecodereviews.com</a> to discover Dr. McKayla’s latest article on the top 10 code review techniques and methodologies, including systematic approaches like using checklists and change-impact analysis.
 </p>
 <p>
 <b>Conclusion:</b>
 The podcast sheds light on both the positive and negative impacts of human factors in code reviews and emphasizes the need for strategies to minimize bias, enhancing both code quality and team dynamics.
 </p>
+</div>
 <div class=" episode-links">
 <b>Episode Resources:</b><br/>
-    <a href="https://www.frontiersin.org/articles/10.3389/fcomp.2023.1178040/full">Paper discussed in this episode: "How social interactions can affect Modern Code Review
-"</a><br/>
-    <a href="https://www.awesomecodereviews.com/code-reading/code-review-techniques/">Ten best code review approaches</a><br/>
+    <ul>
+    <li><a href="https://www.frontiersin.org/articles/10.3389/fcomp.2023.1178040/full">This episode's paper: "How social interactions can affect Modern Code Review
+"</a></li>
+     <li><a href="https://www.awesomecodereviews.com/code-reading/code-review-techniques/">10 best code review approaches</a></li>
+     <li><a href="https://link.springer.com/article/10.1007/s10664-023-10324-9">How do gender biases affect participation and outcomes?</a></li>
+     <li><a href="https://dl.acm.org/doi/abs/10.1145/3180155.3180217">Was my contribution fairly reviewed?</a></li>
+    </ul>
 </div>
 
 <div class="sponsorship">
