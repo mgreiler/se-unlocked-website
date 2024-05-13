@@ -82,7 +82,7 @@ module.exports = {
               {
                 allMarkdownRemark(
                   filter: {frontmatter: {status: {eq: "publish"}, type: {eq: "post"}}}
-                  sort: { order: DESC, fields: [frontmatter___date] },
+                  sort: {frontmatter: {date: DESC}},
                 ) {
                   nodes {
                     html

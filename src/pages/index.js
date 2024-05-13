@@ -100,13 +100,46 @@ export default function Home({ data }) {
   );
 }
 
+//Gatsby v4 graphql query format
+// export const query = graphql`
+//   query PostQuery {
+//     allMarkdownRemark(
+//       filter: {
+//         frontmatter: { status: { eq: "publish" }, type: { eq: "post" } }
+//       }
+//       sort: { fields: frontmatter___date, order: DESC }
+//     ) {
+//       nodes {
+//         frontmatter {
+//           title
+//           status
+//           permalink
+//           thumbnail {
+//             childImageSharp {
+//               gatsbyImageData(
+//                 width: 200
+//                 placeholder: BLURRED
+//                 formats: [AUTO, WEBP, AVIF]
+//               )
+//             }
+//           }
+//           excerpt
+//           type
+//           audio
+//         }
+//         id
+//       }
+//     }
+//   }
+// `;
+
 export const query = graphql`
   query PostQuery {
     allMarkdownRemark(
       filter: {
         frontmatter: { status: { eq: "publish" }, type: { eq: "post" } }
       }
-      sort: { fields: frontmatter___date, order: DESC }
+      sort: { frontmatter: {date: DESC }}
     ) {
       nodes {
         frontmatter {
@@ -131,3 +164,4 @@ export const query = graphql`
     }
   }
 `;
+
