@@ -3,7 +3,7 @@ episode: "Transcript Episode 77 Realationships impact Code Review Outcomes"
 permalink: /relationships-code-reviews/
 status: publish
 type: transcript
---- 
+---
 
 **Michaela:** [00:00:00] Hello and welcome to the Software Engineering Unlocked Podcast. I'm
 your host, Dr. McKay, and after quite some time of radio silence on my end,
@@ -203,7 +203,7 @@ relationships that were purely based on code reviews that we never really
 worked together in other capacity than doing code reviews together, looking at
 pull requests together, communicating via pull
 
- requests and so on, right?
+requests and so on, right?
 
 Also the admiration that you can have for a person, right? They briefly
 mentioned that in the study, but didn't go really deep into that, right? So you
@@ -240,7 +240,7 @@ reduce our bias.
 So yeah. Hop over to awesome code reviews. com. Check out this article. I will
 also link it in the show notes as well as the research article that I talked
 about today. And, uh, yeah, I hope to see you soon. I can't promise when I
-will be on here again because there's a lot of things going on in my life 
+will be on here again because there's a lot of things going on in my life
 
 um, yeah. Anyway, I will be back on, probably in a couple of weeks with some
 news on code reviews or developer experience or some other topics related to
