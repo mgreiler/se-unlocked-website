@@ -139,7 +139,7 @@ export const query = graphql`
       filter: {
         frontmatter: { status: { eq: "publish" }, type: { eq: "post" } }
       }
-      sort: { frontmatter: {date: DESC }}
+      sort: { frontmatter: { date: DESC } }
     ) {
       nodes {
         frontmatter {
@@ -164,4 +164,3 @@ export const query = graphql`
     }
   }
 `;
-
